@@ -1,0 +1,11 @@
+# Mental Models
+
+## [Coding Theory](https://en.wikipedia.org/wiki/Coding_theory)
+
+### Data Compression
+
+- [Huffman coding](huffman-coding.md)
+
+### Error Detection and Correction
+
+- [Hamming Codes](hamming-codes.md)
