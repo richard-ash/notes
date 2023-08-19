@@ -1,6 +1,5 @@
 # Density-functional Theory
 
-
 ## Questions
 
 **Teach me about density functional theory in condensed matter**
