@@ -9,3 +9,7 @@
 ### Error Detection and Correction
 
 - [Hamming Codes](hamming-codes.md)
+
+### Quantum Computing
+
+- [Quantum Annealing](qunatum-computing/quantum-annealing.md)
