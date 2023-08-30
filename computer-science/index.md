@@ -10,6 +10,13 @@
 
 - [Hamming Codes](hamming-codes.md)
 
-### Quantum Computing
+## Object Detection
+
+### Methods
+
+- [YOLO](object-detection/methods/yolo.md)
+- [DETRs](object-detection/methods/detr.md)
+
+## Quantum Computing
 
 - [Quantum Annealing](qunatum-computing/quantum-annealing.md)
