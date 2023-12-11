@@ -8,3 +8,6 @@
 
 - [Density-functional Theory](./electronic-structure/density-functional-theory.md)
 
+## Quantum Mechanics
+
+- [Many-worlds Interpretation](./quantum-mechanics/philosophy/many-worlds.md)
