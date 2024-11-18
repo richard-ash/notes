@@ -18,6 +18,15 @@
 - ### [Lamb](https://en.wikipedia.org/wiki/Lamb_and_mutton)
 	- #### Cuts
 		- [The only lamb cuts guide you’ll ever need: how to choose and cook your cuts](https://medium.com/farmdrop/the-only-lamb-cuts-guide-youll-ever-need-how-to-choose-and-cook-your-cuts-29419edf875b)
+- ### [Pig](https://en.wikipedia.org/wiki/Pig)
+	- #### [Berkshire](https://en.wikipedia.org/wiki/Berkshire_pig)
+		- ##### Farms
+			- [California Kurobuta](https://californiakurobuta.com/)
+			- [Mountain View Pork](https://www.mountainviewpork.com/)
+	- #### [Mangalica](https://en.wikipedia.org/wiki/Mangalica)
+		- ##### Farms
+			- [Winkler Wooly Pigs](https://mangalitsawoolypigs.com/)
+			- [Winfield Farms](https://www.winfieldfarm.us/)
 
 ## [Vegetable Fats](https://en.wikipedia.org/wiki/Vegetable_oil)
 - ### [Olive Oil](https://en.wikipedia.org/wiki/Olive_oil)
