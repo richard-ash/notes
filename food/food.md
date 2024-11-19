@@ -27,6 +27,10 @@
 		- ##### Farms
 			- [Winkler Wooly Pigs](https://mangalitsawoolypigs.com/)
 			- [Winfield Farms](https://www.winfieldfarm.us/)
+	- #### Cuts
+		- ##### [Guanciale](https://en.wikipedia.org/wiki/Guanciale)
+			- Techniques
+				- [How To Cut Guanciale](https://pinabresciani.com/how-to-cut-guanciale/)
 
 ## [Vegetable Fats](https://en.wikipedia.org/wiki/Vegetable_oil)
 - ### [Olive Oil](https://en.wikipedia.org/wiki/Olive_oil)
