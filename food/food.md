@@ -35,6 +35,9 @@
 		- ##### [Guanciale](https://en.wikipedia.org/wiki/Guanciale)
 			- Techniques
 				- [How To Cut Guanciale](https://pinabresciani.com/how-to-cut-guanciale/)
-
+## [Root Vegetable](https://en.wikipedia.org/wiki/Root_vegetable)
+- ### [Sweet Potato](https://en.wikipedia.org/wiki/Sweet_potato)
+	- #### Recipes
+		- [Mareen Abood | Pomegranate Glazed Sweet Potatoes](https://maureenabood.com/pomegranate-glazed-sweet-potatoes/)
 ## [Vegetable Fats](https://en.wikipedia.org/wiki/Vegetable_oil)
 - ### [Olive Oil](https://en.wikipedia.org/wiki/Olive_oil)
