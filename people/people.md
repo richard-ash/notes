@@ -1,11 +1,9 @@
 
-## Scientist
-- ### [Geneticist](https://en.wikipedia.org/wiki/Geneticist)
-	- #### [David Reich](https://en.wikipedia.org/wiki/David_Reich_(geneticist))
-		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
-- ### [Physicist](https://en.wikipedia.org/wiki/Physicist)
-	- #### [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch)
-		- [Mindscape Podcast 253 | David Deutsch on Science, Complexity, and Explanation](https://www.preposterousuniverse.com/podcast/2023/10/16/253-david-deutsch-on-science-complexity-and-explanation/)
+## Medicine
+- ### Physician
+	- #### Psychiatrist
+		- ##### Paul Conti
+			- [Peter Attia | #298 ‒ The impact of emotional health on longevity, self-audit strategies, improving well-being, and more | Paul Conti, M.D.](https://peterattiamd.com/paulconti4/)
 ## Politics
 - ### United Kingdom
 	- #### Prime Minister
@@ -16,3 +14,10 @@
 ## Researcher
 - ### [Gwern Branwen](https://gwern.net/)
 	- [Gwern Branwen - How an Anonymous Researcher Predicted AI's Trajectory](https://www.dwarkeshpatel.com/p/gwern-branwen)
+## Scientist
+- ### [Geneticist](https://en.wikipedia.org/wiki/Geneticist)
+	- #### [David Reich](https://en.wikipedia.org/wiki/David_Reich_(geneticist))
+		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
+- ### [Physicist](https://en.wikipedia.org/wiki/Physicist)
+	- #### [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch)
+		- [Mindscape Podcast 253 | David Deutsch on Science, Complexity, and Explanation](https://www.preposterousuniverse.com/podcast/2023/10/16/253-david-deutsch-on-science-complexity-and-explanation/)
