@@ -1,3 +1,8 @@
+
+## Biology
+- ### [Geneticist](https://en.wikipedia.org/wiki/Geneticist)
+	- #### [David Reich](https://en.wikipedia.org/wiki/David_Reich_(geneticist))
+		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
 ## Politics
 - ### United Kingdom
 	- #### Prime Minister
