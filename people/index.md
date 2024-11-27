@@ -3,6 +3,9 @@
 - ### [Physiology](https://en.wikipedia.org/wiki/Physiology)
 	- #### [Eric Ravussin](https://en.wikipedia.org/wiki/Eric_Ravussin)
 		- [Peter Attia | #324 ‒ Metabolism, energy balance, and aging: How diet, calorie restriction, and macronutrients influence longevity and metabolic health | Eric Ravussin, Ph.D.](https://peterattiamd.com/ericravussin/)
+## Historian
+- ### [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)
+	- [Dwarkesh Podcast | Richard Rhodes - Making of Atomic Bomb, AI, WW2, Oppenheimer, & Abolishing Nukes](https://www.dwarkeshpatel.com/p/richard-rhodes)
 ## Medicine
 - ### Physician
 	- #### Psychiatrist
