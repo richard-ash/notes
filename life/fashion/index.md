@@ -13,3 +13,5 @@
 - ### Sneakers
 	- [Ten Great Sneakers For Spring](https://putthison.com/ten-great-sneakers-for-spring/)
 	- [Do THIS to Protect Your Sneakers | A MUST DO For Sneaker Care](https://www.youtube.com/watch?v=25RAYzLRUj0&t=1s)
+## Sports Coat
+- [How To Wear Sport Coats With Jeans](https://putthison.com/how-to-wear-sport-coats-with-jeans-styleforum-had/)
