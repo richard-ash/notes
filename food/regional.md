@@ -3,5 +3,9 @@
 	- ##### Recipes
 		- [the forked spoon | Acai Bowl Recipe – How to Make Your Own Acai Bowl](https://theforkedspoon.com/acai-bowl/)
 ### Levantine
+- #### Cookie
+	- ##### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
+		- ###### Recipes
+			- [Mareen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
 - #### [Man'ousheh](https://en.wikipedia.org/wiki/Manakish)
 	- [Mareen Abood | Lebanese man’oushe, za’atar flatbread](https://maureenabood.com/lebanese-manoushe-zaatar-flatbread/)
