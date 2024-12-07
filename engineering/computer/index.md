@@ -4,3 +4,5 @@
 ## [Cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency)
 - ### [Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)
 	- [3Blue1Brown | But how does bitcoin actually work?](https://www.youtube.com/@3blue1brown)
+## [Programming Languages](https://en.wikipedia.org/wiki/Programming_language)
+- ### [Swift](programming-languages/swift.md)
