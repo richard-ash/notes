@@ -14,6 +14,10 @@
 	- #### Psychiatrist
 		- ##### Paul Conti
 			- [Peter Attia | #298 ‒ The impact of emotional health on longevity, self-audit strategies, improving well-being, and more | Paul Conti, M.D.](https://peterattiamd.com/paulconti4/)
+## Music
+- ### [Composer](https://en.wikipedia.org/wiki/Composer)
+	- #### Russian
+		- [Sergei Rachmaninoff](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff)
 ## Politics
 - ### Argentina
 	- ##### [Javier Milei](https://en.wikipedia.org/wiki/Javier_Milei)
