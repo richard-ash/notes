@@ -4,3 +4,5 @@
 ## [Low-level laser therapy](https://en.wikipedia.org/wiki/Low-level_laser_therapy)
 - ### Red Light Therapy
 	- [Peter Attia | #326 – AMA #65: Red light therapy: promising applications, mixed evidence, and impact on health and aging](https://peterattiamd.com/ama65/)
+## [Nutrition](https://en.wikipedia.org/wiki/Nutrition)
+- [Peter Attia | #328 – AMA #66: Optimizing nutrition for health and longevity: myth of a “best” diet, complexities of nutrition science, and practical steps for building a sustainable diet](https://peterattiamd.com/ama66/)
