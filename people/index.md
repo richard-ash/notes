@@ -6,6 +6,10 @@
 ## Historian
 - ### [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)
 	- [Dwarkesh Podcast | Richard Rhodes - Making of Atomic Bomb, AI, WW2, Oppenheimer, & Abolishing Nukes](https://www.dwarkeshpatel.com/p/richard-rhodes)
+## Investor
+- ### Venture Capital
+	- [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)
+		- [Joe Rogan Experience #2234 - Marc Andreessen](https://www.youtube.com/watch?v=ye8MOfxD5nU)
 ## Law
 - ### United State Supreme Court
 	- #### [William Rehnquist](https://en.wikipedia.org/wiki/William_Rehnquist)
