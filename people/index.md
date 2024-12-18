@@ -20,6 +20,8 @@
 			- [Peter Attia | #298 ‒ The impact of emotional health on longevity, self-audit strategies, improving well-being, and more | Paul Conti, M.D.](https://peterattiamd.com/paulconti4/)
 ## Music
 - ### [Composer](https://en.wikipedia.org/wiki/Composer)
+	- #### Austrian
+		- [Franz Schubert](https://en.wikipedia.org/wiki/Franz_Schubert)
 	- #### Russian
 		- [Sergei Rachmaninoff](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff)
 ## Politics
