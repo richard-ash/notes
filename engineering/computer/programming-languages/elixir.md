@@ -1,5 +1,8 @@
 # [Elixir](https://elixir-lang.org/)
 
+## Agents
+- ### Testing
+	- [Testing Named Agents](http://dirtyinformation.com/blog/2017/02/03/testing_named_agents)
 ## Ecto
 - ### Migrations
 	- [fly.io | Safe Ecto Migrations](https://fly.io/phoenix-files/safe-ecto-migrations/)
