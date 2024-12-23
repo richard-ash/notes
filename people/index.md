@@ -6,6 +6,8 @@
 ## Historian
 - ### [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)
 	- [Dwarkesh Podcast | Richard Rhodes - Making of Atomic Bomb, AI, WW2, Oppenheimer, & Abolishing Nukes](https://www.dwarkeshpatel.com/p/richard-rhodes)
+- ### [Stephen Kotkin](https://en.wikipedia.org/wiki/Stephen_Kotkin)
+	- [Conversations with Tyler | Stephen Kotkin on Stalin, Power, and the Art of Biography (Ep. 228)](https://conversationswithtyler.com/episodes/stephen-kotkin/)
 ## Investor
 - ### Venture Capital
 	- [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)
