@@ -50,3 +50,7 @@
 - ### [Physicist](https://en.wikipedia.org/wiki/Physicist)
 	- #### [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch)
 		- [Mindscape Podcast 253 | David Deutsch on Science, Complexity, and Explanation](https://www.preposterousuniverse.com/podcast/2023/10/16/253-david-deutsch-on-science-complexity-and-explanation/)
+- ### Social
+	- #### Urbanism
+		- ##### Alain Bertaud
+			- [Econtalk | Fixing Sick Cities (with Alain Bertaud)](https://www.econtalk.org/fixing-sick-cities-with-alain-bertaud/)
