@@ -11,6 +11,10 @@
 	- [Dwarkesh Podcast | Richard Rhodes - Making of Atomic Bomb, AI, WW2, Oppenheimer, & Abolishing Nukes](https://www.dwarkeshpatel.com/p/richard-rhodes)
 - ### [Stephen Kotkin](https://en.wikipedia.org/wiki/Stephen_Kotkin)
 	- [Conversations with Tyler | Stephen Kotkin on Stalin, Power, and the Art of Biography (Ep. 228)](https://conversationswithtyler.com/episodes/stephen-kotkin/)
+## Industry
+- ### Healthcare
+	- Saum Sutaria
+		- [Peter Attia | #327 – Choices, costs, and challenges in US healthcare: insurance intricacies, drug pricing, economic impacts, and potential reforms | Saum Sutaria, M.D.](https://peterattiamd.com/saumsutaria/)
 ## Investor
 - ### Venture Capital
 	- [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)
