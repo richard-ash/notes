@@ -12,4 +12,9 @@
 	- #### [Caffè americano](https://en.wikipedia.org/wiki/Caff%C3%A8_americano)
 		- ##### Recipes
 			- [coffeegeek | How to Make an Americano](https://coffeegeek.com/guides/howtos/americano-how-to/)
-	- [The Weiss Distribution Technique Changed My Espresso Game](https://coffeegeek.com/blog/techniques/the-weiss-distribution-technique-changed-my-espresso-game/)
+	- #### [Latte](https://en.wikipedia.org/wiki/Latte)
+	- #### Methods
+		- ##### [Latte art](https://en.wikipedia.org/wiki/Latte_art)
+			- [Mr. 24 | How to Steam Milk for Perfect Latte Art: Step-by-Step Guide](https://www.youtube.com/watch?v=fN_iiDCxjPo&list=WL&index=72)
+		- #### Weiss Distribution Technique
+			- [The Weiss Distribution Technique Changed My Espresso Game](https://coffeegeek.com/blog/techniques/the-weiss-distribution-technique-changed-my-espresso-game/)
