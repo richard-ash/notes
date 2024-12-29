@@ -6,6 +6,9 @@
 - ### [Barbecue (BBQ) Sauce](https://en.wikipedia.org/wiki/Barbecue_sauce)
 	- #### Recipes
 		- [Kelly's Clean Kitchen | BBQ Sauce](https://kellyscleankitchen.com/2023/06/20/bbq-sauce-updated/)
+- ### [Mayonnaise](https://en.wikipedia.org/wiki/Mayonnaise)
+	- #### Recipes
+		- [Kelly's Clean Kitchen | Homemade Mayo](https://kellyscleankitchen.com/2022/09/16/homemade-mayo/)
 ## [Searing](https://en.wikipedia.org/wiki/Searing)
 - #### Reverse-sear
 	- [Chris Young | Reverse Searing: The Temperature You're Missing](https://www.youtube.com/@ChrisYoungCooks)
