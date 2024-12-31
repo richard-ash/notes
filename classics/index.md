@@ -7,3 +7,7 @@
 		- [Odyssey](https://en.wikipedia.org/wiki/Odyssey)
 			- [Emily Wilson | The Odyssey](https://www.goodreads.com/book/show/34068470-the-odyssey)
 			- [Robert Fagles | The Iliad / The Odyssey](https://www.goodreads.com/book/show/1375.The_Iliad_The_Odyssey)
+## French
+- ### [De la démocratie en Amérique](https://en.wikipedia.org/wiki/Democracy_in_America)
+	- [Harvey C. Mansfield | Democracy in America](https://www.goodreads.com/book/show/862869.Democracy_in_America)
+	- [George Lawrence | Democracy in America](https://www.goodreads.com/book/show/9918352-democracy-in-america)
