@@ -11,3 +11,6 @@
 - ### [De la démocratie en Amérique](https://en.wikipedia.org/wiki/Democracy_in_America)
 	- [Harvey C. Mansfield | Democracy in America](https://www.goodreads.com/book/show/862869.Democracy_in_America)
 	- [George Lawrence | Democracy in America](https://www.goodreads.com/book/show/9918352-democracy-in-america)
+## German
+- ### [Erlkönig](https://en.wikipedia.org/wiki/Erlk%C3%B6nig)
+	- [Franz Schubert](people/index.md) | [Erlkönig](https://en.wikipedia.org/wiki/Erlk%C3%B6nig_(Schubert))
