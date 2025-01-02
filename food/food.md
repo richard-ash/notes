@@ -39,5 +39,8 @@
 - ### [Sweet Potato](https://en.wikipedia.org/wiki/Sweet_potato)
 	- #### Recipes
 		- [Mareen Abood | Pomegranate Glazed Sweet Potatoes](https://maureenabood.com/pomegranate-glazed-sweet-potatoes/)
+## Seafood
+- ### [Scallop](https://en.wikipedia.org/wiki/Scallop)
+	- [Kelly's Clean Kitchen | 4 Tips for Cooking Scallops](https://kellyscleankitchen.com/2023/01/15/4-tips-for-cooking-scallops/)
 ## [Vegetable Fats](https://en.wikipedia.org/wiki/Vegetable_oil)
 - ### [Olive Oil](https://en.wikipedia.org/wiki/Olive_oil)
