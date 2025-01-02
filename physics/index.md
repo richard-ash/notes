@@ -1,11 +1,13 @@
 # Physics
 
 ## Condensed Matter
-
 - [States of Matter](./condensed-matter/states-of-matter.md)
 
+## [Cosmology](https://en.wikipedia.org/wiki/Cosmology)
+- ### [Inhomogeneous cosmology](https://en.wikipedia.org/wiki/Inhomogeneous_cosmology)
+	- #### Timescape Model
+		- [Supernovae evidence for foundational change to cosmological models](https://www.arxiv.org/abs/2412.15143#)
 ## Electronic Structure
-
 - [Density-functional Theory](./electronic-structure/density-functional-theory.md)
 
 ## Quantum Mechanics
