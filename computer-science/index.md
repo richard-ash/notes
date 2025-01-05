@@ -2,6 +2,7 @@
 
 ## [Coding Theory](https://en.wikipedia.org/wiki/Coding_theory)
 
+### [Databases](computer-science/databases/index.md)
 ### Data Compression
 
 - [Huffman coding](huffman-coding.md)
