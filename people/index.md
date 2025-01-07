@@ -40,6 +40,9 @@
 - ### Argentina
 	- ##### [Javier Milei](https://en.wikipedia.org/wiki/Javier_Milei)
 		- [Lex Friedman | #453 – Javier Milei: President of Argentina – Freedom, Economics, and Corruption](https://lexfridman.com/javier-milei/)
+- ### Ukraine
+	- ##### Volodymyr Zelenskyy
+		- [Lex Friedman | #456 – Volodymyr Zelenskyy: Ukraine, War, Peace, Putin, Trump, NATO, and Freedom](https://lexfridman.com/volodymyr-zelenskyy/)
 - ### United Kingdom
 	- #### Prime Minister
 		- ##### [Anthony Eden](https://en.wikipedia.org/wiki/Anthony_Eden)
