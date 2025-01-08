@@ -14,6 +14,9 @@
 			- [Mareen Abood | How to clarify butter](https://maureenabood.com/how-to-clarify-butter/)
 			- [Kelly's Clean Kitchen | Clarified Butter](https://kellyscleankitchen.com/2022/02/25/clarified-butter/)
 			- [Serious Eats | Clarified Butter](https://www.seriouseats.com/clarified-butter-recipe)
+## Herb
+- ### [Basil](https://en.wikipedia.org/wiki/Basil)
+	- [recipetineats | How to store basil](https://www.recipetineats.com/how-to-store-basil/)
 ## Meat
 - ### [Ground Meat](https://en.wikipedia.org/wiki/Ground_meat)
 	- #### [Meatballs](https://en.wikipedia.org/wiki/Meatball)
