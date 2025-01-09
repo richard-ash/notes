@@ -38,10 +38,14 @@
 		- ##### [Guanciale](https://en.wikipedia.org/wiki/Guanciale)
 			- Techniques
 				- [How To Cut Guanciale](https://pinabresciani.com/how-to-cut-guanciale/)
-## [Root Vegetable](https://en.wikipedia.org/wiki/Root_vegetable)
-- ### [Sweet Potato](https://en.wikipedia.org/wiki/Sweet_potato)
-	- #### Recipes
-		- [Mareen Abood | Pomegranate Glazed Sweet Potatoes](https://maureenabood.com/pomegranate-glazed-sweet-potatoes/)
+## Plants
+- ### [Brassicaceae](https://en.wikipedia.org/wiki/Brassicaceae)
+	- #### [Broccoli](https://en.wikipedia.org/wiki/Broccoli)
+		- [Serious Eats | How to Use Broccoli Stems](https://www.seriouseats.com/how-to-use-broccoli-stems-8768805)
+- ### [Root Vegetable](https://en.wikipedia.org/wiki/Root_vegetable)
+	- #### [Sweet Potato](https://en.wikipedia.org/wiki/Sweet_potato)
+		- #### Recipes
+			- [Mareen Abood | Pomegranate Glazed Sweet Potatoes](https://maureenabood.com/pomegranate-glazed-sweet-potatoes/)
 ## Seafood
 - ### [Scallop](https://en.wikipedia.org/wiki/Scallop)
 	- [Kelly's Clean Kitchen | 4 Tips for Cooking Scallops](https://kellyscleankitchen.com/2023/01/15/4-tips-for-cooking-scallops/)
