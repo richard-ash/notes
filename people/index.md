@@ -57,6 +57,8 @@
 	- #### [David Reich](https://en.wikipedia.org/wiki/David_Reich_(geneticist))
 		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
 - ### [Physicist](https://en.wikipedia.org/wiki/Physicist)
+	- #### Adam Brown
+		- [Dwarkesh Podcast | Adam Brown – How Future Civilizations Could Change The Laws of Physics](https://www.dwarkeshpatel.com/p/adam-brown)
 	- #### [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch)
 		- [Mindscape Podcast 253 | David Deutsch on Science, Complexity, and Explanation](https://www.preposterousuniverse.com/podcast/2023/10/16/253-david-deutsch-on-science-complexity-and-explanation/)
 - ### Social
