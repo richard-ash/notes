@@ -7,9 +7,16 @@
 	- ##### Recipes
 		- [Kelly's Clean Kitchen | Parmesan Risotto](https://kellyscleankitchen.com/2022/06/09/parmesan-risotto/)
 ### Levantine
-- #### Cookie
-	- ##### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
-		- ###### Recipes
-			- [Mareen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
+- #### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
+	- ##### Recipes
+		- [Mareen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
 - #### [Man'ousheh](https://en.wikipedia.org/wiki/Manakish)
 	- [Mareen Abood | Lebanese man’oushe, za’atar flatbread](https://maureenabood.com/lebanese-manoushe-zaatar-flatbread/)
+- #### [Mujaddara](https://en.wikipedia.org/wiki/Mujaddara)
+	- ##### Recipes
+		- [Mareen Abood | Lebanese Mujadara](https://maureenabood.com/lebanese-mujadara/)
+		- [Simply Lebanese | Mujadara Hamra](https://www.simplyleb.com/recipe/mujadara-hamra/)
+### North Africa
+- #### [Couscous](https://en.wikipedia.org/wiki/Couscous)
+	- ##### Techniques
+		- [Serious Eats | How to Cook Couscous](https://www.seriouseats.com/how-to-cook-couscous-recipe-8771679)
