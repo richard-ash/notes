@@ -8,4 +8,9 @@
 	- [The SwiftUI cookbook for navigation](https://developer.apple.com/videos/play/wwdc2022/10054/)
 - ### Testing
 	- [Swift by Sundell | Writing testable code when using SwiftUI](https://www.swiftbysundell.com/articles/writing-testable-code-when-using-swiftui/)
-	- [Async Unit Testing: The Comprehensive Guide](https://blog.jacobstechtavern.com/p/async-unit-testing-in-swift-the-comprehensive)
+	- [Kodeco | SwiftUI Testing With ViewInspector for iOS](https://www.kodeco.com/30227776-swiftui-testing-with-viewinspector-for-ios)
+## Observation
+- ### Testing
+	- [Jacob’s Tech Tavern | Unit Test the Observation Framework](https://blog.jacobstechtavern.com/p/unit-test-the-observation-framework)
+## Testing
+- [Jacob’s Tech Tavern | Async Unit Testing: The Comprehensive Guide](https://blog.jacobstechtavern.com/p/async-unit-testing-in-swift-the-comprehensive)
