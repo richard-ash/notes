@@ -16,6 +16,10 @@
 	- ##### Recipes
 		- [Mareen Abood | Lebanese Mujadara](https://maureenabood.com/lebanese-mujadara/)
 		- [Simply Lebanese | Mujadara Hamra](https://www.simplyleb.com/recipe/mujadara-hamra/)
+### Mexican
+- #### [Esquites](https://en.wikipedia.org/wiki/Esquites)
+	- ##### Recipes
+		- [Serious Eats | Mexican Street Corn Salad (Esquites)](https://www.seriouseats.com/esquites-mexican-street-corn-salad-recipe)
 ### North Africa
 - #### [Couscous](https://en.wikipedia.org/wiki/Couscous)
 	- ##### Techniques
