@@ -2,6 +2,10 @@
 - ### [Kneading](https://en.wikipedia.org/wiki/Kneading)
 	- [The Slap and Fold Kneading Technique](https://www.theperfectloaf.com/guides/slap-and-fold/)
 	- [French Kneading with Beatriz Echeverría](https://www.youtube.com/watch?v=9dUZ0O-Wv0Q&t=551s)
+- ### Preparation
+	- #### Autolyse
+		- [King Arthur Baking | Using the autolyse method](https://www.kingarthurbaking.com/blog/2017/09/29/autolyse-sourdough)
+		- [The Perfect Loaf | The Ultimate Guide to Autolyse Bread Dough](https://www.theperfectloaf.com/guides/how-to-autolyse/)
 ## [Cookie](https://en.wikipedia.org/wiki/Cookie)
 - ### [Drop cookie](https://en.wikipedia.org/wiki/Cookie#Classification)
 	- #### [Chocolate chip cookie](https://en.wikipedia.org/wiki/Chocolate_chip_cookie)
