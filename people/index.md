@@ -24,6 +24,7 @@
 - ### Venture Capital
 	- [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)
 		- [Joe Rogan Experience #2234 - Marc Andreessen](https://www.youtube.com/watch?v=ye8MOfxD5nU)
+- [Howard Marks](people/people/howard-marks.md)
 ## Law
 - ### United State Supreme Court
 	- #### [William Rehnquist](https://en.wikipedia.org/wiki/William_Rehnquist)
