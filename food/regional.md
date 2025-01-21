@@ -16,6 +16,10 @@
 	- ##### Recipes
 		- [Mareen Abood | Lebanese Mujadara](https://maureenabood.com/lebanese-mujadara/)
 		- [Simply Lebanese | Mujadara Hamra](https://www.simplyleb.com/recipe/mujadara-hamra/)
+- #### [Muhammara](https://en.wikipedia.org/wiki/Muhammara)
+	- ##### Recipes
+		- [Mareen Abood | Muhammara](https://maureenabood.com/roasted-red-pepper-walnut-dip-muhammara/)
+		- [Simply Lebanese | Muhammara](https://www.simplyleb.com/recipe/muhammara/)
 - #### [Shish Tawook](https://en.wikipedia.org/wiki/Shish_taouk)
 	- ##### Recipes
 		- [Mareen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
