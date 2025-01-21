@@ -16,6 +16,9 @@
 	- ##### Recipes
 		- [Mareen Abood | Lebanese Mujadara](https://maureenabood.com/lebanese-mujadara/)
 		- [Simply Lebanese | Mujadara Hamra](https://www.simplyleb.com/recipe/mujadara-hamra/)
+- #### [Shish Tawook](https://en.wikipedia.org/wiki/Shish_taouk)
+	- ##### Recipes
+		- [Mareen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
 ### Mexican
 - #### [Esquites](https://en.wikipedia.org/wiki/Esquites)
 	- ##### Recipes
