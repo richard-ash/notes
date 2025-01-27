@@ -6,7 +6,6 @@
 			- [Serious Eats | Southern-Style Unsweetened Cornbread Recipe](https://www.seriouseats.com/southern-unsweetened-cornbread-recipe)
 			- [Kitchen Project #154: Cornbread](https://kitchenprojects.substack.com/p/kitchen-project-154-cornbread)
 		- [The Real Reason Sugar Has No Place in Cornbread](https://www.seriouseats.com/why-southern-cornbread-shouldnt-have-sugar)
-
 ## [Dairy](https://en.wikipedia.org/wiki/Dairy_product)
 - ### [Butter](https://en.wikipedia.org/wiki/Butter)
 	- #### [Clarified butter](https://en.wikipedia.org/wiki/Clarified_butter)
