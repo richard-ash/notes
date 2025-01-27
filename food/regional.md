@@ -3,6 +3,26 @@
 	- ##### Recipes
 		- [the forked spoon | Acai Bowl Recipe – How to Make Your Own Acai Bowl](https://theforkedspoon.com/acai-bowl/)
 ### Italy
+- #### Pasta
+	- ##### [Amatriciana](https://en.wikipedia.org/wiki/Amatriciana_sauce)
+		- ###### Recipes
+			- [Not Another Cooking Show | how to make PASTA AMATRICIANA](https://www.notanothercookingshow.tv/post/pasta-amatriciana)
+	- ##### [Cacio e pepe](https://en.wikipedia.org/wiki/Cacio_e_pepe)
+		- ###### Recipes
+			- [Not Another Cooking Show | how to make real CACIO E PEPE pASTA](https://www.notanothercookingshow.tv/post/how-to-make-real-cacio-e-pepe-pasta)
+			- [Not Another Cooking Show | 4 Methods for Creamy Cacio e Pepe](https://www.notanothercookingshow.tv/post/the-4-greatest-methods-for-creamy-cacio-e-pepe)
+	- ##### [Fettuccine Alfredo](https://en.wikipedia.org/wiki/Fettuccine_Alfredo)
+		- ###### Recipes
+			- [Not Another Cooking Show | the ORIGINAL 3-ingredient FETTUCCINE ALFREDO recipe WITHOUT CREAM](https://www.notanothercookingshow.tv/post/fettuccine-alfredo)
+	- ##### [Pasta alla gricia](https://en.wikipedia.org/wiki/Pasta_alla_gricia)
+		- ###### Recipes
+			- [Not Another Cooking Show | EASILY make PERFECT PASTA ALLA GRICIA](https://www.notanothercookingshow.tv/post/pasta-alla-gricia)
+	- ##### [Penne alla vodka](https://en.wikipedia.org/wiki/Penne_alla_vodka)
+		- ###### Recipes
+			- [Not Another Cooking Show | Penne Alla Vodka](https://www.notanothercookingshow.tv/post/penne-alla-vodka)
+	- ##### [Pesto alla genovese](https://en.wikipedia.org/wiki/Pesto)
+		- ###### Recipes
+			- [Serious Eats | The Best Pesto alla Genovese (Classic Basil Pesto Sauce)](https://www.seriouseats.com/best-pesto-recipe)
 - #### [Risotto](https://en.wikipedia.org/wiki/Risotto)
 	- ##### Recipes
 		- [Kelly's Clean Kitchen | Parmesan Risotto](https://kellyscleankitchen.com/2022/06/09/parmesan-risotto/)
