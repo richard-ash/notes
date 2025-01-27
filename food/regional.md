@@ -26,6 +26,11 @@
 - #### [Risotto](https://en.wikipedia.org/wiki/Risotto)
 	- ##### Recipes
 		- [Kelly's Clean Kitchen | Parmesan Risotto](https://kellyscleankitchen.com/2022/06/09/parmesan-risotto/)
+### Hungary
+- #### [Pörkölt](https://en.wikipedia.org/wiki/Pörkölt)
+	- ##### Recipes
+		- [eating european | Pörkölt – Hungarian Beef and Onion Stew](https://eatingeuropean.com/porkolt-hungarian-beef-and-onion-stew/)
+		- [Saveur | Hungarian Braised Beef with Paprika (Pörkölt)](https://www.saveur.com/hungarian-braised-beef-with-paprika-porkolt-recipe/)
 ### Japan
 - #### [Miso Soup](https://en.wikipedia.org/wiki/Miso_soup)
 	- ##### Recipes
