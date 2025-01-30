@@ -40,6 +40,10 @@
 		- [recipetineats japan | Miso Soup Combinations](https://japan.recipetineats.com/miso-soup-ingredient-combinations/)
 		- [recipetineats japan | Miso Soup Basics](https://japan.recipetineats.com/miso-soup-basics/)
 ### Levantine
+- #### [Fatayer](https://en.wikipedia.org/wiki/Fatayer)
+	- ##### Techniques
+		- [Maureen Abood | How to roll dough for fatayer](https://maureenabood.com/technique-how-to-roll-dough-for-fatayer-spinach-pies/)
+		- [Maureen Abood | The Secret to Perfect Fatayer Dough](https://maureenabood.com/the-secret-to-perfect-fatayer-dough/)
 - #### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
 	- ##### Recipes
 		- [Mareen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
