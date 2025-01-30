@@ -17,6 +17,11 @@
 - ### [Basil](https://en.wikipedia.org/wiki/Basil)
 	- [recipetineats | How to store basil](https://www.recipetineats.com/how-to-store-basil/)
 ## Meat
+- ### [Poultry](https://en.wikipedia.org/wiki/Poultry)
+	- #### [Chicken](https://en.wikipedia.org/wiki/Chicken_as_food)
+		- ##### Techniques
+			- [Serious Eats | How to Roast a Perfect Chicken](https://www.seriouseats.com/perfect-roast-chicken-recipe-8384377)
+			- [Epicurious 101 | The Best Way To Carve A Whole Chicken](https://www.youtube.com/watch?v=owUitkVtubk)
 - ### [Ground Meat](https://en.wikipedia.org/wiki/Ground_meat)
 	- #### [Meatballs](https://en.wikipedia.org/wiki/Meatball)
 		- ##### Techniques
