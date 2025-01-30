@@ -1,5 +1,11 @@
 # [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 
+## Architecture
+- [The Dark Side of Unidirectional Architectures in Swift](https://medium.com/the-swift-cooperative/the-dark-side-of-unidirectional-architectures-in-swift-e4acf243ff1c)
+- Luis Recuenco | iOS Architecture
+	- [iOS Architecture: A State Container based approach](https://jobandtalent.engineering/ios-architecture-an-state-container-based-approach-4f1a9b00b82e)
+	- [iOS Architecture: Separating logic from effects](https://jobandtalent.engineering/ios-architecture-separating-logic-from-effects-7629cb763352)
+	- [The Many Flavors of Unidirectional Architectures in Swift](https://betterprogramming.pub/different-flavors-of-unidirectional-architectures-in-swift-781a01380ef6)
 ## Combine
 - ### Concurrency
 	- [Swift by Sundell | Using Combine’s share operator to avoid duplicate work](https://www.swiftbysundell.com/articles/using-combines-share-operator-to-avoid-duplicate-work/)
