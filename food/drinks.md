@@ -13,6 +13,8 @@
 		- ##### Recipes
 			- [coffeegeek | How to Make an Americano](https://coffeegeek.com/guides/howtos/americano-how-to/)
 	- #### [Latte](https://en.wikipedia.org/wiki/Latte)
+	- #### Guides
+		- [Espresso Aficionados](https://espressoaf.com)
 	- #### Methods
 		- ##### [Latte art](https://en.wikipedia.org/wiki/Latte_art)
 			- [Mr. 24 | How to Steam Milk for Perfect Latte Art: Step-by-Step Guide](https://www.youtube.com/watch?v=fN_iiDCxjPo&list=WL&index=72)
