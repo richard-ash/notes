@@ -17,5 +17,5 @@
 ## Pastry
 - ### [Baklava](https://en.wikipedia.org/wiki/Baklava)
 	- #### Recipes
-		- [Mareen Abood | How to make Lebanese Baklava](https://maureenabood.com/how-to-make-lebanese-baklawa/)
-		- [Mareen Abood | Lebanese Baklawa](https://maureenabood.com/lebanese-baklawa-do-you-hear-what-i-hear/)
+		- [Maureen Abood | How to make Lebanese Baklava](https://maureenabood.com/how-to-make-lebanese-baklawa/)
+		- [Maureen Abood | Lebanese Baklawa](https://maureenabood.com/lebanese-baklawa-do-you-hear-what-i-hear/)

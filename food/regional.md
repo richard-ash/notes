@@ -46,20 +46,20 @@
 		- [Maureen Abood | The Secret to Perfect Fatayer Dough](https://maureenabood.com/the-secret-to-perfect-fatayer-dough/)
 - #### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
 	- ##### Recipes
-		- [Mareen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
+		- [Maureen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
 - #### [Man'ousheh](https://en.wikipedia.org/wiki/Manakish)
-	- [Mareen Abood | Lebanese man’oushe, za’atar flatbread](https://maureenabood.com/lebanese-manoushe-zaatar-flatbread/)
+	- [Maureen Abood | Lebanese man’oushe, za’atar flatbread](https://maureenabood.com/lebanese-manoushe-zaatar-flatbread/)
 - #### [Mujaddara](https://en.wikipedia.org/wiki/Mujaddara)
 	- ##### Recipes
-		- [Mareen Abood | Lebanese Mujadara](https://maureenabood.com/lebanese-mujadara/)
+		- [Maureen Abood | Lebanese Mujadara](https://maureenabood.com/lebanese-mujadara/)
 		- [Simply Lebanese | Mujadara Hamra](https://www.simplyleb.com/recipe/mujadara-hamra/)
 - #### [Muhammara](https://en.wikipedia.org/wiki/Muhammara)
 	- ##### Recipes
-		- [Mareen Abood | Muhammara](https://maureenabood.com/roasted-red-pepper-walnut-dip-muhammara/)
+		- [Maureen Abood | Muhammara](https://maureenabood.com/roasted-red-pepper-walnut-dip-muhammara/)
 		- [Simply Lebanese | Muhammara](https://www.simplyleb.com/recipe/muhammara/)
 - #### [Shish Tawook](https://en.wikipedia.org/wiki/Shish_taouk)
 	- ##### Recipes
-		- [Mareen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
+		- [Maureen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
 ### Mexican
 - #### [Esquites](https://en.wikipedia.org/wiki/Esquites)
 	- ##### Recipes

@@ -10,7 +10,7 @@
 - ### [Butter](https://en.wikipedia.org/wiki/Butter)
 	- #### [Clarified butter](https://en.wikipedia.org/wiki/Clarified_butter)
 		- ##### Recipes
-			- [Mareen Abood | How to clarify butter](https://maureenabood.com/how-to-clarify-butter/)
+			- [Maureen Abood | How to clarify butter](https://maureenabood.com/how-to-clarify-butter/)
 			- [Kelly's Clean Kitchen | Clarified Butter](https://kellyscleankitchen.com/2022/02/25/clarified-butter/)
 			- [Serious Eats | Clarified Butter](https://www.seriouseats.com/clarified-butter-recipe)
 ## Herb
@@ -53,7 +53,7 @@
 - ### [Root Vegetable](https://en.wikipedia.org/wiki/Root_vegetable)
 	- #### [Sweet Potato](https://en.wikipedia.org/wiki/Sweet_potato)
 		- #### Recipes
-			- [Mareen Abood | Pomegranate Glazed Sweet Potatoes](https://maureenabood.com/pomegranate-glazed-sweet-potatoes/)
+			- [Maureen Abood | Pomegranate Glazed Sweet Potatoes](https://maureenabood.com/pomegranate-glazed-sweet-potatoes/)
 ## Seafood
 - ### [Scallop](https://en.wikipedia.org/wiki/Scallop)
 	- [Kelly's Clean Kitchen | 4 Tips for Cooking Scallops](https://kellyscleankitchen.com/2023/01/15/4-tips-for-cooking-scallops/)
