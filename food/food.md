@@ -46,6 +46,10 @@
 - ### [Brassicaceae](https://en.wikipedia.org/wiki/Brassicaceae)
 	- #### [Broccoli](https://en.wikipedia.org/wiki/Broccoli)
 		- [Serious Eats | How to Use Broccoli Stems](https://www.seriouseats.com/how-to-use-broccoli-stems-8768805)
+- #### [Fabaceae](https://en.wikipedia.org/wiki/Fabaceae)
+	- ##### [Legume](https://en.wikipedia.org/wiki/Legume)
+		- ###### [Chickpea](https://en.wikipedia.org/wiki/Chickpea)
+			- [Maureen Abood | How to Cook Chickpeas](https://maureenabood.com/technique-how-to-prepare-dried-chickpeas/)
 - ### [Root Vegetable](https://en.wikipedia.org/wiki/Root_vegetable)
 	- #### [Sweet Potato](https://en.wikipedia.org/wiki/Sweet_potato)
 		- #### Recipes
