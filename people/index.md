@@ -57,6 +57,9 @@
 - ### [Gwern Branwen](https://gwern.net/)
 	- [Gwern Branwen - How an Anonymous Researcher Predicted AI's Trajectory](https://www.dwarkeshpatel.com/p/gwern-branwen)
 ## Scientist
+- ### [Economist](https://en.wikipedia.org/wiki/Economist)
+	- ###### [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)
+		- [The Use of Knowledge in Society](https://www.jstor.org/stable/1809376)
 - ### [Geneticist](https://en.wikipedia.org/wiki/Geneticist)
 	- #### [David Reich](https://en.wikipedia.org/wiki/David_Reich_(geneticist))
 		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
