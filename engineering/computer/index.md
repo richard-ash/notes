@@ -9,3 +9,9 @@
 ## [Programming Languages](https://en.wikipedia.org/wiki/Programming_language)
 - ### [The Elixir programming language](programming-languages/elixir.md)
 - ### [Swift](programming-languages/swift.md)
+## Software Architecture
+- ### Patterns
+	- [xUnit Patterns | Humble Object](http://xunitpatterns.com/Humble%20Object.html)
+## Software Testing
+- ### Unit Testing
+	- [Test-induced design damage](https://dhh.dk/2014/test-induced-design-damage.html)
