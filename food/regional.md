@@ -23,6 +23,9 @@
 	- ##### [Pesto alla genovese](https://en.wikipedia.org/wiki/Pesto)
 		- ###### Recipes
 			- [Serious Eats | The Best Pesto alla Genovese (Classic Basil Pesto Sauce)](https://www.seriouseats.com/best-pesto-recipe)
+	- ##### [Ragù alla bolognese](https://en.wikipedia.org/wiki/Bolognese_sauce)
+		- ###### Recipes
+			- [Kenji's Cooking Show | Ragù Bolognese is Easy, Actually](https://www.youtube.com/watch?v=cvROmO5ODnQ&t=1269s)
 - #### [Risotto](https://en.wikipedia.org/wiki/Risotto)
 	- ##### Recipes
 		- [Kelly's Clean Kitchen | Parmesan Risotto](https://kellyscleankitchen.com/2022/06/09/parmesan-risotto/)
