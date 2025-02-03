@@ -54,6 +54,7 @@
 	- #### [Sweet Potato](https://en.wikipedia.org/wiki/Sweet_potato)
 		- #### Recipes
 			- [Maureen Abood | Pomegranate Glazed Sweet Potatoes](https://maureenabood.com/pomegranate-glazed-sweet-potatoes/)
+			- [Maureen Abood | Sumac Roasted Sweet Potatoes](https://maureenabood.com/sumac-roasted-sweet-potatoes/)
 ## Seafood
 - ### [Scallop](https://en.wikipedia.org/wiki/Scallop)
 	- [Kelly's Clean Kitchen | 4 Tips for Cooking Scallops](https://kellyscleankitchen.com/2023/01/15/4-tips-for-cooking-scallops/)
