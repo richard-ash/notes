@@ -68,3 +68,7 @@
 - #### [Couscous](https://en.wikipedia.org/wiki/Couscous)
 	- ##### Techniques
 		- [Serious Eats | How to Cook Couscous](https://www.seriouseats.com/how-to-cook-couscous-recipe-8771679)
+### Vietnamese
+- #### [Gà kho](https://en.wikipedia.org/wiki/Kho_(cooking_technique))
+	- ##### Recipes
+		- [recipetineats | Vietnamese Caramel Ginger Chicken](https://www.recipetineats.com/vietnamese-caramel-ginger-chicken/)
