@@ -6,11 +6,6 @@
 			- [Serious Eats | Southern-Style Unsweetened Cornbread Recipe](https://www.seriouseats.com/southern-unsweetened-cornbread-recipe)
 			- [Kitchen Project #154: Cornbread](https://kitchenprojects.substack.com/p/kitchen-project-154-cornbread)
 		- [The Real Reason Sugar Has No Place in Cornbread](https://www.seriouseats.com/why-southern-cornbread-shouldnt-have-sugar)
-## [Cereal](https://en.wikipedia.org/wiki/Cereal)
-- ### [Rice](https://en.wikipedia.org/wiki/Rice)
-	- #### [Jasmine rice](https://en.wikipedia.org/wiki/Jasmine_rice)
-		- ##### Techniques
-			- [recipetineats | How to cook Jasmine rice](https://www.recipetineats.com/how-to-cook-jasmine-rice/)
 ## [Dairy](https://en.wikipedia.org/wiki/Dairy_product)
 - ### [Butter](https://en.wikipedia.org/wiki/Butter)
 	- #### [Clarified butter](https://en.wikipedia.org/wiki/Clarified_butter)
@@ -18,9 +13,6 @@
 			- [Maureen Abood | How to clarify butter](https://maureenabood.com/how-to-clarify-butter/)
 			- [Kelly's Clean Kitchen | Clarified Butter](https://kellyscleankitchen.com/2022/02/25/clarified-butter/)
 			- [Serious Eats | Clarified Butter](https://www.seriouseats.com/clarified-butter-recipe)
-## Herb
-- ### [Basil](https://en.wikipedia.org/wiki/Basil)
-	- [recipetineats | How to store basil](https://www.recipetineats.com/how-to-store-basil/)
 ## Meat
 - ### [Poultry](https://en.wikipedia.org/wiki/Poultry)
 	- #### [Chicken](https://en.wikipedia.org/wiki/Chicken_as_food)
@@ -47,19 +39,7 @@
 		- ##### [Guanciale](https://en.wikipedia.org/wiki/Guanciale)
 			- Techniques
 				- [How To Cut Guanciale](https://pinabresciani.com/how-to-cut-guanciale/)
-## Plants
-- ### [Brassicaceae](https://en.wikipedia.org/wiki/Brassicaceae)
-	- #### [Broccoli](https://en.wikipedia.org/wiki/Broccoli)
-		- [Serious Eats | How to Use Broccoli Stems](https://www.seriouseats.com/how-to-use-broccoli-stems-8768805)
-- #### [Fabaceae](https://en.wikipedia.org/wiki/Fabaceae)
-	- ##### [Legume](https://en.wikipedia.org/wiki/Legume)
-		- ###### [Chickpea](https://en.wikipedia.org/wiki/Chickpea)
-			- [Maureen Abood | How to Cook Chickpeas](https://maureenabood.com/technique-how-to-prepare-dried-chickpeas/)
-- ### [Root Vegetable](https://en.wikipedia.org/wiki/Root_vegetable)
-	- #### [Sweet Potato](https://en.wikipedia.org/wiki/Sweet_potato)
-		- #### Recipes
-			- [Maureen Abood | Pomegranate Glazed Sweet Potatoes](https://maureenabood.com/pomegranate-glazed-sweet-potatoes/)
-			- [Maureen Abood | Sumac Roasted Sweet Potatoes](https://maureenabood.com/sumac-roasted-sweet-potatoes/)
+## [Plants](food/plants/index.md)
 ## Seafood
 - ### [Scallop](https://en.wikipedia.org/wiki/Scallop)
 	- [Kelly's Clean Kitchen | 4 Tips for Cooking Scallops](https://kellyscleankitchen.com/2023/01/15/4-tips-for-cooking-scallops/)
