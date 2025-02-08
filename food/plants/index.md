@@ -14,6 +14,9 @@
 ## [Poaceae](https://en.wikipedia.org/wiki/Poaceae)
 - ### [Cereal](https://en.wikipedia.org/wiki/Cereal)
 	- #### [Rice](https://en.wikipedia.org/wiki/Rice)
+		- ##### [Basmati rice](https://en.wikipedia.org/wiki/Basmati)
+			- ###### Techniques
+				- [recipetineeats | How to cook Basmati rice](https://www.recipetineats.com/how-to-cook-basmati-rice/)
 		- ##### [Jasmine rice](https://en.wikipedia.org/wiki/Jasmine_rice)
 			- ###### Techniques
 				- [recipetineats | How to cook Jasmine rice](https://www.recipetineats.com/how-to-cook-jasmine-rice/)
