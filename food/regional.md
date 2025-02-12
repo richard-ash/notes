@@ -60,6 +60,9 @@
 - #### [Shish Tawook](https://en.wikipedia.org/wiki/Shish_taouk)
 	- ##### Recipes
 		- [Maureen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
+- #### [Tabbouleh](https://en.wikipedia.org/wiki/Tabbouleh)
+	- ##### Recipes
+		- [Maureen Abood | Tabouli Salad: A Lebanese Tabbouleh Recipe](https://maureenabood.com/lebanese-tabbouleh-salad-recipe/)
 ### Mexican
 - #### [Esquites](https://en.wikipedia.org/wiki/Esquites)
 	- ##### Recipes
