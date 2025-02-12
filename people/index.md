@@ -76,3 +76,5 @@
 - ### American
 	- Benjamin Moser
 		- [Conversations with Tyler | Benjamin Moser on the Dutch Masters, Brazil, and Cultural Icons (Ep. 212)](https://conversationswithtyler.com/episodes/benjamin-moser/)
+	- ###### [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)
+		- [Tim Ferris | Brandon Sanderson on Building a Fiction Empire, Creating $40M+ Kickstarter Campaigns, Unbreakable Habits, The Art of World-Building, and The Science of Magic Systems (#794)](https://tim.blog/2025/02/05/brandon-sanderson/)
