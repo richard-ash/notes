@@ -20,6 +20,9 @@
 		- ##### [Jasmine rice](https://en.wikipedia.org/wiki/Jasmine_rice)
 			- ###### Techniques
 				- [recipetineats | How to cook Jasmine rice](https://www.recipetineats.com/how-to-cook-jasmine-rice/)
+## [Seeds](https://en.wikipedia.org/wiki/Seed)
+- ###### Techniques
+	- [Maureen Abood | How to toast nuts](https://maureenabood.com/technique-how-to-toast-nuts-perfectly-every-time/)
 ## [Root Vegetable](https://en.wikipedia.org/wiki/Root_vegetable)
 - ### [Sweet Potato](https://en.wikipedia.org/wiki/Sweet_potato)
 	- ###### Recipes
