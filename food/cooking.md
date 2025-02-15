@@ -13,6 +13,7 @@
 - #### Reverse-sear
 	- [Chris Young | Reverse Searing: The Temperature You're Missing](https://www.youtube.com/@ChrisYoungCooks)
 	- [Serious Eats | Reverse-Seared Steak Recipe](https://www.seriouseats.com/reverse-seared-steak-recipe)
+	- [Kenji's Cooking Show | The Reverse Sear is Still the Best Way to Cook Steak](https://www.youtube.com/watch?v=Azarsj8xlBk)
 ## [Stew](https://en.wikipedia.org/wiki/Stew)
 - ### Techniques
 	- [Serious Eats | Stew Science: What's the Best Way to Brown Beef?](https://www.seriouseats.com/stew-science-the-best-way-to-brown-beef)
