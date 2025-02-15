@@ -72,6 +72,11 @@
 	- #### Urbanism
 		- ##### Alain Bertaud
 			- [Econtalk | Fixing Sick Cities (with Alain Bertaud)](https://www.econtalk.org/fixing-sick-cities-with-alain-bertaud/)
+## Theologian
+- ### [Ignatius of Loyola](https://en.wikipedia.org/wiki/Ignatius_of_Loyola)
+	- [Prayer for Generosity](https://www.xavier.edu/jesuitresource/online-resources/prayer-index/ignatian-prayers)
+- ### [Karl Paul Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)
+	- [The Serenity Prayer](https://en.wikipedia.org/wiki/Serenity_Prayer)
 ## Writer
 - ### American
 	- Benjamin Moser
