@@ -57,6 +57,9 @@
 - ### [Gwern Branwen](https://gwern.net/)
 	- [Gwern Branwen - How an Anonymous Researcher Predicted AI's Trajectory](https://www.dwarkeshpatel.com/p/gwern-branwen)
 ## Scientist
+- ### [Anthropologist](https://en.wikipedia.org/wiki/Anthropologist)
+	- ###### [Joseph Henrich](https://en.wikipedia.org/wiki/Joseph_Henrich)
+		- [The WEIRDest People in the World](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World)
 - ### [Economist](https://en.wikipedia.org/wiki/Economist)
 	- ###### [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)
 		- [The Use of Knowledge in Society](https://www.jstor.org/stable/1809376)
