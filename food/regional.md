@@ -42,6 +42,9 @@
 		- [recipetineats japan | Miso Soup Basics](https://japan.recipetineats.com/miso-soup-basics/)
 ### Levantine
 - #### [Fatayer](https://en.wikipedia.org/wiki/Fatayer)
+	- ###### Recipes
+		- [Simply Lebanese | Spinach Fatayer](https://www.simplyleb.com/recipe/spinach-fatayer/)
+		- [Maureen Abood | Lebanese Spinach Pie](https://maureenabood.com/lebanese-spinach-pies-fatayer/)
 	- ##### Techniques
 		- [Maureen Abood | How to roll dough for fatayer](https://maureenabood.com/technique-how-to-roll-dough-for-fatayer-spinach-pies/)
 		- [Maureen Abood | The Secret to Perfect Fatayer Dough](https://maureenabood.com/the-secret-to-perfect-fatayer-dough/)
