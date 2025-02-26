@@ -17,6 +17,7 @@
 		- ##### [Basmati rice](https://en.wikipedia.org/wiki/Basmati)
 			- ###### Techniques
 				- [recipetineeats | How to cook Basmati rice](https://www.recipetineats.com/how-to-cook-basmati-rice/)
+				- [Serious Eats | How to get fluffy rice](https://www.seriouseats.com/fluffy-rice-trick-11686236)
 		- ##### [Jasmine rice](https://en.wikipedia.org/wiki/Jasmine_rice)
 			- ###### Techniques
 				- [recipetineats | How to cook Jasmine rice](https://www.recipetineats.com/how-to-cook-jasmine-rice/)
