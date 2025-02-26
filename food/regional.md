@@ -61,6 +61,10 @@
 	- ##### Recipes
 		- [Maureen Abood | Muhammara](https://maureenabood.com/roasted-red-pepper-walnut-dip-muhammara/)
 		- [Simply Lebanese | Muhammara](https://www.simplyleb.com/recipe/muhammara/)
+- #### [Khubz (Pita)](https://en.wikipedia.org/wiki/Pita)
+	- ###### Recipes
+		- [Professional Baker Teaches You How To Make PITA BREAD!](https://www.youtube.com/watch?v=pgdMwgqS5iE)
+		- [The Secret Technique That Makes Egyptian Pita Perfect](https://www.youtube.com/watch?v=d-sFn81WzWo)
 - #### [Shish Tawook](https://en.wikipedia.org/wiki/Shish_taouk)
 	- ##### Recipes
 		- [Maureen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
