@@ -61,6 +61,8 @@
 	- ###### [Joseph Henrich](https://en.wikipedia.org/wiki/Joseph_Henrich)
 		- [The WEIRDest People in the World](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World)
 - ### [Economist](https://en.wikipedia.org/wiki/Economist)
+	- ###### [Gregory Clark](https://en.wikipedia.org/wiki/Gregory_Clark_(economist))
+		- [Conversations with Tyler | Gregory Clark on on Social Mobility, Migration, and Assortative Mating (Ep. 234 - Live at Mercatus)](https://conversationswithtyler.com/episodes/gregory-clark/)
 	- ###### [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)
 		- [The Use of Knowledge in Society](https://www.jstor.org/stable/1809376)
 - ### [Geneticist](https://en.wikipedia.org/wiki/Geneticist)
