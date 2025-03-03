@@ -26,6 +26,7 @@
 		- [Joe Rogan Experience #2234 - Marc Andreessen](https://www.youtube.com/watch?v=ye8MOfxD5nU)
 - [Howard Marks](people/people/howard-marks.md)
 - [Michael J. Mauboussin](michael-j-mauboussin.md)
+- [Warren Buffett](warren-buffet.md)
 ## Law
 - ### United State Supreme Court
 	- #### [William Rehnquist](https://en.wikipedia.org/wiki/William_Rehnquist)
