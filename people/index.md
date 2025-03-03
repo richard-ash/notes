@@ -1,7 +1,7 @@
 ## Art
 - ### Comics
 	- #### [Hergé](https://en.wikipedia.org/wiki/Herg%C3%A9)
-		- The Adventures of Tintin
+		- _The Adventures of Tintin_
 ## Biology
 - ### [Physiology](https://en.wikipedia.org/wiki/Physiology)
 	- #### [Eric Ravussin](https://en.wikipedia.org/wiki/Eric_Ravussin)
