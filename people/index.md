@@ -70,6 +70,9 @@
 - ### [Geneticist](https://en.wikipedia.org/wiki/Geneticist)
 	- #### [David Reich](https://en.wikipedia.org/wiki/David_Reich_(geneticist))
 		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
+- ### [Historian](https://en.wikipedia.org/wiki/Historian)
+	- #### [George Bancroft](https://en.wikipedia.org/wiki/George_Bancroft)
+		- _History of the United States of America, from the Discovery of the American Continent_
 - ### [Physicist](https://en.wikipedia.org/wiki/Physicist)
 	- #### Adam Brown
 		- [Dwarkesh Podcast | Adam Brown – How Future Civilizations Could Change The Laws of Physics](https://www.dwarkeshpatel.com/p/adam-brown)
