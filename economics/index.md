@@ -20,6 +20,9 @@
 	- [Organizational Structure and Pricing: Evidence from a Large U.S. Airline](https://www.nber.org/papers/w29508)
 - [Why Fiddling With Prices Doesn’t Work](https://www.farnamstreetblog.com/2016/05/joseph-heath-market-prices/)
 - [The Baumol Effect](https://marginalrevolution.com/marginalrevolution/2019/05/the-baumol-effect.html)
+## [Political Economy](https://en.wikipedia.org/wiki/Political_economy)
+- ### Land Use
+	- [Not in My Back Yard: The Local Political Economy of Residential Land-Use Regulations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5020069)
 ## Public Economics
 - [America, Jump-started: World War II R&D and the Takeoff of the U.S. Innovation System](https://www.nber.org/papers/w27375)
 - [Evaluating the Success of President Johnson’s War on Poverty: Revisiting the Historical Record Using an Absolute Full-Income Poverty Measure](https://www.nber.org/papers/w26532)
