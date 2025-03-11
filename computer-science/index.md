@@ -21,3 +21,5 @@
 ## Quantum Computing
 
 - [Quantum Annealing](qunatum-computing/quantum-annealing.md)
+
+## [Web](obsidian://open?vault=notes&file=computer-science%2Fweb%2Findex)
