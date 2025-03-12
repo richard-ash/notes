@@ -83,3 +83,10 @@
 - #### [Gà kho](https://en.wikipedia.org/wiki/Kho_(cooking_technique))
 	- ##### Recipes
 		- [recipetineats | Vietnamese Caramel Ginger Chicken](https://www.recipetineats.com/vietnamese-caramel-ginger-chicken/)
+## Yemeni
+- ### [Sahawiq](https://en.wikipedia.org/wiki/Sahawiq)
+	- ###### Recipes
+		- [Mohammed Moosa | Green sahawuq](https://www.instagram.com/chefjjskitchen/reel/C_XtKQRtues/)
+- ### [Fahsa](https://en.wikipedia.org/wiki/Fahsa)
+	- ###### Recipes
+		- [Mohammed Moosa | Yemeni fahsa](https://www.instagram.com/reel/DBdbY5lt0_K/)
