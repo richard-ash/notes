@@ -2,6 +2,10 @@
 - ### [Broccoli](https://en.wikipedia.org/wiki/Broccoli)
 	- ###### Techniques
 		- [Serious Eats | How to Use Broccoli Stems](https://www.seriouseats.com/how-to-use-broccoli-stems-8768805)
+## [Capsicum annuum](https://en.wikipedia.org/wiki/Capsicum_annuum)
+- ### [Bell pepper](https://en.wikipedia.org/wiki/Bell_pepper)
+	- ###### Techniques
+		- [Simply Lebanese | Roasted Red Peppers](https://www.simplyleb.com/recipe/roasted-red-peppers/)
 ## [Fabaceae](https://en.wikipedia.org/wiki/Fabaceae)
 - ### [Legume](https://en.wikipedia.org/wiki/Legume)
 	- #### [Chickpea](https://en.wikipedia.org/wiki/Chickpea)
