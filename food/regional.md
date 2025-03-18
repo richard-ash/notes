@@ -71,6 +71,10 @@
 - #### [Tabbouleh](https://en.wikipedia.org/wiki/Tabbouleh)
 	- ##### Recipes
 		- [Maureen Abood | Tabouli Salad: A Lebanese Tabbouleh Recipe](https://maureenabood.com/lebanese-tabbouleh-salad-recipe/)
+### [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)
+- #### [Tortilla](https://en.wikipedia.org/wiki/Tortilla)
+	- ###### Techniques
+		- [Masienda | How to Get Your Tortillas to Puff Every Time](https://masienda.com/blogs/learn/tortilla-puff-tips)
 ### Mexican
 - #### [Esquites](https://en.wikipedia.org/wiki/Esquites)
 	- ##### Recipes
