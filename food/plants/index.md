@@ -11,6 +11,8 @@
 	- #### [Chickpea](https://en.wikipedia.org/wiki/Chickpea)
 		- ###### Techniques
 			- [Maureen Abood | How to Cook Chickpeas](https://maureenabood.com/technique-how-to-prepare-dried-chickpeas/)
+	- ###### Techniques
+		- [Rancho Gordo | How to Cook Beans in the Rancho Gordo Manner](https://www.ranchogordo.com/blogs/recipes/cooking-basic-beans-in-the-rancho-gordo-manner)
 ## [Herb](https://en.wikipedia.org/wiki/Herb)
 - ### [Basil](https://en.wikipedia.org/wiki/Basil)
 	- ###### Techniques
