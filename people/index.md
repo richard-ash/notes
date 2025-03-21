@@ -20,6 +20,7 @@
 		- [Peter Attia | #327 – Choices, costs, and challenges in US healthcare: insurance intricacies, drug pricing, economic impacts, and potential reforms | Saum Sutaria, M.D.](https://peterattiamd.com/saumsutaria/)
 - ### Technology
 	- ###### [Randy Komisar](https://en.wikipedia.org/wiki/Randy_Komisar)
+		- _The Monk and the Riddle_
 	- ###### [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella)
 		- [Dwarkesh Podcast | Satya Nadella – Microsoft’s AGI Plan & Quantum Breakthrough](https://www.dwarkesh.com/p/satya-nadella)
 ## Investor
@@ -32,6 +33,7 @@
 ## Law
 - ### United State Supreme Court
 	- ###### [William Rehnquist](https://en.wikipedia.org/wiki/William_Rehnquist)
+		- _The Supreme Court_
 ## Medicine
 - ### Physician
 	- #### Psychiatrist
