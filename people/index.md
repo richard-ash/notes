@@ -20,6 +20,8 @@
 		- [Peter Attia | #327 – Choices, costs, and challenges in US healthcare: insurance intricacies, drug pricing, economic impacts, and potential reforms | Saum Sutaria, M.D.](https://peterattiamd.com/saumsutaria/)
 - ### Technology
 	- [Randy Komisar](https://en.wikipedia.org/wiki/Randy_Komisar)
+	- ###### [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella)
+		- [Dwarkesh Podcast | Satya Nadella – Microsoft’s AGI Plan & Quantum Breakthrough](https://www.dwarkesh.com/p/satya-nadella)
 ## Investor
 - ### Venture Capital
 	- [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)
