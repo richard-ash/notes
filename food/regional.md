@@ -79,6 +79,9 @@
 - #### [Esquites](https://en.wikipedia.org/wiki/Esquites)
 	- ##### Recipes
 		- [Serious Eats | Mexican Street Corn Salad (Esquites)](https://www.seriouseats.com/esquites-mexican-street-corn-salad-recipe)
+- #### [Taco](https://en.wikipedia.org/wiki/Taco)
+	- ###### Recipes
+		- [recipetineats | Prawn Tacos (Shrimp)](https://www.recipetineats.com/prawn-tacos-shrimp/)
 ### North Africa
 - #### [Couscous](https://en.wikipedia.org/wiki/Couscous)
 	- ##### Techniques
