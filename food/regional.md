@@ -79,6 +79,7 @@
 - #### [Esquites](https://en.wikipedia.org/wiki/Esquites)
 	- ##### Recipes
 		- [Serious Eats | Mexican Street Corn Salad (Esquites)](https://www.seriouseats.com/esquites-mexican-street-corn-salad-recipe)
+		- [Mexico in My Kitchen | Esquites](https://www.mexicoinmykitchen.com/esquites-recipe-mexican-street-food/)
 - #### [Taco](https://en.wikipedia.org/wiki/Taco)
 	- ###### Recipes
 		- [recipetineats | Prawn Tacos (Shrimp)](https://www.recipetineats.com/prawn-tacos-shrimp/)
