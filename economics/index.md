@@ -28,6 +28,9 @@
 - [America, Jump-started: World War II R&D and the Takeoff of the U.S. Innovation System](https://www.nber.org/papers/w27375)
 - [Evaluating the Success of President Johnson’s War on Poverty: Revisiting the Historical Record Using an Absolute Full-Income Poverty Measure](https://www.nber.org/papers/w26532)
 - [Reviving american entrepreneurship? tax reform and business dynamism](https://doi.org/10.1016/j.jmoneco.2019.04.009)
+## International Trade
+- ### Trade Policy
+	- [Why Tariffs are Never the Optimal Industrial Policy](https://nicholasdecker.substack.com/p/why-tariffs-are-never-the-optimal)
 ## [Returns to Scale](https://en.wikipedia.org/wiki/Returns_to_scale)
 - [There is no such thing as Decreasing Returns to Scale](https://blog.supplysideliberal.com/post/2017/5/29/there-is-no-such-thing-as-decreasing-returns-to-scale)
 - [Increasing Returns and the New World of Business](https://hbr.org/1996/07/increasing-returns-and-the-new-world-of-business)
