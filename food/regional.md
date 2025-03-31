@@ -48,6 +48,9 @@
 	- ##### Techniques
 		- [Maureen Abood | How to roll dough for fatayer](https://maureenabood.com/technique-how-to-roll-dough-for-fatayer-spinach-pies/)
 		- [Maureen Abood | The Secret to Perfect Fatayer Dough](https://maureenabood.com/the-secret-to-perfect-fatayer-dough/)
+- #### [Ful medames](https://en.wikipedia.org/wiki/Ful_medames)
+	- ###### Recipes
+		- [SimplyLeb | Foul (Ful)](https://www.simplyleb.com/recipe/foul-ful/)
 - #### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
 	- ##### Recipes
 		- [Maureen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
