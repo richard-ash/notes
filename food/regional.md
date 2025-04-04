@@ -1,6 +1,6 @@
 ### Brazil
 - #### [Açaí na tigela (Acai Bowl)](https://en.wikipedia.org/wiki/A%C3%A7a%C3%AD_na_tigela)
-	- ##### Recipes
+	- ###### Recipes
 		- [the forked spoon | Acai Bowl Recipe – How to Make Your Own Acai Bowl](https://theforkedspoon.com/acai-bowl/)
 ### Italy
 - #### Pasta
@@ -28,16 +28,16 @@
 			- [Kenji's Cooking Show | Ragù Bolognese is Easy, Actually](https://www.youtube.com/watch?v=cvROmO5ODnQ&t=1269s)
 			- [Not Another Cooking Show | Pasta with Bolognese Sauce](https://www.notanothercookingshow.tv/post/pasta-with-bolognese-sauce)
 - #### [Risotto](https://en.wikipedia.org/wiki/Risotto)
-	- ##### Recipes
+	- ###### Recipes
 		- [Kelly's Clean Kitchen | Parmesan Risotto](https://kellyscleankitchen.com/2022/06/09/parmesan-risotto/)
 ### Hungary
 - #### [Pörkölt](https://en.wikipedia.org/wiki/Pörkölt)
-	- ##### Recipes
+	- ###### Recipes
 		- [eating european | Pörkölt – Hungarian Beef and Onion Stew](https://eatingeuropean.com/porkolt-hungarian-beef-and-onion-stew/)
 		- [Saveur | Hungarian Braised Beef with Paprika (Pörkölt)](https://www.saveur.com/hungarian-braised-beef-with-paprika-porkolt-recipe/)
 ### Japan
 - #### [Miso Soup](https://en.wikipedia.org/wiki/Miso_soup)
-	- ##### Recipes
+	- ###### Recipes
 		- [recipetineats japan | Miso Soup Combinations](https://japan.recipetineats.com/miso-soup-ingredient-combinations/)
 		- [recipetineats japan | Miso Soup Basics](https://japan.recipetineats.com/miso-soup-basics/)
 ### Levantine
@@ -45,25 +45,25 @@
 	- ###### Recipes
 		- [Simply Lebanese | Spinach Fatayer](https://www.simplyleb.com/recipe/spinach-fatayer/)
 		- [Maureen Abood | Lebanese Spinach Pie](https://maureenabood.com/lebanese-spinach-pies-fatayer/)
-	- ##### Techniques
+	- ###### Techniques
 		- [Maureen Abood | How to roll dough for fatayer](https://maureenabood.com/technique-how-to-roll-dough-for-fatayer-spinach-pies/)
 		- [Maureen Abood | The Secret to Perfect Fatayer Dough](https://maureenabood.com/the-secret-to-perfect-fatayer-dough/)
 - #### [Ful medames](https://en.wikipedia.org/wiki/Ful_medames)
 	- ###### Recipes
 		- [SimplyLeb | Foul (Ful)](https://www.simplyleb.com/recipe/foul-ful/)
 - #### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
-	- ##### Recipes
+	- ###### Recipes
 		- [Maureen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
 - #### [Man'ousheh](https://en.wikipedia.org/wiki/Manakish)
 	- ###### Recipes
 		- [Maureen Abood | Lebanese man’oushe, za’atar flatbread](https://maureenabood.com/lebanese-manoushe-zaatar-flatbread/)
 		- [sundaykitchen | Za'atar man’oushe](https://www.instagram.com/reel/C91v9QkqH4v/?epik=dj0yJnU9UE5Ob0NZNXFrcHlMTGFPcU5hbXR4VjJXLWYzWGE1VU4mcD0wJm49Z09aWDYzWTBrYUppdFNiTmo2ZW5GdyZ0PUFBQUFBR2Z3SGdV)
 - #### [Mujaddara](https://en.wikipedia.org/wiki/Mujaddara)
-	- ##### Recipes
+	- ###### Recipes
 		- [Maureen Abood | Lebanese Mujadara](https://maureenabood.com/lebanese-mujadara/)
 		- [Simply Lebanese | Mujadara Hamra](https://www.simplyleb.com/recipe/mujadara-hamra/)
 - #### [Muhammara](https://en.wikipedia.org/wiki/Muhammara)
-	- ##### Recipes
+	- ###### Recipes
 		- [Maureen Abood | Muhammara](https://maureenabood.com/roasted-red-pepper-walnut-dip-muhammara/)
 		- [Simply Lebanese | Muhammara](https://www.simplyleb.com/recipe/muhammara/)
 - #### [Khubz (Pita)](https://en.wikipedia.org/wiki/Pita)
@@ -71,10 +71,10 @@
 		- [Professional Baker Teaches You How To Make PITA BREAD!](https://www.youtube.com/watch?v=pgdMwgqS5iE)
 		- [The Secret Technique That Makes Egyptian Pita Perfect](https://www.youtube.com/watch?v=d-sFn81WzWo)
 - #### [Shish Tawook](https://en.wikipedia.org/wiki/Shish_taouk)
-	- ##### Recipes
+	- ###### Recipes
 		- [Maureen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
 - #### [Tabbouleh](https://en.wikipedia.org/wiki/Tabbouleh)
-	- ##### Recipes
+	- ###### Recipes
 		- [Maureen Abood | Tabouli Salad: A Lebanese Tabbouleh Recipe](https://maureenabood.com/lebanese-tabbouleh-salad-recipe/)
 - #### [Toum](https://en.wikipedia.org/wiki/Toum)
 	- ###### Recipes
@@ -86,7 +86,7 @@
 		- [Masienda | How to Get Your Tortillas to Puff Every Time](https://masienda.com/blogs/learn/tortilla-puff-tips)
 ### Mexican
 - #### [Esquites](https://en.wikipedia.org/wiki/Esquites)
-	- ##### Recipes
+	- ###### Recipes
 		- [Serious Eats | Mexican Street Corn Salad (Esquites)](https://www.seriouseats.com/esquites-mexican-street-corn-salad-recipe)
 		- [Mexico in My Kitchen | Esquites](https://www.mexicoinmykitchen.com/esquites-recipe-mexican-street-food/)
 - #### [Taco](https://en.wikipedia.org/wiki/Taco)
@@ -94,11 +94,11 @@
 		- [recipetineats | Prawn Tacos (Shrimp)](https://www.recipetineats.com/prawn-tacos-shrimp/)
 ### North Africa
 - #### [Couscous](https://en.wikipedia.org/wiki/Couscous)
-	- ##### Techniques
+	- ###### Techniques
 		- [Serious Eats | How to Cook Couscous](https://www.seriouseats.com/how-to-cook-couscous-recipe-8771679)
 ### Vietnamese
 - #### [Gà kho](https://en.wikipedia.org/wiki/Kho_(cooking_technique))
-	- ##### Recipes
+	- ###### Recipes
 		- [recipetineats | Vietnamese Caramel Ginger Chicken](https://www.recipetineats.com/vietnamese-caramel-ginger-chicken/)
 ## Yemeni
 - ### [Sahawiq](https://en.wikipedia.org/wiki/Sahawiq)
