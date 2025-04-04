@@ -76,6 +76,10 @@
 - #### [Tabbouleh](https://en.wikipedia.org/wiki/Tabbouleh)
 	- ##### Recipes
 		- [Maureen Abood | Tabouli Salad: A Lebanese Tabbouleh Recipe](https://maureenabood.com/lebanese-tabbouleh-salad-recipe/)
+- #### [Toum](https://en.wikipedia.org/wiki/Toum)
+	- ###### Recipes
+		- [Toum (Lebanese Garlic Sauce) - 4 Ingredients + Easy Hack | Vegan Cultures](https://www.youtube.com/watch?v=ZyOXoafZYT0)
+		- [Maureen Abood | Toum Recipe](https://maureenabood.com/toum-lebanese-garlic-sauce/)
 ### [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)
 - #### [Tortilla](https://en.wikipedia.org/wiki/Tortilla)
 	- ###### Techniques
