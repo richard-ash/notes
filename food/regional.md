@@ -55,7 +55,9 @@
 	- ##### Recipes
 		- [Maureen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
 - #### [Man'ousheh](https://en.wikipedia.org/wiki/Manakish)
-	- [Maureen Abood | Lebanese man’oushe, za’atar flatbread](https://maureenabood.com/lebanese-manoushe-zaatar-flatbread/)
+	- ###### Recipes
+		- [Maureen Abood | Lebanese man’oushe, za’atar flatbread](https://maureenabood.com/lebanese-manoushe-zaatar-flatbread/)
+		- [sundaykitchen | Za'atar man’oushe](https://www.instagram.com/reel/C91v9QkqH4v/?epik=dj0yJnU9UE5Ob0NZNXFrcHlMTGFPcU5hbXR4VjJXLWYzWGE1VU4mcD0wJm49Z09aWDYzWTBrYUppdFNiTmo2ZW5GdyZ0PUFBQUFBR2Z3SGdV)
 - #### [Mujaddara](https://en.wikipedia.org/wiki/Mujaddara)
 	- ##### Recipes
 		- [Maureen Abood | Lebanese Mujadara](https://maureenabood.com/lebanese-mujadara/)
