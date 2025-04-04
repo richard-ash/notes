@@ -9,6 +9,11 @@
 ## Business
 - ### [Entrepreneur](https://en.wikipedia.org/wiki/Entrepreneurship)
 	- ######  [Paul Graham](people/people/paul-graham.md)
+## Government
+- ### United States
+	- #### U.S. Trade Representative
+		- ###### [Robert Lighthizer](https://en.wikipedia.org/wiki/Robert_Lighthizer)
+			- [The Tucker Carlson Show | Bob Lighthizer: Why Trump's Tariffs are the Only Way to Save the Middle Class](https://tuckercarlson.com/tucker-show-bob-lighthizer)
 ## Historian
 - ###### [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)
 	- [Dwarkesh Podcast | Richard Rhodes - Making of Atomic Bomb, AI, WW2, Oppenheimer, & Abolishing Nukes](https://www.dwarkeshpatel.com/p/richard-rhodes)
