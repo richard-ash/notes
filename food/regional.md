@@ -51,6 +51,11 @@
 - #### [Ful medames](https://en.wikipedia.org/wiki/Ful_medames)
 	- ###### Recipes
 		- [SimplyLeb | Foul (Ful)](https://www.simplyleb.com/recipe/foul-ful/)
+- #### [Hummus bi lahmeh](https://en.wikipedia.org/wiki/Lebanese_cuisine#Chickpea-based_dishes)
+	- ###### Recipes
+		- [Simply Lebanese | Hummus with Beef](https://www.simplyleb.com/recipe/hummus-with-beef/)
+		- [sundaykitchen | Hummos bi Lahme](https://www.instagram.com/reel/DH-XoaqTuYF/)
+		- [Maureen Abood | Hummus Kawarma](https://maureenabood.com/hummus-with-lamb-and-sumac-its-a-texture-thing/)
 - #### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
 	- ###### Recipes
 		- [Maureen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
