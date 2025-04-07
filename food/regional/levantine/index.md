@@ -1,0 +1,45 @@
+### Levantine
+- #### [Fatayer](https://en.wikipedia.org/wiki/Fatayer)
+	- ###### Recipes
+		- [Simply Lebanese | Spinach Fatayer](https://www.simplyleb.com/recipe/spinach-fatayer/)
+		- [Maureen Abood | Lebanese Spinach Pie](https://maureenabood.com/lebanese-spinach-pies-fatayer/)
+	- ###### Techniques
+		- [Maureen Abood | How to roll dough for fatayer](https://maureenabood.com/technique-how-to-roll-dough-for-fatayer-spinach-pies/)
+		- [Maureen Abood | The Secret to Perfect Fatayer Dough](https://maureenabood.com/the-secret-to-perfect-fatayer-dough/)
+- #### [Ful medames](https://en.wikipedia.org/wiki/Ful_medames)
+	- ###### Recipes
+		- [SimplyLeb | Foul (Ful)](https://www.simplyleb.com/recipe/foul-ful/)
+- #### [Hummus bi lahmeh](https://en.wikipedia.org/wiki/Lebanese_cuisine#Chickpea-based_dishes)
+	- ###### Recipes
+		- [Simply Lebanese | Hummus with Beef](https://www.simplyleb.com/recipe/hummus-with-beef/)
+		- [sundaykitchen | Hummos bi Lahme](https://www.instagram.com/reel/DH-XoaqTuYF/)
+		- [Maureen Abood | Hummus Kawarma](https://maureenabood.com/hummus-with-lamb-and-sumac-its-a-texture-thing/)
+- #### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
+	- ###### Recipes
+		- [Maureen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
+- #### [Man'ousheh](https://en.wikipedia.org/wiki/Manakish)
+	- ###### Recipes
+		- [Maureen Abood | Lebanese man’oushe, za’atar flatbread](https://maureenabood.com/lebanese-manoushe-zaatar-flatbread/)
+		- [sundaykitchen | Za'atar man’oushe](https://www.instagram.com/reel/C91v9QkqH4v/?epik=dj0yJnU9UE5Ob0NZNXFrcHlMTGFPcU5hbXR4VjJXLWYzWGE1VU4mcD0wJm49Z09aWDYzWTBrYUppdFNiTmo2ZW5GdyZ0PUFBQUFBR2Z3SGdV)
+- #### [Mujaddara](https://en.wikipedia.org/wiki/Mujaddara)
+	- ###### Recipes
+		- [Maureen Abood | Lebanese Mujadara](https://maureenabood.com/lebanese-mujadara/)
+		- [Simply Lebanese | Mujadara Hamra](https://www.simplyleb.com/recipe/mujadara-hamra/)
+- #### [Muhammara](https://en.wikipedia.org/wiki/Muhammara)
+	- ###### Recipes
+		- [Maureen Abood | Muhammara](https://maureenabood.com/roasted-red-pepper-walnut-dip-muhammara/)
+		- [Simply Lebanese | Muhammara](https://www.simplyleb.com/recipe/muhammara/)
+- #### [Khubz (Pita)](https://en.wikipedia.org/wiki/Pita)
+	- ###### Recipes
+		- [Professional Baker Teaches You How To Make PITA BREAD!](https://www.youtube.com/watch?v=pgdMwgqS5iE)
+		- [The Secret Technique That Makes Egyptian Pita Perfect](https://www.youtube.com/watch?v=d-sFn81WzWo)
+- #### [Shish Tawook](https://en.wikipedia.org/wiki/Shish_taouk)
+	- ###### Recipes
+		- [Maureen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
+- #### [Tabbouleh](https://en.wikipedia.org/wiki/Tabbouleh)
+	- ###### Recipes
+		- [Maureen Abood | Tabouli Salad: A Lebanese Tabbouleh Recipe](https://maureenabood.com/lebanese-tabbouleh-salad-recipe/)
+- #### [Toum](https://en.wikipedia.org/wiki/Toum)
+	- ###### Recipes
+		- [Toum (Lebanese Garlic Sauce) - 4 Ingredients + Easy Hack | Vegan Cultures](https://www.youtube.com/watch?v=ZyOXoafZYT0)
+		- [Maureen Abood | Toum Recipe](https://maureenabood.com/toum-lebanese-garlic-sauce/)
