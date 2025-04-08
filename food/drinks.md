@@ -19,5 +19,6 @@
 		- ##### [Latte art](https://en.wikipedia.org/wiki/Latte_art)
 			- [Mr. 24 | How to Steam Milk for Perfect Latte Art: Step-by-Step Guide](https://www.youtube.com/watch?v=fN_iiDCxjPo&list=WL&index=72)
 			- [arts_terra | Short, easy-to-follow tutorials make latte art accessible to everyone](https://www.instagram.com/reel/C8eQh3oCtS6/)
+			- [Mr. 24 | How to Pour Heart Latte Art: Beginner Mistakes Tutorial](https://www.youtube.com/watch?v=-8oguwS87kI)
 		- #### Weiss Distribution Technique
 			- [The Weiss Distribution Technique Changed My Espresso Game](https://coffeegeek.com/blog/techniques/the-weiss-distribution-technique-changed-my-espresso-game/)
