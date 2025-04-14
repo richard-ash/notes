@@ -3,3 +3,4 @@
 	- #### 2025
 		- [On Bubble Watch](https://www.oaktreecapital.com/insights/memo/on-bubble-watch)
 		- [Gimme Credit](https://www.oaktreecapital.com/insights/memo/gimme-credit)
+		- [Nobody Knows (Yet Again)](https://www.oaktreecapital.com/insights/memo/nobody-knows-yet-again)
