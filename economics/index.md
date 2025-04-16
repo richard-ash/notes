@@ -9,6 +9,7 @@
 ## Microeconomics
 - ### Households and Firms
 	- [Rising Markups and the Role of Consumer Preferences](https://www.nber.org/papers/w32739)
+	- [The Curious Surge of Productivity in U.S. Restaurants](https://www.nber.org/papers/w33555)
 - ### Markets
 	- [Why flying in America keeps getting more miserable, explained](http://www.vox.com/new-money/2017/4/12/15247172/why-airlines-are-terrible)
 	- [Regulating the internet giants: The world’s most valuable resource is no longer oil, but data](http://www.economist.com/news/leaders/21721656-data-economy-demands-new-approach-antitrust-rules-worlds-most-valuable-resource)
