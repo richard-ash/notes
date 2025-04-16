@@ -12,14 +12,14 @@
 	- [The Curious Surge of Productivity in U.S. Restaurants](https://www.nber.org/papers/w33555)
 - ### Markets
 	- [Why flying in America keeps getting more miserable, explained](http://www.vox.com/new-money/2017/4/12/15247172/why-airlines-are-terrible)
-	- [Regulating the internet giants: The world’s most valuable resource is no longer oil, but data](http://www.economist.com/news/leaders/21721656-data-economy-demands-new-approach-antitrust-rules-worlds-most-valuable-resource)
-	- [The Pandemic That Didn’t Break the Internet](https://www.city-journal.org/america-robust-information-infrastructure)
+	- [Regulating the internet giants: The world's most valuable resource is no longer oil, but data](http://www.economist.com/news/leaders/21721656-data-economy-demands-new-approach-antitrust-rules-worlds-most-valuable-resource)
+	- [The Pandemic That Didn't Break the Internet](https://www.city-journal.org/america-robust-information-infrastructure)
 	- [Four functions of markets](https://www.interfluidity.com/v2/7333.html)
 	- [Should markets clear?](https://www.interfluidity.com/v2/5117.html)
 - ### Market Structure and Distribution
 	- [The Micro-Aggregated Profit Share](https://arxiv.org/abs/2309.12945)
 	- [Organizational Structure and Pricing: Evidence from a Large U.S. Airline](https://www.nber.org/papers/w29508)
-- [Why Fiddling With Prices Doesn’t Work](https://www.farnamstreetblog.com/2016/05/joseph-heath-market-prices/)
+- [Why Fiddling With Prices Doesn't Work](https://www.farnamstreetblog.com/2016/05/joseph-heath-market-prices/)
 - [The Baumol Effect](https://marginalrevolution.com/marginalrevolution/2019/05/the-baumol-effect.html)
 ## [Political Economy](https://en.wikipedia.org/wiki/Political_economy)
 - ### Land Use
@@ -27,7 +27,7 @@
 	- [Why Has Construction Productivity Stagnated? The Role of Land-Use Regulation](https://www.nber.org/papers/w33188)
 ## Public Economics
 - [America, Jump-started: World War II R&D and the Takeoff of the U.S. Innovation System](https://www.nber.org/papers/w27375)
-- [Evaluating the Success of President Johnson’s War on Poverty: Revisiting the Historical Record Using an Absolute Full-Income Poverty Measure](https://www.nber.org/papers/w26532)
+- [Evaluating the Success of President Johnson's War on Poverty: Revisiting the Historical Record Using an Absolute Full-Income Poverty Measure](https://www.nber.org/papers/w26532)
 - [Reviving american entrepreneurship? tax reform and business dynamism](https://doi.org/10.1016/j.jmoneco.2019.04.009)
 ## International Trade
 - ### Trade Policy
