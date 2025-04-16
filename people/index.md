@@ -9,6 +9,9 @@
 ## Business
 - ### [Entrepreneur](https://en.wikipedia.org/wiki/Entrepreneurship)
 	- ######  [Paul Graham](people/people/paul-graham.md)
+- ### Government
+	- ###### [Jennifer Pahlka](https://en.wikipedia.org/wiki/Jennifer_Pahlka)
+		- [Conversations with Tyler | Jennifer Pahlka on Reforming Government (Ep. 238)](https://conversationswithtyler.com/episodes/jennifer-pahlka/)
 ## Government
 - ### United States
 	- #### U.S. Trade Representative
