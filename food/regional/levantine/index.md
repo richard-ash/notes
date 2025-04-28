@@ -17,6 +17,7 @@
 - #### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
 	- ###### Recipes
 		- [Maureen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
+		- [sundaykitchen | Mums Maamoul](https://www.instagram.com/p/DH5QsrpTCok/)
 - #### [Man'ousheh](https://en.wikipedia.org/wiki/Manakish)
 	- ###### Recipes
 		- [Maureen Abood | Lebanese man’oushe, za’atar flatbread](https://maureenabood.com/lebanese-manoushe-zaatar-flatbread/)
