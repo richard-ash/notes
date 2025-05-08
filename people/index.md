@@ -36,6 +36,9 @@
 		- [Dwarkesh Podcast | Satya Nadella – Microsoft’s AGI Plan & Quantum Breakthrough](https://www.dwarkesh.com/p/satya-nadella)
 ## Investor
 - ### Venture Capital
+	- ###### [Ben Horowitz](https://en.wikipedia.org/wiki/Ben_Horowitz)
+		- *The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers*
+			- [Mr. and Mrs. Psmith's Bookshelf | REVIEW: The Hard Thing About Hard Things, by Ben Horowitz](https://www.thepsmiths.com/p/review-the-hard-thing-about-hard)
 	- ###### [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)
 		- [Joe Rogan Experience #2234 - Marc Andreessen](https://www.youtube.com/watch?v=ye8MOfxD5nU)
 - ###### [Howard Marks](people/people/howard-marks.md)
