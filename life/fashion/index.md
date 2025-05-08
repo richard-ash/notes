@@ -17,3 +17,5 @@
 	- [Do THIS to Protect Your Sneakers | A MUST DO For Sneaker Care](https://www.youtube.com/watch?v=25RAYzLRUj0&t=1s)
 ## Sports Coat
 - [How To Wear Sport Coats With Jeans](https://putthison.com/how-to-wear-sport-coats-with-jeans-styleforum-had/)
+## Style
+- [The Show Snob | Brown Shoes with a Navy Suit: Style Guide](https://theshoesnobblog.com/brown-shoes-with-a-navy-suit-style-guide/)
