@@ -8,6 +8,8 @@
 		- [Peter Attia | #324 ‒ Metabolism, energy balance, and aging: How diet, calorie restriction, and macronutrients influence longevity and metabolic health | Eric Ravussin, Ph.D.](https://peterattiamd.com/ericravussin/)
 ## Business
 - ### [Entrepreneur](https://en.wikipedia.org/wiki/Entrepreneurship)
+	- ###### [Chris Dixon](https://en.wikipedia.org/wiki/Chris_Dixon)
+		- [Conversations with Tyler | Chris Dixon on Blockchains, AI, and the Future of the Internet (Ep. 240)](https://conversationswithtyler.com/episodes/chris-dixon/)
 	- ######  [Paul Graham](people/people/paul-graham.md)
 - ### Government
 	- ###### [Jennifer Pahlka](https://en.wikipedia.org/wiki/Jennifer_Pahlka)
