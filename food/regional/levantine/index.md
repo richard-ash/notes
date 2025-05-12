@@ -1,4 +1,7 @@
 ### Levantine
+- #### [Baba Ghanouj](https://en.wikipedia.org/wiki/Baba_ghanoush)
+	- ###### Recipes
+		- [sundaykitchen | Baba Ghanouj (Eggplant Dip)](https://clove.kitchen/recipes/baba-ghanouj-eggplant-dip-RCA_22jpC0Q)
 - #### [Fatayer](https://en.wikipedia.org/wiki/Fatayer)
 	- ###### Recipes
 		- [Simply Lebanese | Spinach Fatayer](https://www.simplyleb.com/recipe/spinach-fatayer/)
