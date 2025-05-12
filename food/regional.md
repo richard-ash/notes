@@ -27,6 +27,9 @@
 		- ###### Recipes
 			- [Kenji's Cooking Show | Ragù Bolognese is Easy, Actually](https://www.youtube.com/watch?v=cvROmO5ODnQ&t=1269s)
 			- [Not Another Cooking Show | Pasta with Bolognese Sauce](https://www.notanothercookingshow.tv/post/pasta-with-bolognese-sauce)
+- #### [Pizza](https://en.wikipedia.org/wiki/Pizza)
+	- ###### Recipes
+		- [Anson Mills | Neapolitan-style Pizza](https://ansonmills.com/recipes/432)
 - #### [Risotto](https://en.wikipedia.org/wiki/Risotto)
 	- ###### Recipes
 		- [Kelly's Clean Kitchen | Parmesan Risotto](https://kellyscleankitchen.com/2022/06/09/parmesan-risotto/)
