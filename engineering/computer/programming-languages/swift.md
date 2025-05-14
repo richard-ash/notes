@@ -8,10 +8,12 @@
 	- [The Many Flavors of Unidirectional Architectures in Swift](https://betterprogramming.pub/different-flavors-of-unidirectional-architectures-in-swift-781a01380ef6)
 ## Combine
 - ### Concurrency
-	- [Swift by Sundell | Using Combine’s share operator to avoid duplicate work](https://www.swiftbysundell.com/articles/using-combines-share-operator-to-avoid-duplicate-work/)
+	- [Swift by Sundell | Using Combine's share operator to avoid duplicate work](https://www.swiftbysundell.com/articles/using-combines-share-operator-to-avoid-duplicate-work/)
 ## Concurrency
 - ### Parallelization
 	- [Async let explained: call async functions in parallel](https://www.avanderlee.com/swift/async-let-asynchronous-functions-in-parallel/)
+- ### AsyncAlgorithms
+	- [Debounce with async/await & AsyncAlgorithms in SwiftUI](https://medium.com/@lucas.abijmil/debounce-with-async-await-asyncalgorithms-in-swiftui-and-observable-macro-5a6169407326)
 ## Swift UI
 - ### Navigation
 	- [The SwiftUI cookbook for navigation](https://developer.apple.com/videos/play/wwdc2022/10054/)
@@ -22,4 +24,4 @@
 - ### Testing
 	- [Jacob’s Tech Tavern | Unit Test the Observation Framework](https://blog.jacobstechtavern.com/p/unit-test-the-observation-framework)
 ## Testing
-- [Jacob’s Tech Tavern | Async Unit Testing: The Comprehensive Guide](https://blog.jacobstechtavern.com/p/async-unit-testing-in-swift-the-comprehensive)
+- [Jacob's Tech Tavern | Async Unit Testing: The Comprehensive Guide](https://blog.jacobstechtavern.com/p/async-unit-testing-in-swift-the-comprehensive)
