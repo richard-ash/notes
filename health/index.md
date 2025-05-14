@@ -13,4 +13,7 @@
 - [Peter Attia | #328 – AMA #66: Optimizing nutrition for health and longevity: myth of a “best” diet, complexities of nutrition science, and practical steps for building a sustainable diet](https://peterattiamd.com/ama66/)
 ## [Sauna](https://en.wikipedia.org/wiki/Sauna)
 - ###### Techniques
-	- [Trumpkin’s Notes On Building A Sauna](https://localmile.org/trumpkins-notes-on-building-a-sauna/)
+	- [Trumpkin’s Notes On Building A Sauna](https://localmile.org/trumpkins-notes-on-building-a-sauna/)## [Sleep](https://en.wikipedia.org/wiki/Sleep)
+## [Sleep](https://en.wikipedia.org/wiki/Sleep)
+- ### Sleep and Exercise
+	- [Dose-response relationship between evening exercise and sleep](https://doi.org/10.1038/s41467-025-58271-x)
