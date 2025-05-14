@@ -11,4 +11,8 @@
 >1. Sort the list by Last Active Time 
 >2. Look up the most active users on Instagram or Linkedin 
 >3. Then interpret their behavior on your app through the lens of their online identity 
->4. If you have a messaging channel such as Intercom, send them a generic message asking for their feedback (and maybe offer a $25 gift card) Do this regularly. It’s certainly not science but it will tell you more about what’s resonating about the product than a bunch of statistically insignificant data.
+>4. If you have a messaging channel such as Intercom, send them a generic message asking for their feedback (and maybe offer a $25 gift card) Do this regularly. It's certainly not science but it will tell you more about what's resonating about the product than a bunch of statistically insignificant data.
+
+## Product Design
+- ### AI Product Development
+  - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
