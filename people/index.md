@@ -96,6 +96,9 @@
 - ### [Historian](https://en.wikipedia.org/wiki/Historian)
 	- ###### [George Bancroft](https://en.wikipedia.org/wiki/George_Bancroft)
 		- _History of the United States of America, from the Discovery of the American Continent_
+- ### Mathematician
+	- ###### [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
+		- _[Can we Survive Technology? | 1955](https://sseh.uchicago.edu/doc/von_Neumann_1955.pdf)_
 - ### [Physicist](https://en.wikipedia.org/wiki/Physicist)
 	- ###### Adam Brown
 		- [Dwarkesh Podcast | Adam Brown – How Future Civilizations Could Change The Laws of Physics](https://www.dwarkeshpatel.com/p/adam-brown)
