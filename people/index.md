@@ -10,6 +10,8 @@
 - ### [Entrepreneur](https://en.wikipedia.org/wiki/Entrepreneurship)
 	- ###### [Chris Dixon](https://en.wikipedia.org/wiki/Chris_Dixon)
 		- [Conversations with Tyler | Chris Dixon on Blockchains, AI, and the Future of the Internet (Ep. 240)](https://conversationswithtyler.com/episodes/chris-dixon/)
+	- ###### [Murad Al-Katib](https://en.wikipedia.org/wiki/Murad_Al-Katib)
+		- [Odd Lots | What The 'Lentil King of Saskatchewan' Knows About World Trade](https://omny.fm/shows/odd-lots/what-the-lentil-king-of-saskatchewan-knows-about-world-trade)
 	- ######  [Paul Graham](people/people/paul-graham.md)
 - ### Government
 	- ###### [Jennifer Pahlka](https://en.wikipedia.org/wiki/Jennifer_Pahlka)
