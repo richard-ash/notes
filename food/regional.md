@@ -43,6 +43,10 @@
 	- ###### Recipes
 		- [recipetineats japan | Miso Soup Combinations](https://japan.recipetineats.com/miso-soup-ingredient-combinations/)
 		- [recipetineats japan | Miso Soup Basics](https://japan.recipetineats.com/miso-soup-basics/)
+### Laos
+- #### [Larb](https://en.wikipedia.org/wiki/Larb)
+	- ###### Recipes
+		- [recipetineats | Thai Lettuce Wraps (Larb Gai)](https://www.recipetineats.com/thai-chicken-lettuce-cups-larb-gai-laab-gai/)
 ### [Levantine](obsidian://open?vault=notes&file=food%2Fregional%2Flevantine%2Findex)
 ### [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)
 - #### [Tortilla](https://en.wikipedia.org/wiki/Tortilla)
