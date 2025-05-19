@@ -38,6 +38,9 @@
 	- ###### Recipes
 		- [Professional Baker Teaches You How To Make PITA BREAD!](https://www.youtube.com/watch?v=pgdMwgqS5iE)
 		- [The Secret Technique That Makes Egyptian Pita Perfect](https://www.youtube.com/watch?v=d-sFn81WzWo)
+- #### Samke Harra
+	- ###### Recipes
+		- [Maureen Abood | Lebanese Spicy Fish with Tahini and Pine Nuts](https://maureenabood.com/lebanese-spicy-fish-with-tahini-and-pine-nuts/)
 - #### [Shish Tawook](https://en.wikipedia.org/wiki/Shish_taouk)
 	- ###### Recipes
 		- [Maureen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
