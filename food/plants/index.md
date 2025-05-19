@@ -6,6 +6,7 @@
 - ### [Bell pepper](https://en.wikipedia.org/wiki/Bell_pepper)
 	- ###### Techniques
 		- [Simply Lebanese | Roasted Red Peppers](https://www.simplyleb.com/recipe/roasted-red-peppers/)
+		- [Kenji's Cooking Show | Knife Skills: How to Cut Bell Peppers](https://www.youtube.com/watch?v=vwOEDR0gQLw)
 ## [Fabaceae](https://en.wikipedia.org/wiki/Fabaceae)
 - ### [Legume](https://en.wikipedia.org/wiki/Legume)
 	- #### [Chickpea](https://en.wikipedia.org/wiki/Chickpea)
