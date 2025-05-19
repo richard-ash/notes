@@ -13,6 +13,10 @@
 - #### [Ful medames](https://en.wikipedia.org/wiki/Ful_medames)
 	- ###### Recipes
 		- [SimplyLeb | Foul (Ful)](https://www.simplyleb.com/recipe/foul-ful/)
+- #### [Hummus](https://en.wikipedia.org/wiki/Hummus)
+	- ###### Recipes
+		- [Maureen Abood | Hummus](https://maureenabood.com/best-homemade-hummus-recipe/)
+		- [Middle Eats | We Made YouTube's Best Hummus EVEN BETTER!](https://www.youtube.com/watch?v=_1KYLNtXNEs)
 - #### [Hummus bi lahmeh](https://en.wikipedia.org/wiki/Lebanese_cuisine#Chickpea-based_dishes)
 	- ###### Recipes
 		- [Simply Lebanese | Hummus with Beef](https://www.simplyleb.com/recipe/hummus-with-beef/)
