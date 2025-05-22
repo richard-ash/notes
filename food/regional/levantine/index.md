@@ -48,6 +48,9 @@
 - #### [Shish Tawook](https://en.wikipedia.org/wiki/Shish_taouk)
 	- ###### Recipes
 		- [Maureen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
+- #### [Shawarma](https://en.wikipedia.org/wiki/Shawarma)
+	- ###### Recipes
+		- [Maureen Abood | Chicken Shawarma](https://maureenabood.com/grilled-chicken-shawarma/)
 - #### [Tabbouleh](https://en.wikipedia.org/wiki/Tabbouleh)
 	- ###### Recipes
 		- [Maureen Abood | Tabouli Salad: A Lebanese Tabbouleh Recipe](https://maureenabood.com/lebanese-tabbouleh-salad-recipe/)
