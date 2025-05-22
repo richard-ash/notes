@@ -58,3 +58,6 @@
 	- ###### Recipes
 		- [Toum (Lebanese Garlic Sauce) - 4 Ingredients + Easy Hack | Vegan Cultures](https://www.youtube.com/watch?v=ZyOXoafZYT0)
 		- [Maureen Abood | Toum Recipe](https://maureenabood.com/toum-lebanese-garlic-sauce/)
+- #### [Warak Enab](https://en.wikipedia.org/wiki/Stuffed_leaves#Levant)
+	- ###### Recipes
+		- [Maureen Abood | Lebanese Stuffed Grape Leaves](https://maureenabood.com/lebanese-stuffed-grape-leaves/)
