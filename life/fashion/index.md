@@ -12,6 +12,9 @@
 	- [How to Buy Leather Shoes That Don't Hurt](https://x.com/dieworkwear/status/1717674630113333338)
 - ### Loafers
 	- [Finding The Perfect Loafer](https://putthison.com/finding-the-perfect-loafer/)
+- ### [Shoe Polish](https://en.wikipedia.org/wiki/Shoe_polish)
+	- ###### Techniques
+		- [The Shoe Snob | Polish Your Shoes Properly](https://theshoesnobblog.com/polish-your-shoes-properly-1/)
 - ### Sneakers
 	- [Ten Great Sneakers For Spring](https://putthison.com/ten-great-sneakers-for-spring/)
 	- [Do THIS to Protect Your Sneakers | A MUST DO For Sneaker Care](https://www.youtube.com/watch?v=25RAYzLRUj0&t=1s)
