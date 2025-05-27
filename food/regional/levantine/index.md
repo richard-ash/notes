@@ -13,6 +13,9 @@
 - #### [Ful medames](https://en.wikipedia.org/wiki/Ful_medames)
 	- ###### Recipes
 		- [Simply Lebanese | Foul (Ful)](https://www.simplyleb.com/recipe/foul-ful/)
+- #### [Freekeh](https://en.wikipedia.org/wiki/Freekeh)
+	- ###### Recipes
+		- [Simply Lebanese | Freekeh Soup with Chicken](https://www.simplyleb.com/recipe/freekeh-soup-with-chicken/)
 - #### [Hummus](https://en.wikipedia.org/wiki/Hummus)
 	- ###### Recipes
 		- [Maureen Abood | Hummus](https://maureenabood.com/best-homemade-hummus-recipe/)
