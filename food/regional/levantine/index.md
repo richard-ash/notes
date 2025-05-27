@@ -12,7 +12,7 @@
 		- [Maureen Abood | The Secret to Perfect Fatayer Dough](https://maureenabood.com/the-secret-to-perfect-fatayer-dough/)
 - #### [Ful medames](https://en.wikipedia.org/wiki/Ful_medames)
 	- ###### Recipes
-		- [SimplyLeb | Foul (Ful)](https://www.simplyleb.com/recipe/foul-ful/)
+		- [Simply Lebanese | Foul (Ful)](https://www.simplyleb.com/recipe/foul-ful/)
 - #### [Hummus](https://en.wikipedia.org/wiki/Hummus)
 	- ###### Recipes
 		- [Maureen Abood | Hummus](https://maureenabood.com/best-homemade-hummus-recipe/)
