@@ -28,6 +28,10 @@
 		- ##### [Jasmine rice](https://en.wikipedia.org/wiki/Jasmine_rice)
 			- ###### Techniques
 				- [recipetineats | How to cook Jasmine rice](https://www.recipetineats.com/how-to-cook-jasmine-rice/)
+	- #### [Wheat](https://en.wikipedia.org/wiki/Wheat)
+		- ##### [Durum wheat](https://en.wikipedia.org/wiki/Durum_wheat)
+			- ###### [Freekeh](https://en.wikipedia.org/wiki/Freekeh)
+				- [Levantine](obsidian://open?vault=notes&file=food%2Fregional%2Flevantine%2Findex)
 ## [Seeds](https://en.wikipedia.org/wiki/Seed)
 - ###### Techniques
 	- [Maureen Abood | How to toast nuts](https://maureenabood.com/technique-how-to-toast-nuts-perfectly-every-time/)
