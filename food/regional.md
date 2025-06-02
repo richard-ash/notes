@@ -64,6 +64,10 @@
 - #### [Couscous](https://en.wikipedia.org/wiki/Couscous)
 	- ###### Techniques
 		- [Serious Eats | How to Cook Couscous](https://www.seriouseats.com/how-to-cook-couscous-recipe-8771679)
+### Thailand
+- #### [Jok Moo](https://en.wikipedia.org/wiki/Congee#Thailand)
+	- ###### Recipes
+		- [Heather Christo | Thai Pork and Rice Porridge Jok Moo](https://heatherchristo.com/2016/04/05/thai-pork-and-rice-porridge-jok-moo/)
 ### Vietnamese
 - #### [Gà kho](https://en.wikipedia.org/wiki/Kho_(cooking_technique))
 	- ###### Recipes
