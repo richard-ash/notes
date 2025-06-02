@@ -46,6 +46,9 @@
 - ###### [Howard Marks](people/people/howard-marks.md)
 - ###### [Michael J. Mauboussin](michael-j-mauboussin.md)
 - ###### [Warren Buffett](warren-buffet.md)
+## Journalist
+- ###### [Charles Mann](https://en.wikipedia.org/wiki/Charles_C._Mann)
+	- _1491: New Revelations of the Americas Before Columbus, New York: Alfred A. Knopf, 2005_
 ## Law
 - ### United State Supreme Court
 	- ###### [William Rehnquist](https://en.wikipedia.org/wiki/William_Rehnquist)
