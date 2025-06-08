@@ -33,6 +33,9 @@
 	- ###### Recipes
 		- [Maureen Abood | Lebanese man’oushe, za’atar flatbread](https://maureenabood.com/lebanese-manoushe-zaatar-flatbread/)
 		- [sundaykitchen | Za'atar man’oushe](https://www.instagram.com/reel/C91v9QkqH4v/?epik=dj0yJnU9UE5Ob0NZNXFrcHlMTGFPcU5hbXR4VjJXLWYzWGE1VU4mcD0wJm49Z09aWDYzWTBrYUppdFNiTmo2ZW5GdyZ0PUFBQUFBR2Z3SGdV)
+- ### [Moussaka](https://en.wikipedia.org/wiki/Moussaka#Levant)
+	- ###### Recipes
+		- [Simply Lebanese Maghmour (Lebanese Moussaka)](https://www.simplyleb.com/recipe/maghmour/)
 - #### [Mujaddara](https://en.wikipedia.org/wiki/Mujaddara)
 	- ###### Recipes
 		- [Maureen Abood | Lebanese Mujadara](https://maureenabood.com/lebanese-mujadara/)
