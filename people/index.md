@@ -114,6 +114,10 @@
 	- ###### [Yuval Levin](https://en.wikipedia.org/wiki/Yuval_Levin)
 		- [The Ezra Klein Show | The Breaking of Constitutional Order](https://www.nytimes.com/2025/02/05/opinion/ezra-klein-podcast-yuval-levin.html)
 - ### Social
+	- #### International
+		- ###### [Yasheng Huang](https://en.wikipedia.org/wiki/Yasheng_Huang)
+			- _The Rise and Fall of the EAST: How Exams, Autocracy, Stability, and Technology Brought China Success, and Why They Might Lead to Its Decline_
+			- [Conversations with Tyler | Yasheng Huang on the Development of the Chinese State (Ep. 173)](https://conversationswithtyler.com/episodes/yasheng-huang/)
 	- #### Urbanism
 		- ###### Alain Bertaud
 			- [Econtalk | Fixing Sick Cities (with Alain Bertaud)](https://www.econtalk.org/fixing-sick-cities-with-alain-bertaud/)
