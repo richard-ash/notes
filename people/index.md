@@ -95,6 +95,7 @@
 		- [The Use of Knowledge in Society](https://www.jstor.org/stable/1809376)
 	- ###### [Kenneth Rogoff](https://en.wikipedia.org/wiki/Kenneth_Rogoff)
 		- [Conversations with Tyler | Kenneth Rogoff on Monetary Moves, Fiscal Gambits, and Classical Chess (Ep. 241)](https://conversationswithtyler.com/episodes/kenneth-rogoff/)
+		- [Dwarkesh Podcast | “China’s digging out of a crisis. And America’s luck is wearing thin.” — Ken Rogoff](https://www.dwarkesh.com/p/ken-rogoff)
 - ### [Geneticist](https://en.wikipedia.org/wiki/Geneticist)
 	- ###### [David Reich](https://en.wikipedia.org/wiki/David_Reich_(geneticist))
 		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
