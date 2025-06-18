@@ -111,6 +111,8 @@
 	- ###### [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch)
 		- [Mindscape Podcast 253 | David Deutsch on Science, Complexity, and Explanation](https://www.preposterousuniverse.com/podcast/2023/10/16/253-david-deutsch-on-science-complexity-and-explanation/)
 - ### Political Scientist
+	- ###### [Victor Shih](https://en.wikipedia.org/wiki/Victor_Shih)
+		- [Dwarkesh Podcast | Xi Jinping’s paranoid approach to AGI, debt crisis, & Politburo politics — Victor Shih](https://www.dwarkesh.com/p/victor-shih)
 	- ###### [Yuval Levin](https://en.wikipedia.org/wiki/Yuval_Levin)
 		- [The Ezra Klein Show | The Breaking of Constitutional Order](https://www.nytimes.com/2025/02/05/opinion/ezra-klein-podcast-yuval-levin.html)
 - ### Social
