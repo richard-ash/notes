@@ -106,6 +106,8 @@
 - ### [Geneticist](https://en.wikipedia.org/wiki/Geneticist)
 	- ###### [David Reich](https://en.wikipedia.org/wiki/David_Reich_(geneticist))
 		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
+	- ###### [George Church](https://en.wikipedia.org/wiki/George_Church_(geneticist))
+		- [Dwarkesh Podcast | Godfather of Synthetic Bio on De-Aging, De-Extinction, & Weaponized Mirror Life — George Church](https://www.dwarkesh.com/p/george-church)
 - ### [Historian](https://en.wikipedia.org/wiki/Historian)
 	- ###### [George Bancroft](https://en.wikipedia.org/wiki/George_Bancroft)
 		- _History of the United States of America, from the Discovery of the American Continent_
