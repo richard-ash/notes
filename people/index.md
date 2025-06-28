@@ -51,6 +51,9 @@
 - ###### [Michael J. Mauboussin](michael-j-mauboussin.md)
 - ###### [Warren Buffett](warren-buffet.md)
 ## Journalist
+- ###### Arthur Kroeber
+	- [Dwarkesh Podcast | China’s Manufacturing Dominance: State Directives & Ruthless Competition — Arthur Kroeber](https://www.dwarkesh.com/p/arthur-kroeber)
+	- _China's Economy: What Everyone Needs to Know_
 - ###### [Charles Mann](https://en.wikipedia.org/wiki/Charles_C._Mann)
 	- _1491: New Revelations of the Americas Before Columbus, New York: Alfred A. Knopf, 2005_
 ## Law
