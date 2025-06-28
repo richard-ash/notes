@@ -22,6 +22,8 @@
 		- ###### [Robert Lighthizer](https://en.wikipedia.org/wiki/Robert_Lighthizer)
 			- [The Tucker Carlson Show | Bob Lighthizer: Why Trump's Tariffs are the Only Way to Save the Middle Class](https://tuckercarlson.com/tucker-show-bob-lighthizer)
 ## Historian
+- ###### [Kyle Harper](https://en.wikipedia.org/wiki/Kyle_Harper)
+	- [Dwarkesh Podcast | Why Rome Actually Fell: Plagues, Slavery, & Ice Age — Kyle Harper](https://www.dwarkesh.com/p/kyle-harper)
 - ###### [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)
 	- [Dwarkesh Podcast | Richard Rhodes - Making of Atomic Bomb, AI, WW2, Oppenheimer, & Abolishing Nukes](https://www.dwarkeshpatel.com/p/richard-rhodes)
 - ###### [Stephen Kotkin](https://en.wikipedia.org/wiki/Stephen_Kotkin)
