@@ -22,6 +22,8 @@
 		- ###### [Robert Lighthizer](https://en.wikipedia.org/wiki/Robert_Lighthizer)
 			- [The Tucker Carlson Show | Bob Lighthizer: Why Trump's Tariffs are the Only Way to Save the Middle Class](https://tuckercarlson.com/tucker-show-bob-lighthizer)
 ## Historian
+- ###### [George Bancroft](https://en.wikipedia.org/wiki/George_Bancroft)
+	- _History of the United States of America, from the Discovery of the American Continent_
 - ###### [Kyle Harper](https://en.wikipedia.org/wiki/Kyle_Harper)
 	- [Dwarkesh Podcast | Why Rome Actually Fell: Plagues, Slavery, & Ice Age — Kyle Harper](https://www.dwarkesh.com/p/kyle-harper)
 - ###### [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)
@@ -109,9 +111,6 @@
 		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
 	- ###### [George Church](https://en.wikipedia.org/wiki/George_Church_(geneticist))
 		- [Dwarkesh Podcast | Godfather of Synthetic Bio on De-Aging, De-Extinction, & Weaponized Mirror Life — George Church](https://www.dwarkesh.com/p/george-church)
-- ### [Historian](https://en.wikipedia.org/wiki/Historian)
-	- ###### [George Bancroft](https://en.wikipedia.org/wiki/George_Bancroft)
-		- _History of the United States of America, from the Discovery of the American Continent_
 - ### Mathematician
 	- ###### [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
 		- _[Can we Survive Technology? | 1955](https://sseh.uchicago.edu/doc/von_Neumann_1955.pdf)_
