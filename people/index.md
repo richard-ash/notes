@@ -58,6 +58,7 @@
 	- _China's Economy: What Everyone Needs to Know_
 - ###### [Charles Mann](https://en.wikipedia.org/wiki/Charles_C._Mann)
 	- _1491: New Revelations of the Americas Before Columbus, New York: Alfred A. Knopf, 2005_
+	- [Dwarkesh Podcast | Charles C. Mann - Americas Before Columbus & Scientific Wizardry](https://www.dwarkesh.com/p/charles-mann)
 ## Law
 - ### United State Supreme Court
 	- ###### [William Rehnquist](https://en.wikipedia.org/wiki/William_Rehnquist)
