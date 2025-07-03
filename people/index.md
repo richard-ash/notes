@@ -94,7 +94,7 @@
 ## Scientist
 - ### [Anthropologist](https://en.wikipedia.org/wiki/Anthropologist)
 	- ###### [Joseph Henrich](https://en.wikipedia.org/wiki/Joseph_Henrich)
-		- [The WEIRDest People in the World](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World)
+		- [_The WEIRDest People in the World_](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World)
 		- [Dwarkesh Podcast | Joseph Henrich – Why Humans Survived and Smarter Species Didn't](https://www.dwarkesh.com/p/joseph-henrich)
 - ### [Economist](https://en.wikipedia.org/wiki/Economist)
 	- ###### [Gregory Clark](https://en.wikipedia.org/wiki/Gregory_Clark_(economist))
