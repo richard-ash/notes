@@ -31,6 +31,7 @@
 - [America, Jump-started: World War II R&D and the Takeoff of the U.S. Innovation System](https://www.nber.org/papers/w27375)
 - [Evaluating the Success of President Johnson's War on Poverty: Revisiting the Historical Record Using an Absolute Full-Income Poverty Measure](https://www.nber.org/papers/w26532)
 - [Reviving american entrepreneurship? tax reform and business dynamism](https://doi.org/10.1016/j.jmoneco.2019.04.009)
+- [Flying on Frying Oil](https://marginalrevolution.com/marginalrevolution/2025/06/flying-on-frying-oil.html)
 ## International Trade
 - ### Trade Policy
 	- [Why Tariffs are Never the Optimal Industrial Policy](https://nicholasdecker.substack.com/p/why-tariffs-are-never-the-optimal)
