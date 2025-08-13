@@ -27,6 +27,9 @@
 		- ###### Recipes
 			- [Kenji's Cooking Show | Ragù Bolognese is Easy, Actually](https://www.youtube.com/watch?v=cvROmO5ODnQ&t=1269s)
 			- [Not Another Cooking Show | Pasta with Bolognese Sauce](https://www.notanothercookingshow.tv/post/pasta-with-bolognese-sauce)
+	- ##### Spaghetti in Tomato Water
+		- ###### Recipes
+			- [Spaghetti in Tomato Water](https://www.notanothercookingshow.tv/post/spaghetti-in-tomato-water)
 - #### [Pizza](https://en.wikipedia.org/wiki/Pizza)
 	- ###### Recipes
 		- [Anson Mills | Neapolitan-style Pizza](https://ansonmills.com/recipes/432)
