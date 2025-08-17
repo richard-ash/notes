@@ -33,6 +33,7 @@
 - ###### [Stephen Kotkin](https://en.wikipedia.org/wiki/Stephen_Kotkin)
 	- [Conversations with Tyler | Stephen Kotkin on Stalin, Power, and the Art of Biography (Ep. 228)](https://conversationswithtyler.com/episodes/stephen-kotkin/)
 	- [The New Yorker | Can Ukraine—and America—Survive Donald Trump?](https://www.newyorker.com/news/the-new-yorker-interview/can-ukraine-and-america-survive-donald-trump)
+	- [Dwarkesh Podcast | Stephen Kotkin — How Stalin Became the Most Powerful Dictator in History](https://www.dwarkesh.com/p/stephen-kotkin)
 ## Industry
 - ### Healthcare
 	- ###### Saum Sutaria
