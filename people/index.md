@@ -122,6 +122,8 @@
 - ### [Physicist](https://en.wikipedia.org/wiki/Physicist)
 	- ###### Adam Brown
 		- [Dwarkesh Podcast | Adam Brown – How Future Civilizations Could Change The Laws of Physics](https://www.dwarkeshpatel.com/p/adam-brown)
+	- ###### [Andrew Strominger](https://en.wikipedia.org/wiki/Andrew_Strominger)
+		- [Lex Friedman Podcast | #359 – Andrew Strominger: Black Holes, Quantum Gravity, and Theoretical Physics](https://lexfridman.com/andrew-strominger/)
 	- ###### [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch)
 		- [Mindscape Podcast 253 | David Deutsch on Science, Complexity, and Explanation](https://www.preposterousuniverse.com/podcast/2023/10/16/253-david-deutsch-on-science-complexity-and-explanation/)
 - ### Political Scientist
