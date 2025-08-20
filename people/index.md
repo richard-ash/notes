@@ -28,9 +28,13 @@
 	- [Dwarkesh Podcast | Why Rome Actually Fell: Plagues, Slavery, & Ice Age — Kyle Harper](https://www.dwarkesh.com/p/kyle-harper)
 - ###### [Richard Rhodes](https://en.wikipedia.org/wiki/Richard_Rhodes)
 	- [Dwarkesh Podcast | Richard Rhodes - Making of Atomic Bomb, AI, WW2, Oppenheimer, & Abolishing Nukes](https://www.dwarkeshpatel.com/p/richard-rhodes)
+- ###### [Sarah Paine](https://en.wikipedia.org/wiki/Sarah_C._M._Paine)
+	- [Dwarkesh Podcast | Sarah Paine: How Imperial Japan Defeated Tsarist Russia & Qing China](https://www.dwarkesh.com/p/sarah-paine-east-asia)
 - ###### [Stephen Kotkin](https://en.wikipedia.org/wiki/Stephen_Kotkin)
 	- [Conversations with Tyler | Stephen Kotkin on Stalin, Power, and the Art of Biography (Ep. 228)](https://conversationswithtyler.com/episodes/stephen-kotkin/)
 	- [The New Yorker | Can Ukraine—and America—Survive Donald Trump?](https://www.newyorker.com/news/the-new-yorker-interview/can-ukraine-and-america-survive-donald-trump)
+	- [Dwarkesh Podcast | Stephen Kotkin — How Stalin Became the Most Powerful Dictator in History](https://www.dwarkesh.com/p/stephen-kotkin)
+	- [The New Yorker | The Weakness of the Despot](https://www.newyorker.com/news/q-and-a/stephen-kotkin-putin-russia-ukraine-stalin)
 ## Industry
 - ### Healthcare
 	- ###### Saum Sutaria
@@ -118,6 +122,8 @@
 - ### [Physicist](https://en.wikipedia.org/wiki/Physicist)
 	- ###### Adam Brown
 		- [Dwarkesh Podcast | Adam Brown – How Future Civilizations Could Change The Laws of Physics](https://www.dwarkeshpatel.com/p/adam-brown)
+	- ###### [Andrew Strominger](https://en.wikipedia.org/wiki/Andrew_Strominger)
+		- [Lex Friedman Podcast | #359 – Andrew Strominger: Black Holes, Quantum Gravity, and Theoretical Physics](https://lexfridman.com/andrew-strominger/)
 	- ###### [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch)
 		- [Mindscape Podcast 253 | David Deutsch on Science, Complexity, and Explanation](https://www.preposterousuniverse.com/podcast/2023/10/16/253-david-deutsch-on-science-complexity-and-explanation/)
 - ### Political Scientist
