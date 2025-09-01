@@ -10,6 +10,9 @@
 	- #### [Banana bread](https://en.wikipedia.org/wiki/Banana_bread)
 		- ###### Recipes
 			- [Serious Eats | Stella Parks' Ultimate Banana Nut Bread](https://www.seriouseats.com/classic-banana-bread-recipe)
+## [Condiments](https://en.wikipedia.org/wiki/Condiment)
+- ### [Soy Sauce](https://en.wikipedia.org/wiki/Soy_sauce)
+	- [recipetineats | Soy Sauce – different types, when to use what, best substitutes](https://www.recipetineats.com/soy-sauce/)
 ## [Dairy](https://en.wikipedia.org/wiki/Dairy_product)
 - ### [Butter](https://en.wikipedia.org/wiki/Butter)
 	- #### [Clarified butter](https://en.wikipedia.org/wiki/Clarified_butter)
