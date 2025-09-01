@@ -4,6 +4,10 @@
 		- _The Adventures of Tintin_
 - ### Painter
 	- ###### [David Hockney](https://en.wikipedia.org/wiki/David_Hockney)
+- ### Sculptor
+	- ###### [Auguste Rodin](https://en.wikipedia.org/wiki/Auguste_Rodin)
+		- _The Thinker_
+		- _The Kiss_
 ## Biology
 - ### [Physiology](https://en.wikipedia.org/wiki/Physiology)
 	- ###### [Eric Ravussin](https://en.wikipedia.org/wiki/Eric_Ravussin)
