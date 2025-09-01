@@ -139,6 +139,9 @@
 	- #### Urbanism
 		- ###### Alain Bertaud
 			- [Econtalk | Fixing Sick Cities (with Alain Bertaud)](https://www.econtalk.org/fixing-sick-cities-with-alain-bertaud/)
+- ### Statistician
+	- ###### [Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver)
+		- _On the Edge: The Art of Risking Everything_
 ## Theologian
 - ###### [Ignatius of Loyola](https://en.wikipedia.org/wiki/Ignatius_of_Loyola)
 	- [Prayer for Generosity](https://www.xavier.edu/jesuitresource/online-resources/prayer-index/ignatian-prayers)
