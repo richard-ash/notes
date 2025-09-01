@@ -2,6 +2,8 @@
 - ### Comics
 	- ###### [Hergé](https://en.wikipedia.org/wiki/Herg%C3%A9)
 		- _The Adventures of Tintin_
+- ### Painter
+	- ###### [David Hockney](https://en.wikipedia.org/wiki/David_Hockney)
 ## Biology
 - ### [Physiology](https://en.wikipedia.org/wiki/Physiology)
 	- ###### [Eric Ravussin](https://en.wikipedia.org/wiki/Eric_Ravussin)
