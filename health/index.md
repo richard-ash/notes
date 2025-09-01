@@ -12,6 +12,9 @@
 ## [Nutrition](https://en.wikipedia.org/wiki/Nutrition)
 - [Peter Attia | #328 – AMA #66: Optimizing nutrition for health and longevity: myth of a "best" diet, complexities of nutrition science, and practical steps for building a sustainable diet](https://peterattiamd.com/ama66/)
 - [Peter Attia | AMA #72: Revisiting fasting: benefits, risks, and how to fast in a way that supports your goals](https://peterattiamd.com/ama72/)
+## Physical Fitness
+- ### [Body composition](https://en.wikipedia.org/wiki/Body_composition)
+	- [Peter Attia | Body composition: impact on disease risk and how to assess and improve it](https://peterattiamd.com/improving-body-composition/)
 ## [Sauna](https://en.wikipedia.org/wiki/Sauna)
 - ###### Techniques
 	- [Trumpkin's Notes On Building A Sauna](https://localmile.org/trumpkins-notes-on-building-a-sauna/)
