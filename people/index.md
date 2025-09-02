@@ -109,6 +109,9 @@
 	- ###### [Joseph Henrich](https://en.wikipedia.org/wiki/Joseph_Henrich)
 		- [_The WEIRDest People in the World_](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World)
 		- [Dwarkesh Podcast | Joseph Henrich – Why Humans Survived and Smarter Species Didn't](https://www.dwarkesh.com/p/joseph-henrich)
+- ### Complex Systems
+	- ###### [J. Doyne Farmer](https://en.wikipedia.org/wiki/J._Doyne_Farmer)
+		- _Making Sense of Chaos: A Better Economics for a Better World_
 - ### [Economist](https://en.wikipedia.org/wiki/Economist)
 	- ###### [Gregory Clark](https://en.wikipedia.org/wiki/Gregory_Clark_(economist))
 		- [Conversations with Tyler | Gregory Clark on on Social Mobility, Migration, and Assortative Mating (Ep. 234 - Live at Mercatus)](https://conversationswithtyler.com/episodes/gregory-clark/)
