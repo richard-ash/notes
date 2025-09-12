@@ -1,0 +1,11 @@
+## Politics
+- ###### [Winston Churchill (1874 – 1965)](https://en.wikipedia.org/wiki/Winston_Churchill)
+	- _The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932_
+	- _The Last Lion: Winston Spencer Churchill: Alone, 1932-40_
+	- _The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965_
+- ###### [Anthony Eden (1897 – 1977)](https://en.wikipedia.org/wiki/Anthony_Eden)
+	- _The Last Lion: Winston Spencer Churchill: Alone, 1932-40_
+	- _The Last Lion: Winston Spencer Churchill: Defender of the Realm, 1940-1965_
+- ###### [Margaret Thatcher (1925 – 2013)](https://en.wikipedia.org/wiki/Margaret_Thatcher)
+- ###### [Tony Blair (1953 - )](https://en.wikipedia.org/wiki/Tony_Blair)
+	- [Dwarkesh Podcast | Tony Blair - Life of a PM, The Deep State, Lee Kuan Yew, & AI's 1914 Moment](https://www.dwarkeshpatel.com/p/tony-blair)
