@@ -17,6 +17,9 @@
 	- ##### [Pasta alla gricia](https://en.wikipedia.org/wiki/Pasta_alla_gricia)
 		- ###### Recipes
 			- [Not Another Cooking Show | EASILY make PERFECT PASTA ALLA GRICIA](https://www.notanothercookingshow.tv/post/pasta-alla-gricia)
+	- ##### Pasta con Zucchine e Fiore di Zucca
+		- ###### Recipes
+			- [Skyler and Giuseppe's Newsletter | Recipe: Pasta with Zucchini & Zucchini Flowers](https://exau.substack.com/p/recipe-pasta-with-zucchini-and-zucchini)
 	- ##### [Penne alla vodka](https://en.wikipedia.org/wiki/Penne_alla_vodka)
 		- ###### Recipes
 			- [Not Another Cooking Show | Penne Alla Vodka](https://www.notanothercookingshow.tv/post/penne-alla-vodka)
