@@ -46,6 +46,8 @@
 	- ###### Saum Sutaria
 		- [Peter Attia | #327 – Choices, costs, and challenges in US healthcare: insurance intricacies, drug pricing, economic impacts, and potential reforms | Saum Sutaria, M.D.](https://peterattiamd.com/saumsutaria/)
 - ### Technology
+	- ###### Benedict Evans
+		- [The Knowledge Project Podcast | Benedict Evans: Why AI Isn’t What You Think](https://fs.blog/knowledge-project-podcast/benedict-evans/)
 	- ###### Jack Clark
 		- [Conversations with Tyler | Jack Clark on AI's Uneven Impact (Ep. 242)](https://conversationswithtyler.com/episodes/jack-clark/)
 	- ###### [Randy Komisar](https://en.wikipedia.org/wiki/Randy_Komisar)
