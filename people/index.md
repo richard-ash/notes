@@ -107,6 +107,8 @@
 	- ###### [J. Doyne Farmer](https://en.wikipedia.org/wiki/J._Doyne_Farmer)
 		- _Making Sense of Chaos: A Better Economics for a Better World_
 - ### [Economist](https://en.wikipedia.org/wiki/Economist)
+	- ###### [Austan Goolsbee](https://en.wikipedia.org/wiki/Austan_Goolsbee)
+		- [Conversations with Tyler | Austan Goolsbee on Central Banking as a Data Dog](https://conversationswithtyler.com/episodes/austan-goolsbee/)
 	- ###### [Gregory Clark](https://en.wikipedia.org/wiki/Gregory_Clark_(economist))
 		- [Conversations with Tyler | Gregory Clark on on Social Mobility, Migration, and Assortative Mating (Ep. 234 - Live at Mercatus)](https://conversationswithtyler.com/episodes/gregory-clark/)
 	- ###### [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)
