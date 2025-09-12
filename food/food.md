@@ -20,6 +20,10 @@
 			- [Maureen Abood | How to clarify butter](https://maureenabood.com/how-to-clarify-butter/)
 			- [Kelly's Clean Kitchen | Clarified Butter](https://kellyscleankitchen.com/2022/02/25/clarified-butter/)
 			- [Serious Eats | Clarified Butter](https://www.seriouseats.com/clarified-butter-recipe)
+## [Eggs](https://en.wikipedia.org/wiki/Eggs_as_food)
+- ### [Poached Egg](https://en.wikipedia.org/wiki/Poached_egg)
+	- ###### Recipes
+		- [Kelly's Clean Kitchen | How to Poach Eggs](https://kellyscleankitchen.com/2024/09/25/how-to-poach-eggs/)
 ## Meat
 - ### [Poultry](https://en.wikipedia.org/wiki/Poultry)
 	- #### [Chicken](https://en.wikipedia.org/wiki/Chicken_as_food)
