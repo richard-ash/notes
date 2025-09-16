@@ -1,3 +1,7 @@
+
+## Economist
+- ###### [John Maynard Keynes (1883 – 1946)](https://en.wikipedia.org/wiki/John_Maynard_Keynes)
+	- _The Price of Peace: Money, Democracy, and the Life of John Maynard Keynes_
 ## Politics
 - ###### [Winston Churchill (1874 – 1965)](https://en.wikipedia.org/wiki/Winston_Churchill)
 	- _The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932_
@@ -9,3 +13,6 @@
 - ###### [Margaret Thatcher (1925 – 2013)](https://en.wikipedia.org/wiki/Margaret_Thatcher)
 - ###### [Tony Blair (1953 - )](https://en.wikipedia.org/wiki/Tony_Blair)
 	- [Dwarkesh Podcast | Tony Blair - Life of a PM, The Deep State, Lee Kuan Yew, & AI's 1914 Moment](https://www.dwarkeshpatel.com/p/tony-blair)
+## Writer
+- ###### [Virginia Woolf (1882 – 1941)](https://en.wikipedia.org/wiki/Virginia_Woolf)
+	- _The Price of Peace: Money, Democracy, and the Life of John Maynard Keynes_
