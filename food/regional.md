@@ -2,6 +2,10 @@
 - #### [Açaí na tigela (Acai Bowl)](https://en.wikipedia.org/wiki/A%C3%A7a%C3%AD_na_tigela)
 	- ###### Recipes
 		- [the forked spoon | Acai Bowl Recipe – How to Make Your Own Acai Bowl](https://theforkedspoon.com/acai-bowl/)
+### French
+- #### Poulet (Chicken)
+	- ###### Recipes
+		- [Kelly's Clean Kitchen | Poulet a Moutarde](https://kellyscleankitchen.com/2025/03/01/french-mustard-chicken-poulet-a-moutarde/)
 ### Italy
 - #### Pasta
 	- ##### [Amatriciana](https://en.wikipedia.org/wiki/Amatriciana_sauce)
