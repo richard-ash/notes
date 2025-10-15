@@ -40,6 +40,9 @@
 	- ###### Techniques
 		- [Kenji's Cooking Show | Knife Skills: Every Way to Cut a Tomato](https://www.youtube.com/watch?v=h2XlEXoerWc)
 ## [Root Vegetable](https://en.wikipedia.org/wiki/Root_vegetable)
+- ### [Potato](https://en.wikipedia.org/wiki/Potato)
+	- ###### Techniques
+		- [Serious Eats | The Best Crispy Roast Potatoes Ever](https://www.seriouseats.com/the-best-roast-potatoes-ever-recipe)
 - ### [Sweet Potato](https://en.wikipedia.org/wiki/Sweet_potato)
 	- ###### Recipes
 		- [Maureen Abood | Pomegranate Glazed Sweet Potatoes](https://maureenabood.com/pomegranate-glazed-sweet-potatoes/)
