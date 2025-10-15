@@ -3,9 +3,12 @@
 	- #### COVID-19
 		- [The Unexpected Compression: Competition at Work in the Low Wage Labor Market](https://www.nber.org/papers/w31010)
 		- [Extraordinary Labor Market Developments and the 2022-23 Disinflation](https://www.nber.org/papers/w32584)
+- ### Historical Economics
 	- #### WWII
-		- [Did the U.S. Really Grow Out of Its World War II Debt?](https://www.nber.org/papers/w31577
+		- [Did the U.S. Really Grow Out of Its World War II Debt?](https://www.nber.org/papers/w31577)
 		- [Economic Principles: How the Economic Machine Works](http://www.economicprinciples.org/)
+		- [How the US Built 5,000 Ships in WWII](https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii)
+			- [WWII Shipbuilding Analysis](analysis/wwii-shipbuilding-analysis.md)
 - ### Labor Markets
   - [Robinson Meets Roy: Monopsony Power and Comparative Advantage](https://www.nber.org/papers/w34165)
   	- [Discussion with GPT-5](https://chatgpt.com/share/68b76359-775c-8002-82e4-67e00a085581) 
