@@ -132,6 +132,7 @@
 		- [Lex Friedman Podcast | #359 – Andrew Strominger: Black Holes, Quantum Gravity, and Theoretical Physics](https://lexfridman.com/andrew-strominger/)
 	- ###### [David Deutsch](https://en.wikipedia.org/wiki/David_Deutsch)
 		- [Mindscape Podcast 253 | David Deutsch on Science, Complexity, and Explanation](https://www.preposterousuniverse.com/podcast/2023/10/16/253-david-deutsch-on-science-complexity-and-explanation/)
+		- [Conjecture Institute | How to Reverse Academia's Stagnation](https://www.youtube.com/watch?v=Em-85baHx0A)
 - ### Political Scientist
 	- ###### [Victor Shih](https://en.wikipedia.org/wiki/Victor_Shih)
 		- [Dwarkesh Podcast | Xi Jinping’s paranoid approach to AGI, debt crisis, & Politburo politics — Victor Shih](https://www.dwarkesh.com/p/victor-shih)
