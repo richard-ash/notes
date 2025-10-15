@@ -34,6 +34,9 @@
 		- ###### Recipes
 			- [Kenji's Cooking Show | Ragù Bolognese is Easy, Actually](https://www.youtube.com/watch?v=cvROmO5ODnQ&t=1269s)
 			- [Not Another Cooking Show | Pasta with Bolognese Sauce](https://www.notanothercookingshow.tv/post/pasta-with-bolognese-sauce)
+	- ###### Spaghetti alla Limone
+		- ###### Recipes
+			- [Not Another Cooking Show | Spaghetti alla Limone](https://www.notanothercookingshow.tv/post/spaghetti-alla-limone-method-2)
 	- ##### Spaghetti in Tomato Water
 		- ###### Recipes
 			- [Not Another Cooking Show | Spaghetti in Tomato Water](https://www.notanothercookingshow.tv/post/spaghetti-in-tomato-water)
