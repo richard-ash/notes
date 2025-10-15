@@ -18,3 +18,4 @@
 		- [Part 3 | Migration Recipes](https://fly.io/phoenix-files/migration-recipes/)
 		- [Part 4 | Backfilling Data](https://fly.io/phoenix-files/backfilling-data)
 	- [excellent migrations](https://github.com/Artur-Sulej/excellent_migrations)
+- [Exploring Options for Storing Custom Data in Ecto](https://fly.io/phoenix-files/exploring-options-for-storing-custom-data-in-ecto/)
