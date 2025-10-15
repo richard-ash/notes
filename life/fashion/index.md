@@ -22,3 +22,5 @@
 - [How To Wear Sport Coats With Jeans](https://putthison.com/how-to-wear-sport-coats-with-jeans-styleforum-had/)
 ## Style
 - [The Show Snob | Brown Shoes with a Navy Suit: Style Guide](https://theshoesnobblog.com/brown-shoes-with-a-navy-suit-style-guide/)
+- ###### Die Workwear | How to Develop Good Taste [Pt. 1](https://dieworkwear.com/2022/08/26/how-to-develop-good-taste-pt-1/), [Pt. 2](https://dieworkwear.com/2022/09/14/how-to-develop-good-taste-pt-2/), [Pt. 3](https://dieworkwear.com/2022/09/23/how-to-develop-good-taste-pt-3/), [Pt. 4](https://dieworkwear.com/2022/10/15/how-to-develop-good-taste-pt-4/)
+
