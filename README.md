@@ -9,3 +9,5 @@
 ## [Mathematics](mathematics/index.md)
 
 ## [Physics](physics/index.md)
+
+## [Sociology](sociology/index.md)
