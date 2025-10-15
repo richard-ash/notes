@@ -8,6 +8,9 @@
 - [Peter Attia | #296 ‒ Foot health: preventing and treating common injuries, enhancing strength and mobility, picking footwear, and more | Courtney Conley, D.C.](https://peterattiamd.com/courtneyconley/)
 ## Cardiovascular Disease
 - [Cardiovascular disease is a solved problem](https://totalhealthoptimization.com/2025/09/27/cardiovascular-disease-is-a-solved-problem/)
+- [The LDL cumulative exposure hypothesis: evidence and practical applications](https://www.nature.com/articles/s41569-024-01039-5)
+- [Peter Attia | Understanding cardiovascular disease risk, cholesterol, and apoB](https://peterattiamd.com/understanding-cardiovascular-disease/)
+- [Peter Attia | AMA #43: A racecar analogy for understanding atherosclerotic cardiovascular disease](https://peterattiamd.com/ama43/)
 ## [Low-level laser therapy](https://en.wikipedia.org/wiki/Low-level_laser_therapy)
 - ### Red Light Therapy
 	- [Peter Attia | #326 – AMA #65: Red light therapy: promising applications, mixed evidence, and impact on health and aging](https://peterattiamd.com/ama65/)
