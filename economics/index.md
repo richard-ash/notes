@@ -6,6 +6,9 @@
 	- #### WWII
 		- [Did the U.S. Really Grow Out of Its World War II Debt?](https://www.nber.org/papers/w31577
 		- [Economic Principles: How the Economic Machine Works](http://www.economicprinciples.org/)
+- ### Labor Markets
+  - [Robinson Meets Roy: Monopsony Power and Comparative Advantage](https://www.nber.org/papers/w34165)
+  	- [Discussion with GPT-5](https://chatgpt.com/share/68b76359-775c-8002-82e4-67e00a085581) 
 ## Microeconomics
 - ### Households and Firms
 	- [Rising Markups and the Role of Consumer Preferences](https://www.nber.org/papers/w32739)
