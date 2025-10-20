@@ -104,6 +104,10 @@
 	- ###### [Joseph Henrich](https://en.wikipedia.org/wiki/Joseph_Henrich)
 		- [_The WEIRDest People in the World_](https://en.wikipedia.org/wiki/The_WEIRDest_People_in_the_World)
 		- [Dwarkesh Podcast | Joseph Henrich – Why Humans Survived and Smarter Species Didn't](https://www.dwarkesh.com/p/joseph-henrich)
+- ### [Biochemist](https://en.wikipedia.org/wiki/Biochemist)
+	- ###### [Nick Lane](https://en.wikipedia.org/wiki/Nick_Lane)
+		- _The Vital Question_ (2015)
+		- [Dwarkesh Podcast | Nick Lane – Life as we know it is chemically inevitable](https://www.dwarkesh.com/p/nick-lane)
 - ### Complex Systems
 	- ###### [J. Doyne Farmer](https://en.wikipedia.org/wiki/J._Doyne_Farmer)
 		- _Making Sense of Chaos: A Better Economics for a Better World_ (2024)
