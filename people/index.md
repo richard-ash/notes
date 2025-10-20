@@ -106,7 +106,7 @@
 		- [Dwarkesh Podcast | Joseph Henrich – Why Humans Survived and Smarter Species Didn't](https://www.dwarkesh.com/p/joseph-henrich)
 - ### Complex Systems
 	- ###### [J. Doyne Farmer](https://en.wikipedia.org/wiki/J._Doyne_Farmer)
-		- _Making Sense of Chaos: A Better Economics for a Better World_
+		- _Making Sense of Chaos: A Better Economics for a Better World_ (2024)
 - ### [Economist](https://en.wikipedia.org/wiki/Economist)
 	- ###### [Austan Goolsbee](https://en.wikipedia.org/wiki/Austan_Goolsbee)
 		- [Conversations with Tyler | Austan Goolsbee on Central Banking as a Data Dog](https://conversationswithtyler.com/episodes/austan-goolsbee/)
