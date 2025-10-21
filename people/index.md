@@ -111,6 +111,10 @@
 - ### Complex Systems
 	- ###### [J. Doyne Farmer](https://en.wikipedia.org/wiki/J._Doyne_Farmer)
 		- _Making Sense of Chaos: A Better Economics for a Better World_ (2024)
+- ### [Computer Scientist](https://en.wikipedia.org/wiki/Computer_scientist)
+	- ###### [Richard Sutton](https://en.wikipedia.org/wiki/Richard_S._Sutton)
+		- [_The Bitter Lesson_](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) (2019)
+		- [Dwarkesh Podcast | Richard Sutton – Father of RL thinks LLMs are a dead end](https://www.dwarkesh.com/p/richard-sutton)
 - ### [Economist](https://en.wikipedia.org/wiki/Economist)
 	- ###### [Austan Goolsbee](https://en.wikipedia.org/wiki/Austan_Goolsbee)
 		- [Conversations with Tyler | Austan Goolsbee on Central Banking as a Data Dog](https://conversationswithtyler.com/episodes/austan-goolsbee/)
