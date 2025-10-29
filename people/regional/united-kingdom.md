@@ -1,4 +1,6 @@
-
+## Art
+- ###### [William Shakespeare (1564 – 1616)](https://en.wikipedia.org/wiki/William_Shakespeare)
+	- _Richard III_ (1592–1594)
 ## Economist
 - ###### [John Maynard Keynes (1883 – 1946)](https://en.wikipedia.org/wiki/John_Maynard_Keynes)
 	- _The Price of Peace: Money, Democracy, and the Life of John Maynard Keynes_
