@@ -27,6 +27,7 @@
 - ### Market Structure and Distribution
 	- [The Micro-Aggregated Profit Share](https://arxiv.org/abs/2309.12945)
 	- [Organizational Structure and Pricing: Evidence from a Large U.S. Airline](https://www.nber.org/papers/w29508)
+	- [Who Benefits from Surge Pricing?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3245533)
 - [Why Fiddling With Prices Doesn't Work](https://www.farnamstreetblog.com/2016/05/joseph-heath-market-prices/)
 - [The Baumol Effect](https://marginalrevolution.com/marginalrevolution/2019/05/the-baumol-effect.html)
 ## [Political Economy](https://en.wikipedia.org/wiki/Political_economy)
