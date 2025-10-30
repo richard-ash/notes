@@ -1,22 +1,14 @@
-## [Company Tracker](tracker.md)
-## Aquaculture
-- [Ulysses Ecosystem Engineering Inc.](https://www.ulysses.eco/)
-	- [First Principles | He Built an Autonomous Underwater Drone | Akhil Voorakkara, Ulysses](https://www.youtube.com/watch?v=h-SVYnUgSUE&list=WL&index=66)
-## Biotechnology
-- ### Epigenetics
-	- [turn.bio](https://www.turn.bio/)
-## Energy
-- ### Natural Gas
-	- [Terraform Industries](https://terraformindustries.com/)
-- ### [Nuclear](engineering/nuclear/index.md)
-	- [Aalo Atomics](https://www.aalo.com/)
-## Health
-- ### Fertility
-	- #### In Vitro Fertilization (IVF)
-		- [gameto](https://www.gametogen.com/)
-## Neuroscience
-- [E11 Bio](https://e11.bio/)
-	- [A New Method to Map the Brain: Infect It With a Virus](https://www.bloomberg.com/news/articles/2024-12-03/ex-google-ceo-wants-to-learn-about-brains-by-infecting-them)
-## Society
-- ### Public Safety
-	- [flock safety](https://www.flocksafety.com/)
+## Company Tracker
+
+| Company | Domain | Notes | Last checked | Details |
+| --- | --- | --- | --- | --- |
+| [Aalo Atomics](https://www.aalo.com/) | Energy, nuclear | Early-stage advanced nuclear systems; next-gen compact atomic concepts. | 2025-10-30 | [page](profiles/aalo-atomics.md) |
+| [E11 Bio](https://e11.bio/) | Neuroscience | High-resolution brain mapping technologies; virus-based approaches referenced. | 2025-10-30 | [page](profiles/e11-bio.md) |
+| [Flock Safety](https://www.flocksafety.com/) | Public safety, ALPR | Community safety cameras and analytics; ALPR networks; deployment-specific privacy controls. | 2025-10-30 | [page](profiles/flock-safety.md) |
+| [gameto](https://www.gametogen.com/) | Health, fertility (IVF) | Ovarian therapeutics and IVF innovations; improving outcomes and patient experience. | 2025-10-30 | [page](profiles/gameto.md) |
+| [Happy Ring](https://happyring.fiftyseven.co) | Health tech, medical wearables | Clinical-grade smart ring with multimodal sensors (PPG, EDA, accel, temp) and AI for trials and remote patient monitoring; pending 510(k)/CE; HIPAA/GDPR; EHR integrations and SDK. | 2025-10-30 | [page](profiles/happy-ring.md) |
+| [Mersenne](https://mersenne.com) | Energy, advanced nuclear | Developing STARFALL: ultra-compact terrestrial atomic system (40+ kWe target), long-duration off-grid power, recycle/return EoL; terrestrial, non-ITAR; remote/expeditionary/maritime use cases. | 2025-10-30 | [page](profiles/mersenne.md) |
+| [Nudge](https://www.nudge.com) | Neuroscience, brain-computer interfaces | Building whole-brain interfaces for everyday use; early-stage with studies underway; significant funding. | 2025-10-30 | [page](profiles/nudge.md) |
+| [Terraform Industries](https://terraformindustries.com/) | Energy, synthetic fuels | Power-to-gas: synthetic natural gas from air and electricity; scalable synthetic fuels. | 2025-10-30 | [page](profiles/terraform-industries.md) |
+| [turn.bio](https://www.turn.bio/) | Biotechnology, epigenetics | Cellular reprogramming and epigenetic rejuvenation platform; age-reversal therapeutics focus. | 2025-10-30 | [page](profiles/turn-bio.md) |
+| [Ulysses Ecosystem Engineering Inc.](https://www.ulysses.eco/) | Aquaculture, robotics | Autonomous underwater systems for ecosystem monitoring and intervention; interview available. | 2025-10-30 | [page](profiles/ulysses.md) |
