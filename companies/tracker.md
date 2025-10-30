@@ -1,0 +1,9 @@
+## Company Tracker
+
+| Company                                       | Domain                                  | Related articles / notes                                                                                                                                                                                                                                                       | Last checked |
+| --------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------ |
+| [Happy Ring](https://happyring.fiftyseven.co) | Health tech, medical wearables          | Clinical-grade smart ring with multimodal sensors (PPG, EDA, accel, temp) and AI for trials and remote patient monitoring; pending FDA 510(k)/CE, HIPAA/GDPR aligned. Claims 10x better data vs watches and features EHR integrations and SDK.                                 | 2025-10-30   |
+| [Mersenne](https://mersenne.com)              | Energy, advanced nuclear                | Developing STARFALL: ultra-compact terrestrial atomic system (40+ kWe target), long-duration off-grid power, recycle/return EoL. Roadmap toward space/off-world but STARFALL is terrestrial, non-ITAR. Use cases: remote industrial, disaster relief, expeditionary, maritime. | 2025-10-30   |
+| [Nudge](https://www.nudge.com)                | Neuroscience, brain-computer interfaces | Building whole-brain interfaces for everyday life; early-stage with studies underway and $100M Series A announced; focus on new human–brain interaction modalities.                                                                                                            | 2025-10-30   |
+
+
