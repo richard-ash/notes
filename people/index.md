@@ -86,6 +86,10 @@
 	- #### Russian
 		- ###### [Sergei Rachmaninoff](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff)
 		- ###### [Pyotr Ilyich Tchaikovsky](https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky)
+## Philosophy
+- ###### [Agnes Callard](https://en.wikipedia.org/wiki/Agnes_Callard)
+	- _Open Socrates_ (2025)
+	- [What is Free Speech?](https://www.youtube.com/watch?v=sdOKt1j3WpY&list=WL&index=94)
 ## Politics
 - ### Argentina
 	- ###### [Javier Milei](https://en.wikipedia.org/wiki/Javier_Milei)
