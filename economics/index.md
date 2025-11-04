@@ -35,6 +35,7 @@
 	- [Not in My Back Yard: The Local Political Economy of Residential Land-Use Regulations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5020069)
 	- [Why Has Construction Productivity Stagnated? The Role of Land-Use Regulation](https://www.nber.org/papers/w33188)
 	- [Why Is Manhattan So Expensive? Regulation and the Rise in Housing Prices](https://doi.org/10.1086/429979)
+	- [America's Housing Supply Problem: The Closing of the Suburban Frontier?](https://www.nber.org/papers/w33876)
 	- [The fewer the merrier: The merits of unified land ownership](https://www.worksinprogress.news/p/the-fewer-the-merrier)
 ## Public Economics
 - [America, Jump-started: World War II R&D and the Takeoff of the U.S. Innovation System](https://www.nber.org/papers/w27375)
