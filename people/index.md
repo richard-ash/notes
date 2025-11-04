@@ -126,6 +126,7 @@
 		- [Conversations with Tyler | Gregory Clark on on Social Mobility, Migration, and Assortative Mating (Ep. 234 - Live at Mercatus)](https://conversationswithtyler.com/episodes/gregory-clark/)
 	- ###### [Friedrich Hayek](https://en.wikipedia.org/wiki/Friedrich_Hayek)
 		- [The Use of Knowledge in Society](https://www.jstor.org/stable/1809376)
+		- [Competition as a Discovery Procedure](https://cdn.mises.org/qjae5_3_3.pdf)
 	- ###### [Kenneth Rogoff](https://en.wikipedia.org/wiki/Kenneth_Rogoff)
 		- [Conversations with Tyler | Kenneth Rogoff on Monetary Moves, Fiscal Gambits, and Classical Chess (Ep. 241)](https://conversationswithtyler.com/episodes/kenneth-rogoff/)
 		- [Dwarkesh Podcast | “China’s digging out of a crisis. And America’s luck is wearing thin.” — Ken Rogoff](https://www.dwarkesh.com/p/ken-rogoff)
