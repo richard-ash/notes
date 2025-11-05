@@ -127,6 +127,8 @@
 	- ###### [Kenneth Rogoff](https://en.wikipedia.org/wiki/Kenneth_Rogoff)
 		- [Conversations with Tyler | Kenneth Rogoff on Monetary Moves, Fiscal Gambits, and Classical Chess (Ep. 241)](https://conversationswithtyler.com/episodes/kenneth-rogoff/)
 		- [Dwarkesh Podcast | “China’s digging out of a crisis. And America’s luck is wearing thin.” — Ken Rogoff](https://www.dwarkesh.com/p/ken-rogoff)
+	- ###### [Yasheng Huang](https://en.wikipedia.org/wiki/Yasheng_Huang)
+		- [Conversations with Tyler | Yasheng Huang on the Development of the Chinese State (Ep. 173)](https://conversationswithtyler.com/episodes/yasheng-huang/)
 - ### [Geneticist](https://en.wikipedia.org/wiki/Geneticist)
 	- ###### [David Reich](https://en.wikipedia.org/wiki/David_Reich_(geneticist))
 		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
