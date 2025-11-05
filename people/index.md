@@ -4,6 +4,9 @@
 		- _The Adventures of Tintin_
 - ### Painter
 	- ###### [David Hockney](https://en.wikipedia.org/wiki/David_Hockney)
+- ### Photographer
+	- ###### Seamus Murphy
+		- [Conversations with Tyler | Seamus Murphy on Photographing Patterns Across Cultures (Ep. 253)](https://conversationswithtyler.com/episodes/seamus-murphy/)
 - ### Sculptor
 	- ###### [Auguste Rodin](https://en.wikipedia.org/wiki/Auguste_Rodin)
 		- _The Thinker_
