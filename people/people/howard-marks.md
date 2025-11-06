@@ -7,3 +7,4 @@
 		- [More on Repealing the Laws of Economics](https://www.oaktreecapital.com/insights/memo/more-on-repealing-the-laws-of-economics)
 		- [The Calculus of Value](https://www.oaktreecapital.com/insights/memo/the-calculus-of-value)
 		- [A Look Under the Hood](https://www.oaktreecapital.com/insights/memo/a-look-under-the-hood)
+		- [Cockroaches in the Coal Mine](https://www.oaktreecapital.com/insights/memo/cockroaches-in-the-coal-mine)
