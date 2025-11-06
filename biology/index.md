@@ -9,3 +9,4 @@
 		- [ChatGPT](https://chatgpt.com/c/67ce732c-f5b4-8002-80a2-29725538257f)
 ## Immunology
 - [Nonuniversality of inflammaging across human populations](immunology/nonuniversality-of-inflammaging-across-human-populations.md)
+- [A body–brain circuit that regulates body inflammatory responses](https://www.nature.com/articles/s41586-024-07469-y)
