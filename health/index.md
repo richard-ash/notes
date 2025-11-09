@@ -15,6 +15,7 @@
 - ### Red Light Therapy
 	- [Peter Attia | #326 – AMA #65: Red light therapy: promising applications, mixed evidence, and impact on health and aging](https://peterattiamd.com/ama65/)
 ## [Nutrition](https://en.wikipedia.org/wiki/Nutrition)
+- [When a calorie is not just a calorie: Diet quality and timing as mediators of metabolism and healthy aging](https://pubmed.ncbi.nlm.nih.gov/37392742/)
 - [Peter Attia | #328 – AMA #66: Optimizing nutrition for health and longevity: myth of a "best" diet, complexities of nutrition science, and practical steps for building a sustainable diet](https://peterattiamd.com/ama66/)
 - [Peter Attia | AMA #72: Revisiting fasting: benefits, risks, and how to fast in a way that supports your goals](https://peterattiamd.com/ama72/)
 ## Physical Fitness
