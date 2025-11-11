@@ -13,6 +13,3 @@ Geothermal energy company developing Superhot Rock (SHR) enhanced geothermal sys
 ## Related articles
 - Site: https://mazamaenergy.com
 
-## Timeline / Updates
-- 2025-10-30: Added to tracker; reviewed SHR technology and Newberry project
-

@@ -8,6 +8,3 @@ Advanced nuclear company working on next-generation atomic systems.
 
 ## Related articles
 - Site: https://www.aalo.com/
-
-## Timeline / Updates
-- 2025-10-30: Added detail page

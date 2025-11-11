@@ -9,6 +9,3 @@ Neuroscience company exploring whole-brain human–computer interfaces for every
 
 ## Related articles
 - Site: https://www.nudge.com
-
-## Timeline / Updates
-- 2025-10-30: Added to tracker; initial positioning noted

@@ -11,6 +11,3 @@ Semiconductor foundry company building America's next-generation semiconductor f
 ## Related articles
 - Site: https://substrate.com
 
-## Timeline / Updates
-- 2025-10-30: Added to tracker; reviewed company mission and positioning
-

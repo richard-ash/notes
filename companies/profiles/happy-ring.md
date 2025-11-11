@@ -10,6 +10,3 @@ Health tech company building a clinical-grade smart ring with multimodal sensors
 
 ## Related articles
 - Site: https://happyring.fiftyseven.co
-
-## Timeline / Updates
-- 2025-10-30: Added to tracker; reviewed product and claims

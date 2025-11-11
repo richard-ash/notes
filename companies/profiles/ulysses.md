@@ -9,6 +9,3 @@ Aquaculture robotics company building autonomous underwater systems.
 ## Related articles
 - Interview: https://www.youtube.com/watch?v=h-SVYnUgSUE&list=WL&index=66
 - Site: https://www.ulysses.eco/
-
-## Timeline / Updates
-- 2025-10-30: Added detail page

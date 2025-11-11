@@ -10,6 +10,3 @@ Energy company developing STARFALL, an ultra-compact terrestrial atomic system f
 
 ## Related articles
 - Site: https://mersenne.com
-
-## Timeline / Updates
-- 2025-10-30: Added to tracker; summarized STARFALL positioning

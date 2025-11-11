@@ -8,6 +8,3 @@ Biotech company focused on cellular reprogramming and epigenetic rejuvenation.
 
 ## Related articles
 - Site: https://www.turn.bio/
-
-## Timeline / Updates
-- 2025-10-30: Added detail page

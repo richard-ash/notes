@@ -8,6 +8,3 @@ Public safety technology company providing license plate recognition (ALPR) and 
 
 ## Related articles
 - Site: https://www.flocksafety.com/
-
-## Timeline / Updates
-- 2025-10-30: Added detail page
