@@ -8,6 +8,4 @@ Energy company producing synthetic natural gas from air and electricity.
 
 ## Related articles
 - Site: https://terraformindustries.com/
-
-## Timeline / Updates
-- 2025-10-30: Added detail page
+- [Cheeky Pint | Casey Handmer of Terraform Industries on solar maximalism, hard tech, and reclaiming the Salton Sea](https://cheekypint.substack.com/p/casey-handmer-of-terraform-industries)
