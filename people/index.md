@@ -145,9 +145,6 @@
 		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
 	- ###### [George Church](https://en.wikipedia.org/wiki/George_Church_(geneticist))
 		- [Dwarkesh Podcast | Godfather of Synthetic Bio on De-Aging, De-Extinction, & Weaponized Mirror Life — George Church](https://www.dwarkesh.com/p/george-church)
-- ### Mathematician
-	- ###### [John von Neumann](https://en.wikipedia.org/wiki/John_von_Neumann)
-		- _[Can we Survive Technology? | 1955](https://sseh.uchicago.edu/doc/von_Neumann_1955.pdf)_
 - ### [Physicist](https://en.wikipedia.org/wiki/Physicist)
 	- ###### Adam Brown
 		- [Dwarkesh Podcast | Adam Brown – How Future Civilizations Could Change The Laws of Physics](https://www.dwarkeshpatel.com/p/adam-brown)
