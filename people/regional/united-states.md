@@ -1,6 +1,9 @@
 ## Art
 - ### Visual Artist
 	- ###### [Ruth Asawa (1926 – 2013)](https://en.wikipedia.org/wiki/Ruth_Asawa)
+## Attorney
+- ###### [William Rehnquist (1924 – 2005)](https://en.wikipedia.org/wiki/William_Rehnquist)
+	- _The Supreme Court_ (1987)
 ## Business
 - ###### [Joe Coulombe (1930 – 2020)](https://en.wikipedia.org/wiki/Joe_Coulombe)
 	- _Becoming Trader Joe: How I Did Business My Way and Still Beat the Big Guys_ (2021)
