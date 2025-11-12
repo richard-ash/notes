@@ -1,7 +1,4 @@
 ## Art
-- ### Comics
-	- ###### [Hergé](https://en.wikipedia.org/wiki/Herg%C3%A9)
-		- _The Adventures of Tintin_
 - ### Conductor
 	- ###### [David Robertson](https://en.wikipedia.org/wiki/David_Robertson_(conductor))
 		- [Conversations with Tyler | David Robertson on Conducting, Pierre Boulez, and Musical Interpretation (Ep.248)](https://conversationswithtyler.com/episodes/david-robertson/)
