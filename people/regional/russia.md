@@ -1,3 +1,7 @@
+## Art
+- ### Composer
+	- ###### [Dmitri Shostakovich (1906 – 1975)](https://en.wikipedia.org/wiki/Dmitri_Shostakovich)
+		- _Symphony No. 15_ (1971)
 ## Politics
 - ###### [Vladimir Lenin (1870 - 1924)](https://en.wikipedia.org/wiki/Vladimir_Lenin)
 - ###### [Lev Kamenev (1883 – 1936)](https://en.wikipedia.org/wiki/Lev_Kamenev)
