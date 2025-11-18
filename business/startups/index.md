@@ -17,3 +17,6 @@
 - ### AI Product Development
   - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
   - [Unstructured Input in AI Apps Instead of Web Forms](https://www.lukew.com/ff/entry.asp?2120)
+
+## Startup Culture
+- [Investing 101 | "Build What's Fundable"](https://investing101.substack.com/p/build-whats-fundable)
