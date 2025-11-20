@@ -7,6 +7,9 @@
 ## Politics
 - ###### [Edmund Burke (1729 – 1797)](https://en.wikipedia.org/wiki/Edmund_Burke)
 	- _[Reflections on the Revolution in France](https://en.wikipedia.org/wiki/Reflections_on_the_Revolution_in_France)_ (1790)
+- ###### [John Emerich Edward Dalberg-Acton (1834 – 1902)](https://en.wikipedia.org/wiki/John_Dalberg-Acton,_1st_Baron_Acton)
+	- _Letter to Archbishop Mandell Creighton_ (1887)
+		- "Power tends to corrupt, and absolute power corrupts absolutely"
 - ###### [Winston Churchill (1874 – 1965)](https://en.wikipedia.org/wiki/Winston_Churchill)
 	- _The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932_
 	- _The Last Lion: Winston Spencer Churchill: Alone, 1932-40_
