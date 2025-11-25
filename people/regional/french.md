@@ -1,0 +1,11 @@
+## Art
+- ### Painter
+	- ###### [Édouard Manet (1832 – 1883)](https://en.wikipedia.org/wiki/Édouard_Manet)
+		- _The Balcony_ (1868–69)
+		- _Berthe Morisot With a Bouquet of Violets_ (1872)
+		- _L'Automne (Méry Laurent)_ (1881)
+		- _Le Printemps (Spring)_ (1881)
+	- ###### [Berthe Morisot (1841 – 1895)](https://en.wikipedia.org/wiki/Berthe_Morisot)
+		- _Young woman by a window_ (1880)
+		- _Woman with a Muff_ (1880)
+		- _Before the Mirror_ (1890)
