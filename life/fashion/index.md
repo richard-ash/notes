@@ -8,6 +8,7 @@
 - [How To Take Care Of Your Shoes](https://www.putthison.com/how-to-take-care-of-your-shoes/)
 - [Q & Answer: Fear And Clothing (aka How To Take Care Of Your Suede Shoes)](https://www.putthison.com/q-answer-fear-and-clothing-aka-how-to-take/)
 - [derek guy @dieworkwear on "How to Buy Better Shoes Without Spending More Money"](https://twitter.com/dieworkwear/status/1744482937159168341?t=70wCpJciyncubvskFa80Cw)
+- [The Shoe Snob | The 5 Essential Dress Shoes Every Man Should Own](https://theshoesnobblog.com/essential-dress-shoes/)
 - ### Leather
 	- [How to Buy Leather Shoes That Don't Hurt](https://x.com/dieworkwear/status/1717674630113333338)
 - ### Loafers
