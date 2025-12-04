@@ -10,3 +10,5 @@
 ## Immunology
 - [Nonuniversality of inflammaging across human populations](immunology/nonuniversality-of-inflammaging-across-human-populations.md)
 - [A body–brain circuit that regulates body inflammatory responses](https://www.nature.com/articles/s41586-024-07469-y)
+## Plant Biology
+- [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
