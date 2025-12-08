@@ -24,6 +24,8 @@
 	- [The Pandemic That Didn't Break the Internet](https://www.city-journal.org/america-robust-information-infrastructure)
 	- [Four functions of markets](https://www.interfluidity.com/v2/7333.html)
 	- [Should markets clear?](https://www.interfluidity.com/v2/5117.html)
+	- ### Competition Policy
+		- [How to measure competition](https://www.worksinprogress.news/p/how-to-measure-competition) (uses [Olley-Pakes decomposition](../../statistics/techniques/olley-pakes-decomposition.md))
 - ### Market Structure and Distribution
 	- [The Micro-Aggregated Profit Share](https://arxiv.org/abs/2309.12945)
 	- [Organizational Structure and Pricing: Evidence from a Large U.S. Airline](https://www.nber.org/papers/w29508)
