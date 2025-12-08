@@ -14,3 +14,5 @@
 - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
 ## Neuroscience
 - [Psilocybin desynchronizes the human brain](https://www.nature.com/articles/s41586-024-07624-5)
+## Aging
+- [An overview of contemporary theories of ageing](https://www.nature.com/articles/s41556-025-01698-7)
