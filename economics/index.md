@@ -54,6 +54,7 @@
 - [The Deployment Age](https://reactionwheel.net/2015/10/the-deployment-age.html)
 - [AI Will Not Make You Rich](https://joincolossus.com/article/ai-will-not-make-you-rich/)
 - [Andrej Karpathy on AI's impact on the economy](https://x.com/karpathy/status/1990116666194456651)
+- [Do Markets Believe in Transformative AI?](https://economics.mit.edu/sites/default/files/2025-09/Do%20Markets%20Believe%20in%20Transformative%20AI.pdf) (Andrews & Farboodi, 2025)
 ## [Returns to Scale](https://en.wikipedia.org/wiki/Returns_to_scale)
 - [There is no such thing as Decreasing Returns to Scale](https://blog.supplysideliberal.com/post/2017/5/29/there-is-no-such-thing-as-decreasing-returns-to-scale)
 - [Increasing Returns and the New World of Business](https://hbr.org/1996/07/increasing-returns-and-the-new-world-of-business)
