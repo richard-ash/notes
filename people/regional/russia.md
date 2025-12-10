@@ -1,5 +1,7 @@
 ## Art
 - ### Composer
+	- ###### [Pyotr Ilyich Tchaikovsky (1840 – 1893)](https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky)
+		- _The Nutcracker_ (1892)
 	- ###### [Dmitri Shostakovich (1906 – 1975)](https://en.wikipedia.org/wiki/Dmitri_Shostakovich)
 		- _Symphony No. 15_ (1971)
 ## Politics
