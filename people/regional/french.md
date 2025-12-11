@@ -9,3 +9,5 @@
 		- _Young woman by a window_ (1880)
 		- _Woman with a Muff_ (1880)
 		- _Before the Mirror_ (1890)
+	- ###### [Oscar-Claude Monet (1840 – 1926)](https://en.wikipedia.org/wiki/Claude_Monet)
+		- _Water Lilies_ (1840–1926)
