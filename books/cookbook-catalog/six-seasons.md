@@ -185,7 +185,7 @@
 - Burnt Carrots with Honey, Black Pepper, Butter, and Almonds
 - Carrot Pie in a Pecan Crust
 - Rainbow Chard with Garlic and Jalapeños
-- Spaghetti with Swiss Chard, Pine Nuts, Raisins, and Chiles
+- ~~Spaghetti with Swiss Chard, Pine Nuts, Raisins, and Chiles~~
 - Swiss Chard, Leek, Herb, and Ricotta Crostata
 - Shaved Collard Greens with Cashews and Pickled Peppers
 - Collards with Freekeh, Hazelnuts, and Grapes
