@@ -132,6 +132,8 @@
 	- ###### [Richard Sutton](https://en.wikipedia.org/wiki/Richard_S._Sutton)
 		- [_The Bitter Lesson_](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) (2019)
 		- [Dwarkesh Podcast | Richard Sutton – Father of RL thinks LLMs are a dead end](https://www.dwarkesh.com/p/richard-sutton)
+	- ###### Sergey Levine
+		- [Dwarkesh Podcast | Fully autonomous robots are much closer than you think](https://www.dwarkesh.com/p/sergey-levine)
 - ### [Economist](https://en.wikipedia.org/wiki/Economist)
 	- ###### [Austan Goolsbee](https://en.wikipedia.org/wiki/Austan_Goolsbee)
 		- [Conversations with Tyler | Austan Goolsbee on Central Banking as a Data Dog](https://conversationswithtyler.com/episodes/austan-goolsbee/)
