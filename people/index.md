@@ -67,6 +67,8 @@
 		- [Dwarkesh Podcast | Satya Nadella – Microsoft’s AGI Plan & Quantum Breakthrough](https://www.dwarkesh.com/p/satya-nadella)
 ## Investor
 - ### Hedge Funds
+	- ###### Daniel Sundheim
+		- [Cheeky Pint | Dan Sundheim of D1 Capital on the art of public market investing](https://cheekypint.substack.com/p/dan-sundheim-of-d1-capital-on-the)
 	- ###### [John D. Arnold](https://en.wikipedia.org/wiki/John_D._Arnold)
 		- [Conversations with Tyler | John Arnold on Trading, Energy, and Evidence-Based Philanthropy (Ep. 244)](https://conversationswithtyler.com/episodes/john-arnold/)
 - ### Venture Capital
@@ -75,8 +77,6 @@
 			- [Mr. and Mrs. Psmith's Bookshelf | REVIEW: The Hard Thing About Hard Things, by Ben Horowitz](https://www.thepsmiths.com/p/review-the-hard-thing-about-hard)
 	- ###### [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)
 		- [Joe Rogan Experience #2234 - Marc Andreessen](https://www.youtube.com/watch?v=ye8MOfxD5nU)
-- ###### Daniel Sundheim
-	- [Cheeky Pint | Dan Sundheim of D1 Capital on the art of public market investing](https://cheekypint.substack.com/p/dan-sundheim-of-d1-capital-on-the)
 - ###### [Howard Marks](people/people/howard-marks.md)
 - ###### [Michael J. Mauboussin](michael-j-mauboussin.md)
 - ###### [Warren Buffett](warren-buffet.md)
