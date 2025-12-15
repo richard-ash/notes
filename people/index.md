@@ -57,6 +57,8 @@
 - ### Technology
 	- ###### Benedict Evans
 		- [The Knowledge Project Podcast | Benedict Evans: Why AI Isn’t What You Think](https://fs.blog/knowledge-project-podcast/benedict-evans/)
+	- ###### [Dan Wang](https://en.wikipedia.org/wiki/Dan_Wang)
+		- [Conversations with Tyler | Dan Wang on What China and America Can Learn from Each Other (Ep. 263)](https://conversationswithtyler.com/episodes/dan-wang/)
 	- ###### Jack Clark
 		- [Conversations with Tyler | Jack Clark on AI's Uneven Impact (Ep. 242)](https://conversationswithtyler.com/episodes/jack-clark/)
 	- ###### [Randy Komisar](https://en.wikipedia.org/wiki/Randy_Komisar)
