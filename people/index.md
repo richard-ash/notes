@@ -26,6 +26,8 @@
 	- ###### [Murad Al-Katib](https://en.wikipedia.org/wiki/Murad_Al-Katib)
 		- [Odd Lots | What The 'Lentil King of Saskatchewan' Knows About World Trade](https://omny.fm/shows/odd-lots/what-the-lentil-king-of-saskatchewan-knows-about-world-trade)
 	- ###### [Paul Graham](people/people/paul-graham.md)
+	- ###### [William Marshall](https://en.wikipedia.org/wiki/William_Marshall_(entrepreneur))
+		- [Core Memory | Aliens, AI, and Saving the Planet - EP 43 Will Marshall](https://www.corememory.com/p/aliens-ai-and-planet-labs-will-marshall-space)
 - ### Government
 	- ###### [Jennifer Pahlka](https://en.wikipedia.org/wiki/Jennifer_Pahlka)
 		- [Conversations with Tyler | Jennifer Pahlka on Reforming Government (Ep. 238)](https://conversationswithtyler.com/episodes/jennifer-pahlka/)
