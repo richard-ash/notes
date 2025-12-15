@@ -98,7 +98,6 @@
 		- ###### [Franz Schubert](https://en.wikipedia.org/wiki/Franz_Schubert)
 	- #### Russian
 		- ###### [Sergei Rachmaninoff](https://en.wikipedia.org/wiki/Sergei_Rachmaninoff)
-		- ###### [Pyotr Ilyich Tchaikovsky](https://en.wikipedia.org/wiki/Pyotr_Ilyich_Tchaikovsky)
 ## Philosophy
 - ###### [Agnes Callard](https://en.wikipedia.org/wiki/Agnes_Callard)
 	- _Open Socrates_ (2025)
