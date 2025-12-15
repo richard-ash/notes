@@ -66,6 +66,9 @@
 	- ###### [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella)
 		- [Dwarkesh Podcast | Satya Nadella – Microsoft’s AGI Plan & Quantum Breakthrough](https://www.dwarkesh.com/p/satya-nadella)
 ## Investor
+- ### Hedge Funds
+	- ###### [John D. Arnold](https://en.wikipedia.org/wiki/John_D._Arnold)
+		- [Conversations with Tyler | John Arnold on Trading, Energy, and Evidence-Based Philanthropy (Ep. 244)](https://conversationswithtyler.com/episodes/john-arnold/)
 - ### Venture Capital
 	- ###### [Ben Horowitz](https://en.wikipedia.org/wiki/Ben_Horowitz)
 		- *The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers*
