@@ -9,6 +9,8 @@
 		- [Economic Principles: How the Economic Machine Works](http://www.economicprinciples.org/)
 		- [How the US Built 5,000 Ships in WWII](https://www.construction-physics.com/p/how-the-us-built-5000-ships-in-wwii)
 			- [WWII Shipbuilding Analysis](analysis/wwii-shipbuilding-analysis.md)
+	- #### Demographics
+		- [The Impact of Maternal Mortality Improvements on the Baby Boom](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538679)
 - ### Labor Markets
   - [Robinson Meets Roy: Monopsony Power and Comparative Advantage](https://www.nber.org/papers/w34165)
   	- [Discussion with GPT-5](https://chatgpt.com/share/68b76359-775c-8002-82e4-67e00a085581) 
