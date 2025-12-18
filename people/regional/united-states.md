@@ -17,3 +17,7 @@
 - ## Biologist
 	- ###### [E.O. Wilson (1929 – 2021)](https://en.wikipedia.org/wiki/E._O._Wilson)
 		- _The Social Conquest of Earth_ (2012)
+# Social Science
+- ## Economist
+	- ###### [Milton Friedman (1912 – 2006)](https://en.wikipedia.org/wiki/Milton_Friedman)
+		- [Phil Donahue Show | Milton Friedman](https://www.youtube.com/watch?v=1EwaLys3Zak&list=WL&index=70&t=492s) (1979)
