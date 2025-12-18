@@ -13,3 +13,7 @@
 # Politics
 - ###### [Thomas Paine (1737 – 1809)](https://en.wikipedia.org/wiki/Thomas_Paine)
 	- _[Rights of Man](https://en.wikipedia.org/wiki/Rights_of_Man)_ (1791)
+# Scientist
+- ## Biologist
+	- ###### [E.O. Wilson (1929 – 2021)](https://en.wikipedia.org/wiki/E._O._Wilson)
+		- _The Social Conquest of Earth_ (2012)
