@@ -197,7 +197,7 @@
 - [ ] Kale and Mushroom Lasagna
 - [ ] Double-Mushroom Toast with Bottarga
 - [ ] Roasted Mushrooms, Gremolata-Style
-- [ ] Mushrooms, Sausage, and Rigatoni
+- [x] Mushrooms, Sausage, and Rigatoni
 - [ ] Sautéed Mushrooms and Mussels in Cream on Sliced Steak
 - [ ] Crispy Mushrooms with Green Herb Mayonnaise
 
