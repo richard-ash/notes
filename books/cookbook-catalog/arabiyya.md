@@ -56,7 +56,7 @@
 
 ## Mezze • Small Plates
 
-- [ ] Hummus • حمص • Chickpea-Tahini Spread
+- [x] Hummus • حمص • Chickpea-Tahini Spread
 - [ ] Hummus bil Awarma • حمص بالقاورما • Hummus with Spiced Lamb
 - [ ] Baba Ghanouj • بابا غنوج • Charred Eggplant Salad
 - [x] Muhammara • محمرة • Roasted Red Pepper–Walnut Spread
