@@ -24,7 +24,7 @@
 - [ ] Sugar Cookies
 - [ ] Stained Glass Holiday Cookies
 - [ ] Sugar Cookie House Instructions
-- [ ] Gingerbread Cookies
+- [x] Gingerbread Cookies
 - [ ] Ginger Snaps
 - [x] Soft Molasses Cookies
 - [ ] Linzer Cookies
