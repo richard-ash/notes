@@ -48,7 +48,7 @@
 	- ###### Recipes
 		- [Professional Baker Teaches You How To Make PITA BREAD!](https://www.youtube.com/watch?v=pgdMwgqS5iE)
 		- [The Secret Technique That Makes Egyptian Pita Perfect](https://www.youtube.com/watch?v=d-sFn81WzWo)
-		- [Ryan Nordheimer | Fluffiest Pita](https://ryannordheimer.com/pita/)
+		- [Ryan Nordheimer | Fluffiest Pita](https://ryannordheimer.substack.com/p/dinner-party-grilled-chicken-shawarma)
 - #### [Kafta](https://en.wikipedia.org/wiki/Kofta)
 	- ###### Recipes
 		- [Maureen Abood | Lebanese Beef Kafta](https://maureenabood.com/lebanese-grilled-kafta/)
