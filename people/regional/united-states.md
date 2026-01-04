@@ -11,6 +11,7 @@
 - ###### [George Bancroft (1800 – 1891)](https://en.wikipedia.org/wiki/George_Bancroft)
 	- _History of the United States of America, from the Discovery of the American Continent_ (1854–1860)
 # Military
+- ###### [George S. Patton (1885 – 1945)](https://en.wikipedia.org/wiki/George_S._Patton)
 - ###### [George C. Marshall (1880 – 1959)](https://en.wikipedia.org/wiki/George_C._Marshall)
 	- _George Marshall: Defender of the Republic_ (2019)
 # Politics
