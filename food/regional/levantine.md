@@ -1,76 +1,76 @@
-### Levantine
-- #### [Baba Ghanouj](https://en.wikipedia.org/wiki/Baba_ghanoush)
+## Levantine
+- ### [Baba Ghanouj](https://en.wikipedia.org/wiki/Baba_ghanoush)
 	- ###### Recipes
 		- [sundaykitchen | Baba Ghanouj (Eggplant Dip)](https://clove.kitchen/recipes/baba-ghanouj-eggplant-dip-RCA_22jpC0Q)
 		- [Maureen Abood | Baba Ganoush](https://maureenabood.com/baba-gannouj-recipe/)
-- #### [Fatayer](https://en.wikipedia.org/wiki/Fatayer)
+- ### [Fatayer](https://en.wikipedia.org/wiki/Fatayer)
 	- ###### Recipes
 		- [Simply Lebanese | Spinach Fatayer](https://www.simplyleb.com/recipe/spinach-fatayer/)
 		- [Maureen Abood | Lebanese Spinach Pie](https://maureenabood.com/lebanese-spinach-pies-fatayer/)
 	- ###### Techniques
 		- [Maureen Abood | How to roll dough for fatayer](https://maureenabood.com/technique-how-to-roll-dough-for-fatayer-spinach-pies/)
 		- [Maureen Abood | The Secret to Perfect Fatayer Dough](https://maureenabood.com/the-secret-to-perfect-fatayer-dough/)
-- #### [Ful medames](https://en.wikipedia.org/wiki/Ful_medames)
-	- ###### Recipes
-		- [Simply Lebanese | Foul (Ful)](https://www.simplyleb.com/recipe/foul-ful/)
-- #### [Freekeh](https://en.wikipedia.org/wiki/Freekeh)
+- ### [Freekeh](https://en.wikipedia.org/wiki/Freekeh)
 	- ###### Recipes
 		- [Simply Lebanese | Freekeh Soup with Chicken](https://www.simplyleb.com/recipe/freekeh-soup-with-chicken/)
-- #### [Hummus](https://en.wikipedia.org/wiki/Hummus)
+- ### [Ful medames](https://en.wikipedia.org/wiki/Ful_medames)
+	- ###### Recipes
+		- [Simply Lebanese | Foul (Ful)](https://www.simplyleb.com/recipe/foul-ful/)
+- ### [Hummus](https://en.wikipedia.org/wiki/Hummus)
 	- ###### Recipes
 		- [Maureen Abood | Hummus](https://maureenabood.com/best-homemade-hummus-recipe/)
 		- [Middle Eats | We Made YouTube's Best Hummus EVEN BETTER!](https://www.youtube.com/watch?v=_1KYLNtXNEs)
-- #### [Hummus bi lahmeh](https://en.wikipedia.org/wiki/Lebanese_cuisine#Chickpea-based_dishes)
+- ### [Hummus bi lahmeh](https://en.wikipedia.org/wiki/Lebanese_cuisine#Chickpea-based_dishes)
 	- ###### Recipes
 		- [Simply Lebanese | Hummus with Beef](https://www.simplyleb.com/recipe/hummus-with-beef/)
 		- [sundaykitchen | Hummos bi Lahme](https://www.instagram.com/reel/DH-XoaqTuYF/)
 		- [Maureen Abood | Hummus Kawarma](https://maureenabood.com/hummus-with-lamb-and-sumac-its-a-texture-thing/)
-- #### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
+- ### [Kafta](https://en.wikipedia.org/wiki/Kofta)
+	- ###### Recipes
+		- [Maureen Abood | Lebanese Beef Kafta](https://maureenabood.com/lebanese-grilled-kafta/)
+- ### [Khubz (Pita)](https://en.wikipedia.org/wiki/Pita)
+	- ###### Recipes
+		- [Professional Baker Teaches You How To Make PITA BREAD!](https://www.youtube.com/watch?v=pgdMwgqS5iE)
+		- [The Secret Technique That Makes Egyptian Pita Perfect](https://www.youtube.com/watch?v=d-sFn81WzWo)
+		- [Ryan Nordheimer | Fluffiest Pita](https://ryannordheimer.substack.com/p/dinner-party-grilled-chicken-shawarma)
+- ### [Ma'amoul](https://en.wikipedia.org/wiki/Ma'amoul)
 	- ###### Recipes
 		- [Maureen Abood | Sitto’s Date Ma’moul](https://maureenabood.com/sittos-date-mamoul/)
 		- [sundaykitchen | Mums Maamoul](https://www.instagram.com/p/DH5QsrpTCok/)
-- #### [Man'ousheh](https://en.wikipedia.org/wiki/Manakish)
+- ### [Man'ousheh](https://en.wikipedia.org/wiki/Manakish)
 	- ###### Recipes
 		- [Maureen Abood | Lebanese man’oushe, za’atar flatbread](https://maureenabood.com/lebanese-manoushe-zaatar-flatbread/)
 		- [sundaykitchen | Za'atar man’oushe](https://www.instagram.com/reel/C91v9QkqH4v/?epik=dj0yJnU9UE5Ob0NZNXFrcHlMTGFPcU5hbXR4VjJXLWYzWGE1VU4mcD0wJm49Z09aWDYzWTBrYUppdFNiTmo2ZW5GdyZ0PUFBQUFBR2Z3SGdV)
 - ### [Moussaka](https://en.wikipedia.org/wiki/Moussaka#Levant)
 	- ###### Recipes
 		- [Simply Lebanese Maghmour (Lebanese Moussaka)](https://www.simplyleb.com/recipe/maghmour/)
-- #### [Mujaddara](https://en.wikipedia.org/wiki/Mujaddara)
+- ### [Mujaddara](https://en.wikipedia.org/wiki/Mujaddara)
 	- ###### Recipes
 		- [Maureen Abood | Lebanese Mujadara](https://maureenabood.com/lebanese-mujadara/)
 		- [Simply Lebanese | Mujadara Hamra](https://www.simplyleb.com/recipe/mujadara-hamra/)
-- #### [Muhammara](https://en.wikipedia.org/wiki/Muhammara)
+- ### [Muhammara](https://en.wikipedia.org/wiki/Muhammara)
 	- ###### Recipes
 		- [Maureen Abood | Muhammara](https://maureenabood.com/roasted-red-pepper-walnut-dip-muhammara/)
-		- [Simply Lebanese | Muhammara](https://www.simplyleb.com/recipe/muhammara/)
-- #### [Khubz (Pita)](https://en.wikipedia.org/wiki/Pita)
-	- ###### Recipes
-		- [Professional Baker Teaches You How To Make PITA BREAD!](https://www.youtube.com/watch?v=pgdMwgqS5iE)
-		- [The Secret Technique That Makes Egyptian Pita Perfect](https://www.youtube.com/watch?v=d-sFn81WzWo)
-		- [Ryan Nordheimer | Fluffiest Pita](https://ryannordheimer.substack.com/p/dinner-party-grilled-chicken-shawarma)
-- #### [Kafta](https://en.wikipedia.org/wiki/Kofta)
-	- ###### Recipes
-		- [Maureen Abood | Lebanese Beef Kafta](https://maureenabood.com/lebanese-grilled-kafta/)
-- #### [Salatet Malfouf](https://en.wikipedia.org/wiki/Malfouf_salad)
+		- [Simply Lebanese | Muhammara](https://www.simplyleb.com/recipe/muhammara/
+- ### [Salatet Malfouf](https://en.wikipedia.org/wiki/Malfouf_salad)
 	- ###### Recipes
 		- [Sunday Kitchen | Salatet Malfouf](https://www.instagram.com/reel/DHnP1LtzgSQ/?epik=dj0yJnU9SENyeC1EUk1UVER3R2kzQTBCRllKeHQtNnMzNWtiWC0mcD0wJm49MXVtazVuaGtYQnVTMm8wbldaRl9SZyZ0PUFBQUFBR2hMYVlR)
-- #### Samke Harra
+- ### Samke Harra
 	- ###### Recipes
 		- [Maureen Abood | Lebanese Spicy Fish with Tahini and Pine Nuts](https://maureenabood.com/lebanese-spicy-fish-with-tahini-and-pine-nuts/)
-- #### [Shish Tawook](https://en.wikipedia.org/wiki/Shish_taouk)
-	- ###### Recipes
-		- [Maureen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
-- #### [Shawarma](https://en.wikipedia.org/wiki/Shawarma)
+- ### [Shawarma](https://en.wikipedia.org/wiki/Shawarma)
 	- ###### Recipes
 		- [Maureen Abood | Chicken Shawarma](https://maureenabood.com/grilled-chicken-shawarma/)
-- #### [Tabbouleh](https://en.wikipedia.org/wiki/Tabbouleh)
+- ### [Shish Tawook](https://en.wikipedia.org/wiki/Shish_taouk)
+	- ###### Recipes
+		- [Maureen Abood | Shish Tawook](https://maureenabood.com/shish-tawook-grilled-chicken-skewers/)
+- ### [Tabbouleh](https://en.wikipedia.org/wiki/Tabbouleh)
 	- ###### Recipes
 		- [Maureen Abood | Tabouli Salad: A Lebanese Tabbouleh Recipe](https://maureenabood.com/lebanese-tabbouleh-salad-recipe/)
-- #### [Toum](https://en.wikipedia.org/wiki/Toum)
+- ### [Toum](https://en.wikipedia.org/wiki/Toum)
 	- ###### Recipes
 		- [Toum (Lebanese Garlic Sauce) - 4 Ingredients + Easy Hack | Vegan Cultures](https://www.youtube.com/watch?v=ZyOXoafZYT0)
 		- [Maureen Abood | Toum Recipe](https://maureenabood.com/toum-lebanese-garlic-sauce/)
-- #### [Warak Enab](https://en.wikipedia.org/wiki/Stuffed_leaves#Levant)
+- ### [Warak Enab](https://en.wikipedia.org/wiki/Stuffed_leaves#Levant)
 	- ###### Recipes
 		- [Maureen Abood | Lebanese Stuffed Grape Leaves](https://maureenabood.com/lebanese-stuffed-grape-leaves/)
