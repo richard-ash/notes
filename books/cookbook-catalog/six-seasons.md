@@ -206,7 +206,7 @@
 - [ ] Steamed Cabbage with Lemon, Butter, and Thyme
 - [ ] Roasted Cabbage with Walnuts, Parmigiano, and Saba
 - [ ] Battered and Fried Cabbage with Crispy Seeds and Lemon
-- [ ] Comforting Cabbage, Onion, and Farro Soup
+- [x] Comforting Cabbage, Onion, and Farro Soup
 - [ ] Cabbage and Mushroom Hand Pies
 - [ ] Celery Root with Brown Butter, Oranges, Dates, and Almonds
 - [ ] Mashed Celery Root with Garlic and Thyme
