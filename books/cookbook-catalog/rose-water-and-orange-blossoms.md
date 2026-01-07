@@ -73,7 +73,7 @@
 
 ## Grains and Legumes
 
-- [ ] Garlicky Lentil Soup with Swiss Chard and Lemon
+- [x] Garlicky Lentil Soup with Swiss Chard and Lemon
 - [x] Toasted Bulgur with Poached Chicken and Cinnamon
 - [x] Mujadara with Crispy Onions
 - [ ] Freekeh with Tomato and Chickpeas
