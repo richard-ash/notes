@@ -4,7 +4,7 @@
 
 - [ ] Cipolle Ripiene • Stuffed Onions
 - [ ] Risotto al Gorgonzola • Risotto with Gorgonzola
-- [ ] Pizzoccheri • Buckwheat Pasta with Potato and Cabbage
+- [x] Pizzoccheri • Buckwheat Pasta with Potato and Cabbage
 - [ ] Risotto alla Milanese • Risotto with Saffron
 - [ ] Tortelli di Crema • Ravioli from Crema
 - [ ] Polenta Taragna • Buckwheat Polenta with Butter and Cheese
