@@ -10,6 +10,9 @@
 - ### [Taco](https://en.wikipedia.org/wiki/Taco)
 	- ###### Recipes
 		- [recipetineats | Prawn Tacos (Shrimp)](https://www.recipetineats.com/prawn-tacos-shrimp/)
+- ### [Tamale](https://en.wikipedia.org/wiki/Tamale)
+	- ###### Recipes
+		- [ThermoWorks | Homemade Tamales: Hot, Delicious, Properly Cooked](https://blog.thermoworks.com/homemade-tamales/)
 - ### [Tortilla](https://en.wikipedia.org/wiki/Tortilla)
 	- ###### Techniques
 		- [Masienda | How to Get Your Tortillas to Puff Every Time](https://masienda.com/blogs/learn/tortilla-puff-tips)
