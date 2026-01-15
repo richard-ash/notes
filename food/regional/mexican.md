@@ -16,3 +16,6 @@
 - ### [Tortilla](https://en.wikipedia.org/wiki/Tortilla)
 	- ###### Techniques
 		- [Masienda | How to Get Your Tortillas to Puff Every Time](https://masienda.com/blogs/learn/tortilla-puff-tips)
+- ### [Tostada](https://en.wikipedia.org/wiki/Tostada_(tortilla))
+	- ###### Recipes
+		- [Tastes Better from Scratch | Tostadas](https://tastesbetterfromscratch.com/tostada/)
