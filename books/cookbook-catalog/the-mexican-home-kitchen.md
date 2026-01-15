@@ -10,7 +10,7 @@
 - [ ] Sopa de Fideo • Mexican Noodle Soup
 - [ ] Menudo • Mexican Tripe Soup
 - [ ] Pozole Rojo • Red Pozole
-- [ ] Pozole Verde de Pollo • Green Pozole with Chicken
+- [x] Pozole Verde de Pollo • Green Pozole with Chicken
 - [ ] Sopa de Tortilla • Tortilla Soup
 
 ## Main Dishes
