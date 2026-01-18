@@ -23,6 +23,7 @@
 	- #### [Pesto alla genovese](https://en.wikipedia.org/wiki/Pesto)
 		- ###### Recipes
 			- [Serious Eats | The Best Pesto alla Genovese (Classic Basil Pesto Sauce)](https://www.seriouseats.com/best-pesto-recipe)
+	- #### [Pizzoccheri](https://en.wikipedia.org/wiki/Pizzoccheri)
 	- #### [Ragù alla bolognese](https://en.wikipedia.org/wiki/Bolognese_sauce)
 		- ###### Recipes
 			- [Kenji's Cooking Show | Ragù Bolognese is Easy, Actually](https://www.youtube.com/watch?v=cvROmO5ODnQ&t=1269s)
