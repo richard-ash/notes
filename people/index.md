@@ -171,6 +171,7 @@
 		- [Dwarkesh Podcast | Xi Jinping’s paranoid approach to AGI, debt crisis, & Politburo politics — Victor Shih](https://www.dwarkesh.com/p/victor-shih)
 	- ###### [Yuval Levin](https://en.wikipedia.org/wiki/Yuval_Levin)
 		- [The Ezra Klein Show | The Breaking of Constitutional Order](https://www.nytimes.com/2025/02/05/opinion/ezra-klein-podcast-yuval-levin.html)
+		- _The Great Debate: Edmund Burke, Thomas Paine, and the Birth of Right and Left_ (2014)
 - ### Social
 	- #### International
 		- ###### [Yasheng Huang](https://en.wikipedia.org/wiki/Yasheng_Huang)
