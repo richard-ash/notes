@@ -13,6 +13,7 @@
 - [Nonuniversality of inflammaging across human populations](immunology/nonuniversality-of-inflammaging-across-human-populations.md)
 - [A body–brain circuit that regulates body inflammatory responses](https://www.nature.com/articles/s41586-024-07469-y)
 ## Neuroscience
+- [Creatine Supplementation and the Brain: Have We Put the Cart Before the Horse?](https://pubmed.ncbi.nlm.nih.gov/41556609/) - Review of creatine supplementation effects on brain bioenergetics, cognition, and neurological conditions
 - [Psilocybin desynchronizes the human brain](https://www.nature.com/articles/s41586-024-07624-5)
 ## Plant Biology
 - [Sounds emitted by plants under stress are airborne and informative](https://www.cell.com/cell/fulltext/S0092-8674(23)00262-3)
