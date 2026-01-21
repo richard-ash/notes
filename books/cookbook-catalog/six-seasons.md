@@ -215,7 +215,7 @@
 - [ ] Kohlrabi with Citrus, Arugula, Poppy Seeds, and Crème Fraîche
 - [ ] Kohlrabi Brandade
 - [ ] Onion and Pancetta Tart
-- [ ] Onion Bread Soup with Sausage
+- [x] Onion Bread Soup with Sausage
 - [ ] Braised Beef with Lots and Lots of Onions
 - [ ] Parsnips with Citrus and Olives
 - [ ] Parsnip Soup with Pine Nut, Currant, and Celery Leaf Relish
