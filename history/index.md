@@ -3,3 +3,5 @@
 	- [Cremieux Recueil | WEIRD Doesn't Work](https://www.cremieux.xyz/p/weird-doesnt-work)
 - ### [Societal Collapse](https://en.wikipedia.org/wiki/Societal_collapse)
 	- [Eli Dourado | A beginner's guide to sociopolitical collapse](https://www.elidourado.com/p/collapse)
+## Regional
+- ### [Americas](obsidian://open?vault=notes&file=history%2Famericas%2Findex)
