@@ -20,3 +20,4 @@
 
 ## Startup Culture
 - [Investing 101 | "Build What's Fundable"](https://investing101.substack.com/p/build-whats-fundable)
+- [Nikita Bier | Build-in-public is probably the wrong move for startups](https://x.com/nikitabier/status/2016186182628249791)
