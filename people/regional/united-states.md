@@ -5,6 +5,11 @@
 - ###### [William Rehnquist (1924 – 2005)](https://en.wikipedia.org/wiki/William_Rehnquist)
 	- _The Supreme Court_ (1987)
 ## Business
+- ###### [Charlie Munger (1924 – 2023)](https://en.wikipedia.org/wiki/Charlie_Munger)
+	- [Charlie Munger: The Psychology of Human Misjudgement](https://www.youtube.com/watch?v=7-fe01CA3vc)
+	- [The Munger Operating System: How to Live a Life That Really Works](https://www.fs.blog/2016/04/munger-operating-system/)
+	- [“How to Guarantee a Life of Misery”](https://jamesclear.com/great-speeches/how-to-guarantee-a-life-of-misery-by-charlie-munger)
+	- [Tren Griffin @trengriffin notes on Charlie Munger: 2022 Daily Journal Annual Meeting](https://twitter.com/trengriffin/status/1495055256605974537?s=20&t=8DVxUtzUHMqkA-xvoKLQ4g)
 - ###### [Joe Coulombe (1930 – 2020)](https://en.wikipedia.org/wiki/Joe_Coulombe)
 	- _Becoming Trader Joe: How I Did Business My Way and Still Beat the Big Guys_ (2021)
 ## History
