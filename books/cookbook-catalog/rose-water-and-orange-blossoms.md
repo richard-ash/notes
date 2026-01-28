@@ -69,7 +69,7 @@
 - [ ] Baked Eggs with Spinach, Labneh, and Sumac
 - [ ] Olive Oil Fried Eggs with Za'atar
 - [ ] Pan-Seared Snapper with Tahini Sauce and Toasted Pine Nuts
-- [ ] Pistachio-Crusted Whitefish with Parsley-Lemon Butter
+- [x] Pistachio-Crusted Whitefish with Parsley-Lemon Butter
 
 ## Grains and Legumes
 
