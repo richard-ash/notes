@@ -134,6 +134,7 @@
 - ### [Computer Scientist](https://en.wikipedia.org/wiki/Computer_scientist)
 	- ###### [John Ousterhout](https://en.wikipedia.org/wiki/John_Ousterhout)
 		- _A Philosophy of Software Design_ (2018)
+		- [The Pragmatic Engineer | The Philosophy of Software Design – with John Ousterhout](https://newsletter.pragmaticengineer.com/p/the-philosophy-of-software-design)
 	- ###### [Richard Sutton](https://en.wikipedia.org/wiki/Richard_S._Sutton)
 		- [_The Bitter Lesson_](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) (2019)
 		- [Dwarkesh Podcast | Richard Sutton – Father of RL thinks LLMs are a dead end](https://www.dwarkesh.com/p/richard-sutton)
