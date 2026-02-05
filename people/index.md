@@ -145,6 +145,8 @@
 		- [Conversations with Tyler | Austan Goolsbee on Central Banking as a Data Dog](https://conversationswithtyler.com/episodes/austan-goolsbee/)
 	- ###### [Gregory Clark](https://en.wikipedia.org/wiki/Gregory_Clark_(economist))
 		- [Conversations with Tyler | Gregory Clark on on Social Mobility, Migration, and Assortative Mating (Ep. 234 - Live at Mercatus)](https://conversationswithtyler.com/episodes/gregory-clark/)
+	- ###### [George Selgin](https://en.wikipedia.org/wiki/George_Selgin)
+		- [Conversations with Tyler | George Selgin on the New Deal, Regime Uncertainty, and What Really Ended the Great Depression (Ep. 257)](https://conversationswithtyler.com/episodes/george-selgin/)
 	- ###### [Kenneth Rogoff](https://en.wikipedia.org/wiki/Kenneth_Rogoff)
 		- [Conversations with Tyler | Kenneth Rogoff on Monetary Moves, Fiscal Gambits, and Classical Chess (Ep. 241)](https://conversationswithtyler.com/episodes/kenneth-rogoff/)
 		- [Dwarkesh Podcast | “China’s digging out of a crisis. And America’s luck is wearing thin.” — Ken Rogoff](https://www.dwarkesh.com/p/ken-rogoff)
