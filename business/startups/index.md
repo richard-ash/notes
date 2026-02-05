@@ -19,5 +19,7 @@
   - [Unstructured Input in AI Apps Instead of Web Forms](https://www.lukew.com/ff/entry.asp?2120)
 
 ## Startup Culture
+- [Founders Fund | Choose Good Quests](https://foundersfund.com/2023/06/choose-good-quests/)
 - [Investing 101 | "Build What's Fundable"](https://investing101.substack.com/p/build-whats-fundable)
 - [Nikita Bier | Build-in-public is probably the wrong move for startups](https://x.com/nikitabier/status/2016186182628249791)
+- [Michael Dempsey | VC-Backed Startups are Low Status](https://mhdempsey.substack.com/p/vc-backed-startups-are-low-status)
