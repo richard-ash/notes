@@ -42,6 +42,8 @@
 	- [America's Housing Supply Problem: The Closing of the Suburban Frontier?](https://www.nber.org/papers/w33876)
 	- [The fewer the merrier: The merits of unified land ownership](https://www.worksinprogress.news/p/the-fewer-the-merrier)
 	- [Giving Up: The Impact of Decreasing Housing Affordability on Consumption, Work Effort, and Investment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5770722)
+- ### Manufacturing and industrial policy
+	- [Austin Vernon | Speed Can Reindustrialize America](https://www.austinvernon.site/blog/manufacturing.html)
 ## Public Economics
 - [America, Jump-started: World War II R&D and the Takeoff of the U.S. Innovation System](https://www.nber.org/papers/w27375)
 - [Evaluating the Success of President Johnson's War on Poverty: Revisiting the Historical Record Using an Absolute Full-Income Poverty Measure](https://www.nber.org/papers/w26532)
