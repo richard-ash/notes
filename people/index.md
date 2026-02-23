@@ -205,6 +205,9 @@
 	- ###### [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)
 		- [Tim Ferris | Brandon Sanderson on Building a Fiction Empire, Creating $40M+ Kickstarter Campaigns, Unbreakable Habits, The Art of World-Building, and The Science of Magic Systems (#794)](https://tim.blog/2025/02/05/brandon-sanderson/)
 - ### British
+	- ###### Joe Studwell
+		- _How Asia Works: Success and Failure in the World's Most Dynamic Region_ (2013)
+		- [Conversations with Tyler | Joe Studwell on Africa, Asia, and What Development Actually Requires (Ep. 270)](https://conversationswithtyler.com/episodes/joe-studwell/)
 	- ###### Philip Ball
 		- _How Life Works: A User’s Guide to the New Biology_ (2023)
 		- [Conversations with Tyler | Philip Ball on the Interplay of Science, Society, and the Quest for Understanding (Ep. 220)](https://conversationswithtyler.com/episodes/philip-ball/)
