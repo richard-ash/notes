@@ -74,7 +74,7 @@
 		- [Conversations with Tyler | John Arnold on Trading, Energy, and Evidence-Based Philanthropy (Ep. 244)](https://conversationswithtyler.com/episodes/john-arnold/)
 - ### Venture Capital
 	- ###### [Ben Horowitz](https://en.wikipedia.org/wiki/Ben_Horowitz)
-		- *The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers*
+		- _The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers_ (2014)
 			- [Mr. and Mrs. Psmith's Bookshelf | REVIEW: The Hard Thing About Hard Things, by Ben Horowitz](https://www.thepsmiths.com/p/review-the-hard-thing-about-hard)
 	- ###### [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)
 		- [Joe Rogan Experience #2234 - Marc Andreessen](https://www.youtube.com/watch?v=ye8MOfxD5nU)
