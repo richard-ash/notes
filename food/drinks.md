@@ -25,3 +25,6 @@
 ## Tea
 - ### [Oolong](https://en.wikipedia.org/wiki/Oolong)
 	- #### [Guangdong (Phoenix Oolong)](https://en.wikipedia.org/wiki/Oolong#Guangdong)
+- ### [Red Tea](https://en.wikipedia.org/wiki/Black_tea)
+	- #### Japan
+		- ###### Wakoucha
