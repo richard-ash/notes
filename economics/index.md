@@ -29,7 +29,7 @@
 	- ### Competition Policy
 		- [How to measure competition](https://www.worksinprogress.news/p/how-to-measure-competition) (uses [Olley-Pakes decomposition](../../statistics/techniques/olley-pakes-decomposition.md))
 - ### Market Structure and Distribution
-	- [Kunal Sangani | Complete Pass-Through in Levels](https://kunalsangani.com/files/complete_passthrough_live.pdf) (Feb 2026) — $1 cost → $1 price; log pass-through looks incomplete due to price–cost gap; shift-invariant demand (e.g. logit) vs homothetic; gas, food, manufacturing; inflation volatility
+	- [Kunal Sangani | Complete Pass-Through in Levels](https://kunalsangani.com/files/complete_passthrough_live.pdf)
 	- [The Micro-Aggregated Profit Share](https://arxiv.org/abs/2309.12945)
 	- [Organizational Structure and Pricing: Evidence from a Large U.S. Airline](https://www.nber.org/papers/w29508)
 	- [Who Benefits from Surge Pricing?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3245533)
