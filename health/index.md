@@ -27,3 +27,5 @@
 ## [Sleep](https://en.wikipedia.org/wiki/Sleep)
 - ### Sleep and Exercise
 	- [Dose-response relationship between evening exercise and sleep](https://doi.org/10.1038/s41467-025-58271-x)
+ - ### Sleep and AI
+	- [James Zou & Eric Topol | Decoding the language of sleep with artificial intelligence](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(26)00375-2/fulltext)
