@@ -19,3 +19,6 @@
 		- [Part 4 | Backfilling Data](https://fly.io/phoenix-files/backfilling-data)
 	- [excellent migrations](https://github.com/Artur-Sulej/excellent_migrations)
 - [Exploring Options for Storing Custom Data in Ecto](https://fly.io/phoenix-files/exploring-options-for-storing-custom-data-in-ecto/)
+## LiveView
+- ### Testing
+	- [German Velasco | A minimalist LiveView testing guide](https://www.germanvelasco.com/blog/minimalist-liveview-testing-guide)
