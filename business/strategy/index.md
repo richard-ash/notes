@@ -1,5 +1,7 @@
 # Business Strategy
 
+## Future of the firm
+- [Dwarkesh Patel | What fully automated firms will look like](https://www.dwarkesh.com/p/ai-firm)
 ## Strategic Frameworks
 - [Come for the tool, stay for the network](https://cdixon.org/2015/01/31/come-for-the-tool-stay-for-the-network)
 - [How Inflections Let Startups Change The Rules](https://patternbreakers.substack.com/p/how-inflections-let-startups-change) - Mike Maples on leveraging strategic inflections
