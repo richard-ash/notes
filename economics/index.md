@@ -12,6 +12,8 @@
 	- #### Demographics
 		- [The Impact of Maternal Mortality Improvements on the Baby Boom](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5538679)
 - ### Labor Markets
+  - [David Oks | Why ATMs didn't kill bank teller jobs, but the iPhone did](https://davidoks.blog/p/why-the-atm-didnt-kill-bank-teller)
+  - [David Oks | Why I'm not worried about AI job loss](https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss)
   - [Robinson Meets Roy: Monopsony Power and Comparative Advantage](https://www.nber.org/papers/w34165)
   	- [Discussion with GPT-5](https://chatgpt.com/share/68b76359-775c-8002-82e4-67e00a085581) 
 ## Microeconomics
