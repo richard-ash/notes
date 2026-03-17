@@ -138,6 +138,8 @@
 	- ###### [J. Doyne Farmer](https://en.wikipedia.org/wiki/J._Doyne_Farmer)
 		- _Making Sense of Chaos: A Better Economics for a Better World_ (2024)
 - ### [Computer Scientist](https://en.wikipedia.org/wiki/Computer_scientist)
+	- ###### [Rodney Brooks](https://en.wikipedia.org/wiki/Rodney_Brooks)
+		- [Om Malik | iRobot Founder: Don’t Believe The (AI & Robotics) Hype!](https://crazystupidtech.com/2025/09/29/irobot-founder-dont-believe-the-ai-robotics-hype/)
 	- ###### [John Ousterhout](https://en.wikipedia.org/wiki/John_Ousterhout)
 		- _A Philosophy of Software Design_ (2018)
 		- [The Pragmatic Engineer | The Philosophy of Software Design – with John Ousterhout](https://newsletter.pragmaticengineer.com/p/the-philosophy-of-software-design)
