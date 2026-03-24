@@ -63,7 +63,7 @@
 - [ ] Green Bean and Lamb Stew
 - [x] Grilled Lamb Skewers with Fresh Mint Sauce
 - [ ] Fragrant Chicken Soup with Vermicelli
-- [ ] Yogurt Marinated Chicken Skewers with Toum Garlic Sauce
+- [x] Yogurt Marinated Chicken Skewers with Toum Garlic Sauce
 - [ ] Hushweh (Chicken Rice Pilaf with Butter Toasted Almonds)
 - [ ] Zucchini, Parsley, and Mint Omelets (Ijjeh)
 - [ ] Baked Eggs with Spinach, Labneh, and Sumac
@@ -86,12 +86,12 @@
 
 - [ ] Rose Water Meringues with Roasted Rhubarb
 - [ ] Sticky Date Cake with Warm Orange Blossom–Caramel Sauce
-- [ ] Walnut Baklawa Diamonds
+- [x] Walnut Baklawa Diamonds
 - [ ] Rice Pudding with Dried Cherries and Pistachios
 - [ ] Crunchy Sesame Cookies
 - [ ] Pomegranate Rose Sorbet
 - [ ] Graybeh (Shortbread Cookies)
-- [ ] Ma'moul (Molded Date Cookies)
+- [x] Ma'moul (Molded Date Cookies)
 - [ ] Salted Pistachio Bark with Dried Apricots
 - [ ] Knafeh with Melted Cheese and Orange Blossom Syrup
 - [ ] Mandarin Orange Frozen Yogurt
