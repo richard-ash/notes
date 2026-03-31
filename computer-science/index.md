@@ -22,4 +22,8 @@
 
 - [Quantum Annealing](qunatum-computing/quantum-annealing.md)
 
+## Git
+
+- [Git](git.md)
+
 ## [Web](obsidian://open?vault=notes&file=computer-science%2Fweb%2Findex)
