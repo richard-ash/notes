@@ -11,3 +11,4 @@
 		- _Before the Mirror_ (1890)
 	- ###### [Oscar-Claude Monet (1840 – 1926)](https://en.wikipedia.org/wiki/Claude_Monet)
 		- _Water Lilies_ (1840–1926)
+		- _[Woman with a Parasol – Madame Monet and Her Son](https://en.wikipedia.org/wiki/Woman_with_a_Parasol_%E2%80%93_Madame_Monet_and_Her_Son)_ (1875)
