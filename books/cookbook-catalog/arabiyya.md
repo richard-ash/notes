@@ -116,7 +116,7 @@
 
 ## Halaweyat Al Munasabat • Special Occasion Sweets
 
-- [ ] Ashta • قشطة • Clotted Cream
+- [x] Ashta • قشطة • Clotted Cream
 - [ ] Meghli • مغلي • Spiced Rice Flour Pudding
 - [ ] Mahalabiya • مهلبية • Arab Milk Custard and Strawberry Compote
 - [ ] Layali Lubnan • ليالي لبنان • Farina Custard and Cream Trifle
