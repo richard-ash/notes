@@ -124,7 +124,7 @@
 - [ ] Ghraybe • غريبة • Blossom-Scented Shortbread Cookies
 - [ ] Knafeh • كنافة • Shredded Phyllo-Crusted Sweet Cheese
 - [ ] Fateerat Tamar wa Joz • فطيرة التمر والجوز • Date-Walnut Pie
-- [ ] Atayef • قطايف • Nut-Filled or Clotted Cream–Filled Pancakes
+- [x] Atayef • قطايف • Nut-Filled or Clotted Cream–Filled Pancakes
 
 ## Mashrubat • Drinks
 
