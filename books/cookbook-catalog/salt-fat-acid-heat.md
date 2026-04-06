@@ -83,7 +83,7 @@
 - [ ] Adas Polo o Morgh • Chicken with Lentil Rice
 - [ ] Chicken with Vinegar
 - [ ] Glazed Five-Spice Chicken
-- [ ] Buttermilk-Marinated Roast Chicken
+- [x] Buttermilk-Marinated Roast Chicken
 - [ ] Sicilian Chicken Salad
 
 ## Meat
