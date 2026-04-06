@@ -99,6 +99,10 @@ Despite these frictions, innovation is beginning at the boundary:
 - **Critical Illness Insurance (CII)**: Stand-alone lump-sum payouts on diagnosis. Design flaw: does not restrict payouts to diseases where life-extending treatments exist, nor restrict spending to those treatments. Some U.S. insurers (John Hancock, Nassau Re) are beginning to combine life + CII.
 - **Wellness programs**: John Hancock's Vitality product, LifeScore Labs, and LifeEpigenetics represent moves toward treating the life insurer as an "equity holder in the policyholder's life."
 
+## Relationship to the third-party payment problem
+
+The structural misalignment that makes this proposal necessary is itself a consequence of [[third-party-payment-problem|the third-party payment problem]]: because health insurers pay for services rather than outcomes, neither patients nor providers face meaningful price pressure. Bundling life and health insurance is one approach to realigning incentives within the third-party system, rather than replacing it with direct consumer payment.
+
 ## Broader implications
 
 ### Beyond cancer
