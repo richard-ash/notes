@@ -8,3 +8,4 @@ Housing markets, monetary policy, labor economics, and economic systems.
 - [[geographic-wage-premiums]] — Decomposing U.S. geographic wage differences into worker sorting, place effects, and industry composition
 - [[life-health-insurance-bundling]] — Proposal to restructure health insurance as outcome-based payouts by bundling with life insurance
 - [[third-party-payment-problem]] — How third-party payment removes price sensitivity and drives healthcare cost inflation, with cosmetic surgery as natural experiment
+- [[entry-rents-aggregation]] — How firm entry and economies of scale double the estimated efficiency losses from markups in the U.S. economy
