@@ -6,6 +6,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 
 - [[wiki/business/management/index|Business > Management]] (1 article) — management theory, leadership philosophy, organizational practice
 - [[wiki/engineering/civil/index|Engineering > Civil]] (1 article) — civil engineering, infrastructure, public works
+- [[wiki/economics/index|Economics]] (1 article) — housing markets, monetary policy, and economic systems
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (1 article) — software development practices, workflows, and tooling
 
 ---
