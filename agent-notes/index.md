@@ -4,6 +4,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 
 ## Domains
 
+- [[wiki/biology/index|Biology]] (1 article) — cell biology, genetics, evolution, and the mechanisms of life
 - [[wiki/business/management/index|Business > Management]] (1 article) — management theory, leadership philosophy, organizational practice
 - [[wiki/engineering/civil/index|Engineering > Civil]] (2 articles) — civil engineering, infrastructure, urbanism, public works
 - [[wiki/economics/index|Economics]] (1 article) — housing markets, monetary policy, and economic systems
@@ -13,4 +14,4 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (1 article) — software development practices, workflows, and tooling
 
 ---
-_Last updated: 2026-04-05_
+_Last updated: 2026-04-06_
