@@ -13,6 +13,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/computer-science/ai/index|Computer Science > AI]] (1 article) — AI research methodology, scaling, architectures, and philosophy of AI systems
 - [[wiki/politics/index|Politics]] (1 article) — civil liberties, governance, state power, and political philosophy
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (4 articles) — software development practices, workflows, and tooling
+- [[wiki/philosophy/epistemology/index|Philosophy > Epistemology]] (1 article) — how we come to know things, limits of perception, and the structure of knowledge
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
