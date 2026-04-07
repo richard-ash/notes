@@ -1,7 +1,10 @@
 
 ### [Michael J. Mauboussin](https://en.wikipedia.org/wiki/Michael_J._Mauboussin)
 - ### Papers
+	- #### 2026
+		- [Bayes and Base Rates: How History Can Guide Our Assessment of the Future](https://www.morganstanley.com/im/en-us/institutional-investor/insights/consilient-observer/bayes-and-base-rates.html) [[reference-class-forecasting]]
 	- #### 2025
 		- [Probabilities and Payoffs: The Practicalities and Psychology of Expected Value](https://www.morganstanley.com/im/publication/insights/articles/article_probabilitiesandpayoffs.pdf?1739984199733)
 		- [Cash Holdings: Data, Theory, and Alternatives](https://www.morganstanley.com/im/en-us/individual-investor/insights/consilient-observer/cash-holdings-data-theory-and-alternatives.html)
 		- [Drawdowns and Recoveries: Base Rates for Bottoms and Bounces](https://www.morganstanley.com/im/publication/insights/articles/article_drawdownsandrecoveries_ltr.pdf)
+	

@@ -1,6 +1,6 @@
 # Economics
 
-Housing markets, monetary policy, labor economics, transportation economics, and economic systems.
+Housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, and economic systems.
 
 ## Articles
 
@@ -10,3 +10,4 @@ Housing markets, monetary policy, labor economics, transportation economics, and
 - [[third-party-payment-problem]] — How third-party payment removes price sensitivity and drives healthcare cost inflation, with cosmetic surgery as natural experiment
 - [[entry-rents-aggregation]] — How firm entry and economies of scale double the estimated efficiency losses from markups in the U.S. economy
 - [[optimal-transit-networks]] — How commuter preferences for wait time, travel time, and transfers shape optimal bus network design, from Jakarta's BRT expansion
+- [[reference-class-forecasting]] — Using historical base rates to assess the plausibility of corporate growth forecasts, applied to AI companies
