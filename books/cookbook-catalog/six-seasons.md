@@ -56,7 +56,7 @@
 - [ ] Raw Artichoke Salad with Herbs, Almonds, and Parmigiano
 - [ ] Artichoke and Farro Salad with Salami and Herbs
 - [ ] Grilled Artichokes with Artichoke-Parmigiano Dip
-- [ ] Raw Asparagus Salad with Breadcrumbs, Walnuts, and Mint
+- [x] Raw Asparagus Salad with Breadcrumbs, Walnuts, and Mint
 - [ ] Asparagus, Nettle, and Green Garlic Frittata
 - [ ] Asparagus, Garlic Chives, and Pea Shoots, with or without an Egg
 - [ ] Grilled Asparagus with Fava Beans and Walnuts
