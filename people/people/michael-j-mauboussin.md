@@ -7,4 +7,5 @@
 		- [Probabilities and Payoffs: The Practicalities and Psychology of Expected Value](https://www.morganstanley.com/im/publication/insights/articles/article_probabilitiesandpayoffs.pdf?1739984199733)
 		- [Cash Holdings: Data, Theory, and Alternatives](https://www.morganstanley.com/im/en-us/individual-investor/insights/consilient-observer/cash-holdings-data-theory-and-alternatives.html)
 		- [Drawdowns and Recoveries: Base Rates for Bottoms and Bounces](https://www.morganstanley.com/im/publication/insights/articles/article_drawdownsandrecoveries_ltr.pdf)
+		- [Capital Allocation: Results, Analysis, and Assessment](https://www.morganstanley.com/im/en-hk/intermediary-investor/insights/articles/capital-allocation.html) [[capital-allocation]]
 	
