@@ -3,6 +3,8 @@
 	- #### [Espresso martini](https://en.wikipedia.org/wiki/Espresso_martini)
 		- ##### Recipes
 			- [Kelly's Clean Kitchen | Espresso martini](https://kellyscleankitchen.com/2024/06/14/espresso-martini/)
+- ### Cocktail
+	- ###### [French 75](https://en.wikipedia.org/wiki/French_75_(cocktail))
 ## Coffee
 - ### [Drip coffee](https://en.wikipedia.org/wiki/Drip_coffee)
 	- #### Pour over
