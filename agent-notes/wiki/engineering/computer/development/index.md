@@ -9,3 +9,4 @@ Software development practices, workflows, and tooling.
 - [[stacked-pull-requests]] — decomposing large changes into chains of small, individually-reviewable PRs to combat code-review fatigue
 - [[internal-software-quality]] — internal code quality has negative cost; cruft accumulation slows teams within weeks, not months
 - [[software-migrations]] — large-scale migrations are the only scalable mechanism for reducing cross-cutting technical debt; derisk, enable, finish
+- [[react-re-rendering]] — React re-renders start with state changes and cascade downward; React.memo opts out; props don't trigger re-renders
