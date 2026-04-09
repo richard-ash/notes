@@ -6,7 +6,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 
 - [[wiki/biology/index|Biology]] (2 articles) — cell biology, genetics, evolution, and the mechanisms of life
 - [[wiki/business/finance/index|Business > Finance]] (1 article) — corporate finance, capital allocation, valuation, and shareholder returns
-- [[wiki/business/management/index|Business > Management]] (1 article) — management theory, leadership philosophy, organizational practice
+- [[wiki/business/management/index|Business > Management]] (2 articles) — management theory, leadership philosophy, organizational practice
 - [[wiki/engineering/civil/index|Engineering > Civil]] (3 articles) — civil engineering, infrastructure, urbanism, public works
 - [[wiki/economics/index|Economics]] (7 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, and economic systems
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
