@@ -52,6 +52,9 @@
 		- ##### [Guanciale](https://en.wikipedia.org/wiki/Guanciale)
 			- Techniques
 				- [How To Cut Guanciale](https://pinabresciani.com/how-to-cut-guanciale/)
+		- ##### [Pork chop](https://en.wikipedia.org/wiki/Pork_chop)
+			- ###### Recipes
+				- [Kelly's Clean Kitchen | White Wine Dijon Braised Pork Chop](https://kellyscleankitchen.com/2026/03/21/white-wine-dijon-braised-pork-chop/)
 ## [Plants](food/plants/index.md)
 ## Seafood
 - ### [Scallop](https://en.wikipedia.org/wiki/Scallop)
