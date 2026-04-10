@@ -39,6 +39,8 @@
 		- ###### [Robert Lighthizer](https://en.wikipedia.org/wiki/Robert_Lighthizer)
 			- [The Tucker Carlson Show | Bob Lighthizer: Why Trump's Tariffs are the Only Way to Save the Middle Class](https://tuckercarlson.com/tucker-show-bob-lighthizer)
 ## Historian
+- ###### [Ada Palmer](https://en.wikipedia.org/wiki/Ada_Palmer)
+	- [[inventing-the-renaissance]]
 - ###### [David Commins](https://en.wikipedia.org/wiki/David_Commins)
 - ###### [Edward Luttwak](https://en.wikipedia.org/wiki/Edward_Luttwak)
 	- [ChinaTalk | Ed Luttwak on Military Revolutions](https://www.chinatalk.media/p/ed-luttwak-on-military-revolutions)
