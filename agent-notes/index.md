@@ -11,6 +11,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/economics/index|Economics]] (7 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, and economic systems
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (2 articles) — product design philosophy, processes, and systems
+- [[wiki/health/index|Health]] (1 article) — healthcare markets, clinical workflows, health tech companies, and the economics of medical information
 - [[wiki/history/index|History]] (4 articles) — geopolitics, grand strategy, historical analysis, and the mechanisms of long-run cultural and technological change
 - [[wiki/computer-science/ai/index|Computer Science > AI]] (4 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, and AI's impact on labor and careers
 - [[wiki/mathematics/index|Mathematics]] (1 article) — mathematical research, methodology, and how AI is reshaping the practice of math
