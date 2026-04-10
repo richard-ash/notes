@@ -189,6 +189,9 @@
 		- _Physics of the Future: How Science will Shape Human Destiny and our Daily Lives by the Year 2100_ (2008)
 		- _The Future of the Mind: The Scientific Quest to Understand, Enhance, and Empower the Mind_ (2014)
 		- _Quantum Supremacy: How the Quantum Computer Revolution Will Change Everything (2023)
+- ### Psychology
+	- ###### [John Amaechi](https://en.wikipedia.org/wiki/John_Amaechi)
+		- [[its-not-magic]]
 - ### Political Scientist
 	- ###### [Victor Shih](https://en.wikipedia.org/wiki/Victor_Shih)
 		- [Dwarkesh Podcast | Xi Jinping’s paranoid approach to AGI, debt crisis, & Politburo politics — Victor Shih](https://www.dwarkesh.com/p/victor-shih)
