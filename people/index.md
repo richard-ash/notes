@@ -116,6 +116,8 @@
 - ###### [Agnes Callard](https://en.wikipedia.org/wiki/Agnes_Callard)
 	- _Open Socrates_ (2025)
 	- [What is Free Speech?](https://www.youtube.com/watch?v=sdOKt1j3WpY&list=WL&index=94)
+- ###### [Harvey Mansfield](https://en.wikipedia.org/wiki/Harvey_Mansfield)
+	- [[straussian-reading]]
 ## Politics
 - ### Argentina
 	- ###### [Javier Milei](https://en.wikipedia.org/wiki/Javier_Milei)

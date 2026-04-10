@@ -5,6 +5,7 @@ Philosophical frameworks, epistemology, ethics, and life principles.
 ## Articles
 
 - [[nabeel-qureshi-principles]] — 63 life principles spanning agency, epistemology, creative work, and personal philosophy
+- [[straussian-reading]] — Leo Strauss's method of reading the great books via logographic necessity and irony, with Harvey Mansfield's reading of Machiavelli as the inventor of modern "fact"
 
 ## Sub-domains
 
