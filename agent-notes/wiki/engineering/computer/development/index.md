@@ -11,3 +11,4 @@ Software development practices, workflows, and tooling.
 - [[software-migrations]] — large-scale migrations are the only scalable mechanism for reducing cross-cutting technical debt; derisk, enable, finish
 - [[react-re-rendering]] — React re-renders start with state changes and cascade downward; React.memo opts out; props don't trigger re-renders
 - [[claude-code]] — Anthropic's terminal coding agent: origin story, design principles (build for the next model, latent demand, never bet against the model), and Boris Cherny's advice for dev-tool founders
+- [[bazel-ios-modularity]] — Bazel + iOS modular architecture: public/private module pattern, SPM integration via `rules_swift_package_manager`, and ~50% build-time wins from explicit dependency graphs
