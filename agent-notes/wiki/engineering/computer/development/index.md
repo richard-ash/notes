@@ -10,3 +10,4 @@ Software development practices, workflows, and tooling.
 - [[internal-software-quality]] — internal code quality has negative cost; cruft accumulation slows teams within weeks, not months
 - [[software-migrations]] — large-scale migrations are the only scalable mechanism for reducing cross-cutting technical debt; derisk, enable, finish
 - [[react-re-rendering]] — React re-renders start with state changes and cascade downward; React.memo opts out; props don't trigger re-renders
+- [[claude-code]] — Anthropic's terminal coding agent: origin story, design principles (build for the next model, latent demand, never bet against the model), and Boris Cherny's advice for dev-tool founders
