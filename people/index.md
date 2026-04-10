@@ -212,6 +212,8 @@
 	- ###### [Nate Silver](https://en.wikipedia.org/wiki/Nate_Silver)
 		- _On the Edge: The Art of Risking Everything_
 ## Theologian
+- ###### [Donald S. Lopez Jr.](https://en.wikipedia.org/wiki/Donald_S._Lopez_Jr.)
+	- [[buddhism]]
 - ###### [Ignatius of Loyola](https://en.wikipedia.org/wiki/Ignatius_of_Loyola)
 	- [Prayer for Generosity](https://www.xavier.edu/jesuitresource/online-resources/prayer-index/ignatian-prayers)
 - ###### [Karl Paul Reinhold Niebuhr](https://en.wikipedia.org/wiki/Reinhold_Niebuhr)
