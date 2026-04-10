@@ -88,6 +88,7 @@
 		- [The Tim Ferris Show | Bill Gurley (#840)](https://tim.blog/2025/12/17/bill-gurley-running-down-a-dream/)
 	- ###### [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)
 		- [Joe Rogan Experience #2234 - Marc Andreessen](https://www.youtube.com/watch?v=ye8MOfxD5nU)
+		- [[ai-and-the-future-of-work]]
 - ###### [Howard Marks](people/people/howard-marks.md)
 - ###### [Michael J. Mauboussin](michael-j-mauboussin.md)
 - ###### [Warren Buffett](warren-buffet.md)
