@@ -169,6 +169,8 @@
 		- [Dwarkesh Podcast | David Reich - How One Small Tribe Conquered the World 70,000 Years Ago](https://www.dwarkeshpatel.com/p/david-reich)
 	- ###### [George Church](https://en.wikipedia.org/wiki/George_Church_(geneticist))
 		- [Dwarkesh Podcast | Godfather of Synthetic Bio on De-Aging, De-Extinction, & Weaponized Mirror Life — George Church](https://www.dwarkesh.com/p/george-church)
+- ### Mathematics
+	- ###### [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao)
 - ### [Physicist](https://en.wikipedia.org/wiki/Physicist)
 	- ###### Adam Brown
 		- [Dwarkesh Podcast | Adam Brown – How Future Civilizations Could Change The Laws of Physics](https://www.dwarkeshpatel.com/p/adam-brown)

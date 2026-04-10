@@ -13,6 +13,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (2 articles) — product design philosophy, processes, and systems
 - [[wiki/computer-science/ai/index|Computer Science > AI]] (2 articles) — AI research methodology, scaling, architectures, and philosophy of AI systems
 - [[wiki/history/index|History]] (3 articles) — geopolitics, grand strategy, and historical analysis
+- [[wiki/mathematics/index|Mathematics]] (1 article) — mathematical research, methodology, and how AI is reshaping the practice of math
 - [[wiki/computer-science/databases/index|Computer Science > Databases]] (2 articles) — database technologies, architectures, and paradigms
 - [[wiki/politics/index|Politics]] (1 article) — civil liberties, governance, state power, and political philosophy
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (7 articles) — software development practices, workflows, and tooling
