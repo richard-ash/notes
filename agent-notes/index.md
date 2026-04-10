@@ -12,7 +12,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (2 articles) — product design philosophy, processes, and systems
 - [[wiki/history/index|History]] (3 articles) — geopolitics, grand strategy, and historical analysis
-- [[wiki/computer-science/ai/index|Computer Science > AI]] (3 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, and AI's impact on labor and careers
+- [[wiki/computer-science/ai/index|Computer Science > AI]] (4 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, and AI's impact on labor and careers
 - [[wiki/mathematics/index|Mathematics]] (1 article) — mathematical research, methodology, and how AI is reshaping the practice of math
 - [[wiki/computer-science/databases/index|Computer Science > Databases]] (2 articles) — database technologies, architectures, and paradigms
 - [[wiki/politics/index|Politics]] (1 article) — civil liberties, governance, state power, and political philosophy
