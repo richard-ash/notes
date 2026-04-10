@@ -11,7 +11,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/economics/index|Economics]] (7 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, and economic systems
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (2 articles) — product design philosophy, processes, and systems
-- [[wiki/history/index|History]] (1 article) — geopolitics, grand strategy, and historical analysis
+- [[wiki/history/index|History]] (2 articles) — geopolitics, grand strategy, and historical analysis
 - [[wiki/computer-science/ai/index|Computer Science > AI]] (2 articles) — AI research methodology, scaling, architectures, and philosophy of AI systems
 - [[wiki/computer-science/databases/index|Computer Science > Databases]] (2 articles) — database technologies, architectures, and paradigms
 - [[wiki/politics/index|Politics]] (1 article) — civil liberties, governance, state power, and political philosophy
@@ -20,4 +20,4 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-04-09_
+_Last updated: 2026-04-10_
