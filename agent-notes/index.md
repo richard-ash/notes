@@ -5,7 +5,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 ## Domains
 
 - [[wiki/biology/index|Biology]] (2 articles) — cell biology, genetics, evolution, and the mechanisms of life
-- [[wiki/business/finance/index|Business > Finance]] (1 article) — corporate finance, capital allocation, valuation, and shareholder returns
+- [[wiki/business/finance/index|Business > Finance]] (2 articles) — corporate finance, capital allocation, valuation, shareholder returns, and credit-market cycles
 - [[wiki/business/management/index|Business > Management]] (3 articles) — management theory, leadership philosophy, organizational practice
 - [[wiki/engineering/civil/index|Engineering > Civil]] (3 articles) — civil engineering, infrastructure, urbanism, public works
 - [[wiki/economics/index|Economics]] (7 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, and economic systems

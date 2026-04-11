@@ -1,6 +1,7 @@
 ## [Howard Marks](https://en.wikipedia.org/wiki/Howard_Marks_(investor))
 - ### Essays
 	- #### 2026
+		- [What's Going on in Private Credit?](https://www.oaktreecapital.com/insights/memo/whats-going-on-in-private-credit) [[private-credit]]
 		- [AI Hurtles Ahead](https://www.oaktreecapital.com/insights/memo/ai-hurtles-ahead) — addendum to _Is It a Bubble?_
 	- #### 2025
 		- [Is It a Bubble?](https://www.oaktreecapital.com/insights/memo/is-it-a-bubble)
