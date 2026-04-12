@@ -4,7 +4,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 
 ## Domains
 
-- [[wiki/biology/index|Biology]] (2 articles) — cell biology, genetics, evolution, and the mechanisms of life
+- [[wiki/biology/index|Biology]] (3 articles) — cell biology, genetics, evolution, and the mechanisms of life
 - [[wiki/business/finance/index|Business > Finance]] (2 articles) — corporate finance, capital allocation, valuation, shareholder returns, and credit-market cycles
 - [[wiki/business/management/index|Business > Management]] (3 articles) — management theory, leadership philosophy, organizational practice
 - [[wiki/engineering/civil/index|Engineering > Civil]] (3 articles) — civil engineering, infrastructure, urbanism, public works
@@ -24,7 +24,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-04-11_
+_Last updated: 2026-04-12_
 
 
 
