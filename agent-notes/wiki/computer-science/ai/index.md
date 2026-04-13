@@ -9,3 +9,4 @@ Artificial intelligence research: methodology, scaling, architectures, and the p
 - [[llm-knowledge-bases]] — Karpathy's workflow for using LLMs to compile and query personal markdown wikis from raw sources
 - [[prompt-caching]] — how KV caching of attention matrices delivers 10x cheaper input tokens and 85% lower latency, and why OpenAI and Anthropic take opposite implementation stances
 - [[the-bitter-lesson]] — Sutton's argument that general methods leveraging computation always beat hand-engineered knowledge in AI
+- [[agentic-engineering-architecture]] — Garry Tan's three-layer heuristic for agent systems: fat skills (markdown context), fat code (deterministic tools), thin harness (minimal orchestration)
