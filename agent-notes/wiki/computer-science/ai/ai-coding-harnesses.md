@@ -2,6 +2,7 @@
 source: agent
 compiled_from:
   - agent-notes/raw/computer-science/ai/2026-04-13-theo-ai-coding-harnesses.md
+  - agent-notes/raw/computer-science/ai/2026-04-13-mihail-eric-coding-agent.md
 compiled_at: 2026-04-13
 model: claude-opus-4-6
 confidence: medium
@@ -35,7 +36,16 @@ Mihail Eric demonstrated that a functional coding agent is ~200 lines of Python.
 - **List files** — returns directory listings
 - **Edit file** — replaces an old string with a new string in a file (or creates the file if the old string is empty)
 
-These tools are registered in a tool registry, their descriptions are injected into the system prompt, and a simple loop parses tool calls from the model's output, executes them, and feeds results back. Theo builds a live demo of this and then strips it down further: with only a **bash** tool, the agent still works because the model knows how to compose `cat`, `ls`, `sed`, and other shell commands to accomplish read/list/edit operations. The bash-only version is ~75 lines.
+Eric's implementation reveals the concrete moving parts:
+
+1. **Tool registry** — a dictionary mapping tool names to Python functions. Each function returns a structured dict (not a plain string) so the model gets typed context about what happened ("action": "edited" vs "action": "old_str not found").
+2. **Auto-generated tool descriptions** — the system prompt is built dynamically using `inspect.signature()` and function docstrings. This means tool descriptions are always in sync with the actual implementation — no separate schema to maintain.
+3. **Text-based tool-call protocol** — rather than using the Anthropic API's native tool-use feature, Eric has the model emit `tool: TOOL_NAME({JSON_ARGS})` lines that are parsed with simple string splitting. This works but is fragile; production harnesses use the API's structured tool-call format instead.
+4. **Nested loop architecture** — an outer loop handles user input; an inner loop repeatedly calls the model and executes tool calls until the model responds with plain text (no tool invocations). This inner loop is what enables multi-step chains (read a file, then edit it, then confirm).
+
+The edit tool uses a convention where an empty `old_str` means "create this file with `new_str` as content." Otherwise it does a find-and-replace of the first occurrence. Production harnesses add fallback behavior when the target string isn't found (fuzzy matching, re-prompting), but exact-match replacement is the baseline.
+
+Theo builds a live demo of this pattern and then strips it down further: with only a **bash** tool, the agent still works because the model knows how to compose `cat`, `ls`, `sed`, and other shell commands to accomplish read/list/edit operations. The bash-only version is ~75 lines.
 
 ## Why the harness matters more than it seems
 
@@ -84,5 +94,5 @@ A UI layer can't function without a harness installed underneath it. T3 Code req
 ## Sources
 
 - Theo / t3.gg (2026). "How does Claude Code *actually* work?" <https://www.youtube.com/watch?v=I82j7AzMU80> — [[2026-04-13-theo-ai-coding-harnesses|local copy]]
-- Mihail Eric (2025). "The Emperor Has No Clothes." <https://www.mihaileric.com/The-Emperor-Has-No-Clothes/> (referenced in video)
+- Mihail Eric. "The Emperor Has No Clothes: How to Code Claude Code in 200 Lines of Code." <https://www.mihaileric.com/The-Emperor-Has-No-Clothes/> — [[2026-04-13-mihail-eric-coding-agent|local copy]]
 - AMP team (2025). "How to Build an Agent." <https://ampcode.com/notes/how-to-build-an-agent> (referenced in video)
