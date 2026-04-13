@@ -10,3 +10,4 @@ Artificial intelligence research: methodology, scaling, architectures, and the p
 - [[prompt-caching]] — how KV caching of attention matrices delivers 10x cheaper input tokens and 85% lower latency, and why OpenAI and Anthropic take opposite implementation stances
 - [[the-bitter-lesson]] — Sutton's argument that general methods leveraging computation always beat hand-engineered knowledge in AI
 - [[agentic-engineering-architecture]] — Garry Tan's three-layer heuristic for agent systems: fat skills (markdown context), fat code (deterministic tools), thin harness (minimal orchestration)
+- [[ai-coding-harnesses]] — anatomy of the tool-call loop that powers Claude Code, Cursor, and other AI coding agents; why the harness matters more than the model
