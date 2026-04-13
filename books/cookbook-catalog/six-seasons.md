@@ -61,7 +61,7 @@
 - [ ] Asparagus, Garlic Chives, and Pea Shoots, with or without an Egg
 - [ ] Grilled Asparagus with Fava Beans and Walnuts
 - [ ] Vignole
-- [ ] English Pea Toast
+- [x] English Pea Toast
 - [ ] English Pea and Pickled Carrot Salsa Verde
 - [ ] English Peas with Prosciutto and New Potatoes
 - [ ] Pasta Carbonara with English Peas
