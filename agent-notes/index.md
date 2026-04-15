@@ -6,7 +6,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 
 - [[wiki/biology/index|Biology]] (3 articles) — cell biology, genetics, evolution, and the mechanisms of life
 - [[wiki/business/finance/index|Business > Finance]] (2 articles) — corporate finance, capital allocation, valuation, shareholder returns, and credit-market cycles
-- [[wiki/business/management/index|Business > Management]] (3 articles) — management theory, leadership philosophy, organizational practice
+- [[wiki/business/management/index|Business > Management]] (4 articles) — management theory, leadership philosophy, organizational practice
 - [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (2 articles) — startup ideation, validation, founder-market fit, and the early-stage journey
 - [[wiki/business/strategy/index|Business > Strategy]] (1 article) — tech business strategy, platform economics, and competitive dynamics
 - [[wiki/engineering/civil/index|Engineering > Civil]] (3 articles) — civil engineering, infrastructure, urbanism, public works
