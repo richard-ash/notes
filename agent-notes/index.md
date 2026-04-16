@@ -6,7 +6,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 
 - [[wiki/biology/index|Biology]] (5 articles) — cell biology, genetics, evolution, and the mechanisms of life
 - [[wiki/business/finance/index|Business > Finance]] (2 articles) — corporate finance, capital allocation, valuation, shareholder returns, and credit-market cycles
-- [[wiki/business/management/index|Business > Management]] (6 articles) — management theory, leadership philosophy, organizational practice
+- [[wiki/business/management/index|Business > Management]] (7 articles) — management theory, leadership philosophy, organizational practice
 - [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (4 articles) — startup ideation, validation, founder-market fit, and the early-stage journey
 - [[wiki/business/strategy/index|Business > Strategy]] (1 article) — tech business strategy, platform economics, and competitive dynamics
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
@@ -21,9 +21,10 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/computer-science/databases/index|Computer Science > Databases]] (2 articles) — database technologies, architectures, and paradigms
 - [[wiki/politics/index|Politics]] (1 article) — civil liberties, governance, state power, and political philosophy
 - [[wiki/religion/index|Religion]] (1 article) — religious traditions, theology, religious history, and the scholarly study of religion
-- [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (10 articles) — software development practices, workflows, and tooling
+- [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (11 articles) — software development practices, workflows, and tooling
 - [[wiki/philosophy/index|Philosophy]] (6 articles) — philosophical frameworks, epistemology, ethics, and life principles
-- [[wiki/physics/index|Physics]] (1 article) — foundations of physics, quantum mechanics interpretations, relativity, and the structure of physical theories
+- [[wiki/physics/index|Physics]] (2 articles) — foundations of physics, quantum mechanics interpretations, relativity, problem-solving methodology, and the structure of physical theories
+- [[wiki/psychology/index|Psychology]] (1 article) — applied psychology, behavioral self-management, motivation, and the science of human decision-making
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---

@@ -10,3 +10,4 @@ Management theory, leadership philosophy, and organizational practice.
 - [[deliberate-want]] — Rands on treating reqs as perishable and consistently telling candidates "we want you" throughout the hiring process to prevent last-minute walkbacks
 - [[technical-leverage]] — investing in technology to multiply the business value a development group delivers; embed innovation in product work rather than separating it into a dedicated team
 - [[how-to-operate]] — Keith Rabois's framework for startup leadership: CEO as editor, barrels vs ammunition, delegation via conviction-consequence matrix, radical focus, pairing metrics, and obsessing over details
+- [[manager-anti-patterns]] — Will Larson's taxonomy of ways engineering managers get stuck, organized by experience level: directional imbalances, identity traps, delegation failures, and attention management
