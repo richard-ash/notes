@@ -8,6 +8,7 @@ Philosophical frameworks, epistemology, ethics, and life principles.
 - [[straussian-reading]] — Leo Strauss's method of reading the great books via logographic necessity and irony, with Harvey Mansfield's reading of Machiavelli as the inventor of modern "fact"
 
 - [[tech-tree-divergence]] — Nielsen's argument that the science/tech tree is vastly larger than assumed and different civilizations would explore radically different branches
+- [[consumption-identity]] — Smith's argument that consumption choices individuate more than production, and that AI could free identity from work
 
 ## Sub-domains
 
