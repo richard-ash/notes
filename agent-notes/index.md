@@ -5,7 +5,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 ## Domains
 
 - [[wiki/biology/index|Biology]] (5 articles) — cell biology, genetics, evolution, and the mechanisms of life
-- [[wiki/business/finance/index|Business > Finance]] (2 articles) — corporate finance, capital allocation, valuation, shareholder returns, and credit-market cycles
+- [[wiki/business/finance/index|Business > Finance]] (3 articles) — corporate finance, capital allocation, valuation, shareholder returns, credit-market cycles, and revenue recognition
 - [[wiki/business/management/index|Business > Management]] (7 articles) — management theory, leadership philosophy, organizational practice
 - [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (4 articles) — startup ideation, validation, founder-market fit, and the early-stage journey
 - [[wiki/business/strategy/index|Business > Strategy]] (1 article) — tech business strategy, platform economics, and competitive dynamics
