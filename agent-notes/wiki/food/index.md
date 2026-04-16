@@ -7,3 +7,6 @@ Recipes, cooking techniques, and food science.
 - [[espresso-martini]] — Vodka-espresso cocktail with Kahlua and simple syrup; serves 2, 15-min
 - [[acai-bowl]] — Thick smoothie bowl from frozen acai puree with fruit and toppings; serves 2, vegan-adaptable
 - [[oven-baked-fries]] — Crispy oven fries via par-boiling; russet potatoes, 40-min, simple seasoning
+- [[beef-short-ribs-salsa-verde]] — Two-stage braised short ribs finished in fresh tomatillo-serrano salsa verde; 4-5 hrs, Mexican
+- [[resting-meat]] — Why resting meat doesn't retain juices; carryover cooking science and a slice-to-halt-carryover method
+- [[reverse-searing]] — Three-phase reverse sear technique for sous-vide-level precision on thick steaks; evaporative cooling science

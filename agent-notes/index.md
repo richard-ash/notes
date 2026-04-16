@@ -10,7 +10,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (2 articles) — startup ideation, validation, founder-market fit, and the early-stage journey
 - [[wiki/business/strategy/index|Business > Strategy]] (1 article) — tech business strategy, platform economics, and competitive dynamics
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
-- [[wiki/food/index|Food]] (5 articles) — recipes, cooking techniques, and food science
+- [[wiki/food/index|Food]] (8 articles) — recipes, cooking techniques, and food science
 - [[wiki/economics/index|Economics]] (9 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, and economic systems
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (2 articles) — product design philosophy, processes, and systems
