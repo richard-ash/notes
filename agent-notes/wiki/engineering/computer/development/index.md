@@ -15,3 +15,4 @@ Software development practices, workflows, and tooling.
 - [[phoenix-liveview-infinite-scroll]] — fully-virtualized infinite scroll in Phoenix LiveView using `stream/3`, `phx-viewport-top`/`bottom`, and the signed `:limit` option — zero custom JavaScript
 - [[swift-sdk-for-android]] — cross-compiling Swift libraries for Android via the Swift SDK, Android NDK, and swift-java JNI bindings
 - [[ecto-activity-tracking]] — automatic audit logging in Phoenix by overriding Ecto Repo operations with a Trackable protocol
+- [[low-tech-devex]] — philosophy of preferring battle-hardened, text-based CLI tools (vim, make, tmux, curl) over GUI alternatives for developer productivity
