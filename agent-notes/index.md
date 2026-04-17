@@ -8,15 +8,15 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/business/finance/index|Business > Finance]] (3 articles) — corporate finance, capital allocation, valuation, shareholder returns, credit-market cycles, and revenue recognition
 - [[wiki/business/management/index|Business > Management]] (7 articles) — management theory, leadership philosophy, organizational practice
 - [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (4 articles) — startup ideation, validation, founder-market fit, and the early-stage journey
-- [[wiki/business/strategy/index|Business > Strategy]] (1 article) — tech business strategy, platform economics, and competitive dynamics
+- [[wiki/business/strategy/index|Business > Strategy]] (2 articles) — tech business strategy, platform economics, and competitive dynamics
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
 - [[wiki/food/index|Food]] (8 articles) — recipes, cooking techniques, and food science
-- [[wiki/economics/index|Economics]] (9 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, and economic systems
+- [[wiki/economics/index|Economics]] (10 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, and economic systems
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (2 articles) — product design philosophy, processes, and systems
 - [[wiki/health/index|Health]] (6 articles) — healthcare markets, pharma industry economics, GLP-1 drugs, clinical workflows, health tech companies, drug pricing, cancer drug development, and senolytic cell therapies
 - [[wiki/history/index|History]] (4 articles) — geopolitics, grand strategy, historical analysis, and the mechanisms of long-run cultural and technological change
-- [[wiki/computer-science/ai/index|Computer Science > AI]] (9 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, AI's impact on labor and careers, and inference-layer optimizations like KV caching
+- [[wiki/computer-science/ai/index|Computer Science > AI]] (10 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, AI's impact on labor and careers, and inference-layer optimizations like KV caching
 - [[wiki/mathematics/index|Mathematics]] (1 article) — mathematical research, methodology, and how AI is reshaping the practice of math
 - [[wiki/computer-science/databases/index|Computer Science > Databases]] (2 articles) — database technologies, architectures, and paradigms
 - [[wiki/politics/index|Politics]] (1 article) — civil liberties, governance, state power, and political philosophy

@@ -12,4 +12,5 @@ Housing markets, monetary policy, labor economics, transportation economics, ins
 - [[optimal-transit-networks]] — How commuter preferences for wait time, travel time, and transfers shape optimal bus network design, from Jakarta's BRT expansion
 - [[reference-class-forecasting]] — Using historical base rates to assess the plausibility of corporate growth forecasts, applied to AI companies
 - [[commercial-zoning-costs]] — How commercial land use regulations reduce U.S. output by 3-6%, with welfare gains of 3-9% from moderate deregulation
+- [[task-automation-vs-paradigm-replacement]] — Why automating tasks within existing paradigms rarely kills jobs, but creating new paradigms (ATMs vs iPhones for bank tellers) does
 - [[use-of-knowledge-in-society]] — Hayek's 1945 argument that dispersed local knowledge cannot be centralized, and the price system solves this by communicating information through prices

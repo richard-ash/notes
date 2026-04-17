@@ -13,3 +13,4 @@ Artificial intelligence research: methodology, scaling, architectures, and the p
 - [[ai-coding-harnesses]] — anatomy of the tool-call loop that powers Claude Code, Cursor, and other AI coding agents; why the harness matters more than the model
 - [[ai-judgment-atrophy]] — Heron's thesis that routinely delegating cognitive work to AI erodes the friction-built muscle of human judgment
 - [[waymo-autonomous-driving]] — Waymo's foundation-model → teacher → distilled-student architecture, sensor fusion, the ADAS vs. L4 discontinuity, and scaling to 500K rides/week
+- [[generative-ai-as-pattern-generation]] — Evans's "Imagenet moment" framing: generative AI as pattern generation, error tolerance by domain, creation vs remixing, and humans in the loop
