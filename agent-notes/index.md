@@ -22,13 +22,13 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/politics/index|Politics]] (1 article) — civil liberties, governance, state power, and political philosophy
 - [[wiki/religion/index|Religion]] (1 article) — religious traditions, theology, religious history, and the scholarly study of religion
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (12 articles) — software development practices, workflows, and tooling
-- [[wiki/philosophy/index|Philosophy]] (7 articles) — philosophical frameworks, epistemology, ethics, and life principles
+- [[wiki/philosophy/index|Philosophy]] (10 articles) — philosophical frameworks, epistemology, ethics, and life principles
 - [[wiki/physics/index|Physics]] (5 articles) — foundations of physics, quantum mechanics interpretations, relativity, nuclear structure, MOND dynamics, problem-solving methodology, and the structure of physical theories
 - [[wiki/psychology/index|Psychology]] (1 article) — applied psychology, behavioral self-management, motivation, and the science of human decision-making
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-04-17_
+_Last updated: 2026-04-19_
 
 
 
