@@ -5,13 +5,14 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 ## Domains
 
 - [[wiki/biology/index|Biology]] (9 articles) — cell biology, genetics, evolution, and the mechanisms of life
-- [[wiki/business/finance/index|Business > Finance]] (4 articles) — corporate finance, capital allocation, valuation, shareholder returns, credit-market cycles, revenue recognition, and investment philosophy
+- [[wiki/business/finance/index|Business > Finance]] (5 articles) — corporate finance, capital allocation, valuation, shareholder returns, credit-market cycles, revenue recognition, insurance float, and investment philosophy
 - [[wiki/business/management/index|Business > Management]] (7 articles) — management theory, leadership philosophy, organizational practice
-- [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (4 articles) — startup ideation, validation, founder-market fit, and the early-stage journey
-- [[wiki/business/strategy/index|Business > Strategy]] (2 articles) — tech business strategy, platform economics, and competitive dynamics
+- [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (5 articles) — startup ideation, validation, founder-market fit, capital discipline, and the early-stage journey
+- [[wiki/business/marketing/index|Business > Marketing]] (1 article) — advertising theory, brand strategy, and the mechanisms of consumer persuasion
+- [[wiki/business/strategy/index|Business > Strategy]] (3 articles) — tech business strategy, platform economics, and competitive dynamics
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
 - [[wiki/food/index|Food]] (8 articles) — recipes, cooking techniques, and food science
-- [[wiki/economics/index|Economics]] (11 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, economic systems, and critiques of the discipline
+- [[wiki/economics/index|Economics]] (12 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, economic systems, cumulative advantage, and critiques of the discipline
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (2 articles) — product design philosophy, processes, and systems
 - [[wiki/health/index|Health]] (7 articles) — healthcare markets, pharma industry economics, GLP-1 drugs, clinical workflows, health tech companies, drug pricing, cancer drug development, senolytic cell therapies, and indoor environmental quality
