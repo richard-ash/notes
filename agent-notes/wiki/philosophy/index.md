@@ -19,6 +19,10 @@ Philosophical frameworks, epistemology, ethics, and life principles.
 - [[gospel-of-wealth]] — Carnegie's 1889 essay arguing the wealthy are trustees of their surplus, obligated to administer it for the public good during their lifetimes
 - [[guarantee-life-misery]] — Munger's 1986 Harvard School speech using inversion to catalog seven prescriptions for guaranteed misery as a guide to a good life
 - [[make-good-art]] — Gaiman's 2012 commencement address on navigating creative life: the mountain metaphor, the freelancer's triangle, embracing ignorance, and making art through failure and success alike
+- [[circle-of-competence]] — Buffett/Munger mental model: know the perimeter of your expertise, operate inside it, and never confuse confidence for competence
+- [[tradeoffs]] — every decision carries an opportunity cost; deliberate tradeoff-making beats trying to have it all
+- [[decision-matrix]] — Parrish's 2x2 framework (reversibility × consequentiality) for triaging which decisions to own vs. delegate
+- [[hanlons-razor]] — never attribute to malice what can be explained by neglect; a charitable-interpretation default for interpersonal and systemic reasoning
 
 ## Sub-domains
 

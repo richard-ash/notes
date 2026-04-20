@@ -10,3 +10,4 @@ How we come to know things, the limits of perception and reasoning, and the stru
 - [[map-and-territory]] — George Box's "all models are wrong; some are useful", Korzybski's map-territory distinction, and Carlson on how expertise and model obsolescence create concrete failure modes
 - [[mental-models]] — Farnam Street's compendium of ~100 mental models across nine disciplines: thinking tools, physics, biology, systems, math, economics, art, military strategy, and cognitive biases
 - [[simplicity-beyond-complexity]] — Holmes's distinction between naive simplicity and hard-won simplicity after mastering complexity, illustrated through expert decision-making in venture capital
+- [[calibration]] — the epistemic skill of having confidence levels that match actual accuracy; learnable with practice, domain-specific transfer
