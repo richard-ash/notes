@@ -5,7 +5,7 @@
 - [ ] Cipolle Ripiene • Stuffed Onions
 - [ ] Risotto al Gorgonzola • Risotto with Gorgonzola
 - [x] Pizzoccheri • Buckwheat Pasta with Potato and Cabbage
-- [ ] Risotto alla Milanese • Risotto with Saffron
+- [x] Risotto alla Milanese • Risotto with Saffron
 - [ ] Tortelli di Crema • Ravioli from Crema
 - [ ] Polenta Taragna • Buckwheat Polenta with Butter and Cheese
 - [ ] Rotolo di Spinaci • Spinach Roll
