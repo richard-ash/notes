@@ -14,3 +14,4 @@ Housing markets, monetary policy, labor economics, transportation economics, ins
 - [[commercial-zoning-costs]] — How commercial land use regulations reduce U.S. output by 3-6%, with welfare gains of 3-9% from moderate deregulation
 - [[task-automation-vs-paradigm-replacement]] — Why automating tasks within existing paradigms rarely kills jobs, but creating new paradigms (ATMs vs iPhones for bank tellers) does
 - [[use-of-knowledge-in-society]] — Hayek's 1945 argument that dispersed local knowledge cannot be centralized, and the price system solves this by communicating information through prices
+- [[academic-economics-critique]] — Munger's 2003 UCSB lecture diagnosing nine defects in academic economics and prescribing multidisciplinary fluency as the cure

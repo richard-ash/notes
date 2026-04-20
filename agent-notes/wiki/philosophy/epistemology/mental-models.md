@@ -9,7 +9,7 @@ confidence: medium
 
 # Mental Models
 
-A mental model is a simplified explanation of how something works — a tool for compressing complexity into manageable chunks. The concept draws from Charlie Munger's insight that effective thinking requires a "latticework" of models drawn from many disciplines, not mastery of any single framework. As Munger puts it: "You don't have to know it all. Just take in the best big ideas from all these disciplines."
+A mental model is a simplified explanation of how something works — a tool for compressing complexity into manageable chunks. The concept draws from Charlie Munger's insight that effective thinking requires a "latticework" of models drawn from many disciplines, not mastery of any single framework. As Munger puts it: "You don't have to know it all. Just take in the best big ideas from all these disciplines." For Munger's own detailed taxonomy of 25 psychological tendencies that cause systematic misjudgment — the canonical application of latticework thinking to psychology — see [[psychology-of-human-misjudgment]]. For the full latticework argument applied to investing and business — including the pari-mutuel metaphor, advantages of scale, and the Berkshire system of concentrated bets — see [[elementary-worldly-wisdom]].
 
 This article catalogs roughly 100 models organized by their source discipline, as presented by Farnam Street. The framing throughout is Parrish's — these are popularizations of ideas from physics, biology, economics, psychology, and other fields, repackaged as decision-making heuristics.
 

@@ -5,13 +5,13 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 ## Domains
 
 - [[wiki/biology/index|Biology]] (5 articles) — cell biology, genetics, evolution, and the mechanisms of life
-- [[wiki/business/finance/index|Business > Finance]] (3 articles) — corporate finance, capital allocation, valuation, shareholder returns, credit-market cycles, and revenue recognition
+- [[wiki/business/finance/index|Business > Finance]] (4 articles) — corporate finance, capital allocation, valuation, shareholder returns, credit-market cycles, revenue recognition, and investment philosophy
 - [[wiki/business/management/index|Business > Management]] (7 articles) — management theory, leadership philosophy, organizational practice
 - [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (4 articles) — startup ideation, validation, founder-market fit, and the early-stage journey
 - [[wiki/business/strategy/index|Business > Strategy]] (2 articles) — tech business strategy, platform economics, and competitive dynamics
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
 - [[wiki/food/index|Food]] (8 articles) — recipes, cooking techniques, and food science
-- [[wiki/economics/index|Economics]] (10 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, and economic systems
+- [[wiki/economics/index|Economics]] (11 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, economic systems, and critiques of the discipline
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (2 articles) — product design philosophy, processes, and systems
 - [[wiki/health/index|Health]] (6 articles) — healthcare markets, pharma industry economics, GLP-1 drugs, clinical workflows, health tech companies, drug pricing, cancer drug development, and senolytic cell therapies
@@ -22,13 +22,13 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/politics/index|Politics]] (1 article) — civil liberties, governance, state power, and political philosophy
 - [[wiki/religion/index|Religion]] (1 article) — religious traditions, theology, religious history, and the scholarly study of religion
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (12 articles) — software development practices, workflows, and tooling
-- [[wiki/philosophy/index|Philosophy]] (10 articles) — philosophical frameworks, epistemology, ethics, and life principles
+- [[wiki/philosophy/index|Philosophy]] (20 articles) — philosophical frameworks, epistemology, ethics, and life principles
 - [[wiki/physics/index|Physics]] (5 articles) — foundations of physics, quantum mechanics interpretations, relativity, nuclear structure, MOND dynamics, problem-solving methodology, and the structure of physical theories
-- [[wiki/psychology/index|Psychology]] (1 article) — applied psychology, behavioral self-management, motivation, and the science of human decision-making
+- [[wiki/psychology/index|Psychology]] (3 articles) — applied psychology, behavioral self-management, cognitive biases, vulnerability research, motivation, and the science of human decision-making
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-04-19_
+_Last updated: 2026-04-20_
 
 
 
