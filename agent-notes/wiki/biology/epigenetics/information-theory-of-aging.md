@@ -78,7 +78,8 @@ The authors have significant conflicts of interest: Sinclair and Lu hold equity 
 
 ## Connections
 
-The ITOA intersects with [[cellular-memory]] — both concern how biological systems store, lose, and retrieve information at the cellular level, though at different scales (epigenetic identity vs. stimulus-response memory).
+- The ITOA intersects with [[cellular-memory]] — both concern how biological systems store, lose, and retrieve information at the cellular level, though at different scales (epigenetic identity vs. stimulus-response memory).
+- The [[developmental-theory-of-aging]] offers a competing causal framework: where the ITOA says damage drives epigenetic information loss, de Magalhães argues the developmental program's continued run-on is the upstream cause and damage is largely downstream. Both agree that aging is an epigenetic phenomenon reversible by reprogramming, but disagree on which direction the arrow points.
 
 ## Sources
 

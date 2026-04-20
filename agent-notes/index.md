@@ -4,7 +4,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 
 ## Domains
 
-- [[wiki/biology/index|Biology]] (5 articles) — cell biology, genetics, evolution, and the mechanisms of life
+- [[wiki/biology/index|Biology]] (9 articles) — cell biology, genetics, evolution, and the mechanisms of life
 - [[wiki/business/finance/index|Business > Finance]] (4 articles) — corporate finance, capital allocation, valuation, shareholder returns, credit-market cycles, revenue recognition, and investment philosophy
 - [[wiki/business/management/index|Business > Management]] (7 articles) — management theory, leadership philosophy, organizational practice
 - [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (4 articles) — startup ideation, validation, founder-market fit, and the early-stage journey
@@ -14,7 +14,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/economics/index|Economics]] (11 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, economic systems, and critiques of the discipline
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (2 articles) — product design philosophy, processes, and systems
-- [[wiki/health/index|Health]] (6 articles) — healthcare markets, pharma industry economics, GLP-1 drugs, clinical workflows, health tech companies, drug pricing, cancer drug development, and senolytic cell therapies
+- [[wiki/health/index|Health]] (7 articles) — healthcare markets, pharma industry economics, GLP-1 drugs, clinical workflows, health tech companies, drug pricing, cancer drug development, senolytic cell therapies, and indoor environmental quality
 - [[wiki/history/index|History]] (4 articles) — geopolitics, grand strategy, historical analysis, and the mechanisms of long-run cultural and technological change
 - [[wiki/computer-science/ai/index|Computer Science > AI]] (10 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, AI's impact on labor and careers, and inference-layer optimizations like KV caching
 - [[wiki/mathematics/index|Mathematics]] (1 article) — mathematical research, methodology, and how AI is reshaping the practice of math
