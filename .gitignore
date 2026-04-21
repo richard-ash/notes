@@ -42,3 +42,4 @@ private
 
 # Agent-notes: raw sources are local-only (images, PDFs, clippings can grow large)
 agent-notes/raw/
+.gstack/
