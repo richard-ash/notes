@@ -9,6 +9,7 @@ Cell biology, genetics, evolution, and the mechanisms of life.
 - [[transcriptional-chemical-inducers-of-proximity]] — TCIPs: bivalent small molecules that rewire cancer drivers to activate pro-apoptotic genes, demonstrated at 1–10 nM potency in DLBCL
 - [[selection-gene-drives]] — two-switch synthetic biology platform that forward-engineers tumor evolution to eradicate drug resistance; validated across 10 oncogene targets in vitro and in mouse xenografts
 - [[warburg-effect]] — lactagenesis as the purpose of the Warburg Effect: cancer cells orchestrate lactate production and export to drive angiogenesis, immune escape, metastasis, and self-sufficiency
+- [[colibactin]] — genotoxin from *pks+* E. coli that crosslinks DNA via cyclopropane warheads; major molecular driver of early-onset colorectal cancer, with emerging therapeutic strategies (microbiome modulation, engineered scavenger bacteria, DNA protectants)
 
 ## Sub-domains
 - [[epigenetics/index|Epigenetics]] (3 articles) — epigenetic mechanisms, aging clocks, and reprogramming
