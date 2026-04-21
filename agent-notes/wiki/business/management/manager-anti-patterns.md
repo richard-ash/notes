@@ -9,7 +9,7 @@ confidence: medium
 
 # Manager Anti-Patterns
 
-A taxonomy of ways engineering managers get stuck, organized by experience level. Will Larson wrote this as a companion piece to Camille Fournier's "How do Individual Contributors Get Stuck?" — extending the same diagnostic framework to the management track.
+A taxonomy of ways engineering managers get stuck, organized by experience level. Will Larson wrote this as a companion piece to Camille Fournier's [[ic-anti-patterns|"How do Individual Contributors Get Stuck?"]] — extending the same diagnostic framework to the management track.
 
 The piece is notable for how several anti-patterns exist in tension with each other: hiring solves problems *and* creates them; relationships are essential *and* can become a time sink; delegation is critical *and* can become abdication. Larson doesn't resolve these tensions — the point is that management is navigating contradictions, not following rules.
 

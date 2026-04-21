@@ -11,3 +11,6 @@ Management theory, leadership philosophy, and organizational practice.
 - [[technical-leverage]] — investing in technology to multiply the business value a development group delivers; embed innovation in product work rather than separating it into a dedicated team
 - [[how-to-operate]] — Keith Rabois's framework for startup leadership: CEO as editor, barrels vs ammunition, delegation via conviction-consequence matrix, radical focus, pairing metrics, and obsessing over details
 - [[manager-anti-patterns]] — Will Larson's taxonomy of ways engineering managers get stuck, organized by experience level: directional imbalances, identity traps, delegation failures, and attention management
+- [[product-management-framework]] — Larson's three-phase PM framework for engineering leaders: problem discovery (seven lenses), problem selection (time-horizon stress testing), and solution validation (cheap experimentation over analysis)
+- [[ic-anti-patterns]] — Fournier's taxonomy of how ICs get stuck: eight sidetrack patterns (analysis paralysis, infinite research, compulsive refactoring) and twelve stuck patterns (the last 10–20%, starting from scratch, asking for help)
+- [[first-team-mindset]] — Wong on leaders prioritizing their peer leadership group over direct reports: explicit expectations, cohort-building, normalized interdependence, and inviting vulnerability

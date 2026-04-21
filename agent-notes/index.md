@@ -6,7 +6,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 
 - [[wiki/biology/index|Biology]] (9 articles) — cell biology, genetics, evolution, and the mechanisms of life
 - [[wiki/business/finance/index|Business > Finance]] (5 articles) — corporate finance, capital allocation, valuation, shareholder returns, credit-market cycles, revenue recognition, insurance float, and investment philosophy
-- [[wiki/business/management/index|Business > Management]] (7 articles) — management theory, leadership philosophy, organizational practice
+- [[wiki/business/management/index|Business > Management]] (10 articles) — management theory, leadership philosophy, organizational practice
 - [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (5 articles) — startup ideation, validation, founder-market fit, capital discipline, and the early-stage journey
 - [[wiki/business/marketing/index|Business > Marketing]] (1 article) — advertising theory, brand strategy, and the mechanisms of consumer persuasion
 - [[wiki/business/strategy/index|Business > Strategy]] (3 articles) — tech business strategy, platform economics, and competitive dynamics
