@@ -9,7 +9,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/business/management/index|Business > Management]] (10 articles) — management theory, leadership philosophy, organizational practice
 - [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (5 articles) — startup ideation, validation, founder-market fit, capital discipline, and the early-stage journey
 - [[wiki/business/marketing/index|Business > Marketing]] (1 article) — advertising theory, brand strategy, and the mechanisms of consumer persuasion
-- [[wiki/business/strategy/index|Business > Strategy]] (3 articles) — tech business strategy, platform economics, and competitive dynamics
+- [[wiki/business/strategy/index|Business > Strategy]] (4 articles) — business strategy, platform economics, competitive dynamics, and company case studies
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
 - [[wiki/food/index|Food]] (8 articles) — recipes, cooking techniques, and food science
 - [[wiki/economics/index|Economics]] (13 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, economic systems, cumulative advantage, tax policy, and critiques of the discipline
