@@ -16,3 +16,4 @@ Software development practices, workflows, and tooling.
 - [[swift-sdk-for-android]] — cross-compiling Swift libraries for Android via the Swift SDK, Android NDK, and swift-java JNI bindings
 - [[ecto-activity-tracking]] — automatic audit logging in Phoenix by overriding Ecto Repo operations with a Trackable protocol
 - [[low-tech-devex]] — philosophy of preferring battle-hardened, text-based CLI tools (vim, make, tmux, curl) over GUI alternatives for developer productivity
+- [[unattended-coding-agents]] — fully autonomous agents that one-shot tasks from description to PR; Stripe's Minions produce 1,300+ merged PRs/week using hybrid blueprint orchestration (deterministic + agentic nodes)

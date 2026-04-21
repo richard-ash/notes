@@ -22,7 +22,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/computer-science/databases/index|Computer Science > Databases]] (2 articles) — database technologies, architectures, and paradigms
 - [[wiki/politics/index|Politics]] (1 article) — civil liberties, governance, state power, and political philosophy
 - [[wiki/religion/index|Religion]] (1 article) — religious traditions, theology, religious history, and the scholarly study of religion
-- [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (12 articles) — software development practices, workflows, and tooling
+- [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (13 articles) — software development practices, workflows, and tooling
 - [[wiki/philosophy/index|Philosophy]] (25 articles) — philosophical frameworks, epistemology, ethics, and life principles
 - [[wiki/physics/index|Physics]] (5 articles) — foundations of physics, quantum mechanics interpretations, relativity, nuclear structure, MOND dynamics, problem-solving methodology, and the structure of physical theories
 - [[wiki/psychology/index|Psychology]] (3 articles) — applied psychology, behavioral self-management, cognitive biases, vulnerability research, motivation, and the science of human decision-making
