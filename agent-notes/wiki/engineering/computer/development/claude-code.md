@@ -2,7 +2,8 @@
 source: agent
 compiled_from:
   - agent-notes/raw/engineering/computer/development/2026-04-10-inside-claude-code-boris-cherny.md
-compiled_at: 2026-04-10
+  - agent-notes/raw/engineering/computer/development/2026-04-20-claude-code-session-management.md
+compiled_at: 2026-04-20
 model: claude-opus-4-6
 confidence: medium
 ---
@@ -85,13 +86,47 @@ Terminal UI is a hard design space — 80 columns, 256 colors, one font size, no
 
 What makes that tractable is that Claude Code itself can generate 20 prototypes back-to-back in a couple of hours. In a previous era, three prototypes in Framer/Origami would have taken two weeks. This is an underrated compounding advantage: the tool accelerates its own design loop.
 
+## Session management and context hygiene
+
+A separate Anthropic blog post by Thariq Shihipar addresses the practical side of working within Claude Code's one-million-token context window. Where Cherny's interview focuses on product philosophy, Shihipar's piece is an operator's manual for context management — the set of decisions a user makes after every turn.
+
+### Context rot
+
+Context rot is the observation that model performance degrades as the context window fills. Attention gets spread across more tokens, and older, irrelevant content distracts from the current task. This is not a bug to be fixed but a fundamental property of attention-based architectures: more context means more noise competing for the model's limited attention budget.
+
+### The five options after every turn
+
+Shihipar frames each completed turn as a branching point with five options:
+
+1. **Continue** — send another message in the same session. Best when everything in context is still load-bearing.
+2. **Rewind** (`/rewind` or double-Esc) — jump back to a previous message and re-prompt from there, dropping everything after that point. Often better than correcting forward: if an approach failed, rewind to just after the file reads and re-prompt with what you learned, rather than adding "that didn't work" to an already-polluted context. The `/rewind` command can also generate a "summarize from here" handoff — a message from the future iteration of Claude to its past self.
+3. **`/clear`** — start a completely fresh session. The user writes down what matters and starts clean. More work, but the resulting context is exactly what the user decided was relevant.
+4. **`/compact`** — the model summarizes the conversation so far and replaces the history with that summary. Lossy but low-effort. Can be steered with instructions (e.g., `/compact focus on the auth refactor, drop the test debugging`).
+5. **Subagent** — delegate a chunk of work to a child agent with its own fresh context window. Only the synthesized result comes back to the parent.
+
+### When to use which
+
+The general rule of thumb: **new task = new session**. Related follow-on work (e.g., writing docs for a feature you just implemented) can stay in the same session to avoid re-reading files, but unrelated tasks should start fresh.
+
+Rewind beats correction when you want to keep useful file reads but discard a failed approach. Compact beats `/clear` when you want the model to decide what mattered (low effort, moderate precision). `/clear` beats compact when you want to control exactly what carries forward (high effort, high precision).
+
+Subagents are the right tool when the next chunk of work will produce a lot of intermediate output you only need the conclusion from — codebase search, verification runs, doc writing. The mental test Anthropic uses internally: *"Will I need this tool output again, or just the conclusion?"* This echoes Cherny's point about [[unattended-coding-agents|subagents as the dominant execution pattern]] — most agents running are spawned by Claude rather than humans.
+
+### Why autocompact fails
+
+Bad autocompacts happen when the model can't predict where the user's work is heading next. A long debugging session gets compacted into a debugging-focused summary, then the user asks about an unrelated warning that appeared earlier — and that warning was dropped from the summary. Compounding the problem: the model is at its *least* intelligent point when compacting, because context rot peaks right before the compaction trigger fires.
+
+The mitigation with 1M context: you have more time before autocompact fires, so proactively run `/compact` with a description of your planned next steps while the model still has enough headroom to produce a good summary.
+
 ## Implications and cross-connections
 
 - Cherny's "build for the next model" principle and his treatment of scaffolding as disposable echo the core claim in [[the-bitter-lesson]]: general methods that scale with computation consistently beat hand-engineered knowledge. Claude Code treats its own engineering the same way Sutton said AI research should — as scaffolding that the next model capability will subsume.
 - The "delete your CLAUDE.md and start fresh" advice is a corollary: `CLAUDE.md` entries are a form of hand-engineered knowledge that a sufficiently capable model won't need.
 - The latent-demand principle resembles classical YC product advice ("talk to users, build what they're already trying to do") but updated for a context where users are attempting to do new things *with agents* — and you find those by reading GitHub issues and Slack, not by surveys.
 - The shift from "software engineer" toward "builder/PM who also codes" — where every function on the Claude Code team (PMs, designers, EMs, finance) ships code — is presented as a preview of a broader labor-market shift. This is speculative and self-serving but worth flagging as Cherny's explicit prediction.
+- The session-management guide crystallizes the practical implications of context rot: the five options after every turn are really five different strategies for managing the attention-noise tradeoff. Rewind and `/clear` are human-directed curation; compact is model-directed curation; subagents are delegation to a fresh context. The pattern matches Cherny's "uncorrelated context windows" concept — subagents aren't just parallelism, they're a way to keep each context window clean.
 
 ## Sources
 
 - Y Combinator / Lightcone (2026). "Inside Claude Code With Its Creator Boris Cherny." <https://www.youtube.com/watch?v=PQU9o_5rHC4> — [[2026-04-10-inside-claude-code-boris-cherny|local copy]]
+- Shihipar, T. (2026). "Using Claude Code: session management and 1M context." <https://claude.com/blog/using-claude-code-session-management-and-1m-context> — [[2026-04-20-claude-code-session-management|local copy]]
