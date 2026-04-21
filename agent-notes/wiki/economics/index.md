@@ -1,6 +1,6 @@
 # Economics
 
-Housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, and economic systems.
+Housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, economic systems, and tax policy.
 
 ## Articles
 
@@ -16,3 +16,4 @@ Housing markets, monetary policy, labor economics, transportation economics, ins
 - [[use-of-knowledge-in-society]] — Hayek's 1945 argument that dispersed local knowledge cannot be centralized, and the price system solves this by communicating information through prices
 - [[academic-economics-critique]] — Munger's 2003 UCSB lecture diagnosing nine defects in academic economics and prescribing multidisciplinary fluency as the cure
 - [[cumulative-advantage]] — How social influence creates positive feedback in markets, making hit prediction fundamentally impossible regardless of information or models
+- [[buy-borrow-die]] — How America's ultra-wealthy avoid taxation through unrealized gains, borrowing against assets, and step-up in basis at death
