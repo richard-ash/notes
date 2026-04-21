@@ -7,7 +7,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/biology/index|Biology]] (10 articles) — cell biology, genetics, evolution, and the mechanisms of life
 - [[wiki/business/finance/index|Business > Finance]] (5 articles) — corporate finance, capital allocation, valuation, shareholder returns, credit-market cycles, revenue recognition, insurance float, and investment philosophy
 - [[wiki/business/management/index|Business > Management]] (10 articles) — management theory, leadership philosophy, organizational practice
-- [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (5 articles) — startup ideation, validation, founder-market fit, capital discipline, and the early-stage journey
+- [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (6 articles) — startup ideation, validation, founder-market fit, capital discipline, schlep blindness, and the early-stage journey
 - [[wiki/business/marketing/index|Business > Marketing]] (1 article) — advertising theory, brand strategy, and the mechanisms of consumer persuasion
 - [[wiki/business/strategy/index|Business > Strategy]] (4 articles) — business strategy, platform economics, competitive dynamics, and company case studies
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
@@ -29,7 +29,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-04-20_
+_Last updated: 2026-04-21_
 
 
 
