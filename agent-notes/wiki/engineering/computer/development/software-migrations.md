@@ -51,6 +51,8 @@ Larson emphasizes that recognition should be reserved primarily for *completion*
 
 The relationship between migrations and [[internal-software-quality]] is direct: Fowler argues that quality cruft slows teams within weeks, while Larson argues that cross-cutting migrations are the only way to address the cruft that individual teams can't fix alone. Together they describe a two-tier model of tech-debt management — local quality discipline plus organizational migration capability.
 
+Larson revisits the Uber migration in [[judgment-in-ai-assisted-development]], comparing it with a 2026 migration at Imprint where coding agents handled implementation, shifting engineering time entirely from executing decisions to making them.
+
 ## Sources
 
 - Larson, Will (2018). "Migrations: the sole scalable fix to tech debt." <https://lethain.com/migrations/> — [[2026-04-09-migrations-tech-debt|local copy]]
