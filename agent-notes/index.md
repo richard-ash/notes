@@ -20,7 +20,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/computer-science/ai/index|Computer Science > AI]] (10 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, AI's impact on labor and careers, and inference-layer optimizations like KV caching
 - [[wiki/mathematics/index|Mathematics]] (1 article) — mathematical research, methodology, and how AI is reshaping the practice of math
 - [[wiki/computer-science/databases/index|Computer Science > Databases]] (2 articles) — database technologies, architectures, and paradigms
-- [[wiki/politics/index|Politics]] (1 article) — civil liberties, governance, state power, and political philosophy
+- [[wiki/politics/index|Politics]] (2 articles) — civil liberties, governance, state power, and political philosophy
 - [[wiki/religion/index|Religion]] (1 article) — religious traditions, theology, religious history, and the scholarly study of religion
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (14 articles) — software development practices, workflows, and tooling
 - [[wiki/philosophy/index|Philosophy]] (25 articles) — philosophical frameworks, epistemology, ethics, and life principles

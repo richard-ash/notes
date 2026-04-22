@@ -4,3 +4,4 @@ Civil liberties, governance, state power, and political philosophy.
 
 ## Articles
 - [[freedom-to-transact]] — 6529's argument that financial transaction freedom is a prerequisite for all other constitutional rights, prompted by Canada's Emergencies Act freezing protest donors' accounts
+- [[ideas-as-infrastructure]] — Rajagopalan's thesis that classical liberal ideas (free trade, rule of law, property rights) are infrastructure requiring active intellectual maintenance, and that business leaders have dangerously neglected this investment
