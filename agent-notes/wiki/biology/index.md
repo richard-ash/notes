@@ -13,6 +13,7 @@ Cell biology, genetics, evolution, and the mechanisms of life.
 - [[colibactin]] — genotoxin from *pks+* E. coli that crosslinks DNA via cyclopropane warheads; major molecular driver of early-onset colorectal cancer, with emerging therapeutic strategies (microbiome modulation, engineered scavenger bacteria, DNA protectants)
 - [[rejuvenation-strategies]] — systematic comparison of four approaches to reverse aging: blood factors (parabiosis, GDF11, TIMP2), metabolic manipulation (FMD, ketogenic diet, rapamycin), senescent cell ablation (senolytics), and cellular reprogramming (partial Yamanaka factors)
 - [[sperm-whale-codas]] — sperm whale coda vocalizations exhibit five phonological parallels to human language: vowel quality–type correlation, intrinsic duration, contrastive length, individual baseline differences, and coarticulation
+- [[end-of-the-beginning]] — Sinsheimer's 1966 Caltech lecture prophesying genetic therapy, synthetic biology, life extension, and human germline engineering from the newly deciphered genetic code; prescient on direction, early on timelines
 
 ## Sub-domains
 - [[epigenetics/index|Epigenetics]] (5 articles) — epigenetic mechanisms, aging clocks, reprogramming, and theories of aging
