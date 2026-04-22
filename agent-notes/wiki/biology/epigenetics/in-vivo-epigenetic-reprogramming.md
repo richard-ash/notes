@@ -89,7 +89,7 @@ The most profound implication: if OSK-directed TET1/TET2 can restore ~90% of age
 
 ## Temporal notes
 
-This 2020 paper has been heavily cited and become foundational for the longevity field, but the path to human therapy remains long. Sinclair's later work on whole-organism OSK rejuvenation in mice (extending remaining lifespan by 109% in 2-year-old mice) extended these findings beyond the eye. However, Sinclair's 2023 retraction of a related *Nature* paper on ICE mice raised questions about some experimental specifics — though the retraction concerned a different paper (Yang et al. 2023), not this one. The core findings on OSK-mediated vision restoration in this paper have not been challenged.
+This 2020 paper has been heavily cited and become foundational for the longevity field, but the path to human therapy remains long. Sinclair's later work on whole-organism OSK rejuvenation in mice (extending remaining lifespan by 109% in 2-year-old mice) extended these findings beyond the eye. The related ICE mouse paper (Yang et al. 2023, *Cell*) — which used OSK to reverse DSB-induced epigenetic aging in a whole-organism model — has faced post-publication scrutiny, but concerns about that paper do not extend to this one. The core findings on OSK-mediated vision restoration in this paper have not been challenged.
 
 ## Sources
 
