@@ -12,6 +12,7 @@ Cell biology, genetics, evolution, and the mechanisms of life.
 - [[warburg-effect]] — lactagenesis as the purpose of the Warburg Effect: cancer cells orchestrate lactate production and export to drive angiogenesis, immune escape, metastasis, and self-sufficiency
 - [[colibactin]] — genotoxin from *pks+* E. coli that crosslinks DNA via cyclopropane warheads; major molecular driver of early-onset colorectal cancer, with emerging therapeutic strategies (microbiome modulation, engineered scavenger bacteria, DNA protectants)
 - [[rejuvenation-strategies]] — systematic comparison of four approaches to reverse aging: blood factors (parabiosis, GDF11, TIMP2), metabolic manipulation (FMD, ketogenic diet, rapamycin), senescent cell ablation (senolytics), and cellular reprogramming (partial Yamanaka factors)
+- [[sperm-whale-codas]] — sperm whale coda vocalizations exhibit five phonological parallels to human language: vowel quality–type correlation, intrinsic duration, contrastive length, individual baseline differences, and coarticulation
 
 ## Sub-domains
 - [[epigenetics/index|Epigenetics]] (5 articles) — epigenetic mechanisms, aging clocks, reprogramming, and theories of aging
