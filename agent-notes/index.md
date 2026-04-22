@@ -25,7 +25,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (15 articles) — software development practices, workflows, and tooling
 - [[wiki/philosophy/index|Philosophy]] (25 articles) — philosophical frameworks, epistemology, ethics, and life principles
 - [[wiki/physics/index|Physics]] (5 articles) — foundations of physics, quantum mechanics interpretations, relativity, nuclear structure, MOND dynamics, problem-solving methodology, and the structure of physical theories
-- [[wiki/psychology/index|Psychology]] (3 articles) — applied psychology, behavioral self-management, cognitive biases, vulnerability research, motivation, and the science of human decision-making
+- [[wiki/psychology/index|Psychology]] (4 articles) — applied psychology, behavioral self-management, cognitive biases, vulnerability research, motivation, psychological contamination, and the science of human decision-making
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
