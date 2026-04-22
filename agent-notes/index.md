@@ -12,7 +12,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/business/strategy/index|Business > Strategy]] (4 articles) — business strategy, platform economics, competitive dynamics, and company case studies
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
 - [[wiki/food/index|Food]] (10 articles) — recipes, cooking techniques, and food science
-- [[wiki/economics/index|Economics]] (13 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, economic systems, cumulative advantage, tax policy, and critiques of the discipline
+- [[wiki/economics/index|Economics]] (14 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, economic systems, cumulative advantage, tax policy, AI's impact on economics research, and critiques of the discipline
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (3 articles) — product design philosophy, processes, and systems
 - [[wiki/health/index|Health]] (9 articles) — healthcare markets, pharma industry economics, GLP-1 drugs, PCSK9 inhibitors, preventive health stack framework, clinical workflows, health tech companies, drug pricing, cancer drug development, senolytic cell therapies, and indoor environmental quality

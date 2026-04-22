@@ -1,6 +1,6 @@
 # Economics
 
-Housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, economic systems, and tax policy.
+Housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, economic systems, tax policy, and AI's impact on economics research.
 
 ## Articles
 
@@ -17,3 +17,4 @@ Housing markets, monetary policy, labor economics, transportation economics, ins
 - [[academic-economics-critique]] — Munger's 2003 UCSB lecture diagnosing nine defects in academic economics and prescribing multidisciplinary fluency as the cure
 - [[cumulative-advantage]] — How social influence creates positive feedback in markets, making hit prediction fundamentally impossible regardless of information or models
 - [[buy-borrow-die]] — How America's ultra-wealthy avoid taxation through unrealized gains, borrowing against assets, and step-up in basis at death
+- [[ai-economics-research]] — AI as a relative-price shock to academic economics: cheapening routine research labor, raising the return to judgment, institutional reasoning, and deeper price theory
