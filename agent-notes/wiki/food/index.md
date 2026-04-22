@@ -10,3 +10,5 @@ Recipes, cooking techniques, and food science.
 - [[beef-short-ribs-salsa-verde]] — Two-stage braised short ribs finished in fresh tomatillo-serrano salsa verde; 4-5 hrs, Mexican
 - [[resting-meat]] — Why resting meat doesn't retain juices; carryover cooking science and a slice-to-halt-carryover method
 - [[reverse-searing]] — Three-phase reverse sear technique for sous-vide-level precision on thick steaks; evaporative cooling science
+- [[jasmine-rice]] — Stovetop jasmine rice with correct 1:1.25 water ratio; rinsing optional, 12-min cook + 10-min rest
+- [[shrimp-stir-fry-garlic-chives]] — Fast shrimp stir-fry with garlic chives, jalapeños, and mirin-soy glaze; 30-min, serves 4

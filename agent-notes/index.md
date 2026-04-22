@@ -11,7 +11,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/business/marketing/index|Business > Marketing]] (1 article) — advertising theory, brand strategy, and the mechanisms of consumer persuasion
 - [[wiki/business/strategy/index|Business > Strategy]] (4 articles) — business strategy, platform economics, competitive dynamics, and company case studies
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
-- [[wiki/food/index|Food]] (8 articles) — recipes, cooking techniques, and food science
+- [[wiki/food/index|Food]] (10 articles) — recipes, cooking techniques, and food science
 - [[wiki/economics/index|Economics]] (13 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, economic systems, cumulative advantage, tax policy, and critiques of the discipline
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (3 articles) — product design philosophy, processes, and systems
