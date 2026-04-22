@@ -1,6 +1,6 @@
 # Economics
 
-Housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, economic systems, tax policy, AI's impact on economics research, and AI-driven structural change.
+Housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, economic systems, tax policy, AI's impact on economics research, AI-driven structural change, and structural transformation.
 
 ## Articles
 
@@ -19,3 +19,4 @@ Housing markets, monetary policy, labor economics, transportation economics, ins
 - [[buy-borrow-die]] — How America's ultra-wealthy avoid taxation through unrealized gains, borrowing against assets, and step-up in basis at death
 - [[ai-economics-research]] — AI as a relative-price shock to academic economics: cheapening routine research labor, raising the return to judgment, institutional reasoning, and deeper price theory
 - [[ai-and-relational-scarcity]] — As AI collapses commodity production costs, spending and employment shift toward "relational goods" where human involvement is intrinsic to value
+- [[structural-change]] — How nonhomothetic CES preferences explain the long-run reallocation of employment from agriculture to manufacturing to services, with income effects dominating price effects
