@@ -3,7 +3,8 @@ source: agent
 compiled_from:
   - agent-notes/raw/health/2025-11-11-dave-ricks-eli-lilly-glp1s-pharma.md
   - agent-notes/raw/health/2024-07-19-glp1-benefits-beyond-obesity.md
-compiled_at: 2026-04-16
+  - agent-notes/raw/health/2026-04-21-carnell-glp1-peptides-health-revolution.md
+compiled_at: 2026-04-21
 model: claude-opus-4-6
 confidence: high
 ---
@@ -94,14 +95,42 @@ The satiety signal appears to **downregulate dopamine-seeking behavior** broadly
 
 **Substance use findings are mixed.** Drucker notes that dulaglutide for 12 weeks reduced self-reported alcohol consumption, but exenatide for 26 weeks did *not* reduce heavy-drinking days in people with alcohol use disorder — despite attenuating alcohol cue reactivity in the brain on fMRI. Multiple randomized controlled trials are now underway to test GLP-1 medicines for dependence-related disorders.
 
-## Market dynamics (as of late 2025)
+## Market dynamics
 
+### Late 2025 baseline
 - ~10-12 million Americans on GLP-1s (including compounded market); the obesity-eligible population is ~100 million
 - **Zepbound self-pay is the #1 prescribed form** — more new patient starts than Lilly's insured business, and more than all of Wegovy
 - Self-pay price: ~$500/month
 - Lilly capturing 70-75% of new patient starts; 60/40 overall market share vs Novo Nordisk
 - ~80 GLP-1 programs in clinical pipelines globally
 - **Oral formulations** are critical for scaling to hundreds of millions of patients — injectable capacity is constrained by manufacturing plant throughput
+
+### 2026 inflection: oral Wegovy and price elasticity
+
+Biotech investor Alex Carnell (Braidwell) identifies three learnings from the 2025-2026 commercialization cycle that reframe how to think about this market:
+
+1. **Patients optimize for tolerability, not maximum weight loss.** Wall Street focuses on ever-greater efficacy, but the data shows people want moderate weight loss they can sustain long-term with minimal side effects. The key metric is staying on the medicine, not peak weight reduction.
+
+2. **Direct-to-consumer channels dominate adoption.** By end of 2025, more than half of new GLP-1 patient starts were coming through direct channels (LillyDirect and similar), bypassing traditional physician-to-pharmacy pathways. Consumers want the Amazon experience — click a button, medicine arrives at home.
+
+3. **Massive price elasticity.** The compounded GLP-1 market revealed that 15-20% of demand was invisible to prescription tracking — flowing through Hims & Hers and similar channels at ~$200-250/month vs $400-500 for branded. People were willing to take safety and manufacturing risks on unregulated compounded versions because they could afford them.
+
+The oral Wegovy launch in early 2026 validated all three findings simultaneously. At **$150/month** ($1,800/year), it has achieved a **~4x launch trajectory** vs Zepbound's injectable launch. New weekly prescriptions surged from ~200,000/week to ~300,000/week within months. Carnell argues this proves the market is far larger than injectable pricing could reach — at the right price and convenience point, GLP-1s "fly off the shelves."
+
+These dynamics support Carnell's view that GLP-1 revenues will easily exceed $100 billion/year and that the class represents "the first commercial proof" of a broader trillion-dollar shift toward preventive medicine (see [[health-stack]]).
+
+### Market segmentation
+
+Carnell frames the obesity market in three tiers:
+- **Overweight** (BMI 25-30) and **obese** (BMI 30-40): well-served by existing options; semaglutide and tirzepatide are largely interchangeable in this range
+- **Morbidly obese** (BMI 40+): still underserved — requires higher doses, longer titration, and more dramatic appetite suppression. This is where next-generation agents may have a "right to win"
+- **Preventive use** (all BMIs): Carnell speculates that low-dose GLP-1s could prevent the average 5-BMI-point gain from adolescence to middle age, though this population hasn't been studied in trials
+
+### Next-generation dosing forms
+
+Beyond oral daily and injectable weekly:
+- **Once-monthly**: Pfizer acquired a candidate with this profile; Amgen also developing monthly and potentially quarterly formulations
+- Longer dosing intervals matter enormously for compliance — the easier a medicine is to take, the longer people stay on it
 
 ## The "overnight phenomenon" wasn't overnight
 
@@ -126,11 +155,18 @@ Drucker outlines the next wave of GLP-1-adjacent drug development:
 
 The goal is greater weight loss while preserving or enhancing the cardiorenal, hepatic, and anti-inflammatory actions of current GLP-1R agonists. New medicines are being designed as peptides for parenteral administration and, in some cases, as small molecules or peptides formulated for oral administration.
 
+### Risk-reward framing
+
+Carnell contrasts GLP-1s with [[pcsk9-inhibitors]]: GLP-1s are **not** a free lunch. Real toxicities include nausea, vomiting, diarrhea (the primary reasons people quit early), plus gallstones, pancreatitis, and muscle loss at higher doses — all consequences of rapid weight loss. However, the diseases they prevent (diabetes, obesity, cardiovascular disease) cost 5-10 years of expected lifespan in aggregate, making the trade-off strongly favorable. Unlike PCSK9 inhibitors, GLP-1s have the advantage of producing visible, immediate results — people know the drug is working — which helps retention.
+
 ## See also
 
+- [[health-stack]] — the five-layer defensive framework where GLP-1s address cardiometabolic health
+- [[pcsk9-inhibitors]] — the "free lunch" cardiovascular drug Carnell contrasts with GLP-1s
 - [[pharma-industry-economics]] — R&D incentives, drug pricing, and patent dynamics
 - [[eli-lilly]] — the company's competitive position and direct-to-consumer strategy
 
 ## Sources
 - Stripe / Patrick & John Collison (2025). "Dave Ricks, CEO of Eli Lilly, on GLP-1s and the business of pharma." <https://www.youtube.com/watch?v=-FmVCDx_kFw> — [[2025-11-11-dave-ricks-eli-lilly-glp1s-pharma|local copy]]
 - Drucker, D. J. (2024). "The benefits of GLP-1 drugs beyond obesity." *Science* 385(6706). <https://www.science.org/doi/10.1126/science.adn4128> — [[2024-07-19-glp1-benefits-beyond-obesity|local copy]]
+- Invest Like The Best / Alex Carnell (2026). "GLP-1s, Peptides, and The Trillion-Dollar Health Revolution." <https://www.youtube.com/watch?v=QVSP8bGm2KQ> — [[2026-04-21-carnell-glp1-peptides-health-revolution|local copy]]
