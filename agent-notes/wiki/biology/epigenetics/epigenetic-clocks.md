@@ -89,6 +89,7 @@ This review was written in 2020 (last updated 2022). Since then, GrimAge version
 - [[senolytic-car-t-cells]] target a downstream consequence of aging (senescent cell accumulation) that epigenetic clocks can quantify — the two approaches are complementary as measurement and intervention.
 - [[cellular-memory]] explores how cells encode and retrieve information at scales beyond the epigenome; the "observer problem" in the ITOA — where is the youthful backup copy stored? — connects the biology of aging clocks to broader questions about cellular information storage.
 - The [[developmental-theory-of-aging]] interprets epigenetic clocks as reflecting the running of the developmental software program — the clocks tick because they track ontogenetic progression, not damage accumulation. The enrichment of developmental genes (PRC2 targets) at clock CpG sites supports this reading.
+- [[in-vivo-epigenetic-reprogramming]] demonstrated that OSK factors reverse a machine-learning-derived DNA methylation aging signature (1,226 CpGs) in retinal ganglion cells, and that the signature sites are enriched for PRC2 binding and H3K27me3 — connecting clock biology to the functional reversal of age-related decline.
 
 ## Sources
 

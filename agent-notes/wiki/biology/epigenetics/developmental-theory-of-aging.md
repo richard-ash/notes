@@ -96,6 +96,13 @@ This is a review/hypothesis paper, not new experimental data. Its strengths: ele
 
 De Magalhães has conflicts of interest: he is CSO of YouthBio Therapeutics (partial reprogramming company) and founder of Magellan Science Ltd (longevity consulting).
 
+## Connections
+
+- The [[somatic-restriction-theory]] (West et al., 2019) shares the developmental-program framing but focuses on discrete staged transitions (PT, EFT, NT, AT) that progressively restrict regenerative capacity — a more granular, transition-by-transition account of the same general insight that aging is developmental in origin rather than damage-driven.
+- The [[information-theory-of-aging]] offers the competing damage-first interpretation: DNA breaks relocalize chromatin modifiers, introducing stochastic epigenetic noise. De Magalhães explicitly rejects this causal direction.
+- [[epigenetic-clocks]] — the enrichment of developmental genes (PRC2 targets) at clock CpG sites is consistent with clocks tracking developmental program progression rather than damage accumulation.
+- [[in-vivo-epigenetic-reprogramming]] — OSK-mediated rejuvenation can be interpreted as a partial software rewind, restoring cells to an earlier execution state without full restart.
+
 ## Sources
 
 - de Magalhães, J. P. (2023). "Ageing as a software design flaw." *Genome Biology* 24:51. <https://doi.org/10.1186/s13059-023-02888-y> — [[2023-03-07-ageing-as-software-design-flaw|local copy]]

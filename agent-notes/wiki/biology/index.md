@@ -11,6 +11,7 @@ Cell biology, genetics, evolution, and the mechanisms of life.
 - [[lactate]] — lactate as obligatory glycolytic product, universal fuel (Lactate Shuttle), lactormone/exerkine signaling molecule, and oncometabolite; overturning 245 years of mischaracterization as metabolic waste
 - [[warburg-effect]] — lactagenesis as the purpose of the Warburg Effect: cancer cells orchestrate lactate production and export to drive angiogenesis, immune escape, metastasis, and self-sufficiency
 - [[colibactin]] — genotoxin from *pks+* E. coli that crosslinks DNA via cyclopropane warheads; major molecular driver of early-onset colorectal cancer, with emerging therapeutic strategies (microbiome modulation, engineered scavenger bacteria, DNA protectants)
+- [[rejuvenation-strategies]] — systematic comparison of four approaches to reverse aging: blood factors (parabiosis, GDF11, TIMP2), metabolic manipulation (FMD, ketogenic diet, rapamycin), senescent cell ablation (senolytics), and cellular reprogramming (partial Yamanaka factors)
 
 ## Sub-domains
-- [[epigenetics/index|Epigenetics]] (3 articles) — epigenetic mechanisms, aging clocks, and reprogramming
+- [[epigenetics/index|Epigenetics]] (5 articles) — epigenetic mechanisms, aging clocks, reprogramming, and theories of aging

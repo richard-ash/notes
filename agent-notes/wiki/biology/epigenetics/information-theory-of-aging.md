@@ -78,8 +78,10 @@ The authors have significant conflicts of interest: Sinclair and Lu hold equity 
 
 ## Connections
 
+- [[in-vivo-epigenetic-reprogramming]] is the primary experimental proof-of-concept for the ITOA: the 2020 *Nature* paper by Lu et al. (from Sinclair's lab) demonstrated OSK-mediated vision restoration in aged and glaucomatous mice, with ~90% of age-altered genes returned to youthful levels — the strongest evidence that a recoverable "backup copy" of youthful epigenetic information exists.
 - The ITOA intersects with [[cellular-memory]] — both concern how biological systems store, lose, and retrieve information at the cellular level, though at different scales (epigenetic identity vs. stimulus-response memory).
 - The [[developmental-theory-of-aging]] offers a competing causal framework: where the ITOA says damage drives epigenetic information loss, de Magalhães argues the developmental program's continued run-on is the upstream cause and damage is largely downstream. Both agree that aging is an epigenetic phenomenon reversible by reprogramming, but disagree on which direction the arrow points.
+- The [[somatic-restriction-theory]] (West et al., 2019) proposes a third framing: aging results from staged developmental restrictions (PT, EFT, NT, AT) that progressively suppress regenerative capacity via antagonistic pleiotropy. Where the ITOA emphasizes stochastic noise from damage-repair cycles, the somatic restriction theory emphasizes deterministic developmental transitions — the restrictions were beneficial in context but become harmful when tissues can no longer self-repair.
 
 ## Sources
 
