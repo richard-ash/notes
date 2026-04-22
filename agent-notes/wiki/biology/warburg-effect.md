@@ -2,7 +2,8 @@
 source: agent
 compiled_from:
   - agent-notes/raw/biology/2016-12-30-lactagenesis-warburg-effect.md
-compiled_at: 2026-04-20
+  - agent-notes/raw/biology/2026-03-25-lactate-misunderstood-molecule.md
+compiled_at: 2026-04-22
 model: claude-opus-4-6
 confidence: high
 ---
@@ -71,6 +72,12 @@ The paper draws heavily on parallels between working skeletal muscle and cancer 
 
 This suggests that **chronicity and dysregulation** — not the metabolic pathway itself — are what distinguish cancerous from healthful lactate metabolism.
 
+## Lactate-driven multi-checkpoint immune escape (2026)
+
+San-Millán et al. (2026) extend the immune escape findings significantly. Their most recent work demonstrates that lactate regulates the expression of *multiple* immune checkpoints simultaneously — not just PD-L1, but CD80, CD73, LGALS9, CD47, VISTA, and others — in both breast and lung cancer cell lines. Different cancer cell lines showed strikingly different checkpoint patterns under chronic lactate-producing conditions, revealing a heterogeneous immune escape landscape driven by a shared upstream metabolic state: lactate accumulation.
+
+This has direct implications for immunotherapy. The limited efficacy of single-checkpoint inhibitors (e.g., pembrolizumab targeting PD-1/PD-L1) in many solid tumors may reflect that the tumor has multiple immune escape roads open simultaneously. Targeting [[lactate]] production upstream — rather than individual checkpoints downstream — could potentially shut down multiple immune evasion pathways at once.
+
 ## Therapeutic implications
 
 Targeting lactagenesis at various nodes:
@@ -85,7 +92,7 @@ A challenge: cancer cells develop resistance. When MCT1/2 were inhibited by AR-C
 
 ## Connection to the Lactate Shuttle
 
-Brooks' Lactate Shuttle concept (proposed 1985) overturned the century-old dogma that lactate is merely anaerobic waste. Key principles that inform the cancer context:
+See [[lactate]] for the full picture of lactate metabolism and the Lactate Shuttle framework. Brooks' Lactate Shuttle concept (proposed 1985) overturned the century-old dogma that lactate is merely anaerobic waste. Key principles that inform the cancer context:
 
 - Lactate is the obligatory product of glycolysis (produced even at rest, aerobically)
 - It serves as a major oxidative fuel (~75–80% of muscle lactate is oxidized during exercise)
@@ -105,3 +112,4 @@ The cancer cell co-opts this normal signaling infrastructure for pathological pu
 ## Sources
 
 - San-Millán, I. & Brooks, G.A. (2017). "Reexamining cancer metabolism: lactate production for carcinogenesis could be the purpose and explanation of the Warburg Effect." *Carcinogenesis*, 38(2), 119–133. <https://academic.oup.com/carcin/article/38/2/119/2709442> — [[2016-12-30-lactagenesis-warburg-effect|local copy]]
+- San-Millán, I. (2026). "Lactate: The Most Misunderstood Molecule in Biology." *Substack*. <https://substack.com/home/post/p-192080657> — [[2026-03-25-lactate-misunderstood-molecule|local copy]]
