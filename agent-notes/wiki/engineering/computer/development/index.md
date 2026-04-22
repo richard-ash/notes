@@ -17,3 +17,4 @@ Software development practices, workflows, and tooling.
 - [[ecto-activity-tracking]] — automatic audit logging in Phoenix by overriding Ecto Repo operations with a Trackable protocol
 - [[low-tech-devex]] — philosophy of preferring battle-hardened, text-based CLI tools (vim, make, tmux, curl) over GUI alternatives for developer productivity
 - [[unattended-coding-agents]] — fully autonomous agents that one-shot tasks from description to PR; Stripe's Minions produce 1,300+ merged PRs/week using hybrid blueprint orchestration (deterministic + agentic nodes)
+- [[claude-code-skills]] — taxonomy of nine skill types, design patterns (gotchas sections, progressive disclosure, on-demand hooks), and distribution strategies from Anthropic's internal usage of Claude Code skills
