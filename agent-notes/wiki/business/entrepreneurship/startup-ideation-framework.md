@@ -11,6 +11,8 @@ confidence: medium
 
 A practitioner's framework for moving from "I want to start a business" to a validated, committed opportunity. This synthesis draws on Troy (u/ssbmomelette), a serial founder across 9 startups (cumulative valuation >$1B, current venture at $5M ARR), who lays out a seven-step process. The framework is opinionated and experiential rather than academic --- but an Antler founder in the comments noted it covers 70-80% of what their program teaches.
 
+This process-oriented framework contrasts with Graham's [[organic-startup-ideation|organic approach]], which argues the best ideas are "noticed" from lived experience rather than systematically generated. The two are complementary: organic ideation describes how to *become* the sort of person who has good ideas, while this framework describes what to do once you're looking.
+
 ## The pain vs. enjoyment distinction
 
 Troy argues every business either **solves a pain point** or **provides enjoyment**, and that pain businesses are almost always the better bet for a new founder:
