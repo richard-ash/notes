@@ -11,3 +11,4 @@ Healthcare markets, pharma industry economics, drug mechanisms, preventive medic
 - [[aoh1996]] — first-in-class PCNA inhibitor exploiting transcription-replication conflicts for cancer-selective chemotherapy; orally bioavailable, now in Phase 1 trials
 - [[senolytic-car-t-cells]] — anti-uPAR CAR T cells that eliminate senescent cells; single dose reverses age-related metabolic dysfunction and prevents decline prophylactically in mice
 - [[indoor-air-quality-cognitive-function]] — COGfx study showing CO₂, ventilation, and VOC levels in offices have large dose-dependent effects on higher-order cognitive function
+- [[metformin]] — biguanide diabetes drug targeting multiple aging pathways (AMPK, mTOR, senescence); observational evidence for reduced cancer, mortality, and cognitive decline; the TAME trial as a paradigm for geroscience
