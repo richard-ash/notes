@@ -82,6 +82,8 @@ The essay also overlaps with [[common-denominator-of-success|Gray's thesis]] tha
 
 Graham's advice to "make something you yourself want" echoes a central [[make-good-art|Gaiman]] theme, and his framework for distributing attention across topics according to a power law connects to [[multidisciplinary-approach-to-thinking|Kaufman's]] argument for cross-disciplinary thinking.
 
+This essay grew directly out of a paragraph in Graham's earlier [[superlinear-returns|"Superlinear Returns"]] — the companion piece that provides the structural argument for *why* great work matters so disproportionately (the reward curve is superlinear, so incremental effort at the far end is an extraordinary bargain).
+
 ## Sources
 
 - Graham, Paul (2023). "How to Do Great Work." <https://paulgraham.com/greatwork.html> — [[2026-04-22-how-to-do-great-work|local copy]]
