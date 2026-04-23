@@ -14,3 +14,4 @@ Artificial intelligence research: methodology, scaling, architectures, and the p
 - [[ai-judgment-atrophy]] — Heron's thesis that routinely delegating cognitive work to AI erodes the friction-built muscle of human judgment
 - [[waymo-autonomous-driving]] — Waymo's foundation-model → teacher → distilled-student architecture, sensor fusion, the ADAS vs. L4 discontinuity, and scaling to 500K rides/week
 - [[generative-ai-as-pattern-generation]] — Evans's "Imagenet moment" framing: generative AI as pattern generation, error tolerance by domain, creation vs remixing, and humans in the loop
+- [[ai-robotics-hype-cycles]] — Brooks's thesis that AI/robotics demos systematically mislead on timelines, the wrong-substrate argument for AGI, humanoid robot hype, and infrastructure overbuild as hidden upside

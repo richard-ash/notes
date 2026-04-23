@@ -17,7 +17,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (3 articles) — product design philosophy, processes, and systems
 - [[wiki/health/index|Health]] (10 articles) — healthcare markets, pharma industry economics, GLP-1 drugs, PCSK9 inhibitors, preventive health stack framework, clinical workflows, health tech companies, drug pricing, cancer drug development, senolytic cell therapies, and indoor environmental quality
 - [[wiki/history/index|History]] (5 articles) — geopolitics, grand strategy, historical analysis, and the mechanisms of long-run cultural and technological change
-- [[wiki/computer-science/ai/index|Computer Science > AI]] (10 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, AI's impact on labor and careers, and inference-layer optimizations like KV caching
+- [[wiki/computer-science/ai/index|Computer Science > AI]] (11 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, AI's impact on labor and careers, inference-layer optimizations like KV caching, and AI/robotics hype cycle analysis
 - [[wiki/mathematics/index|Mathematics]] (1 article) — mathematical research, methodology, and how AI is reshaping the practice of math
 - [[wiki/computer-science/databases/index|Computer Science > Databases]] (2 articles) — database technologies, architectures, and paradigms
 - [[wiki/politics/index|Politics]] (2 articles) — civil liberties, governance, state power, and political philosophy
