@@ -20,3 +20,4 @@ Software development practices, workflows, and tooling.
 - [[claude-code-skills]] — taxonomy of nine skill types, design patterns (gotchas sections, progressive disclosure, on-demand hooks), and distribution strategies from Anthropic's internal usage of Claude Code skills
 - [[technical-accessibility]] — the gap between publishing a technical artifact and making it genuinely accessible; "build the thing, then build the ramp"
 - [[judgment-in-ai-assisted-development]] — coding agents solve time and attention; judgment (maintainability, security, reliability decisions) is now the binding constraint, scalable via skill/datapack ecosystems
+- [[vibe-coding-apprenticeship]] — using AI-generated code as a teaching surface under guardrails (explain-before-commit, AI-free debugging, graduated autonomy) to accelerate intern learning
