@@ -23,6 +23,7 @@ Philosophical frameworks, epistemology, ethics, and life principles.
 - [[tradeoffs]] — every decision carries an opportunity cost; deliberate tradeoff-making beats trying to have it all
 - [[decision-matrix]] — Parrish's 2x2 framework (reversibility × consequentiality) for triaging which decisions to own vs. delegate
 - [[hanlons-razor]] — never attribute to malice what can be explained by neglect; a charitable-interpretation default for interpersonal and systemic reasoning
+- [[doing-great-work]] — Graham's cross-domain recipe for great work: choose a field, reach the frontier, notice gaps, explore them — driven by curiosity and earnestness
 
 ## Sub-domains
 
