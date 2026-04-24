@@ -4,7 +4,8 @@ compiled_from:
   - agent-notes/raw/biology/epigenetics/2020-12-02-osk-reprogramming-vision.md
   - agent-notes/raw/biology/epigenetics/2019-07-31-osk-reprogramming-vision-preprint.md
   - agent-notes/raw/biology/epigenetics/2020-10-22-yamanaka-factors-dentate-gyrus.md
-compiled_at: 2026-04-22
+  - agent-notes/raw/biology/epigenetics/2023-01-05-osk-lifespan-extension-aged-mice.md
+compiled_at: 2026-04-23
 model: claude-opus-4-6
 confidence: high
 ---
@@ -83,16 +84,39 @@ Using doxycycline-inducible OSKM in i4F transgenic mice (6 months old at start, 
 
 The finding that reprogramming improved memory *without* increasing neurogenesis is notable — it suggests the primary mechanism acts on existing mature neurons rather than by generating new ones. The H3K9me3 increase in the granular layer (where mature neuron cell bodies reside) supports changes in synaptic plasticity as the functional driver. This contrasts with the Lu et al. results in the eye, where improvements also came from transcriptomic restoration rather than new cell generation, but operated through DNA methylation and PRC2/H3K27me3 rather than H3K9me3. The two studies implicate different but complementary epigenetic pathways in age reversal across different CNS tissues.
 
+## Whole-organism lifespan extension via AAV-delivered OSK
+
+The studies above demonstrated OSK-mediated rejuvenation in specific tissues (eye, brain). A 2023 bioRxiv preprint from Rejuvenate Bio (Macip, Davidsohn, et al.) asked the next logical question: can systemically delivered OSK extend whole-organism lifespan — and can it do so in extremely old wild-type mice, the population most relevant to human therapeutics?
+
+**Delivery system.** Rather than transgenic mice, the team used a two-part AAV9 system: one vector constitutively expressing rtTA (driven by hEF1a promoter), the other carrying a polycistronic OSK cassette under a doxycycline-responsive TRE3 promoter. AAV9 was chosen for its broad tissue tropism. This is a critical translational advance — AAV gene therapy is an established clinical modality, while transgenic approaches have no therapeutic path.
+
+**Age of intervention.** Male C57BL6/J mice were injected at 124 weeks of age — equivalent to ~77 human years. The median lifespan for this strain is ~129 weeks (~80 human years), so these mice were already near end-of-life when treatment began. This contrasts with prior reprogramming studies that used progeroid models or younger animals.
+
+**Protocol.** Retro-orbital injection of 1E12 vg per vector (~6E13 vg/kg total), with doxycycline cycling (1 week on / 1 week off via drinking water at 2 mg/ml) starting the day after injection and continuing for life. Control mice received PBS injection but identical doxycycline treatment.
+
+**Key results:**
+
+- **109% extension in median remaining lifespan**: control mice had 8.86 weeks remaining (median lifespan ~133 weeks) vs. 18.5 weeks remaining for TRE-OSK mice (median lifespan ~142.5 weeks). Mantel Cox log-rank test, p < 0.05.
+- **Improved healthspan**: the frailty index (FI), a composite of 28 health parameters (physical, physiological, and reflex measures), dropped significantly from 7.5 (control) to 6.0 (TRE-OSK) at 142 weeks of age.
+- **Epigenetic age trends**: DNA from heart and liver of euthanized mice, assessed by the Lifespan Uber Clock (LUC), trended toward reduced epigenetic age in TRE-OSK mice, though the difference did not reach significance.
+- **No gross teratoma formation** — consistent with the safety of OSK (without Myc) observed by Lu et al. in the eye.
+- **Human cell validation**: OSK expression in HEK001 keratinocytes (from a 65-year-old donor) produced significant epigenetic age reversal vs. untransduced and GFP controls (p < 0.001 by skin-blood clock), demonstrating cross-species relevance.
+
+**Significance for the field.** This study bridges two gaps: (1) from tissue-specific to whole-organism effects, and (2) from transgenic proof-of-concept to therapeutically translatable AAV delivery. The use of extremely old wild-type mice strengthens translatability — prior reprogramming studies in progeroid mice left open the question of whether the intervention worked by correcting a specific genetic defect rather than reversing normal aging. The 109% remaining-lifespan extension is striking, though it is important to note this is "remaining life" from week 124, not total lifespan (the absolute median lifespan increased by ~7%, from 133 to 142.5 weeks).
+
+**Caveats.** This is a bioRxiv preprint (not peer-reviewed as of January 2023). Sample sizes were modest (n=20 per group). The epigenetic clock results in mouse tissues trended but did not reach statistical significance. All authors were employees of Rejuvenate Bio, the company developing this therapy commercially. The polycistronic vector design is a manufacturing advantage but makes it difficult to titrate individual factor expression.
+
 ## The "observer" question
 
 The most profound implication: if OSK-directed TET1/TET2 can restore ~90% of age-altered genes to their correct youthful expression — hitting the right loci, in the right direction, by the right magnitude — then the youthful pattern must be recorded somewhere accessible. Global demethylation doesn't work; targeted demethylation does. Something is encoding *which specific CpG sites* should be methylated or unmethylated in a young cell of that type. Candidates include covalent DNA modifications, DNA-binding proteins, RNA-guided chromatin modifiers, and RNA–DNA hybrids established during development. Finding this positional memory would be transformative for aging biology.
 
 ## Temporal notes
 
-This 2020 paper has been heavily cited and become foundational for the longevity field, but the path to human therapy remains long. Sinclair's later work on whole-organism OSK rejuvenation in mice (extending remaining lifespan by 109% in 2-year-old mice) extended these findings beyond the eye. The related ICE mouse paper (Yang et al. 2023, *Cell*) — which used OSK to reverse DSB-induced epigenetic aging in a whole-organism model — has faced post-publication scrutiny, but concerns about that paper do not extend to this one. The core findings on OSK-mediated vision restoration in this paper have not been challenged.
+This 2020 paper has been heavily cited and become foundational for the longevity field, but the path to human therapy remains long. Rejuvenate Bio (Macip, Davidsohn, et al., 2023 preprint) extended the OSK approach to whole-organism lifespan, showing a 109% extension in remaining lifespan in 124-week-old wild-type mice using AAV-delivered OSK — the first demonstration of lifespan extension via partial reprogramming in normally aged mice with a therapeutically translatable delivery system. The related ICE mouse paper (Yang et al. 2023, *Cell*) — which used OSK to reverse DSB-induced epigenetic aging in a whole-organism model — has faced post-publication scrutiny, but concerns about that paper do not extend to the Lu et al. 2020 or Macip et al. 2023 findings. The core findings on OSK-mediated vision restoration in this paper have not been challenged.
 
 ## Sources
 
 - Lu, Y., Brommer, B., Tian, X., Krishnan, A., Meer, M. et al. (2020). "Reprogramming to recover youthful epigenetic information and restore vision." *Nature* 588, 124–129. <https://doi.org/10.1038/s41586-020-2975-4> — [[2020-12-02-osk-reprogramming-vision|local copy]]
 - Lu, Y., Krishnan, A., Brommer, B., Tian, X., Meer, M. et al. (2019). "Reversal of ageing- and injury-induced vision loss by Tet-dependent epigenetic reprogramming." *bioRxiv* preprint. <https://doi.org/10.1101/710210> — [[2019-07-31-osk-reprogramming-vision-preprint|local copy]]
 - Rodriguez-Matellán, A., Alcazar, N., Hernández, F., Serrano, M., and Ávila, J. (2020). "In Vivo Reprogramming Ameliorates Aging Features in Dentate Gyrus Cells and Improves Memory in Mice." *Stem Cell Reports* 15, 1–11. <https://doi.org/10.1016/j.stemcr.2020.09.010> — [[2020-10-22-yamanaka-factors-dentate-gyrus|local copy]]
+- Macip, C.C., Hasan, R., Hoznek, V., Kim, J., Metzger IV, L.E., Sethna, S. & Davidsohn, N. (2023). "Gene Therapy Mediated Partial Reprogramming Extends Lifespan and Reverses Age-Related Changes in Aged Mice." *bioRxiv* preprint. <https://doi.org/10.1101/2023.01.04.522507> — [[2023-01-05-osk-lifespan-extension-aged-mice|local copy]]
