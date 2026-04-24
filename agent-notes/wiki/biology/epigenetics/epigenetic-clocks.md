@@ -2,7 +2,8 @@
 source: agent
 compiled_from:
   - agent-notes/raw/health/2026-04-16-nintil-epigenetic-clocks-review.md
-compiled_at: 2026-04-16
+  - agent-notes/raw/biology/epigenetics/2022-06-01-epiage-hallmarks-of-aging.md
+compiled_at: 2026-04-24
 model: claude-opus-4-6
 confidence: high
 ---
@@ -40,6 +41,10 @@ With age, a characteristic bidirectional drift emerges: methylated islands lose 
 | PhenoAge (Levine et al.) | 2018 | 513 | Trained on 10-year mortality risk via phenotypic covariates (albumin, creatinine, CRP, etc.) |
 | GrimAge (Lu et al.) | 2019 | 1030 | Trained on time-to-death via intermediate surrogates (smoking pack-years, plasma protein levels); best mortality predictor |
 
+### Clock selection for in vitro work
+
+Not all clocks perform equally in cultured primary human cells. Kabacik et al. (2022) systematically compared four clocks — Skin&Blood, Horvath, Hannum, and PhenoAge — on keratinocytes and fibroblasts through multiple experimental conditions. The Skin&Blood clock (DNAmAge) produced the most consistent and interpretable results, while the Hannum and PhenoAge clocks exhibited paradoxical or erratic behavior in vitro. This is a critical practical point: studies evaluating anti-aging compounds in cell culture should prefer the Skin&Blood clock over general-purpose alternatives.
+
 The critical methodological difference: first-generation clocks were trained on **cross-sectional** data (people of different ages sampled once), while second-generation clocks incorporate **longitudinal** data (same individuals tracked over time). This matters because a CpG strongly correlated with early death would be underrepresented in old-age cross-sections — the people carrying that mark are already dead.
 
 Both generations derive "age acceleration" metrics (e.g., AgeAccelGrim) by regressing epigenetic age on chronological age and taking residuals. These acceleration scores are what predict health outcomes. GrimAge's AgeAccelGrim achieves a hazard ratio of ~4 between the top 95th and bottom 5th percentile — by comparison, smoking 10 cigarettes/day has an HR of only 1.9 relative to nonsmokers.
@@ -63,13 +68,38 @@ Ricon argues these are likely not mutually exclusive — multiple mechanisms con
 - **Embryonic stem cells** do not epigenetically age even after hundreds of passages — consistent with the clocks measuring differentiation-related changes rather than replication count.
 - **Telomerase immortalization** does not prevent epigenetic aging, and **faster replication** does not accelerate it.
 
+### Clock initiation at differentiation
+
+Kabacik et al. (2022) provided direct evidence that the epigenetic clock begins ticking when embryonic stem cells lose pluripotency. Human ESCs differentiated into endothelial cells showed no EpiAge increase while pluripotent, but began accumulating epigenetic age upon differentiation. The same pattern held for ESCs differentiated into neural progenitors and for iPSCs differentiated into lung epithelial basal cells (via anterior foregut endoderm and lung progenitor stages) — EpiAge correlated with loss of OCT4 and gain of TP63. This finding strengthens the stem cell differentiation model and is consistent with the [[developmental-theory-of-aging]]'s interpretation of clocks as tracking ontogenetic progression.
+
+## Epigenetic clocks and the hallmarks of aging
+
+Kabacik et al. (2022) systematically tested each classical hallmark of aging against the Skin&Blood epigenetic clock in primary human cells, producing the most comprehensive mapping to date:
+
+| Hallmark | Affects EpiAge? | Key evidence |
+|----------|----------------|-------------|
+| Cellular senescence | **No** | Replicative, Ras-induced, and X-ray-induced senescent cells showed EpiAge increase, but hTERT cells that bypassed senescence continued accumulating EpiAge at the same rate — senescence itself is not the driver |
+| Telomere attrition | **No** | hTERT-expressing fibroblasts maintained telomere length indefinitely yet continued epigenetic aging unabated |
+| Genomic instability | **No** | Acute (20 Gy), chronic low-dose (1 mGy/h), and pulsed radiation across HDKs, HDFs, and MEFs produced no significant EpiAge change despite causing DNA damage |
+| Deregulated nutrient sensing | **Yes** | Rapamycin (mTOR inhibitor) retarded epigenetic aging in neonatal HDKs and hTERT-immortalized HUVECs |
+| Mitochondrial dysfunction | **Yes** | CCCP (mitochondrial uncoupler) highly accelerated EpiAge; bezafibrate (mitochondrial biogenesis enhancer) slowed it |
+| Stem cell exhaustion | **Yes** | Stem cell-enriched epidermal fractions (ITGA6+, COL17A1+, p63+) were epigenetically younger than stem cell-depleted fractions; tissue EpiAge is a composite of its constituent cell populations |
+| Altered intercellular communication | Not tested in this study (but mouse parabiosis experiments show young plasma rejuvenates EpiAge) |
+| Loss of proteostasis | Not tested |
+
+The critical implication: three hallmarks are mechanistically upstream of epigenetic aging (nutrient sensing, mitochondria, stem cell composition), while three others — long considered central to aging — are dissociable from the clocks. This argues against a unified "damage accumulation" model and supports a view where epigenetic aging reflects metabolic and differentiation state rather than genomic integrity.
+
+### Lifespan extension ≠ epigenetic age reduction
+
+A striking finding from Kabacik et al.: several compounds that extend cellular lifespan do not affect epigenetic aging. NAD, nicotinamide riboside (NR), metformin, and Y-27632 all increased proliferative capacity of primary human cells but produced no measurable change in EpiAge. Only rapamycin and bezafibrate both extended lifespan *and* slowed epigenetic aging. This dissociation implies the clocks capture a specific subset of aging biology — not a universal aging readout.
+
 ## Validation: do known longevity interventions show up?
 
 This is the key practical question. If the clocks are real biomarkers of aging, interventions known to extend lifespan should register.
 
 **Caloric restriction (CR):** consistently shows effects across multiple studies — 5 months younger (Thompson et al., 2018), 9.4 months younger (Wang et al., 2017), 20% reduction (Petkovich et al., 2017). The most reliable signal.
 
-**Rapamycin:** initially appeared negative (Thompson et al., 2018 — only 4 mice per group), but later studies found 6-month epigenetic age reductions (Wang et al., 2017). Rapamycin also reduces epigenetic age in human cells in vitro. The effect appears smaller than CR, which Ricon notes may suggest CR mimetics are not as potent as CR itself.
+**Rapamycin:** initially appeared negative (Thompson et al., 2018 — only 4 mice per group), but later studies found 6-month epigenetic age reductions (Wang et al., 2017). Rapamycin also reduces epigenetic age in human cells in vitro. The effect appears smaller than CR, which Ricon notes may suggest CR mimetics are not as potent as CR itself. Kabacik et al. (2022) confirmed rapamycin's effect in primary human keratinocytes and hTERT-immortalized endothelial cells, and showed the effect persists even when applied at late cellular ages — connecting it specifically to the deregulated nutrient sensing hallmark via mTOR inhibition.
 
 **Dwarf mice (Ames/Snell):** Ames dwarfs, which achieve 65% maximum lifespan extension, show up as epigenetically younger in most studies. Petkovich et al. found 50% younger epigenetic ages. Results vary by tissue and sequencing method, partly because Ames dwarf data was often obtained via WGBS rather than the RRBS used to train the clocks.
 
@@ -90,7 +120,10 @@ This review was written in 2020 (last updated 2022). Since then, GrimAge version
 - [[cellular-memory]] explores how cells encode and retrieve information at scales beyond the epigenome; the "observer problem" in the ITOA — where is the youthful backup copy stored? — connects the biology of aging clocks to broader questions about cellular information storage.
 - The [[developmental-theory-of-aging]] interprets epigenetic clocks as reflecting the running of the developmental software program — the clocks tick because they track ontogenetic progression, not damage accumulation. The enrichment of developmental genes (PRC2 targets) at clock CpG sites supports this reading.
 - [[in-vivo-epigenetic-reprogramming]] demonstrated that OSK factors reverse a machine-learning-derived DNA methylation aging signature (1,226 CpGs) in retinal ganglion cells, and that the signature sites are enriched for PRC2 binding and H3K27me3 — connecting clock biology to the functional reversal of age-related decline.
+- [[rejuvenation-strategies]] surveys the broader landscape of lifespan-extending interventions (parabiosis, senolytics, rapamycin, reprogramming); the Kabacik hallmarks mapping clarifies which of these act through epigenetic aging pathways and which extend lifespan through independent mechanisms.
+- [[neural-stem-cell-aging]] explores stem cell decline in the brain; the finding that stem cell-enriched fractions are epigenetically younger connects to the broader principle that tissue EpiAge reflects stem cell composition.
 
 ## Sources
 
 - Ricon, J. L. (2020). "Epigenetic clocks: A review." *Nintil*. <https://nintil.com/epigenetic-clocks/> — [[2026-04-16-nintil-epigenetic-clocks-review|local copy]]
+- Kabacik, S. et al. (2022). "The relationship between epigenetic age and the hallmarks of aging in human cells." *Nature Aging*, 2, 484–493. <https://doi.org/10.1038/s43587-022-00220-0> — [[2022-06-01-epiage-hallmarks-of-aging|local copy]]
