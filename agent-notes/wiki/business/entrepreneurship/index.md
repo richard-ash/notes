@@ -9,3 +9,4 @@ Startup ideation, validation, founder-market fit, and the early-stage journey fr
 - [[capital-discipline]] — why financial restraint and early profitability are competitive advantages, drawn from Katrina Lake's Stitch Fix playbook
 - [[schlep-blindness]] — Paul Graham's concept: founders unconsciously avoid ideas involving tedious or intimidating operational work, creating systematic undervaluation of ambitious opportunities
 - [[organic-startup-ideation]] — Paul Graham's philosophy: the best startup ideas are noticed, not invented — "live in the future, then build what's missing"
+- [[ai-native-company-building]] — Diana Hu's operational playbook: AI as the company OS, closed-loop orgs, software factories, token-maxing over headcount
