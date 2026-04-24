@@ -67,7 +67,7 @@
 - [ ] Pasta Carbonara with English Peas
 - [ ] Couscous with English Peas, Apricots, and Lamb Meatballs
 - [ ] Smashed Fava Beans, Pecorino, and Mint on Toast
-- [ ] Fava, Farro, Pecorino, and Salami Salad
+- [x] Fava, Farro, Pecorino, and Salami Salad
 - [ ] Fava and Pistachio Pesto on Pasta
 - [ ] Fava Beans, Cilantro, New Potatoes, and Baked Eggs
 - [ ] "Herbed" Butter with Warm Bread
