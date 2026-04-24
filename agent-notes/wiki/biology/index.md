@@ -16,6 +16,7 @@ Cell biology, genetics, evolution, and the mechanisms of life.
 - [[end-of-the-beginning]] — Sinsheimer's 1966 Caltech lecture prophesying genetic therapy, synthetic biology, life extension, and human germline engineering from the newly deciphered genetic code; prescient on direction, early on timelines
 - [[neural-stem-cell-aging]] — intrinsic (insulin/IGF1-FOXO, lipid metabolism, protein homeostasis, epigenetic) and extrinsic (blood factors, neuroinflammation, choroid plexus) drivers of NSC decline; dietary, exercise, and systemic interventions to rejuvenate neurogenic niches
 - [[origin-of-complex-life]] — Nick Lane's framework: life originates continuously from alkaline hydrothermal vent geochemistry, basic biochemistry is near-universal, but eukaryogenesis (mitochondrial endosymbiosis) is the great bottleneck to complex life; explains two sexes, genome scaling, and the Fermi paradox
+- [[therapeutic-plasma-exchange]] — Conboy lab clinical study: repeated TPE in humans reverses biological age by diluting pro-aging plasma factors; identifies TLR4 as the nodal point of rejuvenation and 10 novel protein-noise biomarkers that directly measure biological age
 
 ## Sub-domains
 - [[epigenetics/index|Epigenetics]] (5 articles) — epigenetic mechanisms, aging clocks, reprogramming, and theories of aging

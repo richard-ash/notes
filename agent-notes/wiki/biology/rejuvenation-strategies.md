@@ -23,7 +23,7 @@ Identified pro-aging factors include **eotaxin** (CCL11) and **β2-microglobulin
 - **Oxytocin** — improves muscle regeneration via stem cell activation in aged mice. Intriguing because it potentially links social environment to biological aging.
 - **TIMP2** — metalloproteinase inhibitor found in umbilical cord plasma. Declines with age. Injection of human cord blood induces hippocampal neurogenesis and improves learning/memory in aged mice; these effects are attenuated by TIMP2 depletion.
 
-Open questions: whether blood factors extend organismal lifespan (early studies showed little effect), which cell types secrete these factors, and whether effects are tissue-specific or systemic.
+Open questions: whether blood factors extend organismal lifespan (early studies showed little effect), which cell types secrete these factors, and whether effects are tissue-specific or systemic. Subsequent human clinical work with [[therapeutic-plasma-exchange]] (Kim, Kiprov, Luellen et al., 2022) confirmed that dilution alone — without any young factors — produces stable, longitudinal rejuvenation of both the humoral and cellular blood compartments in people.
 
 ## Metabolic manipulation
 
@@ -114,6 +114,7 @@ This 2019 review predates several major developments. The OSK-only reprogramming
 - [[developmental-theory-of-aging]] offers an alternative interpretation of why metabolic interventions (rapamycin, dietary restriction) work: they slow the developmental program's runtime rather than repairing damage, which aligns with this review's observation that rapamycin improves features even in young mice
 - The [[somatic-restriction-theory]] (West et al., 2019) proposes "induced tissue regeneration" (iTR) — partial reprogramming to a pre-embryonic-fetal-transition state — as a fifth rejuvenation strategy category not covered by the Mahmoudi/Brunet taxonomy; iTR aims to restore regenerative plasticity without full dedifferentiation
 - [[senolytic-car-t-cells]] represent the next generation of the senescent cell ablation strategy reviewed here, addressing the specificity and toxicity problems this review highlights with pan-BH3 inhibitors and D+Q
+- [[therapeutic-plasma-exchange]] is the human clinical validation of the dilution hypothesis: the Conboy lab showed that repeated TPE in elderly subjects produces stable proteomic, cellular, and epigenetic rejuvenation without any young blood, identifying TLR4 as the mechanistic nodal point
 
 ## Sources
 
