@@ -1,6 +1,7 @@
 ## Business
 - [Scaling People: Tactics for Management and Company Building](https://www.goodreads.com/book/show/63063173-scaling-people)
 	- [Mr. and Mrs. Psmith's Bookshelf | REVIEW: Scaling People, by Claire Hughes Johnson](https://www.thepsmiths.com/p/review-scaling-people-by-claire-hughes)
+- [An Elegant Puzzle: Systems of Engineering Management](books/catalog/an-elegant-puzzle/index.md)
 ## Geopolitics & Technology
 - [Breakneck: China's Quest to Engineer the Future](books/catalog/breakneck/index.md)
 ## Politics & Policy
