@@ -5,6 +5,7 @@
 - [Breakneck: China's Quest to Engineer the Future](books/catalog/breakneck/index.md)
 ## Politics & Policy
 - [Insecure Majorities: Congress and the Perpetual Campaign](books/catalog/insecure-majorities/index.md)
+- [The ALL NEW Don't Think of an Elephant!: Know Your Values and Frame the Debate](books/catalog/dont-think-of-an-elephant/index.md)
 - [Why Nothing Works: Who Killed Progress—and How to Bring It Back](books/catalog/why-nothing-works/index.md)
 ## History
 - [Only Yesterday: An Informal History of the 1920s](books/catalog/only-yesterday/index.md)
