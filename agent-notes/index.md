@@ -19,7 +19,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/history/index|History]] (5 articles) — geopolitics, grand strategy, historical analysis, and the mechanisms of long-run cultural and technological change
 - [[wiki/computer-science/ai/index|Computer Science > AI]] (11 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, AI's impact on labor and careers, inference-layer optimizations like KV caching, and AI/robotics hype cycle analysis
 - [[wiki/mathematics/index|Mathematics]] (1 article) — mathematical research, methodology, and how AI is reshaping the practice of math
-- [[wiki/computer-science/databases/index|Computer Science > Databases]] (2 articles) — database technologies, architectures, and paradigms
+- [[wiki/computer-science/databases/index|Computer Science > Databases]] (3 articles) — database technologies, architectures, paradigms, and the foundational systems papers (Dynamo) behind them
 - [[wiki/politics/index|Politics]] (2 articles) — civil liberties, governance, state power, and political philosophy
 - [[wiki/religion/index|Religion]] (1 article) — religious traditions, theology, religious history, and the scholarly study of religion
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (17 articles) — software development practices, workflows, and tooling
@@ -29,7 +29,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-04-24_
+_Last updated: 2026-04-27_
 
 
 
