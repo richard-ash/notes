@@ -12,3 +12,4 @@ Recipes, cooking techniques, and food science.
 - [[reverse-searing]] — Three-phase reverse sear technique for sous-vide-level precision on thick steaks; evaporative cooling science
 - [[jasmine-rice]] — Stovetop jasmine rice with correct 1:1.25 water ratio; rinsing optional, 12-min cook + 10-min rest
 - [[shrimp-stir-fry-garlic-chives]] — Fast shrimp stir-fry with garlic chives, jalapeños, and mirin-soy glaze; 30-min, serves 4
+- [[pressure-cooker-stock]] — 40-min Costco-rotisserie chicken stock; Fick/Arrhenius physics, two-stage extraction data, myosin-raft and ice-filtration consomme
