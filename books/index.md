@@ -14,3 +14,5 @@
 - [The Player of Games](books/catalog/the-player-of-games/index.md)
 ## Science
 - [How to Feed the World: The History and Future of Food](books/catalog/how-to-feed-the-world/index.md)
+## Environment
+- [[books/catalog/the-state-of-fire/index|The State of Fire: Why California Burns]]
