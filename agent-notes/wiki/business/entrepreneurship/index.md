@@ -10,3 +10,4 @@ Startup ideation, validation, founder-market fit, and the early-stage journey fr
 - [[schlep-blindness]] — Paul Graham's concept: founders unconsciously avoid ideas involving tedious or intimidating operational work, creating systematic undervaluation of ambitious opportunities
 - [[organic-startup-ideation]] — Paul Graham's philosophy: the best startup ideas are noticed, not invented — "live in the future, then build what's missing"
 - [[ai-native-company-building]] — Diana Hu's operational playbook: AI as the company OS, closed-loop orgs, software factories, token-maxing over headcount
+- [[minimum-viable-product]] — Tren Griffin's synthesis of Ries/Blank/Andreessen on the MVP as an experiment for validating the value hypothesis before cash runs out
