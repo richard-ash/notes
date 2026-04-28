@@ -129,4 +129,4 @@ From the author's recommendations (§7.3 "Papers I've found very useful"). Larso
 - **"The UNIX Time-Sharing System"** (Ritchie and Thompson)
 
 ## Memorable Passages
-See [highlights](highlights.md) for all highlights organized by chapter.
+See [[highlights]] for all highlights organized by chapter.

@@ -52,11 +52,11 @@ Concrete tactic — if I'm debating someone and they say "tax relief," the right
 
 ## Connections
 - **Kahneman** (whom Lakoff cites) — System 1 / System 2 maps onto the framing argument. Frames are System 1 defaults; "facts will set you free" assumes everyone is doing System 2 reasoning, which they aren't.
-- **[Insecure Majorities](../insecure-majorities/index.md)** — about congressional behavior under competitive pressure; Lakoff is the rhetorical layer above that. Complementary.
-- **[Why Nothing Works](../why-nothing-works/index.md)** — Dunkelman uses Hamiltonian/Jeffersonian as an organizing frame. Same move Lakoff makes with strict-parent/nurturant-parent: a two-archetype model that critics call oversimplistic but which has real explanatory power.
+- **[[insecure-majorities/index|Insecure Majorities]]** — about congressional behavior under competitive pressure; Lakoff is the rhetorical layer above that. Complementary.
+- **[[why-nothing-works/index|Why Nothing Works]]** — Dunkelman uses Hamiltonian/Jeffersonian as an organizing frame. Same move Lakoff makes with strict-parent/nurturant-parent: a two-archetype model that critics call oversimplistic but which has real explanatory power.
 - **Orwell's "Politics and the English Language"** — the Orwellian-language-as-weakness insight is a sharper version of Orwell's original.
 - **Haidt's moral foundations** — another "voters vote moral identity, not self-interest" thesis from a different angle.
 - **Dan Carlin** on antiquity and shared belief — you can't understand antiquity without understanding that people genuinely believed the gods walked among them. If we believe something is true, we change our actions on that belief. Lakoff's reflexivity in different clothes.
 
 ## Memorable Passages
-See [highlights](highlights.md) for all highlights organized by chapter.
+See [[highlights]] for all highlights organized by chapter.

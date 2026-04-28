@@ -36,4 +36,4 @@ What changed in how you think or act after reading this?
 How does this book relate to other things you've read or thought about?
 
 ## Memorable Passages
-See [highlights](highlights.md) for all highlights organized by chapter.
+See [[highlights]] for all highlights organized by chapter.

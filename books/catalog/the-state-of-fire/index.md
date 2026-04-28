@@ -1,11 +1,17 @@
 ---
 title: "The State of Fire: Why California Burns"
-author: "Obi Kaufmann"
+author: Obi Kaufmann
 date_finished: 2026-03-21
 rating: 3
 status: finished
-genre: "environment"
-tags: [nonfiction, environment, history, nature, california, fire]
+genre: environment
+tags:
+  - nonfiction
+  - environment
+  - history
+  - nature
+  - california
+  - fire
 ---
 
 ## Classification
@@ -38,4 +44,4 @@ Read more about fire news. Signed up for a bunch of fire-related Substacks (in F
 - [[why-nothing-works/index|Why Nothing Works]] — Kaufmann describes the problem; that book asks the meta-question of why obvious-seeming fixes don't get made.
 
 ## Memorable Passages
-See [[the-state-of-fire/highlights|highlights]] for all highlights organized by chapter.
+See [[highlights]] for all highlights organized by chapter.

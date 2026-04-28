@@ -36,4 +36,4 @@ A frame to keep in the back pocket. Not an immediate change in thinking, but a u
 None immediate.
 
 ## Memorable Passages
-See [highlights](highlights.md) for all highlights organized by chapter.
+See [[highlights]] for all highlights organized by chapter.

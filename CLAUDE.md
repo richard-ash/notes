@@ -18,7 +18,7 @@ Every note in this repo belongs to one of two partitions:
 
 ## Personal-note conventions
 
-- Plain Markdown links, not Obsidian `[[wikilinks]]` (only ~2 personal files currently use wikilinks; match the existing convention).
+- Use Obsidian `[[wikilinks]]` for links between personal notes. Use plain Markdown links only for external URLs.
 - Commit style: short imperative subject ("Add X", "Update Y"), no body, no `Co-Authored-By` trailer.
 - `.obsidian/` is gitignored — vault config is local only.
 

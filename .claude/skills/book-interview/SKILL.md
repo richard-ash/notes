@@ -50,16 +50,16 @@ After the last question, let them know you're going to compile the note.
 1. Synthesize the interview into a book note following the template structure. Use the user's own words and phrasing where possible — don't over-polish or add things they didn't say. Clean up for readability but preserve voice.
 2. Fill in the frontmatter from Phase 1 answers.
 3. Write the note to `books/catalog/<slug>/index.md` (create the directory).
-4. **If highlights were provided:** parse them into `books/catalog/<slug>/highlights.md`, organized by chapter. Include any user notes/annotations alongside the highlights. The index.md Memorable Passages section should link to the highlights file: `See [highlights](highlights.md) for all highlights organized by chapter.`
+4. **If highlights were provided:** parse them into `books/catalog/<slug>/highlights.md`, organized by chapter. Include any user notes/annotations alongside the highlights. The index.md Memorable Passages section should link to the highlights file: `See [[<slug>/highlights|highlights]] for all highlights organized by chapter.`
    - Kindle HTML exports: extract text from `.noteText` divs, section headings from `.sectionHeading` divs, and user notes from entries preceded by `Note -` headings. Format highlights as blockquotes (`>`), user notes as italicized (`*Note: ...*`).
    - Plain text or other formats: preserve the highlights as-is, organize by chapter if structure is apparent.
-5. If the book isn't already listed in `books/index.md`, add it under the appropriate heading (create a new heading if needed). Use a plain markdown link: `- [Book Title](books/catalog/<slug>/index.md)`.
+5. If the book isn't already listed in `books/index.md`, add it under the appropriate heading (create a new heading if needed). Use an Obsidian wikilink: `- [[books/catalog/<slug>/index|Book Title]]`.
 6. Show the user the compiled note and ask if they want any changes.
 
 ## Key rules
 
 - This writes into `books/` (personal notes), not `agent-notes/`. This is authorized for this skill.
-- Use plain Markdown links, not `[[wikilinks]]`.
+- Use Obsidian `[[wikilinks]]` for links between personal notes. For Connections, link to other books as `[[<slug>/index|Book Title]]`.
 - Keep the user's voice. Don't editorialize or add analysis they didn't express.
 - If they mention highlights they've already captured elsewhere, ask if they want those included.
 - Commit style if asked to commit: short imperative subject, no body, no `Co-Authored-By`.

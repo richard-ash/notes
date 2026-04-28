@@ -36,4 +36,4 @@ Incorporating new knowledge about the period rather than a specific shift in thi
 Making sense of the current moment — reading about post-pandemic speculative manias and culture wars while living through similar dynamics.
 
 ## Memorable Passages
-See [highlights](highlights.md) for all highlights organized by chapter.
+See [[highlights]] for all highlights organized by chapter.

@@ -57,4 +57,4 @@ She partially succeeds. The description of how Congress has changed is excellent
 - The incentives-based analysis connects to economic thinking about institutional design
 
 ## Memorable Passages
-See [highlights](highlights.md) for all highlights organized by chapter.
+See [[highlights]] for all highlights organized by chapter.

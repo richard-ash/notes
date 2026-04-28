@@ -41,4 +41,4 @@ The Hamiltonian vs. Jeffersonian framing is a useful lens for understanding poli
 Part of the broader "abundance agenda" intellectual movement.
 
 ## Memorable Passages
-See [highlights](highlights.md) for all Kindle highlights organized by chapter.
+See [[highlights]] for all Kindle highlights organized by chapter.

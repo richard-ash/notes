@@ -60,4 +60,4 @@ From the author's recommendations:
 - Fuchsia Dunlop, *Invitation to a Banquet: The Story of Chinese Food* (W. W. Norton, 2023) — "perhaps the best China book of all."
 
 ## Memorable Passages
-See [highlights](highlights.md) for all highlights organized by chapter.
+See [[highlights]] for all highlights organized by chapter.
