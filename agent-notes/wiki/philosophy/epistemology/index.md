@@ -11,3 +11,4 @@ How we come to know things, the limits of perception and reasoning, and the stru
 - [[mental-models]] — Farnam Street's compendium of ~100 mental models across nine disciplines: thinking tools, physics, biology, systems, math, economics, art, military strategy, and cognitive biases
 - [[simplicity-beyond-complexity]] — Holmes's distinction between naive simplicity and hard-won simplicity after mastering complexity, illustrated through expert decision-making in venture capital
 - [[calibration]] — the epistemic skill of having confidence levels that match actual accuracy; learnable with practice, domain-specific transfer
+- [[forecasting-uncertainty]] — aleatory vs. epistemic uncertainty in published probabilistic forecasts, via the Taleb–Silver / FiveThirtyEight argument
