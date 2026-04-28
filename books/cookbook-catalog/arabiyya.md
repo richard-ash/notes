@@ -6,7 +6,7 @@
 - [ ] Khalta Harra • خلطة حرة • Chile-Spice Mix
 - [ ] Mukassarat • مكسرات • Spiced Sweet and Salty Nut Mix
 - [ ] Dukkah • دقة • Cocoa Nib and Nut Spice Mix
-- [ ] Adaameh • قضامة • Crunchy Chile-Roasted Chickpeas
+- [x] Adaameh • قضامة • Crunchy Chile-Roasted Chickpeas
 - [x] Zaytoon • زيتون • Zingy Marinated Olives
 
 ## Base Sauces, Stocks, and Condiments

@@ -41,7 +41,7 @@
 - [ ] Slightly Tangy Flatbreads
 - [ ] Pecan Dough
 - [ ] Very Flaky Pastry Dough
-- [ ] Farro
+- [x] Farro
 - [ ] Freekeh
 - [ ] Couscous
 - [ ] Batter for Fried Vegetables
