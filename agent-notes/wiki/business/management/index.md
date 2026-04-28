@@ -16,3 +16,4 @@ Management theory, leadership philosophy, and organizational practice.
 - [[ic-anti-patterns]] — Fournier's taxonomy of how ICs get stuck: eight sidetrack patterns (analysis paralysis, infinite research, compulsive refactoring) and twelve stuck patterns (the last 10–20%, starting from scratch, asking for help)
 - [[first-team-mindset]] — Wong on leaders prioritizing their peer leadership group over direct reports: explicit expectations, cohort-building, normalized interdependence, and inviting vulnerability
 - [[truth-telling-leadership]] — Horowitz on the trust–communication inverse relation, why honesty feels suicidal but lying is fatal, and how leaders should pair hard facts with assigned meaning (Gettysburg as case study)
+- [[tech-influencer]] — Larson on content creation as career strategy: a few well-distributed pieces beat prolific output, prestige is the real lever, and most influence metrics are bad proxies
