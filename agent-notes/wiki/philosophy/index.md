@@ -25,6 +25,7 @@ Philosophical frameworks, epistemology, ethics, and life principles.
 - [[hanlons-razor]] — never attribute to malice what can be explained by neglect; a charitable-interpretation default for interpersonal and systemic reasoning
 - [[doing-great-work]] — Graham's cross-domain recipe for great work: choose a field, reach the frontier, notice gaps, explore them — driven by curiosity and earnestness
 - [[superlinear-returns]] — Graham's argument that returns for performance reduce to two causes (exponential growth and thresholds), with heuristics for finding work that compounds
+- [[maintenance]] — Stewart Brand's argument that maintenance is the essential art of civilization: ownership = knowledge of repair, the Ford/Rolls-Royce parable, right-to-repair, contemplative practice, and the maintainer's pessimist temperament
 
 ## Sub-domains
 
