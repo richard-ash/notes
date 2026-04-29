@@ -46,7 +46,8 @@ end
 
 ## Related patterns
 
-- [[phoenix-liveview-infinite-scroll]] — the companion tutorial covers rendering the activity feed with cursor-based pagination and real-time updates
+- [[phoenix-activity-feed-rendering]] — the companion (part two) tutorial: rendering the recorded events as a LiveView feed with cursor pagination and streams
+- [[phoenix-liveview-infinite-scroll]] — alternative pagination/UX pattern (viewport-driven, offset-based) for the same kind of append-mostly list
 - Ecto's `Repo` `defoverridable` pattern is similar to how [[software-migrations]] describes intercepting system boundaries for cross-cutting concerns
 
 ## Sources
