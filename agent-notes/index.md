@@ -9,7 +9,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/business/management/index|Business > Management]] (14 articles) — management theory, leadership philosophy, organizational practice, hiring philosophy (deliberate want, hiring for curiosity, critique of the great-devs-are-sticky thesis), how leaders should communicate hard truths by assigning meaning, and content creation as a career-prestige lever
 - [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (9 articles) — startup ideation, validation, founder-market fit, capital discipline, schlep blindness, organic ideation philosophy, MVP methodology, and the early-stage journey
 - [[wiki/business/marketing/index|Business > Marketing]] (3 articles) — advertising theory, brand strategy, distribution channels, customer acquisition economics, category creation, and the mechanisms of consumer persuasion
-- [[wiki/business/strategy/index|Business > Strategy]] (10 articles) — business strategy, platform economics, marketplace pricing and rake design, competitive dynamics, network effects and critical mass, data content loops as a cold-start mechanism for owning demand, strategy as a coherent set of choices and the formulation/execution divide, Schumpeter's entrepreneurial-profit model as the generator of mainstream strategy, the four-source structural taxonomy of moats and why startups have none at founding, Knightian uncertainty as the only first-day moat and why incumbents are structurally barred from acting in it, and company case studies
+- [[wiki/business/strategy/index|Business > Strategy]] (11 articles) — business strategy, platform economics, marketplace pricing and rake design, competitive dynamics, network effects and critical mass, data content loops as a cold-start mechanism for owning demand, strategy as a coherent set of choices and the formulation/execution divide, Schumpeter's entrepreneurial-profit model as the generator of mainstream strategy, the four-source structural taxonomy of moats and why startups have none at founding, Knightian uncertainty as the only first-day moat and why incumbents are structurally barred from acting in it, and company case studies (Coca-Cola, Snapchat)
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
 - [[wiki/food/index|Food]] (11 articles) — recipes, cooking techniques, and food science
 - [[wiki/economics/index|Economics]] (17 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, economic systems, cumulative advantage, tax policy, sovereign debt valuation, AI's impact on economics research, relational scarcity, structural transformation, and critiques of the discipline
@@ -30,6 +30,8 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 
 ---
 _Last updated: 2026-04-30_
+
+
 
 
 
