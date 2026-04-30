@@ -2,7 +2,8 @@
 source: agent
 compiled_from:
   - agent-notes/raw/philosophy/2026-04-02-information-and-technological-evolution.md
-compiled_at: 2026-04-29
+  - agent-notes/raw/philosophy/2004-12-21-evolution-of-technology-arthur-polak.md
+compiled_at: 2026-04-30
 model: claude-opus-4-7
 confidence: high
 ---
@@ -13,7 +14,7 @@ Brian Potter argues, building on Brian Arthur's work, that creating a new techno
 
 ## The Arthur–Polak circuit simulation
 
-In a 2006 paper, Brian Arthur and Wolfgang Polak ran a simulation that randomly evolved boolean logic circuits from three primitive elements: a NAND gate (which is functionally complete — any logic circuit can be built from NAND gates) and two CONST elements outputting 0 and 1.
+In a December 2004 SFI working paper, Brian Arthur and Wolfgang Polak ran a simulation that randomly evolved boolean logic circuits from a primitive NAND gate (which is functionally complete — any logic circuit can be built from NAND gates), with the constants 0 and 1 also drawable as components. Selection probabilities at each step: 0.5 primitive, 0.015 constants, 0.485 from the encapsulated technology pool. The system is implemented in Common Lisp; logic functions are represented as binary decision diagrams (BDDs) so equality and distance between truth tables can be computed efficiently.
 
 The mechanic:
 
@@ -25,6 +26,23 @@ The mechanic:
 The headline finding: complex circuits like an 8-bit adder (which requires 68 properly wired NAND gates) only emerge when simpler stepping-stone goals are present in the goal list. Remove the full-adder goal and the 2-bit adder is never found. This mirrors Lenski et al.'s biological-evolution result that complex traits require simpler intermediate functions to be selected for first.
 
 Potter recreated the simulation with AI tools and replicated the core results, but found that Arthur's elaborate "partial fulfillment" mechanic was not load-bearing: turning it off didn't measurably hurt performance. The actual driver of success is the stepping-stone hierarchy of goals, not the partial-credit machinery.
+
+## Arthur's framing: phenotype, genotype, autopoiesis
+
+Beyond the search-efficiency story Potter sharpens, Arthur and Polak's original paper frames the work in terms of biological metaphor and economic theory that are worth preserving on their own.
+
+- **Phenotype vs genotype.** A circuit's truth table is its *phenotype* (the externally visible function); its internal wiring is its *genotype* (the architecture that realizes it). Many genotypes can produce the same phenotype — multiple circuits can satisfy the same need.
+- **Autopoiesis.** Following Maturana and Varela, Arthur describes the technology collective as *self-producing* — technology builds itself out of itself. The qualification: at bottom all technologies harness physical phenomena, but those phenomena are only made usable *by* existing technologies, so once you bracket the human role you get a closed self-referential system.
+- **Standing reserve vs active repertoire.** Two distinct populations: the *standing reserve* is every technology ever invented (monotonically growing); the *active repertoire* is what's currently in use (non-monotonic — it shrinks when superior replacements wipe out chains of obsolete dependents). The gap between them is where Schumpeter lives.
+- **Schumpeterian gales of destruction.** When Tech 124 is used to construct Tech 136, and a superior way to achieve 136's function appears, 124 may lose all its uses and disappear from the active set — and *its* components may then be left without consumers and disappear in turn. These cascading retirements follow a power law, suggesting the technology network sits at *self-organized criticality* (Bak/Wiesenfeld). The size axis is short — there are never that many active technologies — but the shape of the distribution is the same as earthquakes and sand-piles.
+- **Scale-free usage.** A handful of technologies are used heavily as building blocks (the steam engine, transistor, laser of the simulation); most are used rarely or not at all. Usage approximates a power law, yielding a roughly scale-free network. This is the *enabling-technology* phenomenon: rare hubs disproportionately structure what's possible downstream.
+- **Order-of-invention path dependence.** `negation` is functionally simpler than `implication`, but in some runs `implication` is invented first and gets locked in as the heavily-used building block — even when an inefficient version (the paper's `TECH-69`, which has redundant inputs) becomes prevalent simply because it appeared early. Eventually cheaper substitutes displace it, but for a long stretch the network is shaped by the accident of who arrived first. This is consistent with the broader observation that technology trees are path-dependent ([[tech-tree-divergence]]).
+- **The adjacent probable.** Arthur draws on Kauffman's framing: the cap of "≤12 components combined per step" defines a probabilistic cloud of *possible-next-circuits* surrounding the existing repertoire. Without intermediate stepping-stone goals, the cloud never extends far enough to reach complex targets. Goals that are too far from any current technology are effectively unreachable.
+- **Well-orderedness matters.** The algorithm works best when the goal hierarchy is *well-ordered* — when complicated goals can be built from simpler ones by repetitive pattern (4-bit adders from full-adders and half-adders). Replace the intermediate stepping stones with random truth tables of the same size and the system can no longer bootstrap. Hierarchy by itself is not enough; the hierarchy has to expose exploitable regularity.
+
+## Library-building, not problem-solving
+
+Arthur explicitly distinguishes his algorithm from genetic programming. Genetic programming maintains a population of candidate solutions to a *single* problem and breeds toward it. The Arthur–Polak algorithm does the opposite: it builds a *library* of useful sub-functionalities that can later be combined to solve problems of increasing complexity within the same class. This makes it a closer abstraction of combinatorial chemistry, synthetic biology, and ordinary software construction — all of which build out reusable component libraries — than of problem-directed evolutionary search.
 
 ## Why the search is hard: combinatorial explosion
 
@@ -81,3 +99,4 @@ It also bears on questions about tech-tree exploration ([[tech-tree-divergence]]
 ## Sources
 
 - Potter, B. (2026). "Information and Technological Evolution." Construction Physics. <https://www.construction-physics.com/p/information-and-technological-evolution> — [[2026-04-02-information-and-technological-evolution|local copy]]
+- Arthur, W.B.; Polak, W. (2004). "The Evolution of Technology within a Simple Computer Model." Santa Fe Institute Working Paper 2004-12-042. <https://www.santafe.edu/research/results/working-papers/the-evolution-of-technology-within-a-simple-comput> — [[2004-12-21-evolution-of-technology-arthur-polak|local copy]]

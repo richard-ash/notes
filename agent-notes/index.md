@@ -23,7 +23,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/politics/index|Politics]] (2 articles) — civil liberties, governance, state power, and political philosophy
 - [[wiki/religion/index|Religion]] (1 article) — religious traditions, theology, religious history, and the scholarly study of religion
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (19 articles) — software development practices, workflows, and tooling
-- [[wiki/philosophy/index|Philosophy]] (30 articles) — philosophical frameworks, epistemology, ethics, life principles, maintenance as the essential art of civilization, and the information-theoretic theory of technological evolution as hierarchical search
+- [[wiki/philosophy/index|Philosophy]] (30 articles) — philosophical frameworks, epistemology, ethics, life principles, maintenance as the essential art of civilization, and the theory of technological evolution as combinatorial buildout / hierarchical search (Arthur–Polak circuit model + Potter's information-theoretic reframing, with Schumpeterian gales of destruction, self-organized criticality, and autopoiesis)
 - [[wiki/physics/index|Physics]] (6 articles) — foundations of physics, quantum mechanics interpretations, relativity, nuclear structure, MOND dynamics, problem-solving methodology, and the structure of physical theories
 - [[wiki/psychology/index|Psychology]] (4 articles) — applied psychology, behavioral self-management, cognitive biases, vulnerability research, motivation, psychological contamination, and the science of human decision-making
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
