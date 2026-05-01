@@ -2,14 +2,15 @@
 source: agent
 compiled_from:
   - agent-notes/raw/business/entrepreneurship/2026-04-24-how-to-build-company-with-ai.md
-compiled_at: 2026-04-24
-model: claude-opus-4-6
+  - agent-notes/raw/business/entrepreneurship/2026-01-21-khosla-rabois-uncapped.md
+compiled_at: 2026-04-30
+model: claude-opus-4-7
 confidence: medium
 ---
 
 # AI-Native Company Building
 
-An operational playbook for building companies that treat AI as their core operating system rather than a bolt-on productivity tool. Synthesized from YC Partner Diana Hu's Startup School talk (April 2026), which draws on patterns she observes across YC portfolio companies.
+An operational playbook for building companies that treat AI as their core operating system rather than a bolt-on productivity tool. Synthesized primarily from YC Partner Diana Hu's Startup School talk (April 2026), with hiring, compensation, and go-to-market structural points added from Keith Rabois (Khosla Ventures, January 2026).
 
 ## The framing shift: capabilities, not productivity
 
@@ -84,6 +85,52 @@ Hu argues the best companies will optimize for **token usage, not headcount**. O
 - Willingness to run an "uncomfortably high API bill" because it replaces far more expensive headcount
 - The founder must personally develop conviction by sitting with coding agents — you cannot outsource this understanding
 
+## Org structure: PMs, research-sales pairing, comp (Rabois)
+
+Where Hu focuses on the operating-system metaphor, Rabois (Khosla Ventures) zeroes in on the **specific roles and compensation structures** that no longer make sense in AI companies:
+
+### Growth rate as the new baseline
+
+Rabois's framing: the unprecedented growth rates of AI companies are the four-minute mile — once one company runs $0 → $50M ARR in a year, no startup gets to claim it's impossible. The default question flips from "is this realistic?" to "what's blocking us from doing this?" Sometimes there are real reasons; the burden of proof has moved.
+
+### PMs don't make sense in fast-evolving fields
+
+Borrowing from Peter Fenton: classical product managers exist to talk to customers and produce a sequential 12-month roadmap. In a domain where capabilities change every month with each new paper or model release, a 12-month roadmap is fiction. Rabois argues most AI companies need to dissolve the PM role entirely or radically reshape it; the cadence of capability shifts means the planning horizon collapses to weeks.
+
+### Sales paired with research, not with marketing
+
+Rabois cites OpenAI as the canonical example: customer-acquisition staff appear to sit alongside the research team, not in a separate go-to-market silo. This is structurally different from how every prior generation of B2B tech company was built (sales reports up through CRO; research reports up through CTO; the two functions converse only at the executive layer). When the product is shifting at research velocity, the only way sales can keep up is to share a workspace with the people producing the next capability.
+
+### Compensation cannot follow the old startup playbook
+
+Frontier AI talent is being paid at levels "only professional athletes could aspire to when we were growing up" — and Meta and Google can sustain that because of how their existing businesses mint money. A startup competing for the same talent has three options:
+
+1. **Find diamonds in the rough** — research-grade people who haven't been bid up yet (the talent equivalent of [[founder-evaluation|seed-stage non-consensus picks]]).
+2. **Hire missionary talent** — people who don't optimize for short-term cash, who care about the problem more than the comp.
+3. **Restructure the P&L** — find a way to fund cash comp from elsewhere (e.g., strategic partnerships, infrastructure deals), rather than competing on standard startup-equity terms.
+
+Rabois's broader point: very few founders have actually re-thought company-building from first principles given the new comp reality, even though it cascades into every hiring decision.
+
+### Go-to-market: top-down sales temporarily works
+
+Historically, top-down "the CEO bought it" sales is a bad way to build durable enterprise companies — it tends to fail customer-facing usage tests. But for AI specifically, board pressure to be "AI forward" is so universal that top-down sales is currently working in many verticals. Legal in particular is named as a category where buyers have a budget for "AI" before they have a defined problem to solve. Rabois treats this as **a real but temporary anomaly**: it'll harmonize once buyers measure outcomes. The implication for founders: take the top-down deals while they're available, but build the impact-measurement infrastructure now so you survive the transition.
+
+### Retraining pre-AI executives
+
+Even great pre-AI companies face the question of how much of their accumulated playbook to discard. Rabois cites Ramp (started 2019) as an example of a company having explicit board-level conversations about *which* pre-AI assumptions to throw out. The general rule he proposes: **fast learning beats deep experience** in this transition. A leader who came up in 2015–2020 enterprise sales playbooks isn't useless — but they need to be a rapid learner, not someone who insists their past playbook applies. This is a special case of Khosla's broader observation that "most experts are experts in a previous version of the world, not the one you're trying to create" (see [[founder-evaluation]]).
+
+## System-of-record substrate, not features
+
+Rabois argues the **operating substrate** of a category like ERP is what matters now, not the feature list:
+
+- Pre-AI ERP defensibility came from feature breadth and integration count (the Mulesoft / Rippling moat).
+- Agents like Devon can do 100 integrations in a month at near-zero marginal cost. Integration count is no longer a moat.
+- The new defensibility is whether the system is architected to **operate under an agentic architecture** — i.e., whether agents can read and act on it without a human bottleneck.
+
+Worked example: Khosla Ventures' portfolio company **dual entry** has a customer (Slash, a small-business lender) running at $150M ARR with a single accounting employee. The investment thesis was "the architecture is right" — not feature parity with NetSuite, but a substrate where agents do the accounting work and a human approves edges. This is what an agentic system of record looks like in practice.
+
+The corollary for incumbents (Mulesoft, Rippling, NetSuite): integration-count moats are vulnerable, and the next decade of system-of-record consolidation may favor founders building the agent-native substrate from scratch, even if their initial feature surface is narrower. This is the same dynamic [[agent-harness]] describes from the other side — businesses need an "agent harness," and ERP vendors that don't provide one will be displaced by those that are *only* a harness.
+
 ## Startups' structural advantage
 
 Early-stage companies have a massive edge in this transition because they have no legacy systems, org charts, or thousands of people to retrain. They can design systems, workflows, and culture around AI from day one. Incumbents, by contrast, must maintain live products while unwinding years of standard operating procedures. Some try spinning up internal skunkworks teams (Hu cites Mutiny as an example), but for most, every change to core processes risks breaking something that works.
@@ -93,3 +140,4 @@ This framing strengthens the classic [[early-stage-startup-execution]] small-tea
 ## Sources
 
 - Diana Hu / Y Combinator (2026). "How To Build A Company With AI From The Ground Up." <https://www.youtube.com/watch?v=EN7frwQIbKc> — [[2026-04-24-how-to-build-company-with-ai|local copy]]
+- Vinod Khosla & Keith Rabois (2026, January 21). "Vinod Khosla and Keith Rabois on Building and Investing in Enduring Companies | Ep. 40." *Uncapped with Jack Altman.* <https://www.youtube.com/watch?v=MBf1LZbk2Pk> — [[2026-01-21-khosla-rabois-uncapped|local copy]]

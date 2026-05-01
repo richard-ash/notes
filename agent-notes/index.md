@@ -7,7 +7,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/biology/index|Biology]] (19 articles) — cell biology, genetics, evolution, and the mechanisms of life
 - [[wiki/business/finance/index|Business > Finance]] (7 articles) — corporate finance, capital allocation, valuation, revenue quality and price/revenue multiples, shareholder returns, credit-market cycles, revenue recognition, insurance float, leverage and margin of safety, and investment philosophy
 - [[wiki/business/management/index|Business > Management]] (15 articles) — management theory, leadership philosophy, organizational practice, hiring philosophy (deliberate want, hiring for curiosity, critique of the great-devs-are-sticky thesis), how leaders should communicate hard truths by assigning meaning, content creation as a career-prestige lever, and the post-AI shift toward process-oriented org design with hyper-generalists
-- [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (9 articles) — startup ideation, validation, founder-market fit, capital discipline, schlep blindness, organic ideation philosophy, MVP methodology, and the early-stage journey
+- [[wiki/business/entrepreneurship/index|Business > Entrepreneurship]] (10 articles) — startup ideation, validation, founder-market fit, capital discipline, schlep blindness, organic ideation philosophy, MVP methodology, the early-stage journey, and how seed-stage VCs evaluate founders (Rabois's A+ incomplete + Khosla's learning rate)
 - [[wiki/business/marketing/index|Business > Marketing]] (3 articles) — advertising theory, brand strategy, distribution channels, customer acquisition economics, category creation, and the mechanisms of consumer persuasion
 - [[wiki/business/strategy/index|Business > Strategy]] (12 articles) — business strategy, platform economics, marketplace pricing and rake design, competitive dynamics, network effects and critical mass, data content loops as a cold-start mechanism for owning demand, strategy as a coherent set of choices and the formulation/execution divide, Schumpeter's entrepreneurial-profit model as the generator of mainstream strategy, the four-source structural taxonomy of moats and why startups have none at founding, Knightian uncertainty as the only first-day moat and why incumbents are structurally barred from acting in it, outcome-based pricing as the AI-native business model, and company case studies (Coca-Cola, Snapchat)
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
@@ -29,7 +29,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-04-30_ (Bret Taylor / Sierra ingest — outcome-based-pricing, ai-and-org-design, agent-harness)
+_Last updated: 2026-04-30_ (Khosla/Rabois Uncapped ingest — new founder-evaluation article; Rabois AI-org-design content integrated into ai-native-company-building)
 
 
 
