@@ -21,7 +21,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/computer-science/ai/index|Computer Science > AI]] (12 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, AI's impact on labor and careers, inference-layer optimizations like KV caching, AI/robotics hype cycle analysis, and the agent-harness thesis for how businesses will expose products to agents beyond APIs
 - [[wiki/mathematics/index|Mathematics]] (1 article) — mathematical research, methodology, and how AI is reshaping the practice of math
 - [[wiki/computer-science/databases/index|Computer Science > Databases]] (3 articles) — database technologies, architectures, paradigms, and the foundational systems papers (Dynamo) behind them
-- [[wiki/politics/index|Politics]] (2 articles) — civil liberties, governance, state power, and political philosophy
+- [[wiki/politics/index|Politics]] (3 articles) — civil liberties, governance, state power, political philosophy, and the empirical case (Geloso–Tabarrok) that capitalism and democracy are mutually reinforcing open-access orders while socialism is the regime actually incompatible with democracy
 - [[wiki/religion/index|Religion]] (1 article) — religious traditions, theology, religious history, and the scholarly study of religion
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (19 articles) — software development practices, workflows, and tooling
 - [[wiki/philosophy/index|Philosophy]] (30 articles) — philosophical frameworks, epistemology, ethics, life principles, maintenance as the essential art of civilization, and the theory of technological evolution as combinatorial buildout / hierarchical search (Arthur–Polak circuit model + Potter's information-theoretic reframing, with Schumpeterian gales of destruction, self-organized criticality, and autopoiesis)
@@ -30,7 +30,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-05-01_ (Winston *How to Speak* ingest — new Communication domain with public-speaking article)
+_Last updated: 2026-05-01_ (Geloso & Tabarrok "Two Peas in a Pod" ingest — new politics article on capitalism–democracy mutual reinforcement)
 
 
 
