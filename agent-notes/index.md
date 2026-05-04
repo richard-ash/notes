@@ -26,11 +26,11 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (19 articles) — software development practices, workflows, and tooling
 - [[wiki/philosophy/index|Philosophy]] (30 articles) — philosophical frameworks, epistemology, ethics, life principles, maintenance as the essential art of civilization, and the theory of technological evolution as combinatorial buildout / hierarchical search (Arthur–Polak circuit model + Potter's information-theoretic reframing, with Schumpeterian gales of destruction, self-organized criticality, and autopoiesis)
 - [[wiki/physics/index|Physics]] (6 articles) — foundations of physics, quantum mechanics interpretations, relativity, nuclear structure, MOND dynamics, problem-solving methodology, and the structure of physical theories
-- [[wiki/psychology/index|Psychology]] (4 articles) — applied psychology, behavioral self-management, cognitive biases, vulnerability research, motivation, psychological contamination, and the science of human decision-making
+- [[wiki/psychology/index|Psychology]] (5 articles) — applied psychology, behavioral self-management, cognitive biases, vulnerability research, motivation, psychological contamination, Cialdini's six principles of influence and their defensive heuristics, and the science of human decision-making
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-05-04_ (Oks "Why airlines are always going bankrupt" ingest — new economics article on empty-core industries)
+_Last updated: 2026-05-04_ (Griffin "A Half Dozen Things I've Learned from Cialdini's Influence" ingest — new psychology article on the six principles framework)
 
 
 
