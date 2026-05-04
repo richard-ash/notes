@@ -18,7 +18,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (3 articles) — product design philosophy, processes, and systems
 - [[wiki/health/index|Health]] (10 articles) — healthcare markets, pharma industry economics, GLP-1 drugs, PCSK9 inhibitors, preventive health stack framework, clinical workflows, health tech companies, drug pricing, cancer drug development, senolytic cell therapies, and indoor environmental quality
 - [[wiki/history/index|History]] (5 articles) — geopolitics, grand strategy, historical analysis, and the mechanisms of long-run cultural and technological change
-- [[wiki/computer-science/ai/index|Computer Science > AI]] (12 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, AI's impact on labor and careers, inference-layer optimizations like KV caching, AI/robotics hype cycle analysis, and the agent-harness thesis for how businesses will expose products to agents beyond APIs
+- [[wiki/computer-science/ai/index|Computer Science > AI]] (13 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, AI's impact on labor and careers, inference-layer optimizations like KV caching, AI/robotics hype cycle analysis, the agent-harness thesis for how businesses will expose products to agents beyond APIs, and Karpathy's agentic-engineering discipline framing (Software 3.0, verifiability, taste as the human bottleneck)
 - [[wiki/mathematics/index|Mathematics]] (1 article) — mathematical research, methodology, and how AI is reshaping the practice of math
 - [[wiki/computer-science/databases/index|Computer Science > Databases]] (3 articles) — database technologies, architectures, paradigms, and the foundational systems papers (Dynamo) behind them
 - [[wiki/politics/index|Politics]] (3 articles) — civil liberties, governance, state power, political philosophy, and the empirical case (Geloso–Tabarrok) that capitalism and democracy are mutually reinforcing open-access orders while socialism is the regime actually incompatible with democracy
@@ -30,7 +30,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-05-04_ (Griffin "A Half Dozen Things I've Learned from Cialdini's Influence" ingest — new psychology article on the six principles framework)
+_Last updated: 2026-05-04_ (Karpathy AI Ascent 2026 talk ingest — new agentic-engineering article in computer-science/ai capturing the vibe-coding-to-agentic-engineering discipline framing, Software 3.0, and verifiability/jagged intelligence)
 
 
 
