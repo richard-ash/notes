@@ -13,7 +13,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/communication/index|Communication]] (1 article) — the craft of public speaking, presentation, writing, and persuasion; Winston's *How to Speak* framework for empowerment promises, audience-management heuristics, slide crimes, and memorable-talk anatomy
 - [[wiki/engineering/civil/index|Engineering > Civil]] (4 articles) — civil engineering, infrastructure, urbanism, public works
 - [[wiki/food/index|Food]] (11 articles) — recipes, cooking techniques, and food science
-- [[wiki/economics/index|Economics]] (18 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, economic systems, cumulative advantage, tax policy, sovereign debt valuation, AI's impact on economics research, relational scarcity, structural transformation, intellectual property and innovation policy (Tabarrok Curve, retroactive copyright extension as rent-seeking), and critiques of the discipline
+- [[wiki/economics/index|Economics]] (19 articles) — housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, macroeconomic aggregation, land use regulation, price theory, economic systems, cumulative advantage, tax policy, sovereign debt valuation, AI's impact on economics research, relational scarcity, structural transformation, intellectual property and innovation policy (Tabarrok Curve, retroactive copyright extension as rent-seeking), industrial organization (Telser's empty-core framework, airlines as the canonical case of structural unprofitability), and critiques of the discipline
 - [[wiki/education/index|Education]] (1 article) — education policy, school choice, and the economics of human capital formation
 - [[wiki/engineering/computer/design/index|Engineering > Computer > Design]] (3 articles) — product design philosophy, processes, and systems
 - [[wiki/health/index|Health]] (10 articles) — healthcare markets, pharma industry economics, GLP-1 drugs, PCSK9 inhibitors, preventive health stack framework, clinical workflows, health tech companies, drug pricing, cancer drug development, senolytic cell therapies, and indoor environmental quality
@@ -30,7 +30,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-05-01_ (Geloso & Tabarrok "Two Peas in a Pod" ingest — new politics article on capitalism–democracy mutual reinforcement)
+_Last updated: 2026-05-04_ (Oks "Why airlines are always going bankrupt" ingest — new economics article on empty-core industries)
 
 
 
