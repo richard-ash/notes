@@ -21,7 +21,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/computer-science/ai/index|Computer Science > AI]] (13 articles) — AI research methodology, scaling, architectures, philosophy of AI systems, AGI timelines, AI's impact on labor and careers, inference-layer optimizations like KV caching, AI/robotics hype cycle analysis, the agent-harness thesis for how businesses will expose products to agents beyond APIs, and Karpathy's agentic-engineering discipline framing (Software 3.0, verifiability, taste as the human bottleneck)
 - [[wiki/mathematics/index|Mathematics]] (1 article) — mathematical research, methodology, and how AI is reshaping the practice of math
 - [[wiki/computer-science/databases/index|Computer Science > Databases]] (3 articles) — database technologies, architectures, paradigms, and the foundational systems papers (Dynamo) behind them
-- [[wiki/politics/index|Politics]] (3 articles) — civil liberties, governance, state power, political philosophy, and the empirical case (Geloso–Tabarrok) that capitalism and democracy are mutually reinforcing open-access orders while socialism is the regime actually incompatible with democracy
+- [[wiki/politics/index|Politics]] (4 articles) — civil liberties, governance, state power, political philosophy, the empirical case (Geloso–Tabarrok) that capitalism and democracy are mutually reinforcing open-access orders while socialism is the regime actually incompatible with democracy, and the political economy of regulatory reform (Djankov–Glaeser–Shleifer's empirical refutation of Olson sclerosis: capacity to compensate losers, not returns to reform, drives the prevalence of reform)
 - [[wiki/religion/index|Religion]] (1 article) — religious traditions, theology, religious history, and the scholarly study of religion
 - [[wiki/engineering/computer/development/index|Engineering > Computer > Development]] (19 articles) — software development practices, workflows, and tooling
 - [[wiki/philosophy/index|Philosophy]] (30 articles) — philosophical frameworks, epistemology, ethics, life principles, maintenance as the essential art of civilization, and the theory of technological evolution as combinatorial buildout / hierarchical search (Arthur–Polak circuit model + Potter's information-theoretic reframing, with Schumpeterian gales of destruction, self-organized criticality, and autopoiesis)
@@ -30,7 +30,7 @@ Agent-maintained top-level index of the LLM-compiled knowledge base. Summarizes 
 - [[wiki/systems-thinking/index|Systems Thinking]] (1 article) — systems dynamics, feedback loops, leverage points, and complex adaptive systems
 
 ---
-_Last updated: 2026-05-04_ (Karpathy AI Ascent 2026 talk ingest — new agentic-engineering article in computer-science/ai capturing the vibe-coding-to-agentic-engineering discipline framing, Software 3.0, and verifiability/jagged intelligence)
+_Last updated: 2026-05-04_ (Djankov–Glaeser–Shleifer "How Reform Happens" NBER paper ingest — new political-economy-of-reform article in politics/ on the Coase–Olson divide and the empirical primacy of political capacity over reform returns)
 
 
 
