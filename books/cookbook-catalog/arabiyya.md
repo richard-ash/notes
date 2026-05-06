@@ -3,7 +3,7 @@
 ## Spice Mixes and Pantry Snacks
 - [ ] Za'atar • زعتر • Wild Thyme, Sumac, and Sesame Mix
 - [ ] Saba'a Baharat • سبع بهارات • Seven-Spice Mix
-- [ ] Khalta Harra • خلطة حرة • Chile-Spice Mix
+- [x] Khalta Harra • خلطة حرة • Chile-Spice Mix
 - [ ] Mukassarat • مكسرات • Spiced Sweet and Salty Nut Mix
 - [ ] Dukkah • دقة • Cocoa Nib and Nut Spice Mix
 - [x] Adaameh • قضامة • Crunchy Chile-Roasted Chickpeas
@@ -57,7 +57,7 @@
 ## Mezze • Small Plates
 
 - [x] Hummus • حمص • Chickpea-Tahini Spread
-- [ ] Hummus bil Awarma • حمص بالقاورما • Hummus with Spiced Lamb
+- [x] Hummus bil Awarma • حمص بالقاورما • Hummus with Spiced Lamb
 - [ ] Baba Ghanouj • بابا غنوج • Charred Eggplant Salad
 - [x] Muhammara • محمرة • Roasted Red Pepper–Walnut Spread
 - [x] Mutabal • متبل • Eggplant-Tahini Spread
