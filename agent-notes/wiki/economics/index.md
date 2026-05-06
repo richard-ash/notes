@@ -6,7 +6,7 @@ Housing markets, monetary policy, labor economics, transportation economics, ins
 
 - [[danish-mortgage-system]] — Denmark's bond-backed mortgage system and its implications for U.S. rate lock-in
 - [[geographic-wage-premiums]] — Decomposing U.S. geographic wage differences into worker sorting, place effects, and industry composition
-- [[life-health-insurance-bundling]] — Proposal to restructure health insurance as outcome-based payouts by bundling with life insurance
+- [[life-health-insurance-bundling]] — Restructure health insurance as outcome-based payouts by bundling with life insurance: Hanson's 1994 LMO/MDC architecture (life-maintenance organizations + medical defense clubs as third-party negative-interest holders), Koijen/Van Nieuwerburgh's 2020 immunotherapy quantification ($0.44 per dollar of death benefit), and Decker's 2026 popularization
 - [[third-party-payment-problem]] — How third-party payment removes price sensitivity and drives healthcare cost inflation, with cosmetic surgery as natural experiment
 - [[entry-rents-aggregation]] — How firm entry and economies of scale double the estimated efficiency losses from markups in the U.S. economy
 - [[optimal-transit-networks]] — How commuter preferences for wait time, travel time, and transfers shape optimal bus network design, from Jakarta's BRT expansion
