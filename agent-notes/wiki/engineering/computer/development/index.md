@@ -23,3 +23,4 @@ Software development practices, workflows, and tooling.
 - [[judgment-in-ai-assisted-development]] — coding agents solve time and attention; judgment (maintainability, security, reliability decisions) is now the binding constraint, scalable via skill/datapack ecosystems
 - [[vibe-coding-apprenticeship]] — using AI-generated code as a teaching surface under guardrails (explain-before-commit, AI-free debugging, graduated autonomy) to accelerate intern learning
 - [[git-commit-messages]] — Beams's seven rules for commit-message style (subject ≤50 chars, imperative mood, body explains *why* not *how*) and why a well-cared-for log is a project's most underused tool
+- [[agent-sandboxing-devcontainers]] — running coding agents inside Docker devcontainers with domain-based egress firewalls (Squid), protected-path masking, and explicit task tooling so `--dangerously-skip-permissions` becomes safe to use
