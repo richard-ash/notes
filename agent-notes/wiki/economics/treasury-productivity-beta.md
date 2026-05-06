@@ -14,7 +14,7 @@ Howard Kung, Hanno Lustig, and James Paron argue that U.S. Treasury bonds are im
 
 ## The puzzle the framework explains
 
-Two recent papers argue current Treasury prices are inconsistent with AI optimism. [Andrews and Farboodi (2025)](https://www.nber.org/papers/w34243) document that across 17 frontier-model release events, 10-year nominal Treasury yields *fell* — by 6.6bp in a 3-day window and 9.0bp over 15 days. [Chow, Halperin, and Mazlish (2025)](https://basilhalperin.com/papers/) note that long-term real rates remain low, suggesting markets are not pricing in near-term transformative AI. Standard consumption-smoothing intuition predicts the opposite: better expected growth should push real rates *up* as households try to borrow against future income. Both readings implicitly assume Treasuries have *zero* productivity beta.
+Two recent papers argue current Treasury prices are inconsistent with AI optimism. [[markets-believe-transformative-ai|Andrews and Farboodi (2025)]] document that across 17 frontier-model release events, 10-year nominal Treasury yields *fell* — by 6.6bp in a 3-day window and 9.0bp over 15 days, with the largest declines at 20- and 30-year maturities. [Chow, Halperin, and Mazlish (2025)](https://basilhalperin.com/papers/) note that long-term real rates remain low, suggesting markets are not pricing in near-term transformative AI. Standard consumption-smoothing intuition predicts the opposite: better expected growth should push real rates *up* as households try to borrow against future income. Both readings implicitly assume Treasuries have *zero* productivity beta.
 
 Kung, Lustig, and Paron flip this. If Treasuries are a productivity-linked claim, falling yields on positive AI news are price-consistent: better growth raises the present value of future surpluses, which makes the same coupon stream more valuable, which compresses yields. The event-window decomposition makes the channels concrete:
 
@@ -147,7 +147,7 @@ Reframing Treasuries as a productivity claim has four substantive consequences:
 
 ## Related papers
 
-- Andrews, Isaiah, and Maryam Farboodi (2025). "Pricing Transformative AI." MIT working paper.
+- Andrews, Isaiah, and Maryam Farboodi (2025). "Do Markets Believe in Transformative AI?" NBER WP 34243 — see [[markets-believe-transformative-ai]] for the full event study, the doom-equals-bliss equivalence theorem, and the level-vs-slope decomposition that rules out the uncertainty channel.
 - Chow, Trevor, Basil Halperin, and J. Zachary Mazlish (2025). "Transformative AI, Existential Risk, and Real Interest Rates." Working paper.
 - Gómez-Cram, Roberto, Howard Kung, and Hanno Lustig (2025). "Can U.S. Treasury Markets Add and Subtract?" NBER WP 33604. <https://www.nber.org/papers/w33604>
 - Gómez-Cram, Roberto, Howard Kung, Hanno Lustig, and David Zeke (2025). "Fiscal Redistribution Risk in Treasury Markets." NBER WP 33769. <https://www.nber.org/papers/w33769>
