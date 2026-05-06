@@ -2,6 +2,7 @@
 source: agent
 compiled_from:
   - agent-notes/raw/economics/1994-04-01-buy-health-not-health-care.md
+  - agent-notes/raw/economics/2023-08-10-buy-health-update.md
   - agent-notes/raw/economics/2026-03-24-bundling-life-and-health-insurance.md
   - agent-notes/raw/economics/2020-01-01-combining-life-and-health-insurance.md
 compiled_at: 2026-05-06
@@ -15,7 +16,9 @@ confidence: high
 
 Life insurance companies have a direct financial benefit from life-extending medical treatments: successful treatment pushes the death benefit payout further into the future and raises future premium income. This creates a natural alignment between life insurers and policyholders that health insurers lack — and implies the two industries should be integrated.
 
-The intellectual lineage runs from [[#hansons-1994-lmomdc-architecture|Hanson (1994)]], who first proposed reorganizing the entire care relationship around a life insurance contract, through Koijen and Van Nieuwerburgh's 2020 *Quarterly Journal of Economics* paper, which formalized and quantified the case using FDA-approved immunotherapies, to Decker (2026), who popularized it as a broader argument for restructuring U.S. health insurance. The three converge on the same structural insight from very different angles: Hanson via mechanism design and the agency problem, Koijen/Van Nieuwerburgh via empirical asset pricing and treatment economics, Decker via institutional critique of employer-sponsored insurance.
+The intellectual lineage runs from [[#hansons-1994-lmomdc-architecture|Hanson (1994)]], who first proposed reorganizing the entire care relationship around a life insurance contract; through Nalebuff and Ayres's 2003 *Why Not?* (pp. 69–70), which discussed merging the two industries as a worked example of "everyday ingenuity"; through Koijen and Van Nieuwerburgh's 2020 *Quarterly Journal of Economics* paper, which formalized and quantified the case using FDA-approved immunotherapies; to Decker (2026), who popularized it as a broader argument for restructuring U.S. health insurance. The four converge on the same structural insight from very different angles: Hanson via mechanism design and the agency problem, Nalebuff/Ayres via design-thinking pattern recognition, Koijen/Van Nieuwerburgh via empirical asset pricing and treatment economics, Decker via institutional critique of employer-sponsored insurance.
+
+Notably, Hanson reports in [[#hansons-2023-retrospective|2023]] that none of these works cite each other or his original paper — Hanson's 1994 piece had only four citations (one a self-citation) by 2023, *Why Not?* did not cite Hanson, and Koijen/Van Nieuwerburgh cite neither. The lineage is therefore one of independent rediscovery rather than intellectual succession, which is itself evidence that the underlying insight is structural rather than tradition-bound.
 
 ## Hanson's 1994 LMO/MDC architecture
 
@@ -62,6 +65,36 @@ This rollout is materially obstructed by centralized "health care alliances" tha
 | Empirical content | Stylized formal model | Calibrated to FDA immunotherapy data |
 
 Koijen/Van Nieuwerburgh's quantitative result — life insurers gain $0.44 per dollar of death benefit from a stage-4 melanoma immunotherapy — can be read as direct empirical support for Hanson's claim that the alignment is large enough to drive the mechanism, even without the full LMO restructuring.
+
+## Hanson's 2023 retrospective
+
+In a 2023 *Overcoming Bias* post, Hanson revisited the proposal 29 years later. The post is short but contains four distinct observations worth surfacing.
+
+### The value-of-life critique
+
+Hanson's central pushback on the Koijen/Van Nieuwerburgh framing: a typical statistical value of life is roughly **$2–10M**, but average U.S. life-insurance death benefits in 2016 were only **$101K–$278K** across twelve age-gender groupings. So even a perfectly aligned life insurer captures only ~3–14% of the social benefit of a life-saving treatment. Many treatments that are cost-effective at the social value of life are not cost-effective at the death-benefit value, and a life insurer rationally declines them.
+
+Worse, life insurers have no stake at all in treatments that reduce pain or disability without affecting mortality. Hanson's 1994 paper specifically addressed both gaps via separate disability, disfigurement, and pain insurance bought through the LMO — but those extensions face strictly larger regulatory obstacles than the basic life-bundling case.
+
+This implies a hierarchy: Koijen/Van Nieuwerburgh-style bundling captures the easy wins (cheap mortality-affecting treatments below the death-benefit threshold) but cannot internalize the bulk of what a patient values about her own life. Closing the gap requires Hanson's full architecture, or something like it.
+
+### Regulatory drift
+
+Hanson partitions the Koijen/Van Nieuwerburgh executive survey responses by source:
+- **Generic obstacles to any new product** (items 1, 4): historical business-line silos (70%), consumer comprehensibility (43%).
+- **Regulation-driven** (items 2, 3, 5): regulatory approval frictions (61%), preexisting-condition underwriting limits (52%), reputation/legal risk over coverage boundaries (30%).
+
+The preexisting-condition concern is particularly load-bearing: it is created by the **ACA**, which did not exist in 1994 or 2003. So at least one major obstacle to bundling is *new* regulatory state added since the original proposal — Hanson's framing is that "regulation blocks this innovation, and has gotten worse over time."
+
+### The unmarketed combo market
+
+Hanson notes that bundled life-and-health insurance products do exist in some markets (he points to ManipalCigna in India, Bridgely, and BusinessToday India coverage of combo plans). But none of them market the *incentive alignment* benefit — they advertise convenience and discount pricing, not "your insurer wants you to live." Hanson reads this as evidence that existing combo products are not actually achieving the alignment effect, and are bundles in name only. The mechanism requires not just the same firm selling both products, but a contract structure under which the life-insurance payout is large enough — and the firm's care decisions tightly enough integrated — that medical advice changes.
+
+### Citation isolation
+
+Hanson observes that Koijen/Van Nieuwerburgh did not cite his 1994 paper, and *Why Not?* did not cite it either. As of 2023, "Buy Health, Not Health Care" had received only four citations, one of them a self-citation. The lineage of this idea is therefore characterized by **independent rediscovery, not intellectual succession** — which is itself a kind of evidence that the structural insight is robust enough to keep being noticed by people working in different disciplines and decades, even without a transmitted tradition.
+
+Hanson also flags his own 2007 *Cato Unbound* essay "How To Pay Quality" (part of his *Cut Medicine In Half* discussion) as an earlier variation on the theme that has not been integrated here.
 
 ## The employer-sponsored health insurance problem
 
@@ -174,4 +207,5 @@ If life insurers finance treatments, the drug market grows. Larger markets incen
 
 - Hanson, Robin (1994). "Buy Health, Not Health Care." *Cato Journal*, 14(1). <https://mason.gmu.edu/~rhanson/buyhealth.html> — [[1994-04-01-buy-health-not-health-care|local copy]]
 - Koijen, Ralph S. J. and Stijn Van Nieuwerburgh (2020). "Combining Life and Health Insurance." *The Quarterly Journal of Economics*, 135(2), 913–958. <https://business.columbia.edu/sites/default/files-efs/citation_file_upload/qjz037.pdf> — [[2020-01-01-combining-life-and-health-insurance|local copy]]
+- Hanson, Robin (2023). "Buy Health Update." *Overcoming Bias*. <https://www.overcomingbias.com/p/buy-health-update> — [[2023-08-10-buy-health-update|local copy]]
 - Decker, Nicholas (2026). "Bundling Life and Health Insurance." <https://nicholasdecker.substack.com/p/bundling-life-and-health-insurance> — [[2026-03-24-bundling-life-and-health-insurance|local copy]]
