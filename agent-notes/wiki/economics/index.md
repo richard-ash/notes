@@ -1,6 +1,6 @@
 # Economics
 
-Housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, economic systems, tax policy, sovereign debt valuation, AI's impact on economics research, AI-driven structural change, structural transformation, intellectual property / innovation policy, and industrial organization (empty-core industries and the structural unprofitability of competitive airlines).
+Housing markets, monetary policy, labor economics, transportation economics, insurance design, forecasting methodology, economic systems, tax policy (including how inheritance tax shapes firm-level capital extraction and reinvestment behavior, not just wealth transfer), sovereign debt valuation, AI's impact on economics research, AI-driven structural change, structural transformation, intellectual property / innovation policy, and industrial organization (empty-core industries and the structural unprofitability of competitive airlines).
 
 ## Articles
 
@@ -23,3 +23,4 @@ Housing markets, monetary policy, labor economics, transportation economics, ins
 - [[treasury-productivity-beta]] — Why U.S. Treasuries are implicitly long productivity growth (and AI): tax revenue elasticity above one means government debt has a positive productivity beta, explaining why yields fall on frontier-model release days
 - [[copyright-and-innovation]] — The Tabarrok Curve and why retroactive copyright extensions reveal copyright as rent protection rather than innovation incentive
 - [[empty-core-industries]] — Telser's framework for industries with no stable competitive equilibrium (high fixed cost + lumpy supply + undifferentiated product + volatile demand), with airlines as the canonical case study and the escape routes — cartelization, hub monopolies, and the Delta/Amex loss-leader model
+- [[inheritance-tax-and-firm-behavior]] — Andric/Genedy/Nordqvist's diff-in-diff on Sweden's 2004 abolition: ~37,000 firms, treated firms with potential successors grew net sales +8 pp, equity +7 pp, salaries +12 pp, corporate taxes +10 pp by 2007 — capital-extraction-via-dividends channel, fiscal jiu-jitsu where lost transfer-tax revenue is partly offset by recurring corporate/payroll taxes
