@@ -27,6 +27,7 @@ Philosophical frameworks, epistemology, ethics, and life principles.
 - [[superlinear-returns]] — Graham's argument that returns for performance reduce to two causes (exponential growth and thresholds), with heuristics for finding work that compounds
 - [[maintenance]] — Stewart Brand's argument that maintenance is the essential art of civilization: ownership = knowledge of repair, the Ford/Rolls-Royce parable, right-to-repair, contemplative practice, and the maintainer's pessimist temperament
 - [[technological-evolution]] — Arthur & Polak's circuit-evolution model (combinatorial buildout, Schumpeterian gales of destruction, self-organized criticality, autopoiesis) plus Potter's information-theoretic reframing — why hierarchy works because it maximizes bits acquired per experiment
+- [[what-makes-art-great]] — Qureshi's three-principle theory of aesthetic greatness (surprise, echoes, depth) plus the "and yet" residual of lived experience, with the joint constraint as the structural explanation for why AI writing is dull
 
 ## Sub-domains
 
