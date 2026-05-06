@@ -8,6 +8,7 @@
 - [[books/catalog/insecure-majorities/index|Insecure Majorities: Congress and the Perpetual Campaign]]
 - [[books/catalog/dont-think-of-an-elephant/index|The ALL NEW Don't Think of an Elephant!: Know Your Values and Frame the Debate]]
 - [[books/catalog/why-nothing-works/index|Why Nothing Works: Who Killed Progress—and How to Bring It Back]]
+- [[books/catalog/the-great-debate/index|The Great Debate: Edmund Burke, Thomas Paine, and the Birth of Right and Left]]
 ## History
 - [[books/catalog/only-yesterday/index|Only Yesterday: An Informal History of the 1920s]]
 ## Science Fiction
