@@ -13,3 +13,4 @@ Recipes, cooking techniques, and food science.
 - [[jasmine-rice]] — Stovetop jasmine rice with correct 1:1.25 water ratio; rinsing optional, 12-min cook + 10-min rest
 - [[shrimp-stir-fry-garlic-chives]] — Fast shrimp stir-fry with garlic chives, jalapeños, and mirin-soy glaze; 30-min, serves 4
 - [[pressure-cooker-stock]] — 40-min Costco-rotisserie chicken stock; Fick/Arrhenius physics, two-stage extraction data, myosin-raft and ice-filtration consomme
+- [[red-lentil-bulgur-soup]] — Lebanese split-red-lentil + coarse-bulgur soup with paprika-tomato base, finished with garlic-mint olive oil; 30-min, vegan-adaptable
