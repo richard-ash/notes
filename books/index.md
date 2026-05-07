@@ -15,5 +15,7 @@
 - [[books/catalog/the-player-of-games/index|The Player of Games]]
 ## Science
 - [[books/catalog/how-to-feed-the-world/index|How to Feed the World: The History and Future of Food]]
+## Health
+- [[books/catalog/super-agers/index|Super Agers: An Evidence-Based Approach to Longevity]]
 ## Environment
 - [[books/catalog/the-state-of-fire/index|The State of Fire: Why California Burns]]
