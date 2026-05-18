@@ -25,3 +25,23 @@ Cuisine is captured by the heading, not a tag. Tags cover the orthogonal dimensi
 - **Course** (one): `#course/main`, `#course/side`, `#course/soup`, `#course/salad`, `#course/dessert`, `#course/breakfast`, `#course/snack`, `#course/sauce`.
 
 If a URL looks like a duplicate of an existing entry, flag it instead of adding silently.
+
+## When a recipe is cooked
+
+Richard's cue: a commit message like `Cook <dish>`. Workflow:
+
+1. Remove the line from `index.md` — the to-cook list is a queue, not a catalog.
+2. File the recipe into `food/regional/<cuisine>.md`, where `<cuisine>` matches the heading the recipe lived under here (e.g. `## French` → `food/regional/french.md`).
+3. Use the dish-first shape that `food/regional/levantine.md` uses — and that the rest of `food/regional/` is being migrated toward:
+
+   ```
+   ## <Cuisine>
+   - ### [Dish name](optional-wikipedia-link)
+   	- ###### Recipes
+   		- [Source | Recipe Title](recipe-url)
+   ```
+
+   Order dishes alphabetically within the cuisine. Include a Wikipedia link on the dish heading when one fits; skip cleanly when none does (mirror how `levantine.md > Samke Harra` handles the no-link case).
+4. If the destination cuisine file is still in the old ingredient-first or sub-region-first shape (e.g. `french.md`'s former `### Poulet (Chicken)`), migrate it to dish-first as part of this change.
+5. If the dish is cuisine-less (BBQ Sauce, generic Mayonnaise, basic Chicken Stock), ask Richard before filing anywhere — that case isn't settled yet.
+6. Commit: `Cook <dish>`.

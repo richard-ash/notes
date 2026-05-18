@@ -11,7 +11,6 @@
 ## French
 - [Beurre Blanc · White Butter Sauce](https://www.recipetineats.com/beurre-blanc-sauce-recipe/) #course/sauce
 - [Poulet Chasseur · Chicken Chasseur](https://www.recipetineats.com/chicken-chasseur/) #protein/chicken #course/main
-- [Poulet Rôti · French Roast Chicken](https://www.recipetineats.com/poulet-roti-french-roast-chicken/) #protein/chicken #course/main
 
 ## Italy
 - [Polpette e Sugo · Meatballs & Weekday Sauce](https://www.youtube.com/watch?v=vz2YCDnRXjY) #protein/beef #course/main
