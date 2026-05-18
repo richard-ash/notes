@@ -91,7 +91,7 @@
 ## Early Summer
 
 - [ ] Beet Slaw with Pistachios and Raisins
-- [ ] Roasted Beets, Avocado, and Sunflower Seeds
+- [x] Roasted Beets, Avocado, and Sunflower Seeds
 - [ ] Carrots, Dates, and Olives with Crème Fraîche and Frico
 - [ ] Grilled Carrots, Steak, and Red Onion with Spicy Fish-Sauce Sauce
 - [ ] Pan-Roasted Carrots with Carrot-Top Salsa Verde, Avocado, and Seared Squid
