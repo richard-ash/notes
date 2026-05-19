@@ -2,7 +2,9 @@
 - [Green Ginger Rice Noodles](https://www.recipetineats.com/green-ginger-rice-noodles/) #protein/chicken #course/main
 
 ## Chinese
+- [Bai Qie Rou · Boiled Pork (White Cut Pork)](https://www.chinasichuanfood.com/boiled-pork-white-cut-pork/) #protein/pork #course/main
 - [Crispy Tofu with Garlic Sauce](https://www.chinasichuanfood.com/crispy-tofu-with-garlic-sauce/) #protein/vegetarian #course/side
+- [Huasheng Bao Jijiao · Chicken Feet Soup](https://www.chinasichuanfood.com/chicken-feet-soup/) #protein/chicken #course/soup
 - [Mapo Doufu · Mapo Tofu](https://www.chinasichuanfood.com/mapo-tofu-recipe/) #protein/beef #course/main
 - [Scallion and Ginger Tofu](https://www.chinasichuanfood.com/scallion-and-ginger-tofu/) #protein/vegetarian #course/main
 - [Si Shen Tang · Four Herbs Soup](https://thewoksoflife.com/four-herbs-soup-si-shen-tang/) #protein/pork #course/soup
