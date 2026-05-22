@@ -58,7 +58,7 @@
 - [ ] Super Grain and Veggie Burgers
 - [ ] Toasted Rye Cabbage Rolls
 - [ ] Whole Wheat Flaky Pastry Dough
-- [ ] Wild Rice with Chicken, Broccoli, Bok Choy, and Garlic-Chile Crunch
+- [x] Wild Rice with Chicken, Broccoli, Bok Choy, and Garlic-Chile Crunch
 
 ## On the Side
 
