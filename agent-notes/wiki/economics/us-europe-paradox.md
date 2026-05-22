@@ -2,7 +2,8 @@
 source: agent
 compiled_from:
   - agent-notes/raw/economics/2026-05-11-krugman-us-europe-paradox-model.md
-compiled_at: 2026-05-13
+  - agent-notes/raw/economics/2026-05-20-krugman-european-decline-revised.md
+compiled_at: 2026-05-22
 model: claude-opus-4-7
 confidence: high
 ---
@@ -15,7 +16,7 @@ Two charts about US/Europe relative performance since 2000 sit in apparent tensi
 
 Conventional real GDP per capita growth: US has pulled away from Europe over roughly 25 years, with a cumulative gap that is the workhorse statistic in the "Europe in decline" narrative.
 
-Relative GDP per capita at PPP: Europe is roughly where it was in 2000 relative to the US — no decline.
+Relative GDP per capita at PPP: Europe is roughly where it was in 2000 relative to the US — no decline. Krugman's revised 2026-05-20 framing puts a number on the GDP-per-worker-hour version: at current-price PPP, the average European worker produced ~86% of what an American worker produced per hour in 2000, and ~87% in 2024. The "Draghi-Smith story" of European productivity collapse is the blue (constant-prices) line in the OECD productivity series; the black (current-prices PPP) line shows essentially no change over a quarter-century.
 
 Both numbers are calculated from real data and are correct. They diverge because they answer different questions. Krugman's model shows that this divergence has a clean structural source: **sectoral concentration of productivity growth interacts with how we measure real GDP via chained constant-price indices**, and the gap between chained real GDP growth and current-price relative GDP is exactly what you should expect when one country dominates a fast-growing sector.
 
@@ -68,6 +69,25 @@ The cleanest piece of intuition in the model: as T productivity rises, the **qua
 The chained-index real GDP measure, by contrast, holds prices constant and reads off the quantity expansion as growth. So the US "grows" by 2𝜏𝜌 in real terms while its nominal share of world GDP stays at 50%.
 
 This is what produces the apparent paradox: chained real GDP and current-price GDP can move differently when there is concentrated sectoral productivity growth, even with no measurement error and no real divergence in welfare.
+
+## Empirical magnitudes: how big is the IT-concentration effect?
+
+Krugman cites a 2025 Chicago Fed letter ("Concentrated growth: The role of the IT sector") for the empirical anchor. Two facts do most of the work:
+
+- **IT is ~8% of US value added.** A small slice of GDP.
+- **IT accounts for ~half of total US productivity growth** since the late 1980s. Productivity growth in IT runs much faster than in the rest of the economy, and that single sector pulls the aggregate.
+
+The pass-through to consumers is what closes the loop. Krugman illustrates with BLS sectoral data: output per worker-hour in computer manufacturing has risen by a factor of more than 14 since 1988 (~10% per year), while output per hour in hospitals has barely changed. Computer-worker wages did not pull away from doctor/nurse wages by anything close to that factor. The productivity gain showed up as falling computer prices, not as rising IT-sector incomes — competitive output markets passing the productivity gain through to all consumers.
+
+This is the model's wage-equalization story made concrete. Inside the US, the IT-sector wage premium did not blow out because competition forced T prices down. Across the Atlantic, the same mechanism means European consumers got cheaper IT goods at world prices and the productivity gain is reflected in their (PPP-measured) standard of living, even though no European firm produced the gain.
+
+## Regional analogue: California vs. the rest of the US
+
+The same chained-real-GDP divergence shows up between US regions, and Krugman uses this as a debugging check on the European-decline narrative. BEA state-level data shows the difference in measured productivity growth between California and the rest of the US is **wider** than the difference between the US and Europe — yet no US state spends time worrying that California's business culture is superior or that anti-business policy is dooming Mississippi.
+
+The asymmetric reaction is itself diagnostic. The same statistical pattern (one tech-concentrated region pulling away in chained-real terms while current-price living standards stay roughly proportional) gets read as "natural sectoral specialization" within the US and "European decline" across the Atlantic. The data are agnostic; the interpretation is not.
+
+Mechanically, this fits the model directly: California hosts the T-sector clusters via local external economies (the same network-effects story Krugman uses for Silicon Valley vs. Europe), so California shows measured-productivity growth proportional to its T share times T-productivity growth. The rest of the US shows lower measured growth but consumes the cheaper T outputs at the same prices Californians do. Welfare divergence is much smaller than measured-productivity divergence.
 
 ## What the model abstracts away — and what survives
 
@@ -125,5 +145,19 @@ The model gives him a clean economics-professor-style derivation of the "chart-A
 
 Worth flagging because Krugman's note is sometimes read as definitively settling the European decline debate — it doesn't. It cleanly demonstrates that one specific argument for European decline (the chained-real-GDP divergence) is consistent with no divergence in static welfare. The dynamic/strategic version of the concern is on different ground.
 
+## What Europe should actually worry about (Krugman's revised framing)
+
+The 2026-05-20 piece adds a policy section that the original technical model didn't reach. Krugman's argument has two moves:
+
+1. **The IT-application gap is not the binding problem.** Few of the largest tech companies are European, and Europe is essentially absent from the frontier-AI race. But the big benefits of IT come from *applying* it, and the PPP data show Europe is doing this fine. Market fragmentation (the incomplete single market emphasized in Draghi) is a real handicap on adoption and accounts for some of the residual PPP gap, but it is not evidence of a widening gap.
+2. **The real concern is supply-chain political risk.** The previous global system was overseen by a "mostly benign and in any case law-abiding hegemon." That system was already eroding with China's rise and has taken "a drastic hit with America's abandonment of the rules it largely created." In this world, Europe — one of three economic superpowers — cannot be sure of continued access to strategically important technologies produced by the other two. The risk of being cut off, once minimal, is now real.
+
+This reframes the European policy debate: the chained-real-GDP gap is a misleading scoreboard, but **the underlying fact that the US dominates frontier T-production becomes a strategic problem rather than a productivity problem** once the global system stops being rule-bound. Sovereignty over the supply chain matters in a way that sovereignty over the chained-real-GDP statistic does not.
+
+This is closely related to the dynamic concerns animating [[ai-value-capture|Garicano-Saa-Requejo's three theses on AI value capture]]: the open-weights coalition recommendation for middle powers is precisely the institutional response to the strategic-autonomy concern Krugman names but doesn't prescribe a remedy for. Krugman frames the problem; the AI-value-capture analysis offers one (heterodox) European answer.
+
+It also sharpens [[two-europes-divergence|Garicano-Kooi's two-Europes argument]]: their political-economy point is that the *western rear* (France, Italy, Spain) lacks any domestic mechanism to mobilize for reform absent an external shock. Krugman's "strategic-autonomy" framing supplies a candidate shock — the security/supply-chain implications of US/Chinese AI dominance — that could in principle play the role Garicano-Kooi see the Russian invasion playing for the converging frontier.
+
 ## Sources
 - Krugman, Paul (2026-05-11). "Modeling the US-Europe Paradox (Very Wonkish)." Substack. <https://paulkrugman.substack.com/p/modeling-the-us-europe-paradox-very> — [[2026-05-11-krugman-us-europe-paradox-model|local copy]]
+- Krugman, Paul (2026-05-20). "Challenging the Narrative of European Decline: Revised, Free Repost." Substack. <https://paulkrugman.substack.com/p/challenging-the-narrative-of-european-478> — [[2026-05-20-krugman-european-decline-revised|local copy]]
