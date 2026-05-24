@@ -2,6 +2,19 @@
 
 Books I want to read, grouped by who recommended them. Once I start reading something here, promote it into [[books/catalog/template|catalog]] and add a wikilink back. Finished books live in [[books/index]].
 
+## Sarah Isgur — Last Branch Standing Summer Reading List
+From [[books/catalog/last-branch-standing/index|Last Branch Standing]]
+
+- The Great Dissenter: The Story of John Marshall Harlan, America's Judicial Hero, Peter Canellos
+- The Words That Made Us: America's Constitutional Conversation, 1760–1840, Akhil Reed Amar
+- The Pursuit of Happiness: How Classical Writers on Virtue Inspired the Lives of the Founders and Defined America, Jeffrey Rosen
+- American Covenant: How the Constitution Unified Our Nation—and Could Again, Yuval Levin
+- The Most Powerful Court in the World: A History of the Supreme Court of the United States, Stuart Banner
+- A Matter of Interpretation: Federal Courts and the Law, Antonin Scalia
+- Reading the Constitution: Why I Chose Pragmatism, Not Textualism, Stephen Breyer
+- The People's Justice: Clarence Thomas and the Constitutional Stories That Define Him, Amul Thapar
+- Supreme Ambitions, David Lat
+
 ## Tyler Cowen — Ten Best Books Since 2000
 [Marginal Revolution, 2024-07](https://marginalrevolution.com/marginalrevolution/2024/07/the-ten-best-books-since-2000.html)
 
