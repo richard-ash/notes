@@ -25,7 +25,7 @@ The labs can still book enormous revenue (Anthropic guided to $10.9B in Q2 2026 
 
 The favorable case for the labs is a learning-curve flywheel (the mechanism by which Google beat Microsoft on search without network effects). The authors qualify this: corporate use agreements typically bar labs from training on customer data, and Google's search-scale gap over Microsoft by 2008 was much larger than today's gap between frontier and open-weight labs. They concede the mechanism may work in narrow domains like coding (where recursive self-improvement is the extreme case), but argue it will fail wherever users retain control of proprietary data.
 
-This thesis aligns closely with Evans's argument in [[ai-platform-moats]] that foundation model APIs lack the lock-in of Windows or iOS — different framing, same conclusion.
+This thesis aligns closely with Evans's argument in [[ai-eats-the-world]] that foundation model APIs lack the lock-in of Windows or iOS — different framing, same conclusion.
 
 ### 2. The upstream bottleneck is concentrated and powerful
 
