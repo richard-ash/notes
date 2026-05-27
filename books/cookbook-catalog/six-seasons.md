@@ -54,7 +54,7 @@
 ## Spring
 
 - [ ] Raw Artichoke Salad with Herbs, Almonds, and Parmigiano
-- [ ] Artichoke and Farro Salad with Salami and Herbs
+- [x] Artichoke and Farro Salad with Salami and Herbs
 - [ ] Grilled Artichokes with Artichoke-Parmigiano Dip
 - [x] Raw Asparagus Salad with Breadcrumbs, Walnuts, and Mint
 - [ ] Asparagus, Nettle, and Green Garlic Frittata

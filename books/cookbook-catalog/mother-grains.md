@@ -100,7 +100,7 @@
 
 - [ ] Einkorn Shortbreads
 - [ ] Semolina Cookies with Fennel Pollen
-- [ ] Spelt Blueberry Muffins
+- [x] Spelt Blueberry Muffins
 - [ ] Sonora Wheat Pie Dough
 - [ ] Grapple Pie
 - [ ] Sweet Corn Empanadas
