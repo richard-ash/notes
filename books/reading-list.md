@@ -511,6 +511,68 @@ From [[books/catalog/last-branch-standing/index|Last Branch Standing]]
 - Story of the Stone / Dream of the Red Chamber (5 vols, Hawkes & Minford trans.), Cao Xueqin
 - Three Kingdoms (2 vols, Moss trans.), Luo Guanzhong
 
+## Campfire — Essential Books for Product Builders (part 1)
+
+### Improve your communication skills
+- Nobody Wants to Read Your Sh*t, Steven Pressfield
+- On Writing Well, William Zinsser
+- Storyworthy, Matthew Dicks
+
+### Get better at executing
+- The Great CEO Within, Matt Mochary
+- Scaling People, Claire Hughes Johnson
+- The Goal, Eliyahu Goldratt
+
+### Get better at strategy
+- Good Strategy Bad Strategy, Richard Rumelt
+- Playing to Win, A.G. Lafley and Roger L. Martin
+- Working Backwards, Colin Bryar and Bill Carr
+
+### Get inspired to build something great
+- *(unidentified — white cover, leaping figure — please confirm)*
+- Build, Tony Fadell
+- Shoe Dog, Phil Knight
+
+### Become a better manager
+- High Output Management, Andrew S. Grove
+- The Making of a Manager, Julie Zhuo
+- Radical Candor, Kim Scott
+
+### Become a better leader
+- Amp It Up, Frank Slootman
+- The 15 Commitments of Conscious Leadership, Jim Dethmer, Diana Chapman, and Kaley Warner Klemp
+- The Score Takes Care of Itself, Bill Walsh
+
+### Increase your product success rate
+- The Mom Test, Rob Fitzpatrick
+- Escaping the Build Trap, Melissa Perri
+- Continuous Discovery Habits, Teresa Torres
+
+### Level up your product org
+- Inspired, Marty Cagan
+- Empowered, Marty Cagan and Chris Jones
+- Thinking in Bets, Annie Duke
+
+### Get better at sales and marketing
+- Purple Cow, Seth Godin
+- Obviously Awesome, April Dunford
+- Founding Sales, Peter Kazanjy
+
+### Be more productive
+- Deep Work, Cal Newport
+- Getting Things Done, David Allen
+- Make Time, Jake Knapp and John Zeratsky
+
+### Live a happier life
+- Finite and Infinite Games, James P. Carse
+- The 7 Habits of Highly Effective People, Stephen R. Covey
+- Designing Your Life, Bill Burnett and Dave Evans
+
+### Enjoy some sci-fi
+- A Fire Upon the Deep, Vernor Vinge
+- The Three-Body Problem, Cixin Liu
+- There Is No Antimemetics Division, qntm
+
 ## Zixuan Ma — Four Classic Texts (Sinology Intro)
 [zixuanma.blog](https://zixuanma.blog/p/the-four-classic-texts-an-introduction)
 
