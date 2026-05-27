@@ -12,6 +12,7 @@
 - [[books/catalog/dont-think-of-an-elephant/index|The ALL NEW Don't Think of an Elephant!: Know Your Values and Frame the Debate]]
 - [[books/catalog/last-branch-standing/index|Last Branch Standing: A Potentially Surprising, Occasionally Witty Journey Inside Today's Supreme Court]]
 - [[books/catalog/why-nothing-works/index|Why Nothing Works: Who Killed Progress—and How to Bring It Back]]
+- [[books/catalog/stuck/index|Stuck: How the Privileged and the Propertied Broke the Engine of American Opportunity]]
 - [[books/catalog/the-great-debate/index|The Great Debate: Edmund Burke, Thomas Paine, and the Birth of Right and Left]]
 ## History
 - [[books/catalog/only-yesterday/index|Only Yesterday: An Informal History of the 1920s]]
