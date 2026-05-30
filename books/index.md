@@ -14,6 +14,7 @@
 - [[books/catalog/why-nothing-works/index|Why Nothing Works: Who Killed Progress—and How to Bring It Back]]
 - [[books/catalog/stuck/index|Stuck: How the Privileged and the Propertied Broke the Engine of American Opportunity]]
 - [[books/catalog/the-great-debate/index|The Great Debate: Edmund Burke, Thomas Paine, and the Birth of Right and Left]]
+- [[books/catalog/the-wolves-of-k-street/index|The Wolves of K Street: The Secret History of How Big Money Took Over Big Government]]
 ## History
 - [[books/catalog/only-yesterday/index|Only Yesterday: An Informal History of the 1920s]]
 ## Science Fiction
