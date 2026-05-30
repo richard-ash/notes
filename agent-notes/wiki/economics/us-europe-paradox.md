@@ -3,7 +3,8 @@ source: agent
 compiled_from:
   - agent-notes/raw/economics/2026-05-11-krugman-us-europe-paradox-model.md
   - agent-notes/raw/economics/2026-05-20-krugman-european-decline-revised.md
-compiled_at: 2026-05-22
+  - agent-notes/raw/economics/2026-05-29-krugman-response-to-critics.md
+compiled_at: 2026-05-30
 model: claude-opus-4-7
 confidence: high
 ---
@@ -158,6 +159,56 @@ This is closely related to the dynamic concerns animating [[ai-value-capture|Gar
 
 It also sharpens [[two-europes-divergence|Garicano-Kooi's two-Europes argument]]: their political-economy point is that the *western rear* (France, Italy, Spain) lacks any domestic mechanism to mobilize for reform absent an external shock. Krugman's "strategic-autonomy" framing supplies a candidate shock — the security/supply-chain implications of US/Chinese AI dominance — that could in principle play the role Garicano-Kooi see the Russian invasion playing for the converging frontier.
 
+## The Aghion-Bergeaud-Garicano critique and Krugman's response
+
+Aghion, Bergeaud, and Garicano published a Project Syndicate response on 2026-05-29 titled "The Mismeasurement of Europe's Productivity," and Krugman replied the same day in his Substack. The exchange is the clearest available statement of where the disagreement actually lives — and notably puts Bergeaud, whose own [[ppp-and-productivity-comparison|constant-vs-rolling-PPP thread]] is foundational to this whole debate, on the opposite side of the table from Krugman.
+
+Krugman's framing of the disagreement is sharp: **he is not arguing European productivity is mismeasured**. His claim is that standard productivity measures don't have the implications for cross-country comparisons of living standards that people — including economists — think they have. The data are correct; the inference from data to welfare claim is what's wrong. The title of the critique ("Mismeasurement") therefore answers a different question than the one Krugman is asking.
+
+### The Dutch reductio ad absurdum
+
+The 2026-05-29 piece introduces a cleaner empirical hook than the earlier euro-area aggregate work: the Netherlands as a *reductio ad absurdum* for constant-price productivity comparisons.
+
+OECD GDP-per-worker-hour data, two views of NL/US:
+
+- **At current-price PPP**: Dutch productivity is slightly higher than US productivity now (likely capital-intensive industries at the port of Rotterdam), and was slightly higher in 2000 — no significant trend.
+- **At constant 2020 prices**: Dutch productivity rises 0.6% per year vs. US 1.6% per year. By this measure, Dutch productivity was **25% higher than US productivity in 2000**.
+
+The constant-price reading implies the Netherlands was drastically richer and more productive than America a generation ago. Nobody at the time believed this. Nobody now believes it retrospectively. Krugman's challenge: if you find that proposition implausible, you have to concede the constant-price productivity comparison is doing something other than measuring relative welfare or relative living standards.
+
+The mechanism: constant-price comparisons effectively value 2000 Dutch output at 2020 prices. That is a claim about how much 2000 Dutch hours would be worth at prices that didn't prevail at the time but did prevail two decades later. As a welfare comparison this is structurally wrong — it imports the future relative-price collapse of US tech goods back into the 2000 comparison and credits the Netherlands for producing the "more durable" 2000 basket.
+
+This is the same chained-index measurement artifact as in the model above, now run as an empirical *reductio* rather than a derivation.
+
+### The four critiques and Krugman's replies
+
+Aghion, Bergeaud, Garicano offer four arguments. Krugman's view is that three of them are restatements of what he already said and the fourth is empirically wrong:
+
+1. **"International PPP comparisons are problematic and unreliable."** True, Krugman concedes — but real GDP comparisons within a single country across years are equally problematic. Both are imperfect metaphors on imperfect numbers. He sees no systematic bias either way in the comparisons he's making.
+2. **"Productivity at constant national prices has risen faster in the US than in Europe."** This is the starting fact Krugman is trying to *explain*, not a refutation of his analysis. Citing it as evidence against him misses the point of the model — which already incorporates it as a primitive.
+3. **"Current PPPs and national deflators give sharply different answers to what looks like the same price question."** Krugman: yes, this is exactly his point. The question is which is the right measure, and for purchasing-power and living-standards comparisons, current-PPP is the right one and it shows no widening gap.
+4. **"The US lead in technology has led to higher US wages and profits, and the gap is widening each year."** Krugman flatly disputes this. Wages plus profits is factor income, definitionally equal to GDP — and the euro-area-vs-US PPP-adjusted GDP-per-capita gap has *not* widened over time. LIS (Luxembourg cross-national data center) household-income data show nominal income rising 3.1% per year in NL vs. 3.3% per year in the US between 2000 and 2021. Given slightly lower European inflation, this is not a widening gap.
+
+The fourth point is the one Krugman regards as load-bearing for the European-decline narrative. If wages and profits really were widening, the productivity gap would translate into welfare divergence and his whole argument would be wrong. The data, he argues, don't show that.
+
+### The "your critique is my mechanism" move
+
+The cleanest rhetorical turn in Krugman's reply: Aghion-Bergeaud-Garicano write that "if the US produces more of the goods whose prices fall rapidly, then valuing both economies at today's prices can make part of the earlier volume gain look smaller." Krugman points out that this *is* the mechanism in his formal model. The Cobb-Douglas T-sector setup says exactly this: T productivity raises T quantities while falling T prices pass the gain to consumers globally, so current-price relative GDP doesn't move while chained-real US GDP does. What the critics call a problem with current-price comparisons is, in Krugman's frame, the exact reason chained-real comparisons don't mean what people think they mean.
+
+This is a strong claim because if Krugman's reading is correct, the critics share his mechanism but draw the opposite conclusion from it — which would mean the real disagreement isn't about the economics but about which measure to anchor welfare claims to.
+
+### Where the disagreement actually sits
+
+Reading the [[ppp-and-productivity-comparison|Bergeaud thread]] alongside this exchange, the underlying disagreement looks like a difference in normative priors more than a difference in mechanism:
+
+- **Bergeaud's view** (from the December 2025 thread): a "cheaper" Europe is the *mirror image* of slower productivity growth via Balassa-Samuelson, so the rolling-PPP "Europe is fine" reading inverts causality. The constant-PPP series is the one that matters for capacity questions — competitiveness, fiscal capacity, sovereign borrowing.
+- **Krugman's view**: the constant-PPP/chained-real comparison answers a question that nobody actually wants the answer to (would 2000 Dutch output have been worth more if priced at 2020 US tech prices?). The current-PPP series is the one that matters for living-standards questions, and on that series Europe has not fallen behind.
+
+Both can be coherent simultaneously: Bergeaud is right that capacity/competitiveness matters for second-order strategic issues (the dynamic concern Krugman acknowledges but doesn't model), and Krugman is right that the headline "Europe is in decline" claim cannot be sustained on welfare grounds without showing a widening factor-income gap that the LIS and euro-area PPP data don't display. The "productivity gap" is doing different work in the two arguments — one as evidence of capacity erosion (Bergeaud), the other as a measurement artifact mistaken for welfare divergence (Krugman).
+
+What the exchange clarifies is that neither side has yet engaged the other's actual claim. The critics restate the productivity differential Krugman already takes as given; Krugman declines to engage the dynamic/strategic version of the decline argument that doesn't depend on welfare divergence. The economics-professor argument is between the static-welfare and capacity readings of the same data, not between competing factual claims.
+
 ## Sources
 - Krugman, Paul (2026-05-11). "Modeling the US-Europe Paradox (Very Wonkish)." Substack. <https://paulkrugman.substack.com/p/modeling-the-us-europe-paradox-very> — [[2026-05-11-krugman-us-europe-paradox-model|local copy]]
 - Krugman, Paul (2026-05-20). "Challenging the Narrative of European Decline: Revised, Free Repost." Substack. <https://paulkrugman.substack.com/p/challenging-the-narrative-of-european-478> — [[2026-05-20-krugman-european-decline-revised|local copy]]
+- Krugman, Paul (2026-05-29). "Europe Versus America: A Response to the Critics." Substack. <https://paulkrugman.substack.com/p/europe-versus-america-a-response> — [[2026-05-29-krugman-response-to-critics|local copy]]

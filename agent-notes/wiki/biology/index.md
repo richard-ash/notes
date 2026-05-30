@@ -17,6 +17,7 @@ Cell biology, genetics, evolution, and the mechanisms of life.
 - [[neural-stem-cell-aging]] — intrinsic (insulin/IGF1-FOXO, lipid metabolism, protein homeostasis, epigenetic) and extrinsic (blood factors, neuroinflammation, choroid plexus) drivers of NSC decline; dietary, exercise, and systemic interventions to rejuvenate neurogenic niches
 - [[origin-of-complex-life]] — Nick Lane's framework: life originates continuously from alkaline hydrothermal vent geochemistry, basic biochemistry is near-universal, but eukaryogenesis (mitochondrial endosymbiosis) is the great bottleneck to complex life; explains two sexes, genome scaling, and the Fermi paradox
 - [[therapeutic-plasma-exchange]] — Conboy lab clinical study: repeated TPE in humans reverses biological age by diluting pro-aging plasma factors; identifies TLR4 as the nodal point of rejuvenation and 10 novel protein-noise biomarkers that directly measure biological age
+- [[body-brain-inflammatory-circuit]] — Zuker lab (Jin et al., Nature 2024): the brain runs a closed-loop feedback controller on peripheral inflammation; TRPA1⁺ and CALCA⁺ vagal sensory neurons read anti- and pro-inflammatory cytokines, monosynaptic to cNST DBH⁺ glutamatergic neurons that bidirectionally rheostat the cytokine balance — silencing causes runaway sepsis, activation rescues lethal LPS (90% survival), DSS colitis, and the inverse Salmonella stress test
 
 ## Sub-domains
 - [[epigenetics/index|Epigenetics]] (5 articles) — epigenetic mechanisms, aging clocks, reprogramming, and theories of aging
