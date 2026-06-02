@@ -58,6 +58,7 @@
 - ### Samke Harra
 	- ###### Recipes
 		- [Maureen Abood | Lebanese Spicy Fish with Tahini and Pine Nuts](https://maureenabood.com/lebanese-spicy-fish-with-tahini-and-pine-nuts/)
+		- [Mama's Lebanese Kitchen | Lebanese Samkeh Harra Recipe – Spicy Tahini Fish Recipe](https://mamaslebanesekitchen.com/sea-food/spicy-fish-recipe-samkeh-harra/)
 - ### [Shawarma](https://en.wikipedia.org/wiki/Shawarma)
 	- ###### Recipes
 		- [Maureen Abood | Chicken Shawarma](https://maureenabood.com/grilled-chicken-shawarma/)
