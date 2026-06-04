@@ -1,7 +1,7 @@
 # Arabiyya: Recipes from the Life of an Arab in Diaspora
 
 ## Spice Mixes and Pantry Snacks
-- [ ] Za'atar • زعتر • Wild Thyme, Sumac, and Sesame Mix
+- [x] Za'atar • زعتر • Wild Thyme, Sumac, and Sesame Mix
 - [ ] Saba'a Baharat • سبع بهارات • Seven-Spice Mix
 - [x] Khalta Harra • خلطة حرة • Chile-Spice Mix
 - [ ] Mukassarat • مكسرات • Spiced Sweet and Salty Nut Mix
