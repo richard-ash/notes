@@ -573,6 +573,30 @@ From [[books/catalog/last-branch-standing/index|Last Branch Standing]]
 - The Three-Body Problem, Cixin Liu
 - There Is No Antimemetics Division, qntm
 
+## Tyler Cowen — Best Book About Each Country
+[Marginal Revolution, 2018-01](https://marginalrevolution.com/marginalrevolution/2018/01/best-book-country.html)
+
+- The English and Their History, Robert Tombs (England)
+- The German Genius, Peter Watson (Germany)
+- The Italians, Luigi Barzini (Italy)
+- The Pursuit of Italy: A History of a Land, its Peoples, and their Regions, David Gilmour (Italy)
+- The Spaniards, John Hooper (Spain)
+- The Discovery of France: A Historical Geography, Graham Robb (France)
+- The Portuguese: A Modern History, Barry Hatton (Portugal)
+- Ireland: A History, Thomas Bartlett (Ireland)
+- Russia and the Russians, Geoffrey Hosking (Russia)
+- The Gates of Europe: A History of Ukraine, Serhii Plokhy (Ukraine)
+- The Liberal Tradition in America, Louis Hartz (United States)
+- Inside U.S.A., John Gunther (United States)
+- Distant Neighbors: A Portrait of the Mexicans, Alan Riding (Mexico)
+- Island People: The Caribbean and the World, Joshua Jelly-Schapiro (Caribbean)
+- Hun Sen's Cambodia, Sebastian Strangio (Cambodia)
+- In Spite of the Gods: The Rise of Modern India, Edward Luce (India)
+- India, Michael Wood (India)
+- Pakistan: A Hard Country, Anatol Lieven (Pakistan)
+- Crossroads: A Popular History of Malaysia and Singapore, Jim Baker (Singapore & Malaysia)
+- How Asia Works, Joe Studwell (Asia)
+
 ## Zixuan Ma — Four Classic Texts (Sinology Intro)
 [zixuanma.blog](https://zixuanma.blog/p/the-four-classic-texts-an-introduction)
 
