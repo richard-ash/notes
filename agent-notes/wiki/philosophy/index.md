@@ -28,6 +28,7 @@ Philosophical frameworks, epistemology, ethics, and life principles.
 - [[maintenance]] — Stewart Brand's argument that maintenance is the essential art of civilization: ownership = knowledge of repair, the Ford/Rolls-Royce parable, right-to-repair, contemplative practice, and the maintainer's pessimist temperament
 - [[technological-evolution]] — Arthur & Polak's circuit-evolution model (combinatorial buildout, Schumpeterian gales of destruction, self-organized criticality, autopoiesis) plus Potter's information-theoretic reframing — why hierarchy works because it maximizes bits acquired per experiment
 - [[what-makes-art-great]] — Qureshi's three-principle theory of aesthetic greatness (surprise, echoes, depth) plus the "and yet" residual of lived experience, with the joint constraint as the structural explanation for why AI writing is dull
+- [[connoisseurship-as-judgment-training]] — Kapadia's argument that art collecting (or any deep connoisseurship) trains independent taste-formation, which is the same skill investing requires: rejecting art-as-asset-class, the "put on clothes that are comfortable for you" stability-under-self-scrutiny test, self-imposed criteria (American, ±20 years of own age) as a forcing function that narrows the funnel without overriding judgment, and the "je ne sais quoi" admission that connoisseurship delivers recognized confidence rather than a rubric
 
 ## Sub-domains
 

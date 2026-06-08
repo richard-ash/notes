@@ -5,6 +5,7 @@ Corporate finance, capital allocation, valuation, shareholder returns, and inves
 ## Articles
 
 - [[capital-allocation]] — Comprehensive framework for how companies raise, deploy, and return capital, with empirical data on M&A, buybacks, dividends, intangible investment, and five principles for assessing management skill
+- [[concentrated-investing-philosophy]] — Kapadia's XN approach: 10-15 public positions, 1/3 capital in opportunistic privates, "obvious in retrospect" thesis selection, healthcare exclusion as a circle-of-competence move, the Figma asymmetric-risk/reward case, and the two-types-of-errors framework (only passive non-decisions are worth losing sleep over)
 - [[elementary-worldly-wisdom]] — Munger's 1994 USC lecture synthesizing mental models, scale economics, psychology of misjudgment, and concentrated value investing into a unified framework for worldly wisdom
 - [[float]] — How timing differences between collecting and paying create free leverage; Buffett's insurance float model, float vs. debt fragility, and why float-heavy businesses deliver exceptional ROE
 - [[leverage]] — The arithmetic of amplified returns and shrunken margin of safety; taxonomy of benign/plannable/dangerous business leverage, and three rules for personal-finance borrowing
