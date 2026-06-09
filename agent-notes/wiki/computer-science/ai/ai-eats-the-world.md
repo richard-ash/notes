@@ -2,7 +2,8 @@
 source: agent
 compiled_from:
   - agent-notes/raw/computer-science/ai/2026-05-21-evans-ai-eats-the-world-spring.md
-compiled_at: 2026-05-26
+  - agent-notes/raw/computer-science/ai/2026-05-31-evans-lenny-podcast-ai-rational-take.md
+compiled_at: 2026-06-09
 model: claude-opus-4-7
 confidence: medium
 ---
@@ -62,6 +63,19 @@ Evans offers five "right questions, possibly wrong answers":
 
 If correct, this means the capex war doesn't determine the value-capture war. Software (capital-light, network effects, monopolies, high margin) and LLMs (capital-intensive, no network effects, commodity, low margin) end up in different boxes on the same diagram.
 
+### Distribution as the moat when the product is a commodity
+
+Elaborated on Lenny's Podcast (May 2026): if the field is basically commodity, **distribution and brand become the moat**. The structural analogy Evans reaches for is web browsers. The browser product is a thin wrapper around a rendering engine — input box, output box, and what else? The last innovation in browser design was tab browsing 20–25 years ago. Every now and then somebody tries to innovate in browser design and it never works because it's the platonic ideal, like trying to innovate in smartphone design (it's a glass rectangle). Microsoft used distribution to break in. *Then* it turned out winning browsers didn't matter anyway because the value was further up the stack.
+
+The current map of who's pressing this lever:
+
+- **Google** is using Search, Chrome, Android, and Workspace defaults to drive Gemini. To a normal person there's no perceived difference between Gemini and ChatGPT.
+- **Meta** quietly sprayed an adequate-but-not-leading assistant across every surface (WhatsApp, Instagram, Messenger). Tech wrote it off; survey data put it up there with ChatGPT and Gemini in actual use.
+- **OpenAI** late-2024 strategy was nicknamed "everything yesterday" — trying every wedge to build a flywheel before the distribution incumbents got there first.
+- **Apple** is the last penny to drop. The whole second half of WWDC 2024 was the Apple Intelligence vision: tool-using, agentic, on-device, with no prompt injection or hallucinations, and a standardized intents API across 10,000 apps. Apple couldn't ship it — but neither did anyone else. Evans's open question: at WWDC 2025, do they ship that vision now powered by Gemini? In that world the model is the dumb commodity underneath; the feature, distribution, and on-device billion-installed-base advantage live above it.
+
+This is the practical mechanism by which Evans's commodity-models thesis cashes out into a market structure: the labs without a distribution channel get squeezed.
+
 ## Pillar 2: Deployment
 
 ### Mile wide, inch deep
@@ -98,6 +112,16 @@ But Evans cautions: **writing code isn't the hard part**. The hard part is knowi
 ### The deployment infrastructure
 
 The systems integrators are eating well. Accenture's reported new quarterly generative AI contracts climbed from near zero in Feb 2023 to ~$2,500m by Aug 2025. Automation takes a lot of manual labour: PE roll-ups and GTM partnerships with outsourcers and strategy consultants are the actual delivery vehicle. The startup wave (Y Combinator batches are now majority-AI) exists to unbundle Google, Excel, email, Oracle… and ChatGPT itself.
+
+### Why the frontier labs are themselves staffing consultants
+
+In the May 2026 Lenny's Podcast interview Evans turned the "AI replaces consultants" naive prediction inside out. The cutting-edge labs (OpenAI, Anthropic, plus PE players) are the ones most aggressively hiring forward-deployed engineers and acquiring consultancies. His framing joke:
+
+> "A forward deployed engineer is like an Accenture outsourced software developer who lives in San Francisco."
+
+The mechanism is structural: companies do not have spare capacity sitting around to "completely reimagine all of the internal workflows of your company and work out which of them could be automated really quickly with AI." That is a project, and projects need five-to-ten people for one-to-two months just to scope before any building starts. Enterprises do not keep idle architects, idle ad agencies, or idle integrators on staff — they hire Bain/BCG/McKinsey for analysis, Accenture/Infosys for delivery, branding agencies for brand work. Forward-deployed engineers are the AI-lab-flavoured wrapper for that same demand.
+
+The deeper point, which feeds Pillar 3's job-vs-task distinction: the slide deck is just the task. What you pay Bain for is to walk all over your enterprise, work out the politics of *why* you didn't already do the thing, talk to your customers about what they actually think rather than what's on the first page of Google. Claude can write the PowerPoint badly; that's not what the engagement was. Same in software: Claude Code can write the code, but who is the customer, what are the right features, how do you take it to market.
 
 ## Pillar 3: Change
 
@@ -159,6 +183,36 @@ It's still early. Bain (September 2025) found that "Always search" still dominat
 
 This matches the broader pattern in [[ai-and-the-future-of-work]]: rapid headline metrics, slow real-world replacement.
 
+### The shifting AGI definition
+
+Evans observes (May 2026 podcast) that the term AGI is doing what the term "AI" has always done — quietly receding to mean *whatever just stopped working as software*. He cites Larry Tesler:
+
+> "AI is whatever machines can't do yet. Because once machines can do it, people say 'well, that's just software.'"
+
+So jet airliners in the 1960s were "technology"; now they're not "tech." Machine-learning sentiment analysis was once AI; now people will say "oh, that's just sentiment analysis." Today AGI is being redefined to mean "can do a certain percentage of economically valuable work" — but an IBM mainframe in 1975 already could. The current debates about whether super-intelligence is more than AGI or less than AGI ("last year I thought super intelligence was really good but not as good as actual AGI, and now it's like oh no we've already got AGI but super-intelligence is really hard") rhyme with old arguments about whether crypto is blockchain or blockchain is crypto — there is no right answer because the terms are not referring to anything stable.
+
+Evans's serious point: **you don't have to believe in AGI to believe this is a giant deal.** Even if the models stopped getting better tomorrow and you hit a brick wall, what already works gets rolled out over the next 10 years. The AGI question is a Rorschach test for vibes-forecasting. The deployment question is a real economic question with a real answer.
+
+## The anti-AI backlash
+
+Added from the May 2026 podcast. Evans's frame: the backlash is "a big fuzzy mess of different stuff," some real and some not, mirroring the structure of the earlier backlash against social media but compressed in time. Sorting it:
+
+**The water claim is mostly fake.** Data centres use water for cooling, but it's mostly closed loop. Livermore Lab's end-2024 study put US data-centre water consumption at ~0.017% of US water consumption. The actual problem when it bites is small-town planning (one well, capped and routed to the data centre) — not a data-centre problem.
+
+**Energy is real but bounded.** Data centres are ~5% of US energy and might grow ~1 percentage point per year for the next five years.
+
+**Jobs data is genuinely inconclusive.** There's a slowdown in employment for 18-to-24-year-olds, but it shows up similarly across degree/no-degree and across AI-exposed/non-exposed fields. The model labs publish no daily-active-user data ("we don't have a daily active user number for ChatGPT — this is crazy"), so the empirical work has to back numbers out of BLS surveys and consultancy panels. Politically, this doesn't matter: if you're a student and you can't get a job, the cause attribution is academic.
+
+**Creative-industry culture wars are real and local.** Cover artists for YA romance novels, novelists, podcasters (where 30–40% of new shows are now AI-generated) all have legitimate grievances about substitutability of specific outputs they used to be paid for.
+
+**The "Facebook sells your data" pattern.** As with the social backlash, some claims are objectively false but the people who believe them are absolutely adamant. Jonathan Swift: "You can't reason somebody out of an idea they didn't reason themselves into."
+
+### Every tech wave creates new ways to ruin people's lives
+
+Evans grounds this with the UK Post Office / Horizon scandal. The Post Office rolled out a Fujitsu-built point-of-sale computer system 15 years ago that had bugs producing apparent cash shortfalls. The Post Office concluded its franchisees (often second-generation Indian immigrant pharmacists who ran the back-counter post office) were stealing. Hundreds went to prison; there were suicides and bankruptcies; meanwhile Post Office and Fujitsu staff testified in court that there were no bugs in the system. This is 1970s technology.
+
+His point: every wave of technology comes with novel ways to ruin people's lives, either deliberately (Chinese mass surveillance) or by accident (Horizon). The deep-fake-nudes problem isn't refuted by "haven't you heard of Photoshop?" — a 15-year-old kid couldn't use Photoshop to make hardcore pornographic nudes of every girl in their high school and send them to the whole school in an afternoon, and now they can. The 1990s line about social media — "you can be the only gay kid in your village and find your tribe" — turned out to also mean you can be the only Nazi or pedophile in your village and find yours. AI will produce more of this. You have to be conscious of it and also kind of not panic about it.
+
 ## Welcome to the beginning
 
 ### "This is totally different" — but it always is
@@ -184,10 +238,25 @@ The first question gave you Napster. The second gave you Spotify, and total glob
 - What can you and your competitors do with this?
 - Can this unlock or break something crucial in your business model?
 
+### "It'll probably be okay" — but you have to dive in
+
+Evans's closing prescription in the podcast is unfashionably calm. Yes, this will change things and there will be friction and dislocation. That's the constant — the last 200 years have run this loop on the back of mechanisation, electrification, telephony, computing, the web, and mobile. The jobs that go away in retrospect are mostly crap jobs; the new jobs are better. GDP keeps going up. The 1800 peasant did not know what a railway engineer was.
+
+The only actionable answer to "what should I do?" is:
+
+> "Don't stick your head in the sand and say I hate all of this stuff. That gives you a great feeling of moral superiority and you can go on Blue Sky and shout at everybody about how evil AI is. Great, I'm happy for you, but that's not going to help. What helps is you diving into this completely, submerging yourself in it, and coming out understanding what you can do with it, how this changes things, how you can be a great hire."
+
+If a law firm is hiring 50 associates this year instead of 100, walking into the interview and saying "I think AI is bad and I'm never going to use it" is not the right mood. There is no career strategy that routes around the question. Evans's career rule for his own teenage son: you have a bunch of skills, there are jobs those skills make you good at, and there are jobs people will pay you for — try to get at least two of those to overlap, preferably all three.
+
+The personal motto he offered for the lightning round, with characteristic British understatement: **"It'll probably be okay."**
+
 ## Temporal notes
 
-This is the Spring 2026 edition of an annually-updated deck. The frame (three pillars, Capital/Deployment/Change) has been stable since 2023; the data and specific claims update with each release. Future editions can integrate into this article.
+This article integrates two complementary 2026 sources: the Spring 2026 deck (May 21) and the May 31 Lenny's Podcast interview with Evans. The deck is the canonical reference; the podcast is the spoken-word elaboration with extra material on distribution as the moat, the FDE-as-Accenture observation, the AGI-definition drift, and the anti-AI backlash analysis.
+
+The frame (three pillars, Capital/Deployment/Change) has been stable since 2023; the data and specific claims update with each release. Future editions can integrate into this article.
 
 ## Sources
 
 - Benedict Evans (May 2026). "AI eats the world (Spring 2026)." <https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0f426de2690d76bb0707a6/1779384941828/2026-Spring-AI.pdf> — [[2026-05-21-evans-ai-eats-the-world-spring|local copy]]
+- Benedict Evans & Lenny Rachitsky (May 31, 2026). "The most rational take on AI you'll hear this year." Lenny's Podcast. <https://www.youtube.com/watch?v=BD3vLtWhT5A> — [[2026-05-31-evans-lenny-podcast-ai-rational-take|local copy]]
