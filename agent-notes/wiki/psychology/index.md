@@ -7,3 +7,4 @@ Applied psychology, behavioral self-management, motivation, and the science of h
 - [[personal-productivity-systems]] — why all productivity systems decay, context intentionality, modified pomodoro, and strategies for renewal
 - [[vulnerability-and-shame]] — Brown's research on shame as the fear of disconnection, the wholehearted traits, and why we cannot selectively numb emotion
 - [[ai-art-contamination]] — AI involvement in art triggers psychological contamination: trace AI usage causes disproportionate devaluation, and exclusivity premiums collapse for AI-made work
+- [[probability-neglect]] — Lamade's "Achilles heel" essay: base-rate neglect as our defining cognitive blind spot (the valedictorian/Ivy math), why marketers exploit it (Munger's 20%-returns anecdote), the inversion that the bias is load-bearing for irrational-looking achievement, and the "challenge the odds when the pursuit matters as much as the outcome" heuristic
