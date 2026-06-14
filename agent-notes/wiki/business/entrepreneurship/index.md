@@ -12,3 +12,4 @@ Startup ideation, validation, founder-market fit, and the early-stage journey fr
 - [[ai-native-company-building]] — Diana Hu's playbook (AI as company OS, closed loops, software factories, token-maxing) plus Rabois on AI-era org design (no PMs, sales paired with research, comp restructuring, agentic ERP substrate)
 - [[minimum-viable-product]] — Tren Griffin's synthesis of Ries/Blank/Andreessen on the MVP as an experiment for validating the value hypothesis before cash runs out
 - [[founder-evaluation]] — Rabois's "A+ incomplete on one dimension or unusual Venn overlap" + Khosla's "learning rate as the durable trait" frameworks for first-institutional-capital founder assessment
+- [[exponential-growth-billionaire-math]] — Paul Graham's 2026 Oxford Union argument that startup wealth reduces to two numbers (growth rate × duration), so becoming a billionaire is arithmetic, not cheating
