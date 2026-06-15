@@ -3,7 +3,8 @@ source: agent
 compiled_from:
   - agent-notes/raw/biology/epigenetics/2023-12-14-information-theory-of-aging.md
   - agent-notes/raw/biology/epigenetics/2023-01-19-ice-mouse-epigenetic-aging.md
-compiled_at: 2026-04-22
+  - agent-notes/raw/biology/epigenetics/2026-06-15-er100-human-reprogramming-trials.md
+compiled_at: 2026-06-15
 model: claude-opus-4-6
 confidence: medium
 ---
@@ -102,6 +103,19 @@ Key experimental results:
 
 Critically, rejuvenation requires the DNA demethylases TET1 and TET2 — rewriting the methylome is necessary, not just modifying histones.
 
+## Into humans: ER100 and the first reprogramming clinical trial (2026)
+
+In **January 2026**, Life Biosciences' lead candidate **ER100** ("Epigenetic Reprogramming 100") — an AAV gene therapy carrying the three OSK factors — became the **world's first epigenetic reprogramming therapy cleared by the FDA for human clinical trials**. This is the translational milestone the 2020 *Nature* retinal work (see [[in-vivo-epigenetic-reprogramming]]) and the non-human-primate visual-restoration studies were building toward.
+
+Trial design, per Sinclair's account:
+
+- **Phase 1, safety-first**, dose-escalation across **3 US sites** (one run by Dr. Joe Rizzo at Harvard/Boston); **18 patients**.
+- Delivered as a single anterior intravitreal-style **injection through the front of the eye**; OSK genes diffuse to retinal ganglion cells at the back. The retina is chosen as an enclosed, lower-risk compartment versus systemic delivery.
+- Two indications: **glaucoma** (leading cause of blindness worldwide; the same optic-nerve-pressure model tested in mice) and **NAION** (non-arteritic anterior ischemic optic neuropathy — "a stroke in the eye"). Sinclair notes NAION prevalence has risen among GLP-1 weight-loss-injection users.
+- Mechanistic claim: the aged optic-nerve cells are "defective, not dead"; the therapy aims to make them functionally younger over ~6 weeks, potentially **restoring already-lost vision** — something no current glaucoma treatment (which only slows progression) does.
+
+This is the point where ITOA stops being purely a mouse/theory program and becomes a falsifiable clinical bet. Caveat: an n=18 phase-1 is powered for safety, not efficacy, and Sinclair (a Life Biosciences founder) is not a disinterested narrator — see *Critical context*. He also notes parallel reprogramming efforts backed by Jeff Bezos (Altos Labs) and Sam Altman (Retro Biosciences).
+
 ## The "observer" problem
 
 The most intriguing and unresolved prediction of the ITOA: **where is the backup copy stored?** The fact that OSK can restore 90% of aging-altered genes to youthful levels in retinal ganglion cells — targeting the correct loci, direction, and magnitude — implies the youthful pattern is recorded somewhere. Candidates include R-loops, DNA modifications, protein-DNA interactions, and histone marks. Finding this "biological observer" would be a landmark discovery.
@@ -131,3 +145,4 @@ The ICE mouse paper (Yang et al. 2023) provides the most direct experimental sup
 
 - Lu, Y. R., Tian, X. & Sinclair, D. A. (2023). "The Information Theory of Aging." *Nature Aging* 3, 1486–1499. <https://www.nature.com/articles/s43587-023-00527-6> — [[2023-12-14-information-theory-of-aging|local copy]]
 - Yang, J.-H., Hayano, M., Griffin, P. T., Pfenning, A. R., Rajman, L. A., Sinclair, D. A. et al. (2023). "Loss of epigenetic information as a cause of mammalian aging." *Cell* 186, 1–22. <https://doi.org/10.1016/j.cell.2022.12.027> — [[2023-01-19-ice-mouse-epigenetic-aging|local copy]]
+- Sinclair, D. A. (2026). "The Longevity Revolution Is Here." *Lifespan* S2E1 (video). <https://www.youtube.com/watch?v=YRGejckRNpQ> — [[2026-06-15-er100-human-reprogramming-trials|local copy]]
