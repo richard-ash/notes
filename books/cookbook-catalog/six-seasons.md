@@ -96,7 +96,7 @@
 - [ ] Grilled Carrots, Steak, and Red Onion with Spicy Fish-Sauce Sauce
 - [ ] Pan-Roasted Carrots with Carrot-Top Salsa Verde, Avocado, and Seared Squid
 - [x] Lamb Ragu with Carrots and Green Garlic
-- [ ] Celery Salad with Dates, Almonds, and Parmigiano
+- [x] Celery Salad with Dates, Almonds, and Parmigiano
 - [ ] Celery Puntarelle-Style
 - [ ] Celery, Sausage, Provolone, Olives, and Pickled Peppers
 - [ ] Celery, Apple, and Peanut Salad
