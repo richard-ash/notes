@@ -24,7 +24,7 @@
 
 - [ ] Caper-Raisin Vinaigrette
 - [x] Pancetta Vinaigrette
-- [ ] Pine Nut Vinaigrette
+- [x] Pine Nut Vinaigrette
 - [ ] Citrus Vinaigrette
 - [ ] Lemon Cream
 - [ ] Green Herb Mayonnaise
@@ -131,7 +131,7 @@
 - [ ] Lemon Cucumbers with Onion, Papalo, and Lots of Herbs
 - [ ] Cucumbers, Scallions, Mint, and Dried Chiles
 - [ ] String Beans, Pickled Beans, Tomatoes, Cucumbers, and Olives on Tonnato
-- [ ] Roasted String Beans and Scallions with Pine Nut Vinaigrette
+- [x] Roasted String Beans and Scallions with Pine Nut Vinaigrette
 - [ ] Green Bean, Tuna, and Mushroom "Casserole"
 - [ ] Grilled Wax and Green Beans with Tomatoes, Basil, and Spicy Fish-Sauce Sauce
 - [ ] Squash Ribbons with Tomatoes, Peanuts, Basil, Mint, and Spicy Fish-Sauce Sauce
