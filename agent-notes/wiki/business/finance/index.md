@@ -4,6 +4,7 @@ Corporate finance, capital allocation, valuation, shareholder returns, and inves
 
 ## Articles
 
+- [[ai-capex-required-returns]] — GeometricInvestor's "AI is a chain of required returns" thesis: four linked ledgers (infrastructure → hyperscaler/neocloud → token-buyer → macro), the 0.5× monetizable-revenue-to-capex hurdle ($1–1.5tn needed against ~$3tn cumulative capex), why revenue-per-token is the wrong metric, Burry-and-bulls relocated onto specific rungs, and the headline bond-market claim that AI can lower inflation via productivity while raising rates via r-star at the same time
 - [[capital-allocation]] — Comprehensive framework for how companies raise, deploy, and return capital, with empirical data on M&A, buybacks, dividends, intangible investment, and five principles for assessing management skill
 - [[concentrated-investing-philosophy]] — Kapadia's XN approach: 10-15 public positions, 1/3 capital in opportunistic privates, "obvious in retrospect" thesis selection, healthcare exclusion as a circle-of-competence move, the Figma asymmetric-risk/reward case, and the two-types-of-errors framework (only passive non-decisions are worth losing sleep over)
 - [[elementary-worldly-wisdom]] — Munger's 1994 USC lecture synthesizing mental models, scale economics, psychology of misjudgment, and concentrated value investing into a unified framework for worldly wisdom
