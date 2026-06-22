@@ -3,6 +3,7 @@
 	- [Mr. and Mrs. Psmith's Bookshelf | REVIEW: Scaling People, by Claire Hughes Johnson](https://www.thepsmiths.com/p/review-scaling-people-by-claire-hughes)
 - [[books/catalog/an-elegant-puzzle/index|An Elegant Puzzle: Systems of Engineering Management]]
 - [[books/catalog/poor-charlies-almanack/index|Poor Charlie's Almanack: The Essential Wit and Wisdom of Charles T. Munger]]
+- [[books/catalog/risky-business/index|Risky Business: Why Insurance Markets Fail and What to Do About It]]
 ## Geopolitics & Technology
 - [[books/catalog/breakneck/index|Breakneck: China's Quest to Engineer the Future]]
 ## Technology
