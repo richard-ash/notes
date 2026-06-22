@@ -1,6 +1,7 @@
 # Thread: Give the Minority Party Governing Responsibility
 
-Status: final
+Status: published
+Published: https://x.com/richardwslyash/status/2069121595021689037
 Essay version parked at: [minority-power-congress.md](minority-power-congress.md)
 
 ---
