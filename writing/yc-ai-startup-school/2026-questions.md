@@ -1,3 +1,7 @@
+# YC AI Startup School — 2026 Application
+
+_Status: **Submitted** 2026-06-22._
+
 ## List any competitions/awards you have won, or papers you've published.*
 
 Patent @Uber for on device ml (Patent number 10733473)
