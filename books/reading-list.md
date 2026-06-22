@@ -597,6 +597,14 @@ From [[books/catalog/last-branch-standing/index|Last Branch Standing]]
 - Crossroads: A Popular History of Malaysia and Singapore, Jim Baker (Singapore & Malaysia)
 - How Asia Works, Joe Studwell (Asia)
 
+## Johnathan Bi — Four Books for the AI Age
+[X, 2026-06-21](https://x.com/JohnathanBi/status/2068710558975590739)
+
+- The Protestant Ethic and the Spirit of Capitalism, Max Weber
+- Nicomachean Ethics, Aristotle
+- Deceit, Desire, and the Novel, René Girard
+- The Secret Body, Jeffrey Kripal
+
 ## Zixuan Ma — Four Classic Texts (Sinology Intro)
 [zixuanma.blog](https://zixuanma.blog/p/the-four-classic-texts-an-introduction)
 
