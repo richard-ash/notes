@@ -635,3 +635,19 @@ Reading List Email, 2026-05-02
 - Necessary Trouble: Growing Up at Midcentury, Drew Gilpin Faust
 - Up From Slavery, Booker T. Washington
 - Letters to a Young Poet, Rainer Maria Rilke
+
+## Ryan Holiday — 12 Novels That Changed How I Think About the World
+Reading List Email, 2026-06-14
+
+- The Road, Cormac McCarthy
+- The Moviegoer, Walker Percy
+- Address Unknown, Kathrine Kressmann Taylor
+- Memoirs of Hadrian, Marguerite Yourcenar
+- Augustus, John Williams
+- The Last of the Wine, Mary Renault
+- The Oresteia: Agamemnon; The Libation Bearers; The Eumenides, Aeschylus
+- Medea and Other Plays, Euripides
+- The Annotated Great Gatsby: 100th Anniversary Deluxe Edition, F. Scott Fitzgerald
+- James, Percival Everett
+- The Plague, Albert Camus
+- The Fall, Albert Camus
