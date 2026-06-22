@@ -616,3 +616,22 @@ Four foundational introductory works for entering classical Chinese studies — 
 - "Chapter 1: The Spirit of Chinese Philosophy" from *A Short History of Chinese Philosophy* (1948), Yu-lan Fung
 
 Classical primary texts referenced (deeper material these introductions support): *Shijing* (Classic of Poetry), *Chuci*, *Zhongyong* (Doctrine of the Mean), *Liji* (Book of Rites).
+
+## Ryan Holiday — 10 Books I Wish I Read Earlier (Best Books for Graduates)
+Reading List Email, 2026-05-02
+
+- Mastery, Robert Greene
+- So Good They Can't Ignore You: Why Skills Trump Passion in the Quest for Work You Love, Cal Newport
+- On Character: The Choices That Define A Life, Stanley McChrystal
+- Memoirs of Hadrian, Marguerite Yourcenar
+- The Autobiography of Malcolm X, Malcolm X with Alex Haley
+- Gates of Fire: An Epic Novel of the Battle of Thermopylae, Steven Pressfield
+- One Line a Day: A Five Year Memory Book
+- A Calendar of Wisdom: Daily Thoughts to Nourish the Soul, Leo Tolstoy
+- On the Shortness of Life, Seneca
+- Buddha, Karen Armstrong
+- Notes on Being a Man, Scott Galloway
+- Co-Intelligence: Living and Working With AI, Ethan Mollick
+- Necessary Trouble: Growing Up at Midcentury, Drew Gilpin Faust
+- Up From Slavery, Booker T. Washington
+- Letters to a Young Poet, Rainer Maria Rilke
