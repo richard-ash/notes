@@ -141,7 +141,7 @@
 
 ## Late Summer
 
-- [ ] Raw Corn with Walnuts, Mint, and Chiles
+- [x] Raw Corn with Walnuts, Mint, and Chiles
 - [ ] Corn and Tomato Salad with Torn Croutons
 - [ ] Sautéed Corn Four Ways
 - [ ] Grilled Corn with Alla Diavola Butter and Pecorino
