@@ -6,7 +6,7 @@
 - [ ] Caldo de Res • Beef and Vegetable Soup
 - [ ] Crema de Elote • Cream of Corn Soup
 - [ ] Crema de Papa • Cream of Potato Soup
-- [ ] Sopa de Lentejas • Lentil Soup
+- [x] Sopa de Lentejas • Lentil Soup
 - [ ] Sopa de Fideo • Mexican Noodle Soup
 - [ ] Menudo • Mexican Tripe Soup
 - [ ] Pozole Rojo • Red Pozole
