@@ -13,3 +13,4 @@ Startup ideation, validation, founder-market fit, and the early-stage journey fr
 - [[minimum-viable-product]] — Tren Griffin's synthesis of Ries/Blank/Andreessen on the MVP as an experiment for validating the value hypothesis before cash runs out
 - [[founder-evaluation]] — Rabois's "A+ incomplete on one dimension or unusual Venn overlap" + Khosla's "learning rate as the durable trait" frameworks for first-institutional-capital founder assessment
 - [[exponential-growth-billionaire-math]] — Paul Graham's 2026 Oxford Union argument that startup wealth reduces to two numbers (growth rate × duration), so becoming a billionaire is arithmetic, not cheating
+- [[commit-and-go-deep]] — YC GP Jon Xu's rubric: stop hunting the perfect idea, burn the boats on one, go deep enough to run the customer's business, and treat depth as a search for the better idea underneath (plus three AI-era idea qualities: edge-of-models, verticalize-to-an-outcome, most-ambitious-version)
