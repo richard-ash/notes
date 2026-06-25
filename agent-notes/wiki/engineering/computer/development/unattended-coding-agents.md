@@ -3,8 +3,9 @@ source: agent
 compiled_from:
   - agent-notes/raw/engineering/computer/development/2026-04-20-stripe-minions-coding-agents.md
   - agent-notes/raw/engineering/computer/development/2026-04-20-stripe-minions-coding-agents-part-2.md
-compiled_at: 2026-04-20
-model: claude-opus-4-6
+  - agent-notes/raw/engineering/computer/development/2026-05-22-chris-wood-delegated-agent-workflow.md
+compiled_at: 2026-06-24
+model: claude-opus-4-8
 confidence: medium
 ---
 
@@ -13,6 +14,13 @@ confidence: medium
 An **unattended coding agent** is a fully autonomous agent that takes a task description as input and produces a ready-to-review pull request as output, with no human interaction during the run. The key distinction from interactive coding assistants (Claude Code in conversational mode, Cursor, Copilot) is the elimination of the human-in-the-loop during execution — the human's role shifts entirely to review.
 
 Stripe's internal system, **Minions**, is the most detailed public account of this pattern deployed at enterprise scale. As of Part 2 of their blog series, Minions produce over 1,300 merged PRs per week at Stripe (up from 1,000 at Part 1's publication), all human-reviewed but containing no human-written code.
+
+Chris Wood's account (X, May 2026) is the **solo-developer instance** of the same pattern, and shows it doesn't require Stripe-scale infrastructure — a single VM and the Claude agent SDK suffice. Wood places it in a two-camps taxonomy of how heavy users work with coding agents:
+
+- **Controlled fast loops** — 1–2 minute cycles, mostly single-threaded, the human still fully in control of the code, using the agent "to type faster." This is the interactive [[agentic-engineering|agentic-engineering]] mode.
+- **Delegated slow loops** — the unattended pattern. The human queues high-level work and nudges from a distance; agents run asynchronously and the human reviews PRs.
+
+Wood argues the delegated mode is not just a different style but *better practice* for him: "driving a coding agent is a bad practice even — drives context switching, promotes larger PRs, and makes it hard to keep track of what code changes you're making." He stopped using an interactive harness entirely except when he has to dig in hands-on. This is the inverse of the usual framing where unattended agents are the advanced/risky frontier and interactive driving is the safe default — Wood treats *not* watching the agent as the discipline that keeps PRs small and changes legible. Note this is one practitioner's stated preference, not a measured result, and his own caveat (below) is that it only holds for non-UI work.
 
 ## The unattended workflow pattern
 
@@ -87,6 +95,27 @@ Minions consume the same agent rule files that human-operated tools use. Stripe 
 
 At Stripe's repository scale, unconditional global rules are used sparingly to avoid filling the context window before work begins. Almost all rules are **conditionally applied based on subdirectories or file patterns**.
 
+## The solo-developer pipeline (Chris Wood)
+
+Where Stripe's setup is a custom enterprise platform, Wood's is a two-agent pipeline anyone can assemble from off-the-shelf parts. The full loop:
+
+1. **Queue high-level tasks in Linear.** The issue tracker is the work intake, mirroring Stripe's Slack/ticket entry points.
+2. **Planning agent (Opus 4.8, Claude agent SDK)** drafts a plan for each high-level task.
+3. **Human reviews the plan via GitHub code review** — the plan itself is reviewed as a PR. An `lgtm` comment is the gate that releases the planning agent to proceed.
+4. **Planning agent decomposes** the task into subtasks deliberately sized at **~500 LOC each and designed not to cause merge conflicts**, queued back into Linear tagged for implementation.
+5. **Implementation agent (Sonnet, Claude agent SDK)** picks up one subtask, works in a **git worktree on the VM**, opens a PR, and **watches that PR until it merges** — responding to both a **code-review agent (Opus 4.8 running in GitHub CI)** and the human's review comments.
+6. **Branch topology:** one feature branch off `main` per high-level Linear task; the many ~500-LOC subtask PRs merge into that feature branch. End-to-end testing waits until the feature branch is complete, though the human can check out the remote branch to test or tweak at any time.
+
+Everything runs on a **VM so the agents keep working with the laptop closed**, and the human can supervise from mobile. The two-model split (Opus to plan and review, Sonnet to implement) is a cost/capability allocation: judgment-heavy steps get the stronger model, the high-volume implementation step gets the cheaper one — the same model-tier reasoning that shows up in [[patron-not-wizard|sub-agent fleets]] (cheap workers, expensive verifiers).
+
+**Intervention budget.** Wood's self-reported breakdown: ~80% of PRs need very little input, 10–15% need nudging "to avoid bad patterns entering the codebase," and ~5% require intervention or a full reset of the high-level task. That residual human attention — not code production — is the binding constraint, the same conclusion Stripe reaches.
+
+**The issue tracker and git history *are* the memory.** Wood's favorite property: because the whole loop is mediated through Linear and GitHub, a task that gets reset leaves a durable trail. When the agent retries, it can see that it attempted this before and was reset, "learn" from that plus any added guidance, and do better the second time. This is memory-as-byproduct-of-tooling rather than a bespoke memory system — the externalized state of the work doubles as the agent's episodic record.
+
+**Vertical slices beat horizontal layers.** Wood's most common failure mode is the planning agent splitting a large task *horizontally* — building foundational/infrastructure work first, then trying to layer the "product" surface on top. The fix is the same advice that applies to human eng teams: build a narrow **vertical** slice end-to-end first, then refactor into horizontal layers later. A vertical slice is independently testable and surfaces integration problems early; a horizontal split defers all integration risk to the end.
+
+**The UI exception.** Wood is explicit that this works for non-UI work and breaks down for complex interactive UI, which "can't work autonomously with any reliability at all right now." His suggested workaround is two-phase: take a few automated looping shots to build a *prototype*, get it right by hand, then queue an agent to rebuild it cleanly with good code. An interlocutor pushes back that even those "few looping shots" stretch into days of frustration for complex interactive UI. This is the same [[agentic-engineering|verifiability]] boundary Karpathy draws — UI correctness is hard to specify and check automatically, so the unattended loop loses its feedback signal.
+
 ## Implications
 
 - **Parallelization of developer attention** — the scarce resource is not code production but developer attention. Unattended agents let one engineer spawn multiple parallel workstreams, fundamentally changing the throughput equation.
@@ -95,6 +124,10 @@ At Stripe's repository scale, unconditional global rules are used sparingly to a
 - **Same tools for humans and agents** — the most effective approach is not building agent-specific tooling but making human developer tooling agent-friendly. Investment in developer productivity compounds for both audiences.
 - **The two-CI-round limit** — an empirical finding: Stripe caps CI iterations at two, having found diminishing returns beyond that. Agents that can't get code right within ~2 feedback cycles are unlikely to converge with more attempts.
 - **Isolation enables autonomy** — the quarantined devbox model (QA environment, no production access, no real data) is what makes fully unattended operation safe. The blast radius of any agent mistake is one disposable environment.
+- **The pattern scales down to one developer** — Wood shows the unattended loop doesn't need a custom platform: a VM, git worktrees, the Claude agent SDK, and an issue tracker reproduce the essentials. The expensive parts at Stripe (devbox pooling, Toolshed, blueprints) are scale optimizations, not prerequisites.
+- **Existing tools double as agent memory** — routing the whole loop through Linear + GitHub means reset/retry history is captured for free. You don't need a bespoke memory store if the work's externalized state already records what was tried and rejected.
+- **Small PRs are a forcing function, not just a review nicety** — Wood's ~500-LOC subtask sizing and "merge-conflict-free by construction" decomposition is what makes parallel agents (2–4 features at once) tractable. The planning agent's real job is producing a decomposition that humans can review in small pieces and that agents won't collide on.
+- **Unattended ≠ universal** — the UI exception is the sharpest current boundary. Where correctness can't be specified and auto-verified, the delegated loop degrades to "days of frustration" and the controlled-fast-loop mode is still better.
 
 ## Cross-connections
 
@@ -102,8 +135,12 @@ At Stripe's repository scale, unconditional global rules are used sparingly to a
 - [[claude-code]] documents Boris Cherny's design philosophy for Anthropic's coding agent; Cherny's discussion of subagents spawning parallel workstreams mirrors Stripe's pattern of engineers launching multiple Minions concurrently
 - The "build for the next model" principle from [[claude-code]] is implicitly present here — Stripe's Minion architecture assumes agent capabilities will improve, investing in the harness and tooling integration rather than compensating for current model limitations
 - The blueprints pattern echoes Anthropic's own taxonomy from their ["Building effective agents"](https://www.anthropic.com/engineering/building-effective-agents) post, but sits deliberately in between the workflow and agent patterns they describe
+- [[agentic-engineering]] is the *controlled fast loop* — the other half of Wood's two-camps taxonomy; this article is the *delegated slow loop* half
+- [[stacked-pull-requests]] — Wood's feature-branch-with-many-subtask-PRs topology is a stacked-PR structure produced by agents rather than hand-authored
+- [[patron-not-wizard]] — Mollick's commissioning-not-doing role shift is exactly what Wood lives day to day; the two-model Opus-plans/Sonnet-implements split mirrors the cheap-worker/expensive-verifier sub-agent fleets
 
 ## Sources
 
 - Stripe Engineering (2026). "Minions: Stripe's one-shot, end-to-end coding agents." <https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents> — [[2026-04-20-stripe-minions-coding-agents|local copy]]
 - Stripe Engineering (2026). "Minions: Stripe's one-shot, end-to-end coding agents—Part 2." <https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2> — [[2026-04-20-stripe-minions-coding-agents-part-2|local copy]]
+- Wood, C. (2026). "A working style for running coding agents on a VM (delegated slow loops)." X. <https://x.com/C_H_Wood/status/2068425215537979652> — [[2026-05-22-chris-wood-delegated-agent-workflow|local copy]]

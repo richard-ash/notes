@@ -17,7 +17,7 @@ Software development practices, workflows, and tooling.
 - [[ecto-activity-tracking]] — automatic audit logging in Phoenix by overriding Ecto Repo operations with a Trackable protocol
 - [[phoenix-activity-feed-rendering]] — rendering an activity feed in LiveView with cursor-based pagination, streams, and a reusable function component
 - [[low-tech-devex]] — philosophy of preferring battle-hardened, text-based CLI tools (vim, make, tmux, curl) over GUI alternatives for developer productivity
-- [[unattended-coding-agents]] — fully autonomous agents that one-shot tasks from description to PR; Stripe's Minions produce 1,300+ merged PRs/week using hybrid blueprint orchestration (deterministic + agentic nodes)
+- [[unattended-coding-agents]] — fully autonomous agents that one-shot tasks from description to PR; Stripe's Minions produce 1,300+ merged PRs/week using hybrid blueprint orchestration (deterministic + agentic nodes), and Chris Wood's solo two-agent pipeline (Opus plans + reviews, Sonnet implements in worktrees on a VM, Linear/GitHub as memory, ~500-LOC PRs) as the "delegated slow loop" counterpart to interactive agentic engineering
 - [[claude-code-skills]] — taxonomy of nine skill types, design patterns (gotchas sections, progressive disclosure, on-demand hooks), and distribution strategies from Anthropic's internal usage of Claude Code skills
 - [[technical-accessibility]] — the gap between publishing a technical artifact and making it genuinely accessible; "build the thing, then build the ramp"
 - [[judgment-in-ai-assisted-development]] — coding agents solve time and attention; judgment (maintainability, security, reliability decisions) is now the binding constraint, scalable via skill/datapack ecosystems
