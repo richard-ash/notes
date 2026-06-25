@@ -14,6 +14,7 @@
 - [[books/catalog/last-branch-standing/index|Last Branch Standing: A Potentially Surprising, Occasionally Witty Journey Inside Today's Supreme Court]]
 - [[books/catalog/why-nothing-works/index|Why Nothing Works: Who Killed Progress—and How to Bring It Back]]
 - [[books/catalog/stuck/index|Stuck: How the Privileged and the Propertied Broke the Engine of American Opportunity]]
+- [[books/catalog/building-from-the-ground-up/index|Building from the Ground Up: Reclaiming the American Housing Boom]]
 - [[books/catalog/the-great-debate/index|The Great Debate: Edmund Burke, Thomas Paine, and the Birth of Right and Left]]
 - [[books/catalog/the-wolves-of-k-street/index|The Wolves of K Street: The Secret History of How Big Money Took Over Big Government]]
 ## History
