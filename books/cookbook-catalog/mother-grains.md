@@ -4,7 +4,7 @@
 
 - [x] Barley Pumpkin Bread
 - [ ] Macadamia Brown Butter Blondies
-- [ ] Malt-Glazed Brownies
+- [x] Malt-Glazed Brownies
 - [ ] Malted Almond Bars
 - [ ] Persimmon Sticky Pudding
 - [ ] Figgy and Purple Barley Cake
