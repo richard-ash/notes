@@ -146,7 +146,7 @@
 - [ ] Oeufs au Plat à la Crème • Baked eggs with cream
 	- [ ] Oeufs au Plat à la Ciboulette • with chives
 	- [ ] Oeufs au Plat aux Croûtons • with tiny croûtons
-	- [ ] Oeufs en Cocotte à la Crème • baked in ramekins
+	- [x] Oeufs en Cocotte à la Crème • baked in ramekins
 - [ ] Omelette de la Mère Poulard • Mère Poulard's omelette
 	- [ ] Omelette Soufflée • soufflé variant
 ### Fish and Shellfish
