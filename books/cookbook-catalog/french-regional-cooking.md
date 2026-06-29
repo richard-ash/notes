@@ -174,3 +174,48 @@
 - [ ] Tarte aux Poires Normande • Pear and almond cream tart
 - [ ] Tarte aux Pommes Grillagée • Latticed apple tart
 - [ ] Sablés de Bourg-Dun • Butter biscuits
+
+## The Loire
+
+### Soups
+- [ ] Nouzillards au Lait • Cream of chestnut soup
+	- [ ] Nouzillards en Purée • Puréed variant reheated with cream
+- [ ] Crème de Cresson • Cream of watercress soup
+	- [ ] Crème d'Épinards • Spinach variant
+- [ ] Soupe Solognote au Lapin • Rabbit and mushroom soup
+### Terrines and Charcuterie
+- [ ] Feuilleté Solognote • Feuilleté of game
+- [ ] Rillons, Rillauds or Rillots • Slow-cooked pork cubes
+	- [ ] Rillons d'Oie • Goose variant
+- [ ] Rillettes de Tours • Potted pork, Tours style
+### Eggs and Savoury Tarts
+- [ ] Tarte Tourangelle aux Rillettes • Egg custard tart with rillettes
+- [ ] Oeufs à la Tripe • Hard-boiled eggs with onions
+### Fish and Shellfish
+- [ ] Sandre à l'Oseille • Pickerel with sorrel
+- [ ] Matelote de la Loire • Eel stew with mushrooms and onions
+- [ ] Petite Friture • Deep-fried little fish
+### Poultry and Meat
+- [ ] Sauté de Poulet à l'Angevine • Sauté of chicken with mushrooms and onions
+- [ ] Cul de Veau à l'Angevine • Veal with herbs and sorrel
+- [ ] Noisettes de Porc aux Pruneaux • Pork noisettes with prunes
+- [ ] Civet de Lièvre • Hare stew
+### Vegetables and Salads
+- [ ] Petits Pois à la Crème • Green peas with cream
+- [ ] Salade à l'Huile de Noix • Salad with walnut oil
+- [ ] Céleris Braisés • Braised celery
+- [ ] Asperges au Beurre d'Estragon • Asparagus with tarragon butter
+- [ ] Fèves à la Tourangelle • Beans with ham
+### Cheese
+- [ ] Crémets d'Angers • Moulded fresh cheese
+	- [ ] Crémets d'Angers II • Cream cheese variant
+### Desserts and Pastries
+- [ ] Crêpes Belle Angevine • Pear crêpes with Cointreau
+- [ ] Poires Belle Angevine • Pears in red wine
+- [ ] Chicolle • Peaches in red wine
+- [ ] Pruneaux au Vouvray • Prunes in white wine
+- [ ] Tarte aux Fruits • Fruit tart with pastry cream
+- [ ] Tarte des Demoiselles Tatin • Caramelized apple tart
+- [ ] Gâteau de Pithiviers • Feuilleté with almond filling
+- [ ] Quatre Quarts • Pound cake
+	- [ ] Quatre Quarts aux Fruits • Fruit version
