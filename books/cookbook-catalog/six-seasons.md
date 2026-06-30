@@ -127,7 +127,7 @@
 - [ ] Baked Cauliflower with Salt Cod, Currants, and Pine Nuts
 - [ ] Fried Cauliflower with Spicy Fish-Sauce Sauce
 - [ ] Cucumbers, Celery, Apricots, and Pistachios
-- [ ] Cucumbers, Yogurt, Rose, Walnuts, and Herbs
+- [x] Cucumbers, Yogurt, Rose, Walnuts, and Herbs
 - [ ] Lemon Cucumbers with Onion, Papalo, and Lots of Herbs
 - [ ] Cucumbers, Scallions, Mint, and Dried Chiles
 - [ ] String Beans, Pickled Beans, Tomatoes, Cucumbers, and Olives on Tonnato
