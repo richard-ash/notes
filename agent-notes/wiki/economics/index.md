@@ -14,6 +14,7 @@ Housing markets, monetary policy, labor economics (including Garicano's *Messy J
 - [[reference-class-forecasting]] — Using historical base rates to assess the plausibility of corporate growth forecasts, applied to AI companies
 - [[commercial-zoning-costs]] — How commercial land use regulations reduce U.S. output by 3-6%, with welfare gains of 3-9% from moderate deregulation
 - [[task-automation-vs-paradigm-replacement]] — Why automating tasks within existing paradigms rarely kills jobs, but creating new paradigms (ATMs vs iPhones for bank tellers) does
+- [[solopreneur-economy]] — Tedeschi/Stripe's data case that solo (nonemployer) businesses are forming faster, climbing the income distribution, and powered by AI filling the capability gaps that once forced founders to hire — surge isn't fraud (flat high-propensity filings, faster time-to-revenue, global, Delaware/Wyoming intent)
 - [[use-of-knowledge-in-society]] — Hayek's 1945 argument that dispersed local knowledge cannot be centralized, and the price system solves this by communicating information through prices
 - [[academic-economics-critique]] — Munger's 2003 UCSB lecture diagnosing nine defects in academic economics and prescribing multidisciplinary fluency as the cure
 - [[cumulative-advantage]] — How social influence creates positive feedback in markets, making hit prediction fundamentally impossible regardless of information or models
