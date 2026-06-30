@@ -2,8 +2,9 @@
 source: agent
 compiled_from:
   - agent-notes/raw/business/entrepreneurship/2026-01-21-khosla-rabois-uncapped.md
-compiled_at: 2026-04-30
-model: claude-opus-4-7
+  - agent-notes/raw/business/entrepreneurship/2010-10-01-what-we-look-for-in-founders.md
+compiled_at: 2026-06-30
+model: claude-opus-4-8
 confidence: medium
 ---
 
@@ -12,6 +13,22 @@ confidence: medium
 How seed-stage VCs decide whether a founder has a non-zero chance of changing a vertical or the world. Synthesized from a January 2026 Uncapped conversation between Vinod Khosla and Keith Rabois (both managing directors at Khosla Ventures), where they articulate their separate-but-converging frameworks for the read on a founder. They report that across roughly eight years of co-investing they can name only "two or three" cases of significant divergence on a founder assessment — the disagreements they have are about markets, not people.
 
 This is explicitly a framework for **first-institutional-capital** investing. The traits that matter for backing someone before they've proven anything are different from those that matter for later-stage diligence, where revenue trajectory and team quality are observable.
+
+## Graham: the five qualities (the canonical YC framework)
+
+Paul Graham's 2010 "What We Look for in Founders" is the foundational accelerator-side statement of this concept, and it anticipates most of what the Khosla/Rabois conversation arrives at sixteen years later. The headline reversal is the same one Khosla and Rabois make: **YC expected intelligence to be the dominant trait and found it wasn't.** Above a threshold, intelligence stops being the differentiator. Graham's five, in his ranked order:
+
+1. **Determination** — the single most important quality, displacing the Valley myth of intelligence. The diagnostic is resistance to demoralization, not raw talent. Graham's exemplar: Bill Clerico of WePay, in endless negotiations with bureaucratic finance partners — "when Bill Clerico starts calling you, you may as well do what he asks, because he is not going away." This is Graham's name for what Khosla/Rabois call **grit**; both camps agree it is the load-bearing trait and that it shows up through behavior, not credentials.
+
+2. **Flexibility** — the necessary counterweight to determination. Graham is explicit that this is *not* "don't give up on your dreams"; the dream itself must be modifiable on the fly. His metaphor is a running back: determined to get downfield, but willing to go sideways or backwards to get there. The exemplar is Daniel Gross of Greplin, who dropped a bad ecommerce idea the instant YC offered to fund him doing something else, then cycled through two more ideas before landing on the one investors wanted. This is the same trait as Khosla's **learning rate** — openness to new ideas plus the ability to *reject* bad ones — and it is the founder-side justification for [[commit-and-go-deep]]'s "treat depth as a search for the better idea underneath."
+
+3. **Imagination** — the *form* of intelligence that matters: not fast solving of predefined problems, but the production of surprising ideas at "just the right level of craziness." Graham's load-bearing claim is that good startup ideas [seem bad initially](https://paulgraham.com/googles.html) — if they were obviously good, someone would already be doing them. Airbnb is the exemplar YC itself thought "too crazy" and funded only because they liked the founders (the Obama/McCain cereal hustle sealed it). This is the same observation that drives the non-consensus thesis below and connects to [[organic-startup-ideation]] and [[schlep-blindness]].
+
+4. **Naughtiness** — a "piratical gleam," delight in breaking rules that don't matter while caring intensely about getting the big moral questions right. Graham flags this may be redundant with imagination. The operational residue is concrete: Sam Altman suggested YC ask applicants about **a time they hacked something to their advantage** (beating the system, not breaking into computers), and it became one of the questions YC weights most. Note the partial tension with Khosla/Rabois, who make **ethics the one non-negotiable** — but the two reconcile via Rabois's observation that intense, principled founders care about "the big questions" and not about "observing proprieties," which is exactly Graham's distinction between naughty and evil.
+
+5. **Friendship** — the only quality Forbes cut for space, and the only one about the founding *team* rather than the individual. Graham's empirical claim: solo founders are hard, the big successes have two or three, and the relationship must be strong enough to survive stress — "startups do to the relationship between the founders what a dog does to a sock: if it can be pulled apart, it will be." Exemplars Emmett Shear and Justin Kan had known each other since second grade. This is the dimension the VC framework largely omits, because by the first institutional check the co-founder relationship is either already there or already broken.
+
+The through-line connecting Graham's list to the VC one: both rank **persistence over intelligence**, both treat **flexibility/learning rate** as the necessary partner to persistence, and both believe the diagnostic traits surface through **stories and behavior** rather than interview performance. Where they diverge is altitude — Graham is selecting from a high-volume application funnel for a small check and a batch program, so he optimizes for traits legible in an application and a ten-minute interview; Khosla and Rabois are writing larger first checks and can afford deeper reference work, which is why **ethics-via-references** and **recruiting ability** feature in their framework but not Graham's.
 
 ## Rabois: A+ incomplete on one dimension, or an unusual Venn overlap
 
@@ -103,4 +120,5 @@ If this framework is right, the founder takeaways are:
 
 ## Sources
 
+- Paul Graham (2010, October). "What We Look for in Founders." <https://paulgraham.com/founders.html> — [[2010-10-01-what-we-look-for-in-founders|local copy]]
 - Vinod Khosla & Keith Rabois (2026, January 21). "Vinod Khosla and Keith Rabois on Building and Investing in Enduring Companies | Ep. 40." *Uncapped with Jack Altman.* <https://www.youtube.com/watch?v=MBf1LZbk2Pk> — [[2026-01-21-khosla-rabois-uncapped|local copy]]
