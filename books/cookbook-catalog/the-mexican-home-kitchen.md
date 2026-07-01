@@ -17,7 +17,7 @@
 
 - [ ] Tacos de Bistec • Steak Tacos
 - [ ] Flautas de Papa • Crispy Rolled Potato Tacos
-- [ ] Carnitas
+- [x] Carnitas
 - [ ] Barbacoa de Lengua • Beef Tongue Barbacoa Tacos
 - [ ] Chiles Rellenos
 - [ ] Mole Poblano
@@ -54,7 +54,7 @@
 
 ## Salsas & Sides
 
-- [ ] Pico de Gallo
+- [x] Pico de Gallo
 - [ ] Salsa Roja • Red Salsa
 - [ ] Salsa Roja Rostizada • Roasted Red Salsa
 - [ ] Salsa Taquera • Taqueria-Style Salsa
