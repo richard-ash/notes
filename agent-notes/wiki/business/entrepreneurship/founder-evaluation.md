@@ -3,6 +3,7 @@ source: agent
 compiled_from:
   - agent-notes/raw/business/entrepreneurship/2026-01-21-khosla-rabois-uncapped.md
   - agent-notes/raw/business/entrepreneurship/2010-10-01-what-we-look-for-in-founders.md
+  - agent-notes/raw/business/entrepreneurship/2009-03-01-relentlessly-resourceful.md
 compiled_at: 2026-06-30
 model: claude-opus-4-8
 confidence: medium
@@ -29,6 +30,20 @@ Paul Graham's 2010 "What We Look for in Founders" is the foundational accelerato
 5. **Friendship** — the only quality Forbes cut for space, and the only one about the founding *team* rather than the individual. Graham's empirical claim: solo founders are hard, the big successes have two or three, and the relationship must be strong enough to survive stress — "startups do to the relationship between the founders what a dog does to a sock: if it can be pulled apart, it will be." Exemplars Emmett Shear and Justin Kan had known each other since second grade. This is the dimension the VC framework largely omits, because by the first institutional check the co-founder relationship is either already there or already broken.
 
 The through-line connecting Graham's list to the VC one: both rank **persistence over intelligence**, both treat **flexibility/learning rate** as the necessary partner to persistence, and both believe the diagnostic traits surface through **stories and behavior** rather than interview performance. Where they diverge is altitude — Graham is selecting from a high-volume application funnel for a small check and a batch program, so he optimizes for traits legible in an application and a ten-minute interview; Khosla and Rabois are writing larger first checks and can afford deeper reference work, which is why **ethics-via-references** and **recruiting ability** feature in their framework but not Graham's.
+
+## Graham: the two-word distillation — "relentlessly resourceful"
+
+Graham's 2009 "Relentlessly Resourceful" is the compression of the five-quality list into a single founder test, and it is essentially **determination + flexibility fused into one phrase**. He arrives at it negatively: the quality to avoid is *hapless* — not "unlucky" (he argues the dictionaries are wrong; the word's luck-meaning is vestigial) but **passive**, "battered by circumstances," letting the world have its way with you. The opposite of hapless is *relentlessly resourceful*, and the running-back metaphor cited in the flexibility section above is the same image he eventually replaces with this phrase because the metaphor doesn't travel outside the US.
+
+The load-bearing distinction is **resourceful, not merely relentless**. Pure persistence only works in domains where the difficulties are known in advance, so you can just plow through. In any interesting domain the difficulties are *novel* — you can't tell ahead of time whether you're about to hit "a block of foam or granite" — so brute persistence isn't enough; you have to keep trying new things. This is exactly why Graham pairs determination with flexibility rather than treating grit as sufficient, and it sharpens the Khosla **learning rate** convergence: resourcefulness *is* a fast learning rate applied to external obstacles.
+
+Graham bounds the claim deliberately. "Relentlessly resourceful" is the recipe for startups specifically because **the obstacles there are external**. In writing and painting the obstacle is internal — "your own obtuseness" — so the recipe there is to be *actively curious* instead. (This is the same fork that separates this article from research-taste frameworks like Vivek's "research is a stack of trainable sub-skills.") It is also explicitly **not** the recipe in big companies or schools, which reward "some combination of resourcefulness, obedience, and building alliances" — one reason the [[manager-anti-patterns|expert trap]] and the "10 years at Cisco disqualifies you" observation below hold.
+
+Three implications Graham draws out:
+
+- **It's partly teachable.** After four years of YC he claims the quality can be brought out "surprisingly often," especially in young people who've only ever been under some authority — the latent ability is more common than the expressed one. This is the optimistic counterpoint to Khosla/Rabois treating grit as a fixed trait you can only *detect*.
+- **It's the binding constraint on how many startups can exist.** Graham argues there's no economic upper bound on new wealth (no more than there's a limit on provable theorems), so the limiting factor is the *pool of people who can be relentlessly resourceful* — naming the trait is what lets you bound the pool.
+- **It's a self-test and a cofounder test.** "Ask yourself whether you're relentlessly resourceful. And if you want to know whether to recruit someone as a cofounder, ask if they are." Tactically Graham frames it as the *process* metric to the [make-something-people-want](https://paulgraham.com/good.html) *outcome* metric: "'Make something people want' is the destination, but 'Be relentlessly resourceful' is how you get there."
 
 ## Rabois: A+ incomplete on one dimension, or an unusual Venn overlap
 
@@ -121,4 +136,5 @@ If this framework is right, the founder takeaways are:
 ## Sources
 
 - Paul Graham (2010, October). "What We Look for in Founders." <https://paulgraham.com/founders.html> — [[2010-10-01-what-we-look-for-in-founders|local copy]]
+- Paul Graham (2009, March). "Relentlessly Resourceful." <https://www.paulgraham.com/relres.html> — [[2009-03-01-relentlessly-resourceful|local copy]]
 - Vinod Khosla & Keith Rabois (2026, January 21). "Vinod Khosla and Keith Rabois on Building and Investing in Enduring Companies | Ep. 40." *Uncapped with Jack Altman.* <https://www.youtube.com/watch?v=MBf1LZbk2Pk> — [[2026-01-21-khosla-rabois-uncapped|local copy]]
