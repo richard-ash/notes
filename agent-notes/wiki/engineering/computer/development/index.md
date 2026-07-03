@@ -7,6 +7,7 @@ Software development practices, workflows, and tooling.
 - [[choose-boring-technology]] — default to well-understood technology; spend limited "innovation tokens" only where novelty delivers outsized value
 - [[computers-can-be-understood]] — cultivate the belief that any layer of a software system can be understood; build mental models, read source, debug across abstraction boundaries
 - [[stacked-pull-requests]] — decomposing large changes into chains of small, individually-reviewable PRs to combat code-review fatigue
+- [[code-review]] — Dominus's thesis that code review's primary purpose is finding hard-to-maintain code, not finding bugs; reframing the reviewer's task from an unbounded "find bugs" audit to a bounded "understand this, complain if you can't" legibility check
 - [[internal-software-quality]] — internal code quality has negative cost; cruft accumulation slows teams within weeks, not months
 - [[software-migrations]] — large-scale migrations are the only scalable mechanism for reducing cross-cutting technical debt; derisk, enable, finish
 - [[react-re-rendering]] — React re-renders start with state changes and cascade downward; React.memo opts out; props don't trigger re-renders
