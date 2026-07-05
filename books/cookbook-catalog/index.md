@@ -1,0 +1,17 @@
+# Cookbook Catalog
+
+- [[books/cookbook-catalog/arabiyya|Arabiyya: Recipes from the Life of an Arab in Diaspora]]
+- [[books/cookbook-catalog/classic-food-of-northern-italy|The Classic Food of Northern Italy]]
+- [[books/cookbook-catalog/cook-this-book|Cook This Book: Techniques That Teach and Recipes to Repeat]]
+- [[books/cookbook-catalog/french-regional-cooking|French Regional Cooking]]
+- [[books/cookbook-catalog/grains-for-every-season|Grains for Every Season: Rethinking Our Way with Grains]]
+- [[books/cookbook-catalog/mastering-the-art-of-french-cooking/volume-1|Mastering the Art of French Cooking: Volume 1, A Cookbook]]
+- [[books/cookbook-catalog/mother-grains|Mother Grains: Recipes for the Grain Revolution]]
+- [[books/cookbook-catalog/plenty|Plenty: Vibrant Vegetable Recipes from London's Ottolenghi]]
+- [[books/cookbook-catalog/rose-water-and-orange-blossoms|Rose Water and Orange Blossoms: Fresh & Classic Recipes from my Lebanese Kitchen]]
+- [[books/cookbook-catalog/salt-fat-acid-heat|Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking]]
+- [[books/cookbook-catalog/six-seasons|Six Seasons: A New Way with Vegetables]]
+- [[books/cookbook-catalog/six-seasons-of-pasta|Six Seasons of Pasta: A New Way with Everyone's Favorite Food]]
+- [[books/cookbook-catalog/the-essential-cuisines-of-mexico|The Essential Cuisines of Mexico]]
+- [[books/cookbook-catalog/the-mexican-home-kitchen|The Mexican Home Kitchen: Traditional Home-Style Recipes That Capture the Flavors and Memories of Mexico]]
+- [[books/cookbook-catalog/zoe-bakes-cookies|Zoë Bakes Cookies: Everything You Need to Know to Make Your Favorite Cookies and Bars]]
