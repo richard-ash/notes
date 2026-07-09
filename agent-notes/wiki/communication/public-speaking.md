@@ -2,12 +2,15 @@
 source: agent
 compiled_from:
   - agent-notes/raw/communication/2026-05-01-how-to-speak.md
-compiled_at: 2026-05-01
-model: claude-opus-4-7
+  - agent-notes/raw/communication/2026-07-09-how-to-give-a-better-than-average-talk.md
+compiled_at: 2026-07-09
+model: claude-opus-4-8
 confidence: high
 ---
 
 # Public Speaking
+
+This article synthesizes two sources: Patrick Winston's MIT lecture *How to Speak* (the systematic craft manual, §§ below) and psychologist Paul Bloom's essay *How to give a better-than-average talk* (a looser 13-tip list with a genre-relativist frame). They agree on most mechanics — stories, spare slides, don't-start-cold — and disagree, sharply and usefully, on two points: **audience participation** and **whether to say "thank you"** at the end. Bloom's distinct contributions are collected under [[#Bloom's additions|Bloom's additions]].
 
 Patrick Winston's MIT lecture *How to Speak* (delivered annually for ~40 years through 2018) is the canonical English-language reference on giving talks in technical and academic settings. The thesis is that speaking quality is largely a matter of **knowledge and practice**, not innate talent — Winston's formula is `quality = K + P + t`, with t (talent) deliberately small. The implication: speaking is a learnable craft, and watching effective speakers to extract their techniques into a personal repertoire is the path to competence.
 
@@ -131,6 +134,39 @@ The right final slide is labeled **"Contributions"** — a list of what *you* un
 - **Do not say "thank you."** It's not a sin, but it's a weak move — it implies the audience stayed out of politeness. Winston shows Bill Clinton visibly biting back the urge to say thank you at a 2012 keynote, substituting a salute and a benediction.
 - **Salute the audience** instead — name what was good about the time you spent with them (an honest version of the convention, not platitudes).
 
+## Bloom's additions
+
+Paul Bloom's essay covers much of the same ground as Winston but adds a few frameworks Winston lacks, and it opens with a humane framing worth keeping in view: **the audience is your friend.** They want you to succeed — partly out of kindness, partly self-interest (they'd rather spend the hour informed than bored) — so if they can see you're trying, they forgive slip-ups. This is the emotional counterweight to Winston's mechanical checklist.
+
+### Genre-relativism: there is no universal good talk
+
+Bloom's load-bearing claim, and the one Winston never states: **what's good for one audience is terrible for another.** A TED talk, a philosophy colloquium (once literally read aloud from a distributed manuscript), a wedding toast, and a psychology job talk are different *genres* with different conventions. The prescription: before giving a talk in a genre, watch a dozen talks in that genre — and watch the *bad* ones, which teach more than the good ones. Bloom offers himself as the cautionary case, having twice mis-matched register (a colloquium-style talk to bored retirees; a too-casual TED-energy talk to hostile philosophers who "handed him his ass"). You can break the conventions — Gladwell with no slides, no notes, 40 minutes — but only once you know what they are. This reframes Winston's advice as genre-specific rather than universal: Winston is teaching one genre (the technical/academic talk) very well.
+
+### Clew vs. onion (Haverkort)
+
+The structural framework Winston lacks. Herman Haverkort distinguishes two talk shapes:
+
+- **The clew** (a ball of thread): a linear argument unwinding to a conclusion at the end. Miss one step and you lose the whole plot. Most conference talks are clews, which is why Haverkort says he follows only the first five minutes of most of them.
+- **The onion**: start with the main message, then add depth in layers, returning to the main message between each. Because the core is repeated, a listener who dozes off can re-board — and the talk doesn't collapse if the speaker runs out of time, since the important things came first.
+
+The onion is **Winston's redundancy heuristics ([[#1. Cycle on the subject|cycling]], [[#3. Verbal punctuation|verbal punctuation]]) elevated to whole-talk structure** — both exist to serve the ~20% who are fogged out at any moment. But Bloom flags a genuine tension: the onion fights *narrative*, and a great story (a clew) is more gripping than an onion when it flows. His synthesis: **short talks should be pure clew** (just tell it, no "tell them what you'll tell them"); **long talks should be oniony** — narrative throughout, but with outlines and interim summaries ("we've seen X; now you might wonder what Y says…") as re-boarding points for anyone who lost the thread. Bloom admits over-reliance on the onion is one of his own weaknesses.
+
+### Other practical tips
+
+- **Go shorter.** Prepare a talk that under-fills the slot (45 min for a 50-min slot). Nobody has ever complained a talk was too short; running over irritates everyone. Academics especially want time left for discussion. (Winston is silent on length.)
+- **Go simpler.** You've forgotten how complicated the material is. Give an example, then give another. "Nobody has ever complained that a talk was too clear." (Converges with Winston's *informing* mode and cycling.)
+- **Seek feedback actively.** Once you're no longer a student, you'll get "nice talk" or nothing about your *delivery* — you have to ask, and it will sting (Bloom's friend: "you wave your hands like a crazy man"). Winston's "practice with friends who'll cry" is the pre-talk version of this; Bloom's is the post-talk version.
+- **Credit the people in the room.** Name audience members who work in the area at the relevant moments — some spend the whole talk waiting to hear their name. (Distinct from Winston's put-collaborators-on-the-first-slide rule.)
+- **Use the microphone**, even in a small room — it sounds better and helps the hearing-impaired. Clip-on mics let you pace; a handheld should be ~3 inches from the mouth (Mastroianni).
+- **Don't just start.** Say "thanks for the intro" / "nice to be here" first, so the audience calibrates to your voice and you can set your volume. This is the *same mechanism* behind Winston's [[#How to start: the empowerment promise|don't-open-with-a-joke]] rule — the audience needs a beat to adjust to your vocal parameters before it can process content.
+
+### Where Bloom and Winston disagree
+
+Two genuine contradictions, both worth holding as live options rather than resolving:
+
+1. **Audience participation.** Winston tells you to [[#4. Ask a question|ask a question and wait seven seconds]]. Bloom is wary: **"don't stop to ask if they understand — you're at the mercy of the dumbest person in the room,"** and a stray "any thoughts?" can derail the whole talk and blow the clock. The reconciliation is closer than it looks: Winston's question is a *controlled* rhetorical device with a tuned difficulty and a hard time-box; Bloom's warning is against *open-ended* solicitation. Bloom even prefers a show of hands (bounded) to "any thoughts?" (unbounded) — which is essentially Winston's controlled question. Both distrust the open mic.
+2. **Saying "thank you."** Flatly opposed. Winston: [[#The final words|do not say thank you]] — it implies the audience stayed out of politeness; salute them instead. Bloom (tip 13): **"Always make it clear when your talk is over… the usual way is to say 'Thank you.'"** For Bloom the point is purely functional — signal the boundary so people know when to clap or raise hands — and "thank you" is the least-friction convention. Winston optimizes for the *impression* the closer leaves; Bloom optimizes for *legibility* of the ending. Both agree the ending must be unambiguous; they disagree only on the closing token.
+
 ## Connections
 
 - **[[you-and-your-research]]** — Hamming makes the same case for presentation as 50% of significant work. Winston operationalizes what Hamming asserts: *what specifically* to do in a talk.
@@ -140,3 +176,4 @@ The right final slide is labeled **"Contributions"** — a list of what *you* un
 ## Sources
 
 - Winston, Patrick (MIT, recorded 2018, published 2019). "How to Speak." MIT OpenCourseWare. <https://www.youtube.com/watch?v=Unzc731iCUY> — [[2026-05-01-how-to-speak|local copy]]
+- Bloom, Paul (2026). "How to give a better-than-average talk." *Small Potatoes.* <https://smallpotatoes.paulbloom.net/p/how-to-give-a-better-than-average-890> — [[2026-07-09-how-to-give-a-better-than-average-talk|local copy]]
