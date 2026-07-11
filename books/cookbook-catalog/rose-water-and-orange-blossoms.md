@@ -28,7 +28,7 @@
 - [ ] Poached White Asparagus with Lemon and Pistachio Oil
 - [ ] Tahini Avocado
 - [x] Warm Dates with Almonds and Lime Zest
-- [ ] Garlicky Leeks with Cilantro in Olive Oil
+- [x] Garlicky Leeks with Cilantro in Olive Oil
 - [ ] Fried Cauliflower with Tahini Sauce
 - [ ] Mahogany Eggplant with Labneh and Pomegranate
 - [ ] Za'atar Kale Chips
