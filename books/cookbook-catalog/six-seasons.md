@@ -115,7 +115,7 @@
 ## Midsummer
 
 - [ ] Smashed Broccoli and Potatoes with Parmigiano and Lemon
-- [ ] Pan-Steamed Broccoli with Sesame Seeds, Parmigiano, and Lemon
+- [x] Pan-Steamed Broccoli with Sesame Seeds, Parmigiano, and Lemon
 - [ ] Rigatoni with Broccoli and Sausage
 - [ ] "Chinese" Beef and Broccoli
 - [ ] Charred Broccoli with Tonnato, Pecorino, Lemon, and Chiles
