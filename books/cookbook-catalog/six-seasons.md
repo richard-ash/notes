@@ -120,7 +120,7 @@
 - [ ] "Chinese" Beef and Broccoli
 - [ ] Charred Broccoli with Tonnato, Pecorino, Lemon, and Chiles
 - [ ] Broccoli Rabe, Mozzarella, Anchovy, and Spicy Tomato
-- [ ] Raw "Couscous" Cauliflower with Almonds, Dried Cherries, and Sumac
+- [x] Raw "Couscous" Cauliflower with Almonds, Dried Cherries, and Sumac
 - [ ] Roasted Cauliflower, Plums, Sesame Seeds, and Yogurt
 - [ ] Cauliflower Ragu
 - [ ] Cauliflower Steak with Provolone and Pickled Peppers
