@@ -49,6 +49,8 @@ This argument complements but stands in tension with [[ai-and-the-future-of-work
 
 The vigilance decay Heron describes also connects to [[the-bitter-lesson]] from the opposite direction: Sutton argues general computation always beats hand-crafted knowledge in AI systems, but Heron is concerned about the mirror image in humans — that general AI counsel is replacing the hand-crafted knowledge (judgment, instinct) that humans build through effortful practice.
 
+The thesis now has its first direct experimental test: the Minnesota law-school RCT in [[ai-and-legal-reasoning]] found that early-stage AI use did *not* erode downstream unaided reasoning short-term (it improved it, via stronger intermediate work product), but that AI introduced late — under time pressure and cognitive fatigue — degraded the work of the strongest performers within a single afternoon. That splits Heron's claim: the atrophy mechanism is real, but it operates through *when and how* AI is used, not through use per se.
+
 ## Sources
 
 - Heron, Ashley (2026-03-24). "Should you outsource the reps that build judgement?" <https://ahero.substack.com/p/why-we-outsource-the-reps-that-build> — [[2026-03-24-outsourcing-reps-that-build-judgment|local copy]]
