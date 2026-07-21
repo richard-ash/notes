@@ -26,7 +26,7 @@
 - [x] Pancetta Vinaigrette
 - [x] Pine Nut Vinaigrette
 - [ ] Citrus Vinaigrette
-- [ ] Lemon Cream
+- [x] Lemon Cream
 - [ ] Green Herb Mayonnaise
 - [ ] Artichoke Mayonnaise
 - [ ] Pickled Vegetable Mayonnaise
@@ -71,7 +71,7 @@
 - [ ] Fava and Pistachio Pesto on Pasta
 - [ ] Fava Beans, Cilantro, New Potatoes, and Baked Eggs
 - [ ] "Herbed" Butter with Warm Bread
-- [ ] Little Gems with Lemon Cream, Spring Onion, Radish, and Mint
+- [x] Little Gems with Lemon Cream, Spring Onion, Radish, and Mint
 - [ ] Butter Lettuce with New Potatoes, Eggs, and Pancetta Vinaigrette
 - [ ] Bitter Greens Salad with Melted Cheese
 - [ ] Sautéed Greens with Olives (Misticanza)
