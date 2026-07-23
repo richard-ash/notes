@@ -25,6 +25,7 @@
 - [Baleela · Creamy Chickpeas with Cumin and Pine Nuts](https://www.seriouseats.com/baleela-creamy-chickpeas-with-cumin-and-pine-nuts-recipe-8638841) #protein/vegetarian #course/snack
 
 ## Mexican
+- [Carne Molida en Salsa Verde · Ground Beef in Salsa Verde](https://homemadealways.com/carne-molida-en-salsa-verde-ground-beef-in-salsa-verde/) #protein/beef #course/main
 - [Frijoles Puercos · Mexican Pork Beans](https://homemadealways.com/frijoles-puercos-pork-beans/) #protein/pork #course/side
 
 ## Thailand
