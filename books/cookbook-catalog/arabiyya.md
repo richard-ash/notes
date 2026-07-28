@@ -1,3 +1,8 @@
+---
+title: "Arabiyya: Recipes from the Life of an Arab in Diaspora"
+author: "Reem Assil"
+---
+
 # Arabiyya: Recipes from the Life of an Arab in Diaspora
 
 ## Spice Mixes and Pantry Snacks

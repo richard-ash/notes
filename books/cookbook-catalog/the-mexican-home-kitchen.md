@@ -1,3 +1,8 @@
+---
+title: "The Mexican Home Kitchen: Traditional Home-Style Recipes That Capture the Flavors and Memories of Mexico"
+author: "Mely Mart\u00ednez"
+---
+
 # The Mexican Home Kitchen: Traditional Home-Style Recipes That Capture the Flavors and Memories of Mexico
 
 ## Soups

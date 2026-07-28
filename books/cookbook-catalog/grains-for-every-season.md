@@ -1,3 +1,8 @@
+---
+title: "Grains for Every Season: Rethinking Our Way with Grains"
+author: "Joshua McFadden"
+---
+
 # Grains for Every Season: Rethinking Our Way with Grains
 
 ## Snacks and Starters

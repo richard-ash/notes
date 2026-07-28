@@ -1,3 +1,8 @@
+---
+title: "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking"
+author: "Samin Nosrat"
+---
+
 # Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking
 
 ## Salads

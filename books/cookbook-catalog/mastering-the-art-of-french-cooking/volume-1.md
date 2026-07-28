@@ -1,3 +1,8 @@
+---
+title: "Mastering the Art of French Cooking: Volume 1, A Cookbook"
+author: "Julia Child, Louisette Bertholle, Simone Beck"
+---
+
 # Mastering the Art of French Cooking: Volume 1, A Cookbook
 
 ## Soups

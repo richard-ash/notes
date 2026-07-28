@@ -1,3 +1,8 @@
+---
+title: "Cook This Book: Techniques That Teach and Recipes to Repeat"
+author: "Molly Baz"
+---
+
 # Cook This Book: Techniques That Teach and Recipes to Repeat
 
 ## Chicken

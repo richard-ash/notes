@@ -1,3 +1,8 @@
+---
+title: "The Classic Food of Northern Italy"
+author: "Anna Del Conte"
+---
+
 # The Classic Food of Northern Italy
 
 ## Lombardia

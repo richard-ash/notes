@@ -1,3 +1,8 @@
+---
+title: "The Essential Cuisines of Mexico"
+author: "Diana Kennedy"
+---
+
 # The Essential Cuisines of Mexico
 
 ## Appetizers

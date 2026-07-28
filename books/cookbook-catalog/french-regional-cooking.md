@@ -1,3 +1,8 @@
+---
+title: "French Regional Cooking"
+author: "Anne Willan"
+---
+
 # French Regional Cooking
 
 ## Brittany

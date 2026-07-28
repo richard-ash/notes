@@ -1,3 +1,8 @@
+---
+title: "Rose Water and Orange Blossoms: Fresh & Classic Recipes from my Lebanese Kitchen"
+author: "Maureen Abood"
+---
+
 # Rose Water and Orange Blossoms: Fresh & Classic Recipes from my Lebanese Kitchen
 
 ## Flavor Makers

@@ -1,3 +1,8 @@
+---
+title: "Six Seasons of Pasta: A New Way with Everyone's Favorite Food"
+author: "Joshua McFadden"
+---
+
 # Six Seasons of Pasta: A New Way with Everyone's Favorite Food
 
 ## Ragus

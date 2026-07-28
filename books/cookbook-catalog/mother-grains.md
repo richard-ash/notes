@@ -1,3 +1,8 @@
+---
+title: "Mother Grains: Recipes for the Grain Revolution"
+author: "Roxana Jullapat"
+---
+
 # Mother Grains: Recipes for the Grain Revolution
 
 ## Barley

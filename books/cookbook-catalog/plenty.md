@@ -1,3 +1,8 @@
+---
+title: "Plenty: Vibrant Vegetable Recipes from London's Ottolenghi"
+author: "Yotam Ottolenghi"
+---
+
 # Plenty: Vibrant Vegetable Recipes from London's Ottolenghi
 
 ## Roots

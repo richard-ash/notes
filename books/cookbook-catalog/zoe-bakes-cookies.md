@@ -1,3 +1,8 @@
+---
+title: "Zo\u00eb Bakes Cookies: Everything You Need to Know to Make Your Favorite Cookies and Bars"
+author: "Zo\u00eb Fran\u00e7ois"
+---
+
 # Zoë Bakes Cookies: Everything You Need to Know to Make Your Favorite Cookies and Bars
 
 ## Healthy Cookies and Treats

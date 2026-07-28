@@ -1,3 +1,8 @@
+---
+title: "Six Seasons: A New Way with Vegetables"
+author: "Joshua McFadden"
+---
+
 # Six Seasons: A New Way with Vegetables
 
 ## Go-To Recipes
