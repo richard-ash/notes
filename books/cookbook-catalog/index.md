@@ -4,6 +4,7 @@
 - [[books/cookbook-catalog/classic-food-of-northern-italy|The Classic Food of Northern Italy]]
 - [[books/cookbook-catalog/cook-this-book|Cook This Book: Techniques That Teach and Recipes to Repeat]]
 - [[books/cookbook-catalog/french-regional-cooking|French Regional Cooking]]
+- [[books/cookbook-catalog/good-things|Good Things: Recipes and Rituals to Share with People You Love]]
 - [[books/cookbook-catalog/grains-for-every-season|Grains for Every Season: Rethinking Our Way with Grains]]
 - [[books/cookbook-catalog/mastering-the-art-of-french-cooking/volume-1|Mastering the Art of French Cooking: Volume 1, A Cookbook]]
 - [[books/cookbook-catalog/mother-grains|Mother Grains: Recipes for the Grain Revolution]]
