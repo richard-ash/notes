@@ -45,7 +45,7 @@ author: "Joshua McFadden"
 ## Main Dishes
 
 - [ ] Baked Eggs with Broccoli Rabe, Spiced Tomato, and Buckwheat
-- [ ] Baked Wild Rice with Salmon, Artichokes, and Leeks
+- [x] Baked Wild Rice with Salmon, Artichokes, and Leeks
 - [ ] Broccoli, Tuna, and Wheat Berry Gratin
 - [ ] Butternut Squash Stuffed with Hazelnuts, Fontina, and Italian Sausage
 - [ ] Chanterelles and Wilted Kale Quiche in Whole Wheat Flaky Pastry Dough
