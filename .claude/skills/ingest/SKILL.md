@@ -28,6 +28,7 @@ Read `agent-notes/CLAUDE.md` first — it defines frontmatter templates, naming 
 4. Cross-link to other wiki articles via `[[wikilinks]]` where concepts overlap.
 5. Update `agent-notes/wiki/<domain>/index.md` — create if this is a new domain.
 6. Update `agent-notes/index.md` if a new domain was added or article count changed.
+7. Commit. `git add agent-notes/ && git commit -m "Ingest <source title>"` — always, without asking. Subject only, no body, no `Co-Authored-By` trailer. Commit directly to the current branch; do not create one.
 
 ## Key rules
 
