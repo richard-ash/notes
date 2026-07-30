@@ -3,6 +3,7 @@ source: agent
 compiled_from:
   - agent-notes/raw/computer-science/ai/2026-05-25-lawson-better-code-more-slowly.md
   - agent-notes/raw/computer-science/ai/2026-07-29-deeplearning-qodo-ai-code-review-overview.md
+  - agent-notes/raw/computer-science/ai/2026-07-29-deeplearning-qodo-ai-code-review-best-practices.md
 compiled_at: 2026-07-30
 model: claude-opus-5[1m]
 confidence: medium
@@ -136,6 +137,39 @@ The taxonomy pays off because the four have *different* remedies, which is exact
 
 Note the tension with Lawson's ensemble: cross-model agreement raises precision by discarding findings only one model flags, which is a recall trade. Qodo's taxonomy lets you see it as a trade rather than a free lunch. Which side to err on is a property of the codebase — the ensemble's near-zero false-positive rate is bought with silent misses, acceptable when reviewer attention is the scarce resource and unacceptable in a security-critical path.
 
+## Three best practices
+
+A second Qodo lesson turns the failure taxonomy into workflow prescriptions. Each one attacks a different failure, which is the reason to read them as a set rather than as three tips.
+
+### 1. Review with a harness that did not write the code
+
+The argument is about *optimization target*, not model quality: Claude Code, Codex, and their peers are built and tuned for generation, so asking one to review its own PR gets you a reviewer whose priors are the priors that produced the code. Qodo's presenter demonstrates on a payments PR adding an `under_review` status — Codex, having written the change, catches the central correctness bug (the capture endpoint will still capture a payment that is under review) but stops there. The dedicated review harness catches the same bug plus coding-rule violations (missing docstrings) and breaking changes for downstream services. The line worth keeping is "one useful AI comment shouldn't be the whole review experience."
+
+Two things about the evidence are worth being honest about. The demo is a single PR, and *more findings* is not self-evidently better — a longer list is exactly what the low-precision failure mode looks like from the outside, and the taxonomy in the previous section is the course's own tool for saying so. What the demo does establish is the weaker but still useful claim: the generating agent's findings were a strict subset, so the review agent had recall the generator lacked.
+
+The underlying mechanism is the same one that makes Lawson's ensemble work — independence between the thing being checked and the checker. Lawson gets independence across *models*; Qodo gets it across *purpose-built harnesses*. These are complements, not alternatives, and the harness-divergence argument above says the second is the more durable of the two, since harness scaffolding diverges by design while model behavior converges as capabilities improve. The corollary nobody in either source states plainly: self-review by the generating agent is the one configuration that provides neither kind of independence, and it is also the default in every coding harness that ships a `/review` command.
+
+### 2. Run a pre-PR review before spending human attention
+
+The stated premise is that other developers' attention is expensive, so a PR should not be the first time anything gets checked. The worked example: nine issues on the raw PR (two bugs, two requirements gaps, five cross-repository conflicts, spanning security, correctness, reliability, maintainability). Ask Codex to review its own branch locally first — it surfaces five issues, four P1 and one P2 — apply those fixes, and the same change re-reviewed at PR time carries three issues instead of nine. Those three are the ones local analysis could not reach.
+
+This is the [[stacked-pull-requests|reviewer-attention]] argument again, but applied across *stages* rather than within a report: severity ranking triages a single review's output, while staged review triages which findings ever reach a human at all. Cheap, low-context, local passes absorb the low-severity and locally-visible issues; the expensive stages only see what survives. It also rehabilitates self-review — practice 1 says the generator is a bad final reviewer, and practice 2 says it is a fine *first* one, because a filter that only needs to catch the easy cases does not need independence.
+
+Two cautions the demo glosses. The 9→3 arithmetic is not a controlled comparison — the local pass changed the code, so the second review is reviewing a different diff, and fixes can introduce findings as well as remove them. And the assertion that the surviving three are "higher signal" is a claim about what local analysis *cannot* see (cross-repo conflicts, downstream breakage) rather than something the demo measures. The structural argument holds anyway: findings visible without org-wide context are strictly cheaper to catch before the PR than after.
+
+### 3. Give the reviewer the task, not just the diff
+
+The third practice is the course's thesis in operational form. Qodo contrasts two Jira tickets for the same change: DX-4, a one-sentence summary with a few notes on expectations, and DX-3, "Prevent capture for payments under manual review," with a purpose, a user story, and a long list of acceptance criteria. Reviewed against the thin ticket, the agent returns four findings, all internal to the code — a missing docstring, a missing enum, a missing web status view, a hard-coded status enum where the rest of the model uses a data type. Reviewed against the thorough one, it returns two **requirements gaps** marked action-required: the PR introduces `under_review`, but an endpoint unconditionally sets status to `captured` and emits a capture event, violating the acceptance criterion that such payments be blocked with a 409. Each gap cites the ticket as evidence.
+
+The important observation is that context did not merely improve the findings — it unlocked a **category of finding that is unreachable without it**. With only the diff, an agent can check code against itself: internal consistency, convention adherence, self-evident bugs. Checking code against *intent* requires the intent to exist somewhere machine-readable. This maps directly onto the four goals: a specless review can serve maintainability, shared knowledge, and much of risk reduction, but correctness-against-requirements is structurally out of reach. It is also why the schema-migration example in that section is the course's sharpest one — the un-backfilled migration is a bug that neither the code nor its tests can reveal, because both encode the same wrong intent, and only an external statement of what was supposed to happen breaks the tie.
+
+Two consequences follow that the source leaves implicit:
+
+- **Ticket quality stops being a courtesy and becomes a machine-checked input.** Acceptance criteria have always been the thing a careful human reviewer silently checked against; making that check automatic and evidence-linked converts vague tickets from a social annoyance into a measurable capability gap. Teams that could never justify the discipline on human-review grounds now have a mechanical reason.
+- **Independence has to hold for the spec too.** The presenter notes in passing that agents now write the tickets as well as the code. If the same agent authors both, the requirements-gap check degenerates — you are comparing one generation against another from the same source and the same misunderstanding, which is practice 1's problem relocated one layer up. The check is only load-bearing when the ticket has an independent author, or at minimum a human who reviewed and signed off on the acceptance criteria before code existed. That gate is where the human's residual judgment concentrates.
+
+Taken together the three practices are a pipeline with the failure taxonomy as its design rationale: local self-review for cheap precision, an independent harness for recall, and task context to close the context gap and open the requirements dimension. And practice 3 is the one that cannot be replicated by prompt engineering, which is why it, not the review prompt, is the product.
+
 ## The reference architecture
 
 The course's under-the-hood sketch of a hosted review agent, which the rest of the course builds piece by piece:
@@ -159,6 +193,10 @@ Second, step 2 is where the knowledge base enters, and it is what makes this an 
 - **The side-quest property is a codebase-health subsidy.** Teams adopting ensemble review on new PRs will accumulate a steady stream of pre-existing-bug fixes as a byproduct. Over time, this is a meaningful investment in codebase health that no one explicitly budgeted for.
 - **Context integration, not model quality, is the vendor's moat.** Qodo's stated limitation — a review agent is only as good as its wiring into Jira, agent sessions, architecture docs, and coding rules — is also the reason a hosted product can beat a prompt. Any team can write Lawson's ensemble skill in an afternoon; nobody can retrieve an org's institutional memory in an afternoon.
 - **Review findings should flow back into generation.** The loop the course sketches in passing (take the agent's explanation of a security bug, encode it in the coding agent's skills file) is the highest-leverage move in the whole workflow, because it converts a one-time catch into a standing constraint. Review that only gates is strictly worse than review that also teaches the generator.
+- **Self-review by the generating agent is the one configuration with no independence at all** — and it is the default that ships in every coding harness. Both sources' techniques (cross-model ensemble, dedicated review harness) are ways of buying independence; the cheapest correct use of the built-in `/review` is as a *pre-PR* filter, where catching the easy cases is all that is asked of it.
+- **Review staging is severity ranking applied across time.** Ranking allocates attention within one report; staging decides which findings ever reach a human. Both are consequences of the same fixed human ceiling, and a team can adopt staging without adopting any particular tool.
+- **Specs are the input that makes correctness reviewable.** Without a machine-readable statement of intent, an agent can only check code against itself, which caps review at maintainability and self-evident bugs. Requirements gaps are a finding category, not a better version of an existing one — and the most defensible reason to write acceptance criteria has become mechanical rather than social.
+- **The spec's independence matters as much as the reviewer's.** Agent-written tickets reviewed by agents against agent-written code is a closed loop with one origin for the misunderstanding. Human sign-off on acceptance criteria *before* implementation is where the residual human judgment has the most leverage, and it costs far less attention than reviewing the diff.
 - **"AI writes, human reviews" is a transitional state, not an equilibrium.** The quadrant framing implies the human-only review stage is structurally doomed at AI generation volumes — not because humans are bad at review, but because the ceiling is fixed while the input is not. The interesting question is what the human's residual role becomes, and both sources answer the same way: adjudication, not detection.
 
 ## Connections
@@ -173,8 +211,11 @@ Second, step 2 is where the knowledge base enters, and it is what makes this an 
 - [[unattended-coding-agents]] — the generation volumes that make the "AI writes, human reviews" quadrant untenable
 - [[enterprise-rag-architecture]] — the retrieval layer that step 2 of the reference architecture depends on
 - [[commodity-trap]] — data gravity as one of the few defensible positions above the model layer; the review agent's knowledge base is a worked instance
+- [[finding-your-unknowns]] — implementation plans and change-ordered specs as the artifact that gives an agent something to be checked against; the authoring-side supply for practice 3's demand
+- [[knowledge-graph-llm-context]] — context engineering in general form, of which pulling the Jira ticket into the review is the narrow case
 
 ## Sources
 
 - Lawson, N. (2026-05-25). "Using AI to write better code more slowly." <https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/> — [[2026-05-25-lawson-better-code-more-slowly|local copy]]
 - DeepLearning.AI & Qodo (2026-07-29). "AI Code Review — Overview of AI Code Review" (course lesson transcript). <https://learn.deeplearning.ai/courses/ai-code-review/lesson/de16nq/overview-of-ai-code-review> — [[2026-07-29-deeplearning-qodo-ai-code-review-overview|local copy]]
+- DeepLearning.AI & Qodo (2026-07-29). "AI Code Review — AI Code Review Best Practices, Part 1" (course lesson transcript). <https://learn.deeplearning.ai/courses/ai-code-review/lesson/79yprh/ai-code-review-best-practices-%E2%80%93-part-1> — [[2026-07-29-deeplearning-qodo-ai-code-review-best-practices|local copy]]
