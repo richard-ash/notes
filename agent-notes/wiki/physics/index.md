@@ -1,5 +1,5 @@
 # Physics
-Foundations of physics, quantum mechanics interpretations, relativity, and the structure of physical theories.
+Foundations of physics, quantum mechanics interpretations, relativity, quantum gravity, and the structure of physical theories.
 
 ## Articles
 - [[seven-ds-problem-solving]] — Handmer's structured method for solving physics problems from first principles (Diagram, Directions, Definitions, Diagnosis, Derivation, Determination, Dimensions, substitution)
@@ -9,4 +9,5 @@ Foundations of physics, quantum mechanics interpretations, relativity, and the s
 - [[mond-galaxy-cluster-missing-mass]] — IGIMF theory substantially closes MOND's factor-of-two missing mass gap in galaxy clusters by correctly accounting for stellar remnants in massive ellipticals
 - [[virtual-particles-qcd-vacuum]] — STAR experiment proves virtual quark–antiquark pairs in the QCD vacuum are real by measuring spin correlations in Lambda hyperon pairs produced during confinement
 - [[jwst-early-universe-puzzles]] — JWST's three linked early-universe anomalies (too-big black holes, too-bright galaxies, "little red dots"/black-hole-stars), the competing theories for each, and the shift from "too few explanations" to "too many"
+- [[holographic-quantum-gravity]] — Space-time derived from quantum information: entanglement gives the bulk its shape, "magic" (non-stabilizerness / non-Clifford gates) gives it curvature, and gravity emerges from the encoding being *imperfect* — Cao/Preskill's 2026 magical holographic code, and why it's still "step 0.5 of 5"
 - [[interstellar-probe-deceleration]] — Varma's Bayesian likelihood argument that the rocket-equation / Heller-Hippke deceleration constraints (fast case) and slow-probe archaeology gap (slow case) make atmospheric UAP-as-alien-probes a ~5×10⁻⁸ posterior even granting Cowen/Hanson's Fermi-paradox prior; the prior is not the posterior, and the likelihood term is the missing calculation
