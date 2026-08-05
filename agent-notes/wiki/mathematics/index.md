@@ -4,4 +4,4 @@ Mathematical research, methodology, and the changing practice of mathematics —
 
 ## Articles
 
-- [[ai-for-mathematics]] — Terence Tao on what AI is and isn't good at in math research: depth vs breadth, selection bias in Erdős-problem results, why hybrid human+AI will dominate for a long time, and the missing semi-formal language for mathematical strategy
+- [[ai-for-mathematics]] — Tao and Sanderson on what AI is and isn't good at in math research: depth vs breadth, the three shapes an AI proof could take (lightning bolt / mountain building / raw hustle), Galois as a century-long RLVR failure, why the conjecture and definition tiers can't be benchmarked, autoregression as context-slavery and context-erasure as the digital-mind advantage, grindability as the neglected reason math moves fast, mathlib-as-AlphaZero, and their disagreement over whether explanation or curation is what's left for humans
