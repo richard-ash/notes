@@ -104,7 +104,7 @@ author: "Joshua McFadden"
 - [ ] Pasta Salad with Roasted Red Peppers, Salami, Mozzarella, and Croutons
 - [ ] Hot Chiles with Shrimp, Mussels, Squid, Basil, and Mint
 - [ ] Hot Chiles with Fennel, Sausage, and Tomato
-- [ ] Corn with Jalapeños and Brown Butter
+- [x] Corn with Jalapeños and Brown Butter
 - [ ] Pasta Salad with Corn, Walnuts, Mozzarella, and Jalapeños
 - [ ] Eggplant with Sun-Dried Tomato and Almond Pesto and Mint
 - [ ] Eggplant with Garlic, Capers, Raisins, and Herbs
