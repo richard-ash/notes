@@ -169,7 +169,7 @@ author: "Joshua McFadden"
 - [ ] Risotto with Shell Beans, Sausage, and Bitter Greens
 - [ ] Crunchy Mixed-Bean Salad with Celery and Tarragon
 - [ ] Tomato-Rubbed Grilled Bread Topped with Tomato Salad
-- [ ] Farro with Tomatoes, Raw Corn, Mint, Basil, and Scallions
+- [x] Farro with Tomatoes, Raw Corn, Mint, Basil, and Scallions
 - [ ] Tomato, Melon, and Hot Chile Salad with Burrata
 - [ ] Israeli-Spiced Tomatoes, Yogurt Sauce, and Chickpeas
 - [ ] Spaghetti with Small Tomatoes, Garlic, Basil, and Chiles
