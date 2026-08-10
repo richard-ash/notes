@@ -3,8 +3,8 @@ source: agent
 compiled_from:
   - agent-notes/raw/communication/2026-07-21-how-to-ask-for-help.md
   - agent-notes/raw/communication/2026-07-21-how-to-ask-for-help-hn.md
-compiled_at: 2026-07-21
-model: claude-opus-4-8
+compiled_at: 2026-08-10
+model: claude-fable-5
 confidence: medium
 ---
 
@@ -55,6 +55,8 @@ Four cost dimensions:
 ### 4. Make it easy to say no
 
 The counterintuitive heuristic, and the one the discussion praised most. **The worst outcome is not a no — it's a pressured, begrudging yes.** Coercion (guilt, pestering) poisons the relationship for a half-hearted effort, and "a person who helps you with gritted teeth is one who will never help you again." Help freely given is effortless, like holding a door; it's also the foundation of a reciprocal relationship. If you get a no, thank them and move on (a line Prasad added by edit).
+
+**Operational note (field-tested in cold outreach, 2026-08).** This heuristic prescribes *conduct*, not copy. The tempting misreading is to render it as a closing line that grants permission to decline — "if it's a busy stretch, no worries at all," "thanks either way." Those lines don't cheapen the no; they shrink the ask, signaling the request itself doesn't matter. The essay never prescribes such a sentence. The no is made easy structurally: the ask is bounded and specific (heuristic 3), the message carries zero guilt, and follow-up discipline (a bounded number of touches, then thank-and-move-on) covers the rest. End the message on the ask and any offered trade; the only *line* the essay prescribes is the thank-you after a no.
 
 ## The hard constraint: never lie
 
