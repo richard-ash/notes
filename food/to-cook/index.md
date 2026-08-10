@@ -26,7 +26,10 @@
 
 ## Mexican
 - [Carne Molida en Salsa Verde · Ground Beef in Salsa Verde](https://homemadealways.com/carne-molida-en-salsa-verde-ground-beef-in-salsa-verde/) #protein/beef #course/main
+- [Chile Verde de Puerco · Pork Chile Verde](https://homemadealways.com/pork-chile-verde/) #protein/pork #course/main
 - [Frijoles Puercos · Mexican Pork Beans](https://homemadealways.com/frijoles-puercos-pork-beans/) #protein/pork #course/side
+- [Pollo Asado · Achiote Grilled Chicken](https://homemadealways.com/pollo-asado-for-tacos/) #protein/chicken #course/main
+- [Salsa Frita de Chile Japonés · Mexican Fried Salsa](https://homemadealways.com/salsa-frita-de-chile-japones/) #course/sauce
 
 ## Thailand
 - [Gai Yang · Thai Grilled Chicken](https://www.recipetineats.com/thai-grilled-chicken-gai-yang/) #protein/chicken #course/main
