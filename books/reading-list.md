@@ -651,3 +651,28 @@ Reading List Email, 2026-06-14
 - [ ] James, Percival Everett
 - [ ] The Plague, Albert Camus
 - [ ] The Fall, Albert Camus
+
+## Ryan Holiday — These Books Made Me A Better Parent And Partner
+Reading List Email, 2025-05-11
+
+### Parenting
+- [ ] Good Inside: A Guide to Becoming the Parent You Want to Be, Becky Kennedy
+- [ ] Outdoor Kids in an Inside World: Getting Your Family Out of the House and Radically Engaged with Nature, Steven Rinella
+- [ ] Range: Why Generalists Triumph in a Specialized World, David Epstein
+- [ ] The Parent's Tao Te Ching: Ancient Advice for Modern Parents, William Martin
+- [ ] The Daily Dad: 366 Meditations on Parenting, Love, and Raising Great Kids, Ryan Holiday
+- [ ] How To Raise Kids Who Aren't Assholes: Science-Based Strategies for Better Parenting—From Tots to Teens, Melinda Wenner Moyer
+- [ ] Reading for Our Lives: A Literary Action Plan from Birth to Six, Maya Smart
+- [x] Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do About It, Richard Reeves
+- [ ] Letter To The Father, Franz Kafka
+- [ ] Adult Children of Emotionally Immature Parents, Lindsay Gibson
+- [ ] Fair Play: A Game-Changing Solution for When You Have Too Much to Do, Eve Rodsky
+- [ ] Horizontal Parenting: How To Entertain Your Kids While Lying Down, Michelle Woo
+
+### Samantha's favorites
+- [ ] Tunnel 29: The True Story of an Extraordinary Escape Beneath the Berlin Wall, Helena Merriman
+- [ ] The Art Thief: A True Story of Love, Crime, and a Dangerous Obsession, Michael Finkel
+- [ ] Wild Dark Shore, Charlotte McConaghy
+- [ ] Small Things Like These, Claire Keegan
+- [ ] So Late in the Day, Claire Keegan
+- [ ] Foster, Claire Keegan
