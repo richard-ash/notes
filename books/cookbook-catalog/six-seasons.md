@@ -170,7 +170,7 @@ author: "Joshua McFadden"
 - [ ] Crunchy Mixed-Bean Salad with Celery and Tarragon
 - [ ] Tomato-Rubbed Grilled Bread Topped with Tomato Salad
 - [x] Farro with Tomatoes, Raw Corn, Mint, Basil, and Scallions
-- [ ] Tomato, Melon, and Hot Chile Salad with Burrata
+- [x] Tomato, Melon, and Hot Chile Salad with Burrata
 - [ ] Israeli-Spiced Tomatoes, Yogurt Sauce, and Chickpeas
 - [ ] Spaghetti with Small Tomatoes, Garlic, Basil, and Chiles
 - [ ] Grilled Green Tomatoes with Avocado, Feta, and Watermelon

@@ -61,7 +61,7 @@ author: "Mely Mart\u00ednez"
 
 - [x] Pico de Gallo
 - [ ] Salsa Roja • Red Salsa
-- [ ] Salsa Roja Rostizada • Roasted Red Salsa
+- [x] Salsa Roja Rostizada • Roasted Red Salsa
 - [ ] Salsa Taquera • Taqueria-Style Salsa
 - [ ] Salsa Verde • Green Salsa
 - [ ] Salsa Verde Rostizada • Roasted Green Salsa

@@ -29,7 +29,7 @@ author: "Joshua McFadden"
 - [ ] Cacio e Pepe
 - [ ] Carbonara
 - [ ] Al Limone with Cream
-- [ ] "Penne" alla Vodka
+- [x] "Penne" alla Vodka
 - [ ] Pomodoro
 - [ ] Sausage and Tomato
 - [ ] 'Nduja and Tomato
