@@ -156,7 +156,7 @@ author: "Joshua McFadden"
 - [ ] Roasted Eggplant Spread
 - [ ] Grilled Eggplant with Tomatoes, Torn Croutons, and Lots of Herbs
 - [ ] Rigatoni and Eggplant alla Norma
-- [ ] Braised Eggplant and Lamb with Yogurt and Spiced Green Sauce
+- [x] Braised Eggplant and Lamb with Yogurt and Spiced Green Sauce
 - [ ] Preserved Eggplant
 - [ ] Roasted Pepper Panzanella
 - [ ] Peperonata
