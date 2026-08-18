@@ -21,4 +21,4 @@ Cell biology, genetics, evolution, and the mechanisms of life.
 - [[body-brain-inflammatory-circuit]] — Zuker lab (Jin et al., Nature 2024): the brain runs a closed-loop feedback controller on peripheral inflammation; TRPA1⁺ and CALCA⁺ vagal sensory neurons read anti- and pro-inflammatory cytokines, monosynaptic to cNST DBH⁺ glutamatergic neurons that bidirectionally rheostat the cytokine balance — silencing causes runaway sepsis, activation rescues lethal LPS (90% survival), DSS colitis, and the inverse Salmonella stress test
 
 ## Sub-domains
-- [[epigenetics/index|Epigenetics]] (5 articles) — epigenetic mechanisms, aging clocks, reprogramming, and theories of aging
+- [[epigenetics/index|Epigenetics]] (6 articles) — epigenetic mechanisms, aging clocks, reprogramming, and theories of aging
