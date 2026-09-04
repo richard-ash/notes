@@ -51,7 +51,8 @@
 - ### [Muhammara](https://en.wikipedia.org/wiki/Muhammara)
 	- ###### Recipes
 		- [Maureen Abood | Muhammara](https://maureenabood.com/roasted-red-pepper-walnut-dip-muhammara/)
-		- [Simply Lebanese | Muhammara](https://www.simplyleb.com/recipe/muhammara/
+		- [Simply Lebanese | Muhammara](https://www.simplyleb.com/recipe/muhammara/)
+		- [Serious Eats | Muhammara: The Bold Middle Eastern Spread You'll Want on Everything](https://www.seriouseats.com/muhammara-recipe-11725275)
 - ### [Salatet Malfouf](https://en.wikipedia.org/wiki/Malfouf_salad)
 	- ###### Recipes
 		- [Sunday Kitchen | Salatet Malfouf](https://www.instagram.com/reel/DHnP1LtzgSQ/?epik=dj0yJnU9SENyeC1EUk1UVER3R2kzQTBCRllKeHQtNnMzNWtiWC0mcD0wJm49MXVtazVuaGtYQnVTMm8wbldaRl9SZyZ0PUFBQUFBR2hMYVlR)
