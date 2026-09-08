@@ -19,6 +19,8 @@
 - [[books/catalog/the-wolves-of-k-street/index|The Wolves of K Street: The Secret History of How Big Money Took Over Big Government]]
 ## History
 - [[books/catalog/only-yesterday/index|Only Yesterday: An Informal History of the 1920s]]
+## Memoir & Biography
+- [[books/catalog/papillon/index|Papillon]]
 ## Science Fiction
 - [[books/catalog/the-player-of-games/index|The Player of Games]]
 ## Science

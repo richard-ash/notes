@@ -1,0 +1,21 @@
+# Papillon — Highlights
+
+## Second Notebook
+
+> Saint-Martin-de-Ré was bursting at the seams with prisoners. There were two categories: between eight hundred and a thousand convicts, and nine hundred relégués. To be a convict, you had to have done something serious or, at least, been accused of having done something serious. The sentences ranged from seven years of hard labor to life. A convict granted a reprieve from the death penalty automatically got life. With the relégués it was different. A man became a relégué after three to five convictions. It's true they were incorrigible thieves and you could understand why society had to protect itself. On the other hand, it was shameful for a civilized people to employ this extra form of punishment. The relégués were small-time thieves—and clumsy ones, since they were caught so often—and being a relégué in my time came to the same thing as a life sentence. No nation has the right to revenge itself or rush to eliminate people just because they cause society anxiety. They should be healed instead of given such inhuman punishment.
+
+## Third Notebook
+
+> The fact that this man could go away leaving three escaped convicts in his house was a priceless lesson to us. He seemed to be saying: I consider you perfectly normal men; I have known you only twelve hours, but I have enough confidence in you to leave you in my home alone with my wife and daughter. After talking to you, I cannot believe you are capable of behaving badly in my home, and so I am leaving you there just as if you were old friends. This demonstration of faith moved us a great deal.
+
+## Fourth Notebook
+
+> The expression in the eyes of this sixty-year-old priest was so pure that he seemed more like a child. His infinite goodness shone through his features and his pale gray eyes soothed me like balm on a wound. He talked softly, very softly, always my hands in his. "Sometimes God wills for one of His children to experience human wickedness so that he will emerge stronger and nobler than ever. Don't you see, my son, that if you hadn't had this Calvary to climb, you would never have been able to raise yourself so near to God's truth? Let me put it another way: the men, the system, the cogs of the machine that ground you down, the evil men who framed you and tortured you, have rendered you the greatest service possible. They brought forth a new man, superior to the first, and if today you recognize honor, goodness and charity, and realize the energy you will need to surmount the obstacles and become someone superior, you owe it to them.
+
+> I drew a few lines and everyone was filled with wonder to see a bit of the drawing come off on Lali's belly. Only then did the chief understand that all this effort was for him. Those who haven't been exposed to the hypocrisies of a "civilized" education react to things naturally, as they happen. It is in the here and now that they are either happy or unhappy, joyful or sad, interested or indifferent. The superiority of pure Indians like these Guajiros was striking. They could outdo us in everything: when they adopted someone, everything they had belonged to him; and when anyone showed them the least attention, they were profoundly moved.
+
+## Thirteenth Notebook
+
+> I must rehabilitate myself in my own eyes first, then in the eyes of others.
+
+> The great majority of Frenchmen will not admit that a man with my past can become a good man. That's the difference between the Venezuelan people and the French. You remember that poor fisherman in Irapa who tried to explain to the chief of police that no man is ever lost for good, that he must be given a chance to become an honest man? Those almost illiterate fishermen lost in the Gulf of Paria in the vast estuary of the Orinoco have a humane philosophy that many of my countrymen could envy. We have too much technological progress, life is too hectic, and our society has only one goal: to invent still more technological marvels to make life even easier and better. The craving for every new scientific discovery breeds a hunger for greater comfort and the constant struggle to achieve it. All that kills the soul, kills compassion, understanding, nobility. It leaves no time for caring what happens to other people, least of all criminals.
