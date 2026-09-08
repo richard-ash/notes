@@ -18,6 +18,7 @@
 - [[books/catalog/the-great-debate/index|The Great Debate: Edmund Burke, Thomas Paine, and the Birth of Right and Left]]
 - [[books/catalog/the-wolves-of-k-street/index|The Wolves of K Street: The Secret History of How Big Money Took Over Big Government]]
 ## History
+- [[books/catalog/the-four-heavens/index|The Four Heavens: A New History of the Ancient Maya]]
 - [[books/catalog/only-yesterday/index|Only Yesterday: An Informal History of the 1920s]]
 ## Memoir & Biography
 - [[books/catalog/papillon/index|Papillon]]
