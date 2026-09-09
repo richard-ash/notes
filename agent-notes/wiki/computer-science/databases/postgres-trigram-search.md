@@ -11,7 +11,7 @@ confidence: high
 
 Postgres ships with `pg_trgm`, an extension for trigram-based text matching that enables efficient **short-string search** (names, titles, slugs) without full-text search infrastructure. It powers two complementary query strategies: exact substring matching with `ILIKE` and fuzzy matching with `similarity`.
 
-This is distinct from Postgres full-text search (FTS via `tsvector`/`tsquery`), which is designed for longer documents and natural-language ranking.
+This is distinct from [[postgres-full-text-search|Postgres full-text search]] (FTS via `tsvector`/`tsquery`), which is designed for longer documents and natural-language ranking.
 
 ## Core mechanism: trigrams
 
@@ -123,7 +123,7 @@ For multi-word names, `word_similarity` is usually the better choice. Example: `
 - **Name search with ranking:** ILIKE + similarity combo.
 - **"Did you mean?" fuzzy search:** similarity with `%` operator.
 - **Multi-word name fields:** `word_similarity` (`<%`) to avoid length bias.
-- **Full document search:** Use [[vector-databases]] or Postgres FTS (`tsvector`/`tsquery`) instead — pg_trgm is not designed for long text.
+- **Full document search:** Use [[vector-databases]] or [[postgres-full-text-search|Postgres FTS]] (`tsvector`/`tsquery`) instead — pg_trgm is not designed for long text.
 
 ## Sources
 
