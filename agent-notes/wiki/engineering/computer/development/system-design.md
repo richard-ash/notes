@@ -37,7 +37,7 @@ Almost every later section is a corollary of this one. Caching is discouraged *b
 
 **Bottlenecks.** Database access is usually the constraint in high-traffic applications, even when compute is inefficient, because complex applications issue hundreds of sequential queries per request. Four remedies:
 
-- **When querying the database, query the database.** JOIN rather than stitching results in memory. Watch for ORM queries in inner loops turning one `select id, name` into one `select id` plus a hundred `select name ... where id = ?`.
+- **When querying the database, query the database.** JOIN rather than stitching results in memory. [[sql-json-serialization]] extends this to the serialization step. Watch for ORM queries in inner loops turning one `select id, name` into one `select id` plus a hundred `select name ... where id = ?`.
 - **The occasional tactical query-split.** Rarely, a query is ugly enough that splitting it is easier on the database. He concedes indexes and hints could probably always fix it, but keeps the tool.
 - **Route reads to replicas.** The write node is busy enough. The exception is genuine zero-tolerance for replication lag — usually avoidable by filling in updated fields in memory rather than re-reading immediately after a write. (This "don't read your writes" line was the single most contested point in the Hacker News thread, drawing both "who would ever do that" and "that's way too fiddly.")
 - **Beware query spikes**, especially writes and transactions, because overload makes a database slow, which makes it more overloaded. Throttle anything that can generate them, like a bulk-import API.

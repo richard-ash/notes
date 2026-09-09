@@ -36,7 +36,7 @@ Bauer's catalogue, with the Postgres mechanism behind each claim and the practic
 | Filesystem for small blobs | `bytea` columns holding Flatbuffers, deserialised client-side | A single client anecdote. Postgres's buffer cache and batched I/O beat many small file operations; it will not beat the filesystem for large objects. |
 | Tree structures | `ltree` datatype with GiST indexes | Strictly better than recursive CTEs for hierarchical tags and paths — readable and fast. |
 | Neo4j | Apache AGE, an ASF top-level project implementing openCypher inside Postgres, so graph queries and SQL combine in one statement | AGE lags Postgres major versions and is not offered by most managed providers. It answers "we have some graph queries," not "we are a graph company." |
-| JSON-returning microservices | `json_agg`, `row_to_json`, `json_build_object` — the database emits the response shape directly | Lukas Eder's argument: mapping rows to objects in middleware is often pure overhead. Pushing it into SQL couples API shape to schema, which is a real cost when the API is public. |
+| JSON-returning microservices | `json_agg`, `row_to_json`, `json_build_object` — the database emits the response shape directly | Lukas Eder's argument ([[sql-json-serialization]]): mapping rows to objects in middleware is often pure overhead. Pushing it into SQL couples API shape to schema, which is a real cost when the API is public. |
 
 Bauer's advice for every row is the same: **start with Postgres, migrate only on measured failure.** The queue and graph sections say it explicitly; the search section shows the full ladder — vanilla FTS, then an extension, then (implicitly) a dedicated system — and the point is that each rung keeps the data in one transactional place.
 
