@@ -676,3 +676,34 @@ Reading List Email, 2025-05-11
 - [ ] Small Things Like These, Claire Keegan
 - [ ] So Late in the Day, Claire Keegan
 - [ ] Foster, Claire Keegan
+
+## Ryan Holiday — 24 Books To Hone Your Strategic Mind
+[X, 2026-08-26](https://x.com/RyanHoliday/status/2092635031898365968)
+
+- [ ] History of the Peloponnesian War, Thucydides
+- [ ] Rules for Radicals, Saul Alinsky
+- [ ] Reveille for Radicals, Saul Alinsky
+- [ ] The Power Broker: Robert Moses and the Fall of New York, Robert Caro
+- [ ] The 33 Strategies of War, Robert Greene
+- [ ] The 48 Laws of Power, Robert Greene
+- [ ] How To Profit By One's Enemies, Plutarch
+- [ ] Strategy, B.H. Liddell Hart
+- [ ] Why Don't We Learn From History, B.H. Liddell Hart
+- [ ] Sherman: Soldier, Realist, American, B.H. Liddell Hart
+- [ ] Boyd: The Fighter Pilot Who Changed the Art of War, Robert Coram
+- [ ] The Book of Five Rings, Miyamoto Musashi
+- [ ] The Prince, Niccolò Machiavelli
+- [ ] The Strategy Paradox: Why Committing to Success Leads to Failure (And What to do About It), Michael Raynor
+- [ ] Eleven Rings: The Soul of Success, Phil Jackson
+- [ ] Don't Think of an Elephant!: Know Your Values and Frame the Debate, George Lakoff
+- [ ] Words That Work: It's Not What You Say, It's What People Hear, Frank Luntz
+- [ ] Washington: A Life, Ron Chernow
+- [ ] The Art of War, Sun Tzu
+- [ ] On War, Carl von Clausewitz
+- [ ] Nudge: Improving Decisions About Health, Wealth, and Happiness, Richard H. Thaler & Cass R. Sunstein
+- [ ] Billion Dollar Lessons: What You Can Learn from the Most Inexcusable Business Failures of the Past 25 Years, Paul B. Carroll & Chunka Mui
+- [ ] The Big Con: The Story of the Confidence Man, David W. Maurer
+- [ ] Whiz Mob: A Correlation of the Technical Argot of Pickpockets with Their Behavior Pattern, David W. Maurer
+- [ ] The Game: Penetrating the Secret Society of Pickup Artists, Neil Strauss
+- [ ] Personal Memoirs of Ulysses S. Grant, Ulysses S. Grant
+- [ ] Memoirs of General William T. Sherman, William T. Sherman
