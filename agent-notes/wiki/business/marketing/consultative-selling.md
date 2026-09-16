@@ -3,6 +3,7 @@ source: agent
 compiled_from:
   - agent-notes/raw/business/marketing/2026-07-11-how-to-sell-your-ideas-cheng-module-1.md
   - agent-notes/raw/business/marketing/2026-09-16-how-to-sell-your-ideas-cheng-module-2.md
+  - agent-notes/raw/business/marketing/2026-09-16-how-to-sell-sales-proposal-executive-summary-template.md
 compiled_at: 2026-09-16
 model: claude-fable-5-1
 confidence: medium
@@ -270,21 +271,42 @@ clickstream data, find it a revelation — "it works every single time."
 
 **The sales proposal (scenario 5).** Busy executives read the executive summary
 and delegate the rest, so the first page must carry the whole argument. Cheng's
-mail-merge template is PCNS+P in a paragraph:
+mail-merge template is PCNS+P on one page. The handout distributed with the
+module reads, verbatim (bracketed text is the red fill-in):
 
-> From our prior conversations, my understanding is that you have [problem].
-> You're concerned that if it isn't resolved you will [negative consequences],
-> and that by solving it you hope to [positive consequences]. You mentioned that
-> any acceptable solution must meet three criteria: [need 1], [need 2], [need
-> 3]. As you'll see in the following proposal, our solution meets each of those
-> criteria: it solves [problem], lets you avoid [negatives] and achieve
-> [positives]. What follows is a description of the solution, how it meets each
-> need, a list of prior clients available for reference, and a summary of our
-> track record.
+> From our prior conversations, it is my understanding that you [Problem].
+>
+> You are concerned that if [Problem] does not get resolved, you will suffer
+> [Negative Consequences].
+>
+> You also indicated that by solving this problem, you hope to achieve
+> [Positive Consequences].
+>
+> In our discussions, you mentioned that an acceptable solution to [Problem]
+> must meet the following criteria: 1. [Need #1] 2. [Need #2] 3. [Need #3]
+>
+> As you will see in the following proposal, our proposed solution meets each
+> of your criteria for an acceptable solution. The solution would solve
+> [Problem], allowing you to avoid [Negative Consequences] while enabling you
+> to achieve [Positive Consequences].
+>
+> What we propose is [Solution Summary].
+>
+> What follows is a description of our solution, how it solves your problem,
+> and an explanation of how it meets each of your needs.
+>
+> Finally, we've included a list of our prior clients that are available for a
+> reference check, and a summary of our performance track record.
 
-Prompted by a question, he concedes a short solution summary belongs in there
-too. The intended reader reaction: "if the rest backs this up, verify it and
-we're fine."
+Every sentence is a step of the framework in order — P, negative C, positive
+C, N, S, then Proof of Capability as the closing line — and every placeholder
+is meant to be filled with the buyer's own words from the earlier
+conversations, which is the "quote their words back" tactic in written form.
+(When a student asked whether the summary shouldn't include the solution
+itself, Cheng called its absence from his spoken version an oversight; the
+printed handout already carries it as the "What we propose is" line.) The
+intended reader reaction: "if the rest backs this up, verify it and we're
+fine."
 
 **Latent problems (scenario 6).** A latent problem is one the buyer has but
 isn't aware of. Cheng "hates this one the most": such problems tend to be low
@@ -384,3 +406,7 @@ located elsewhere — is compiled in [[strategy-to-sales-call-hierarchy]].
   'Sales-y') — Module 2: Common Sales Scenarios" (Parts 1–2). Springboard, LLC /
   <https://www.caseinterview.com/> —
   [[2026-09-16-how-to-sell-your-ideas-cheng-module-2|local copy]]
+- Cheng, Victor (2016). "Sales Proposal Executive Summary Template" (one-page
+  handout to *How to Sell Your Ideas in Everyday Life*, Module 2). Springboard,
+  LLC / <https://www.caseinterview.com/> —
+  [[2026-09-16-how-to-sell-sales-proposal-executive-summary-template|local copy]]
