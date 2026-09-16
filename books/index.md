@@ -31,3 +31,5 @@
 - [[books/catalog/super-agers/index|Super Agers: An Evidence-Based Approach to Longevity]]
 ## Environment
 - [[books/catalog/the-state-of-fire/index|The State of Fire: Why California Burns]]
+## Self-Help
+- [[books/catalog/the-war-of-art/index|The War of Art: Break Through the Blocks and Win Your Inner Creative Battles]]

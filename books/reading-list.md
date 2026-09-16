@@ -55,7 +55,7 @@ From [[books/catalog/last-branch-standing/index|Last Branch Standing]]
 - [ ] Shantaram, Gregory David Roberts
 - [ ] Bhagavad Gita
 - [x] Creativity, Inc., Ed Catmull
-- [ ] The War of Art, Steven Pressfield
+- [x] [[books/catalog/the-war-of-art/index|The War of Art]], Steven Pressfield
 - [ ] Nobody Wants to Read Your Sh*t, Steven Pressfield
 - [ ] The Wisdom of Life, Arthur Schopenhauer
 - [x] Energy and Civilization, Vaclav Smil
@@ -437,7 +437,7 @@ From [[books/catalog/last-branch-standing/index|Last Branch Standing]]
 - [ ] War Is a Racket, Smedley Butler
 - [ ] Montaigne, Stefan Zweig
 - [ ] Gift from the Sea, Anne Morrow Lindbergh
-- [ ] The War of Art, Steven Pressfield
+- [x] [[books/catalog/the-war-of-art/index|The War of Art]], Steven Pressfield
 - [ ] 84, Charing Cross Road, Helene Hanff
 - [ ] Address Unknown, Kathrine Kressmann Taylor
 - [ ] Zen in the Art of Archery, Eugen Herrigel
