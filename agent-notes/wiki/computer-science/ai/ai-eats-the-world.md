@@ -105,7 +105,7 @@ Annualised enterprise AI spending (a16z, March 2026) ranks coding ~$4bn first, t
 
 Coding is the standout case. Zuckerberg: *"We're seeing more and more examples where one or two people are building something in a week that would have previously taken dozens of people months."* This connects to [[agentic-engineering]] (the discipline emerging around AI-assisted coding) and [[ai-coding-harnesses]] (the tool-call loop that makes it work).
 
-But Evans cautions: **writing code isn't the hard part**. The hard part is knowing what the code should be doing and where it fits into the market. Enterprises run hundreds of horizontal systems of record (ERP, CRM, HCM), improvised workflows (Email, Excel, shared folders), and vertical apps. Cheap code production rearranges what gets bundled and unbundled, but it doesn't tell you the answer.
+But Evans cautions: **writing code isn't the hard part**. The hard part is knowing what the code should be doing and where it fits into the market. Enterprises run hundreds of horizontal systems of record (ERP, CRM, HCM), improvised workflows (Email, Excel, shared folders), and vertical apps. Cheap code production rearranges what gets bundled and unbundled, but it doesn't tell you the answer. Evans develops this into a full argument in [[institutionalized-vs-improvised-software]].
 
 > "For half of my jobs I tell clients who use Excel to switch to a database, and the other half are the other way around." — Anon
 
