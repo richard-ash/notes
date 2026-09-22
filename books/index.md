@@ -19,6 +19,7 @@
 - [[books/catalog/the-wolves-of-k-street/index|The Wolves of K Street: The Secret History of How Big Money Took Over Big Government]]
 ## History
 - [[books/catalog/the-four-heavens/index|The Four Heavens: A New History of the Ancient Maya]]
+- [[books/catalog/the-invisible-bridge/index|The Invisible Bridge: The Fall of Nixon and the Rise of Reagan]]
 - [[books/catalog/only-yesterday/index|Only Yesterday: An Informal History of the 1920s]]
 ## Memoir & Biography
 - [[books/catalog/papillon/index|Papillon]]
