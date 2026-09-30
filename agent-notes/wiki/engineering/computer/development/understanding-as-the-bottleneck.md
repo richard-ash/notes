@@ -117,6 +117,7 @@ Single-source, opinionated, and anecdotal throughout: the numbers (25,000-line P
 ## Connections
 
 - [[judgment-in-ai-assisted-development]] — the same "judgment is the binding constraint" conclusion reached from the tooling side; this article supplies the rate-asymmetry mechanism that makes it binding
+- [[accountability-for-ai-generated-code]] — Ewerlöf's accountability frame on the same mechanism: you cannot be accountable for what you don't understand, and the risk-tolerance partition says where that binds
 - [[ai-code-review]] — the review-side treatment, including *comprehension debt* and *rubber stamping* in the AI-writes/human-reviews quadrant against a fixed human LOC/hour ceiling; the concrete answer to Herrengt's "find a better way to validate"
 - [[ai-judgment-atrophy]] — Heron's friction-erosion thesis at the individual level; Herrengt's senior-developers-who-gave-up are the field observation
 - [[code-review]] — the legibility framing ("understand this, complain if you can't") that Herrengt's reviewer is being asked to abandon
