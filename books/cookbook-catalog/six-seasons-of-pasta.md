@@ -8,7 +8,7 @@ author: "Joshua McFadden"
 ## Ragus
 
 - [ ] Charred Vegetable Ragu
-- [ ] Green Lentil Ragu
+- [x] Green Lentil Ragu
 - [ ] Marinara Sauce
 - [ ] Marcella's Tomato-Butter Sauce with Long-Cooked Kale
 - [ ] Nut Ragu
@@ -110,7 +110,7 @@ author: "Joshua McFadden"
 - [ ] Eggplant with Garlic, Capers, Raisins, and Herbs
 - [ ] Eggplant Puttanesca with Fresh Tomatoes
 - [ ] Pasta Salad with Roasted Eggplant, Tomatoes, Herbs, and Ricotta Salata
-- [ ] Roasted Cherry Tomatoes with Green Lentil Ragu
+- [x] Roasted Cherry Tomatoes with Green Lentil Ragu
 - [ ] Sun Gold Tomatoes with Basil and Garlic
 - [ ] Heirloom Tomatoes with Lobster, Fresh Chiles, Summer Herbs, and Brown-Butter Butter
 
