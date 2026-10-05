@@ -45,7 +45,7 @@ author: "Maureen Abood"
 - [ ] Warm Potato Salad with Lemon and Mint
 - [ ] Avocado Tabbouleh in Little Gems
 - [ ] Yogurt–Cucumber Salad
-- [ ] Maryalice's Big Romaine Salad
+- [x] Maryalice's Big Romaine Salad
 - [ ] Tomato and Sweet Onion Salad
 - [ ] Fattoush Salad
 - [ ] Crunchy Fennel Salad
