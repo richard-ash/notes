@@ -3,7 +3,8 @@ source: agent
 compiled_from:
   - agent-notes/raw/business/strategy/2015-07-21-aggregation-theory.md
   - agent-notes/raw/business/strategy/2026-04-13-mythos-muse-opportunity-cost-compute.md
-compiled_at: 2026-04-14
+  - agent-notes/raw/business/strategy/2026-09-28-apps-agents-and-aggregation.md
+compiled_at: 2026-10-05
 model: claude-opus-4-6
 confidence: high
 ---
@@ -84,7 +85,12 @@ The nuance is that compute constraints create a period where companies *cannot s
 
 The open question: does supply-side advantage (OpenAI's bet — more compute, better models) ultimately determine demand-side dominance? Or does demand-side momentum (Anthropic's trajectory) generate the cash flow to acquire sufficient supply? Thompson bets on demand but acknowledges the circularity.
 
+## Agents as the next Aggregator
+
+In September 2026 Thompson extended the theory a layer up. The web made publications abundant and discovery scarce, and the companies that solved discovery became Aggregators. He argues that agents, AI with a computer of its own that can operate any app, make *doing things* abundant and leave volition scarce, so the company that owns the agent gains the same power over apps and services that Google and Meta gained over publishers: they become "mere suppliers," an implementation detail behind the user's request. He names Meta's Muse and Microsoft's Copilot as the leading bids, on the strength of distribution. The argument, and how it sits against the rest of this wiki, is in [[agents-as-aggregators]].
+
 ## Sources
 
 - Thompson, Ben (2015). "Aggregation Theory." <https://stratechery.com/2015/aggregation-theory/> — [[2015-07-21-aggregation-theory|local copy]]
 - Thompson, Ben (2026). "Mythos, Muse, and the Opportunity Cost of Compute." <https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/> — [[2026-04-13-mythos-muse-opportunity-cost-compute|local copy]]
+- Thompson, Ben (2026). "Apps, Agents, and Aggregation." <https://stratechery.com/2026/apps-agents-and-aggregation/> — [[2026-09-28-apps-agents-and-aggregation|local copy]]
