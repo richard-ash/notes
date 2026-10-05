@@ -3,14 +3,15 @@ source: agent
 compiled_from:
   - agent-notes/raw/business/entrepreneurship/2026-09-23-how-venture-rounds-happen.md
   - agent-notes/raw/business/entrepreneurship/2026-09-28-only-reason-to-raise-venture-capital.md
-compiled_at: 2026-09-29
+  - agent-notes/raw/business/entrepreneurship/2026-10-05-when-to-raise-venture-capital.md
+compiled_at: 2026-10-05
 model: claude-fable-5-1
 confidence: medium
 ---
 
 # Startup Fundraising
 
-Whether to raise venture capital, and how rounds actually get closed, as distinct from how they are announced. The anchor source is a serialized guide, *How to Raise Venture Capital*, posted on X by Harris (@harris) in September 2026. Chapter 2 ("How Rounds Happen") is taxonomy: it sorts every closed round into one of three paths and argues that the one founders should aim for, the pre-empt, is manufactured rather than spontaneous. Chapter 3 ("The Only Reason to Raise Venture Capital") is the gate in front of all of that: a single test for whether to raise at all, and a catalogue of the reasons that fail it. Later chapters of the guide (navigating hyperbolic-growth rounds, and the take-it-or-run-a-process decision once a term sheet lands) are referenced but not yet published; they should integrate into this article as they appear.
+Whether to raise venture capital, when to raise it, and how rounds actually get closed, as distinct from how they are announced. The anchor source is a serialized guide, *How to Raise Venture Capital*, posted on X in September and October 2026 by Harris (@harris), a former YC partner now at Magid. Chapter 2 ("How Rounds Happen") is taxonomy: it sorts every closed round into one of three paths and argues that the one founders should aim for, the pre-empt, is manufactured rather than spontaneous. Chapter 3 ("The Only Reason to Raise Venture Capital") is the gate in front of all of that: a single test for whether to raise at all, and a catalogue of the reasons that fail it. Chapter 4 ("When to Raise") takes up timing. It rejects both standard answers, a metrics threshold and "raise when you can," and offers a framework Harris calls the Decisive Moment. Chapter 4 defers how to measure and act on that framework to a later installment. The chapters on navigating hyperbolic-growth rounds and on the take-it-or-run-a-process decision once a term sheet lands are also still unpublished; all of these should integrate into this article as they appear.
 
 ## Whether to raise: the one good reason
 
@@ -44,6 +45,58 @@ The starve-the-competitor corollary is the mirror image of a mechanism in Chapte
 The zombie entry is the concrete form of the "indigestion, not starvation" argument in [[capital-discipline]] and of Gurley's unicorn-era critique quoted there. It also fits Damodaran's point in [[scaling-vs-profitability]] that VCs price rather than value: a 2021 price set by market appetite eventually has to be cleared by a valuation, and when it can't be, the price becomes a liability rather than a reward. (Harris doesn't spell out the mechanics. Down-round dynamics and the preference stack a large round leaves behind are the usual reasons the executives "can't walk away.") The obvious rebuttal is that many 2021 over-raisers survived the 2022–23 downturn *because* of those cash piles, which is exactly the hedge argument. Harris's zombie paragraph is his implicit answer: surviving without a path to justify the price isn't a win, and it may be worse than a clean failure or a smaller company at a sensible valuation.
 
 Harris's examples of legitimate constraints are distinctly 2026: compute, and talent competition with frontier labs. One implication, not stated in the source, is that AI companies pass the test more often than classic SaaS did. GPUs are a real variable input that scales with usage, and lab salaries set a floor on the cost of engineering talent, so money turns into capacity more directly than it did when the marginal cost of software was near zero.
+
+## When to raise: the decisive moment
+
+Harris calls timing the hardest question in the guide and the one founders ask him most. He says both standard answers are wrong in ways that cost founders money.
+
+**The metrics table.** "Get to $1 million in ARR, grow 20% month over month, and the round takes care of itself." Harris calls this "pure fiction." His check is to ask any investor what numbers they tell founders to hit, then ask what their own portfolio companies had actually hit when they were funded. The lists won't match, because no particular number causes a round to close. He has seen rounds of several hundred million dollars come together at $200k of revenue, and companies fail to raise at more than $10 million of ARR. Investors are paid to find outliers, and an outlier is a company that doesn't fit the table.
+
+**"Raise when you can."** Accurate and useless. The only way to learn that you can raise is to raise, so the rule gives no help on the day of the decision. It is also the hot-market reasoning Chapter 3 already rejected.
+
+His own first answer is deliberately unhelpful: "you're ready to raise just after the money hits your bank account." Readiness can only be observed afterwards. The example is Scale AI's Series A, which Accel's Dan Levine led weeks after Alexandr Wang and Lucy Guo founded the company. Scale was still in YC, had just pivoted, and had a few early contracts. No metrics table would have called it ready. Harris says Levine acted on belief in the market and the founders, a view of the future, and gut, and had to ignore a number of logical objections to do it.
+
+### Why the old timeline broke
+
+The older model placed each round on an axis from Promise to Metrics. A company starts as a team and a story. Over time it produces data, and eventually a trend an investor can underwrite. Seeds sat at the promise end and Series Bs at the metrics end. Where a given round landed depended on the company's age, how much it had raised, and how well the founder told the story. Harris says the whole distribution has slid toward promise in the last few years, while rounds have become less frequent and much larger. He gives two causes.
+
+- **AI broke the yardstick.** Revenue went from zero to $10 million in 18 months, then zero to $100 million, then zero to $1 billion in under two years. One such company can be explained away. After several, investors can no longer tell normal from exceptional, and a wrong call is now both more expensive and more public.
+- **Technology stopped being a durable differentiator.** Harris claims nearly every revolutionary piece of software shipped in the past year was copied within months, that open-source Chinese models trail OpenAI and Anthropic by months, and that even capital-intensive fields crowd quickly (he points at the number of small modular reactor companies).
+
+With metrics and technology both unreliable, the founder and team are "the only fixed point" left. Backing exceptional founders always drove seed rounds. Harris says it now drives nearly every round, sometimes through the C or D. Metrics survive as a *signal*: evidence that the founder is who investors hope and that the future the founder describes is starting to arrive. They no longer work as a *gate*, or as a proxy for enterprise value.
+
+### The three elements
+
+The framework borrows from the photographer Henri Cartier-Bresson. A great street photograph looks like luck to someone who doesn't shoot. Harris says it comes from planning, positioning, and action: the photographer picked the camera and film that morning, found a spot where something might happen, waited, and released the shutter as the cyclist crossed the frame. He means the comparison literally. There is "no critical path to a round," and no sequence of numbers or flattering investor emails triggers a term sheet. The best founders track the market continuously, keep updating their model of where they sit in it and what investors currently think, notice when the odds have moved in their favor, and then choose the moment. "The round is not something you wait for. It's a shot you take."
+
+| Element | Founder's control | What it is |
+|---|---|---|
+| The right business | Largely yours | A story that validates your view of how the world is changing, as opposed to an income statement or a corporate charter. Venture capital only fits companies that must scale far ahead of what cash flow can fund *and* have a shot at becoming "almost inconceivably large." Harris calls this the camera in your hand. |
+| The right reason to raise | Partly yours, partly the market's | "The narrative core of the raise": the interface between what you are building and what the market wants to see. It shifts as both change. |
+| An investor with a prepared mind | Almost none | You can't create one or force belief. You can find likely investors early and shape their thinking through conversation in low-pressure settings, months before any pitch. |
+
+Harris's evidence for the third element is his own seed round. Greg McAdoo, his first gatekeeper at Sequoia, told him flatly that tutoring was too small a market. They weren't in a pitch. They were standing in a circle of people at YC one evening, in what Harris calls a silly side conversation, and he replied that it was a $6 billion market at minimum. McAdoo's "wait, what?" opened a series of conversations with him and his partners. Harris argues that a formal pitch on the size of the tutoring market would never have got the meeting, and that if it had, the listener's skeptical half would have been running throughout. "Prepared minds are built in casual conversations." He adds that the market "kinda wasn't" worthwhile and that his company didn't win it. (The chapter doesn't name the company. It is presumably Tutorspree, the tutoring marketplace Aaron Harris co-founded before joining YC.)
+
+### Reading the framework
+
+Each element restates something from an earlier chapter. The first is the condition for venture capital fitting the company at all. The second is Chapter 3's test seen from the market's side. The third is the groundwork behind Chapter 2's engineered pre-empt. What Chapter 4 adds is that the three have to coincide, and that noticing when they do is the founder's job. In the terms used below, the decisive moment is the founder controlling the clock.
+
+The second element sits uneasily with Chapter 3. There the good reason was defined from inside the business: capital is the binding constraint on growth. Here the reason is a narrative tied to "what the market wants to see," which read alone drifts back toward the scoreboard Chapter 3 warned against. The consistent reading is two filters in sequence. The reason must first be true of the business, and then be expressible in terms the market currently cares about. A real constraint the market can't yet read is a cue to wait or to do more preparing. A legible story with no constraint behind it is the trophy round.
+
+Several points connect to existing articles:
+
+- **Path 1 broke the yardstick for path 2.** Chapter 2's hyperbolic-growth companies are few, but they are the ones whose numbers destroyed the calibration for everyone else. A company at $2 million of ARR is no longer measured against a table. It is measured against the memory of zero-to-$100-million.
+- **Signal, not gate.** The growth accounting and cohort retention in [[startup-growth-metrics]] are still what a founder shows, and still the "strategically managed information" of Chapter 2. The question the evidence answers has changed, from "has this company cleared the bar for a Series A" to "is this founder's account of the future coming true." The practical consequence is to choose the metrics that bear on the thesis, not the ones that match a stage template.
+- **Founder judgment moves up the stack.** If Harris is right, the frameworks in [[founder-evaluation]], written for first institutional capital, now apply to B and C rounds. That article also records Rabois and Khosla's view that seed consensus is close to noise and forms around known people ("two people leaving Cursor"). An inference Harris doesn't draw is that the least reliable judgment in venture now governs the largest cheques, and that a founder-weighted market favors founders investors already know. For everyone else the third element carries the weight, since the only way to be judged as a person is to be known before the pitch.
+- **The metrics table is a justification regime.** [[startup-uncertainty]] argues that a plan fully defensible on known market size and unit economics is, by construction, a plan with no moat, and [[competitive-moats]] that no structural moat is reliably available to a startup at day one. Harris reaches the same place from the investor's chair: technology doesn't hold (compare [[pacing-the-frontier]] on capability no longer translating into a moat), and the Scale round he admires was made by setting the defensible analysis aside.
+- **The prepared mind changes owner.** Pasteur's "chance favors the prepared mind" is Chance III in [[four-kinds-of-luck]], where the prepared mind belongs to the person who gets lucky. Harris gives it to the counterparty: the founder's work is to prepare someone else's mind, so that the eventual pitch lands as recognition. The McAdoo story has the same structure as the claim in [[networking-as-relationship-building]] that the channel has to exist before the ask, and as pre-syndication in [[multi-stakeholder-selling]]. A venture partnership is a multi-stakeholder buyer, and McAdoo first, then his partners, is a skeptic converted one-on-one who then carries the case inside.
+- **Naval's threshold.** In [[credibility-based-selling]] Naval raises when his own excitement about the fundamentals crosses a threshold. Both he and Harris reject the calendar and the metrics table, and both make the founder the one who chooses. They differ on the instrument. Naval reads himself; Harris reads the market and the investors. Naval's threshold covers roughly the first two elements, and Harris's addition is that conviction with no prepared investor on the other side is still a cold start.
+
+Three caveats, none of them raised in the source except the first:
+
+- **It is not yet operational.** "Ready just after the money hits" and three elements "in balance" can't be checked in advance. Harris concedes this and defers measurement to a later chapter.
+- **Survivorship.** Scale is the right call in hindsight, and the promise-end Series As that failed don't appear. Harris's own example cuts the other way too: the prepared-mind method got Sequoia interested in a market he now says wasn't worth it. The method works on investors whether or not the thesis is true, which is why it belongs behind Chapter 3's gate and can't replace it.
+- **Regime dependence.** The slide toward promise is described as a product of the AI boom. The chapter doesn't say whether it survives a contraction, and in 2022–23 efficiency metrics came back as gates quickly. The chapter also opens the question of "how much" and leaves it. Its description of fewer, larger rounds is the market's behavior, while Chapter 3's advice is still to size the round to the constraint, so a founder who times the moment well should expect to be offered more than the constraint needs.
 
 ## Two mechanisms, three paths
 
@@ -89,7 +142,10 @@ The guide leaves unexplained why the cold-start penalty is sharper in the AI era
 - Size the round to the constraint, not to the market's appetite, a competitor's headline, or a downturn hedge.
 - Don't try to starve competitors by locking up every good investor; the leftover investors will fund your rival.
 - Weigh insider and new-investor enthusiasm for a raise against their own incentives (markups, allocation).
+- Don't wait on a metrics threshold. No number triggers a round; show the metrics that support the thesis, as evidence for it.
+- Keep a running read of what investors currently believe about your market, and pick the moment yourself.
 - Build investor relationships before capital is needed, and send them information on a cadence you control.
+- Find the likely skeptics early and argue the thesis with them in casual settings, months before any pitch.
 - Treat any offer that is not a written term sheet as interest, and say so. Ask for the paper.
 - Never let one investor set the timeline. Keep the parallel process alive until a term sheet exists.
 - Trigger the first offer before the broad pitch; the floor and the momentum are the point.
@@ -98,3 +154,4 @@ The guide leaves unexplained why the cold-start penalty is sharper in the AI era
 ## Sources
 - Harris (2026). "How to Raise Venture Capital Chapter 2: How Rounds Happen." <https://x.com/harris/status/2102736808983277578> — [[2026-09-23-how-venture-rounds-happen|local copy]]
 - Harris (2026). "The Only Reason to Raise Venture Capital" (*How to Raise Venture Capital*, Chapter 3). <https://x.com/harris/status/2104563809977290917> — [[2026-09-28-only-reason-to-raise-venture-capital|local copy]]
+- Harris (2026). "How to raise venture capital, chapter 4: When to Raise." <https://x.com/harris/status/2107132880333742484> — [[2026-10-05-when-to-raise-venture-capital|local copy]]
