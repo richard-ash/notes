@@ -36,3 +36,4 @@
 
 ## Western
 - [Chocolate Pudding Pots](https://www.recipetineats.com/chocolate-pudding-pots/) #protein/vegetarian #course/dessert
+- [Lemony Miso Cabbage](https://cooking.nytimes.com/recipes/776271001-lemony-miso-cabbage) #protein/vegetarian #course/side
