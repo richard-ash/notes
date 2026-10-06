@@ -2,16 +2,27 @@
 - [Green Ginger Rice Noodles](https://www.recipetineats.com/green-ginger-rice-noodles/) #protein/chicken #course/main
 
 ## Chinese
-- [Bai Qie Rou · Boiled Pork (White Cut Pork)](https://www.chinasichuanfood.com/boiled-pork-white-cut-pork/) #protein/pork #course/main
-- [Beef with Garlic Sauce](https://thewoksoflife.com/beef-garlic-sauce/) #protein/beef #course/main
-- [Cong Chao Lajiao · Scallion Pepper Stir-Fry](https://thewoksoflife.com/scallion-pepper-stir-fry/) #protein/vegan #course/side
+### Cantonese
 - [Huasheng Bao Jijiao · Chicken Feet Soup](https://www.chinasichuanfood.com/chicken-feet-soup/) #protein/chicken #course/soup
+- [Scallion and Ginger Tofu](https://www.chinasichuanfood.com/scallion-and-ginger-tofu/) #protein/vegetarian #course/main
+
+### Chinese American
+- [Beef with Garlic Sauce](https://thewoksoflife.com/beef-garlic-sauce/) #protein/beef #course/main
+- [Pineapple Chicken](https://thewoksoflife.com/pineapple-chicken/) #protein/chicken #course/main
+
+### Home-style
+- [Cong Chao Lajiao · Scallion Pepper Stir-Fry](https://thewoksoflife.com/scallion-pepper-stir-fry/) #protein/vegan #course/side
+
+### Hunan
+- [Stir-fried Pressed Tofu with Peppers and Black Beans](https://thewoksoflife.com/stir-fried-pressed-tofu-peppers-black-beans/) #protein/vegan #course/main
+
+### Sichuan
+- [Bai Qie Rou · Boiled Pork (White Cut Pork)](https://www.chinasichuanfood.com/boiled-pork-white-cut-pork/) #protein/pork #course/main
 - [Mala Wuhuarou · Mala Pork Belly](https://www.chinasichuanfood.com/spicy-pork-belly-stir-fry-mala-pork-belly/) #protein/pork #course/main
 - [Mapo Doufu · Mapo Tofu](https://www.chinasichuanfood.com/mapo-tofu-recipe/) #protein/beef #course/main
-- [Pineapple Chicken](https://thewoksoflife.com/pineapple-chicken/) #protein/chicken #course/main
-- [Scallion and Ginger Tofu](https://www.chinasichuanfood.com/scallion-and-ginger-tofu/) #protein/vegetarian #course/main
+
+### Taiwanese
 - [Si Shen Tang · Four Herbs Soup](https://thewoksoflife.com/four-herbs-soup-si-shen-tang/) #protein/pork #course/soup
-- [Stir-fried Pressed Tofu with Peppers and Black Beans](https://thewoksoflife.com/stir-fried-pressed-tofu-peppers-black-beans/) #protein/vegan #course/main
 
 ## French
 - [Beurre Blanc · White Butter Sauce](https://www.recipetineats.com/beurre-blanc-sauce-recipe/) #course/sauce
