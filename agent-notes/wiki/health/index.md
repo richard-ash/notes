@@ -1,5 +1,5 @@
 # Health
-Healthcare markets, pharma industry economics, drug mechanisms, preventive medicine frameworks, clinical workflows, and health tech companies.
+Healthcare markets, pharma industry economics, drug mechanisms, preventive medicine frameworks, clinical workflows, health tech companies, and public-health interventions such as vector control.
 
 ## Articles
 - [[eli-lilly]] — world's most valuable pharma company; GLP-1 franchise, LillyDirect D2C model, hybrid R&D strategy, and organizational culture under CEO Dave Ricks
@@ -15,3 +15,4 @@ Healthcare markets, pharma industry economics, drug mechanisms, preventive medic
 - [[sleep-hygiene]] — six modifiable levers (meal timing, wind-down, stimulants, evening light, bedroom temperature, noise); Johnson's N-of-1 protocol with RHR as sleep-quality proxy and autonomic/circadian mechanisms behind each lever
 - [[rapamycin]] — Kaeberlein's "Is Rapamycin Dead?" evidence review: most robust animal longevity drug (mTOR inhibitor), the 900-day rule, function restoration in heart/immune/oral/brain/ovary, the misread Rapa EX01 muscle "newbie gains" study, once-weekly dosing safety, transplant-vs-longevity dose distinction, and the case that rapamycin is "more alive than ever"
 - [[longevity-science]] — Kaeberlein/de Grey/Kennedy/Weiss panel on the evidence-vs-hype state of the field: LEV timeline disagreement that doesn't change research priorities, healthspan/lifespan as a false dichotomy, "do medicine before longevity medicine," the NAD-infusion clinic-outcomes-vs-RCT argument, peptide misuse risk, the actionability problem with biological age clocks, and the gerotherapeutic ranking (rapamycin leads; de Grey's CR-mimetic contrarianism)
+- [[mosquito-vector-control]] — Rosen's case that US mosquito-borne disease is now a regulatory choice: Oxitec's self-limiting tTAV lethal gene (80–95% suppression) and *Wolbachia* males (Singapore RCT: −85% mosquitoes, −70% dengue) vs. a 15-year USDA→FDA→EPA jurisdiction odyssey under the 1986 Coordinated Framework; sterile-insect precedent (screwworm, medfly), MosquitoMate's 2024 registration, Google Debug, and the PDUFA fee-funded-capacity fix
