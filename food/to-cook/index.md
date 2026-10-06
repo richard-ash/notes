@@ -6,6 +6,7 @@
 - [Beef with Garlic Sauce](https://thewoksoflife.com/beef-garlic-sauce/) #protein/beef #course/main
 - [Cong Chao Lajiao · Scallion Pepper Stir-Fry](https://thewoksoflife.com/scallion-pepper-stir-fry/) #protein/vegan #course/side
 - [Huasheng Bao Jijiao · Chicken Feet Soup](https://www.chinasichuanfood.com/chicken-feet-soup/) #protein/chicken #course/soup
+- [Mala Wuhuarou · Mala Pork Belly](https://www.chinasichuanfood.com/spicy-pork-belly-stir-fry-mala-pork-belly/) #protein/pork #course/main
 - [Mapo Doufu · Mapo Tofu](https://www.chinasichuanfood.com/mapo-tofu-recipe/) #protein/beef #course/main
 - [Scallion and Ginger Tofu](https://www.chinasichuanfood.com/scallion-and-ginger-tofu/) #protein/vegetarian #course/main
 - [Si Shen Tang · Four Herbs Soup](https://thewoksoflife.com/four-herbs-soup-si-shen-tang/) #protein/pork #course/soup
