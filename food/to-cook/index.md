@@ -8,6 +8,7 @@
 - [Huasheng Bao Jijiao · Chicken Feet Soup](https://www.chinasichuanfood.com/chicken-feet-soup/) #protein/chicken #course/soup
 - [Mala Wuhuarou · Mala Pork Belly](https://www.chinasichuanfood.com/spicy-pork-belly-stir-fry-mala-pork-belly/) #protein/pork #course/main
 - [Mapo Doufu · Mapo Tofu](https://www.chinasichuanfood.com/mapo-tofu-recipe/) #protein/beef #course/main
+- [Pineapple Chicken](https://thewoksoflife.com/pineapple-chicken/) #protein/chicken #course/main
 - [Scallion and Ginger Tofu](https://www.chinasichuanfood.com/scallion-and-ginger-tofu/) #protein/vegetarian #course/main
 - [Si Shen Tang · Four Herbs Soup](https://thewoksoflife.com/four-herbs-soup-si-shen-tang/) #protein/pork #course/soup
 - [Stir-fried Pressed Tofu with Peppers and Black Beans](https://thewoksoflife.com/stir-fried-pressed-tofu-peppers-black-beans/) #protein/vegan #course/main
