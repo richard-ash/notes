@@ -72,6 +72,8 @@ Rudd's account of the mechanism behind the "industrial juggernaut" (Made in Chin
 - The rare-earths case study: dominance so complete China could break Trump's trade war by threatening access to rare earths and magnets. "They had leverage over us that we did not have over them" — an engineer-dominated political culture that instinctively maps the periodic table of leverage.
 - Rudd's warning about American perception whiplash (China-is-breaking circa 2023 → China-is-ahead circa 2026): "hope becomes a substitute for analysis and strategy." Whatever the inefficiency, Xi regards it as loose change against the commanding heights.
 
+For the balance-sheet account of why the clock is running — credit growth down from 18% to 5% a year, a 9.5%-of-GDP deficit, strategic industries at about 6% of GDP — see [[china-growth-model]]. Logan Wright's conclusion there, that the West no longer faces a systemic economic rivalry, is the strongest form of the China-is-breaking view Rudd cautions against.
+
 ## Xi's view of America
 
 Two lenses: America is the only country with the **scale** (military, alliances, innovation) to stand in the way, and it has represented for a century an **alternative ideational script** — a live attraction, since successful Chinese still emigrate toward freedom. The party's "comprehensive national power" framework aggregates military size, alliance solidity, and domestic political unity/disunity; it stopped publishing results ~12 years ago, Rudd suspects because they showed China rising too clearly. The mainstream CCP view holds America in structural decline ("rise of the East, decline of the West").
