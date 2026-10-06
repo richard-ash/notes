@@ -3,6 +3,7 @@
 
 ## Chinese
 - [Bai Qie Rou · Boiled Pork (White Cut Pork)](https://www.chinasichuanfood.com/boiled-pork-white-cut-pork/) #protein/pork #course/main
+- [Beef with Garlic Sauce](https://thewoksoflife.com/beef-garlic-sauce/) #protein/beef #course/main
 - [Huasheng Bao Jijiao · Chicken Feet Soup](https://www.chinasichuanfood.com/chicken-feet-soup/) #protein/chicken #course/soup
 - [Mapo Doufu · Mapo Tofu](https://www.chinasichuanfood.com/mapo-tofu-recipe/) #protein/beef #course/main
 - [Scallion and Ginger Tofu](https://www.chinasichuanfood.com/scallion-and-ginger-tofu/) #protein/vegetarian #course/main
