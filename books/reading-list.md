@@ -707,3 +707,43 @@ Reading List Email, 2025-05-11
 - [ ] The Game: Penetrating the Secret Society of Pickup Artists, Neil Strauss
 - [ ] Personal Memoirs of Ulysses S. Grant, Ulysses S. Grant
 - [ ] Memoirs of General William T. Sherman, William T. Sherman
+
+## Ryan Holiday — 25 Life Changing Biographies
+[X, 2026-08-24](https://x.com/RyanHoliday/status/2091915056833597902)
+
+- [ ] Plutarch's Lives (Volumes One & Two), Plutarch
+- [ ] The Power Broker: Robert Moses and the Fall of New York, Robert Caro
+- [ ] Socrates: A Man for Our Times, Paul Johnson
+- [ ] Napoleon: A Life, Paul Johnson
+- [ ] Churchill, Paul Johnson
+- [ ] Totto-Chan: The Little Girl at the Window, Tetsuko Kuroyanagi
+- [ ] All the Great Prizes: The Life of John Hay, from Lincoln to Roosevelt, John Taliaferro
+- [x] Eisenhower in War and Peace, Jean Edward Smith
+- [ ] Boyd: The Fighter Pilot Who Changed the Art of War, Robert Coram
+- [ ] Edison: A Biography, Matthew Josephson
+- [ ] Eleanor Roosevelt (Volumes One & Two), Blanche Wiesen Cook
+- [ ] The Fish That Ate the Whale: The Life and Times of America's Banana King, Rich Cohen
+- [ ] Empire State of Mind: How Jay-Z Went from Street Corner to Corner Office, Zack O'Malley Greenburg
+- [ ] The 50th Law, 50 Cent & Robert Greene
+- [ ] No Hiding Place: An Autobiography, William Seabrook
+- [ ] Asylum: An Alcoholic Takes the Cure, William Seabrook
+- [ ] Cyropaedia, Xenophon (accessible translation: Xenophon's Cyrus the Great: The Arts of Leadership and War, Larry Hedrick)
+- [ ] Sherman: Soldier, Realist, American, B.H. Liddell Hart
+- [ ] Where Men Win Glory: The Odyssey of Pat Tillman, Jon Krakauer
+- [ ] The Kid Stays in the Picture: A Notorious Life, Robert Evans
+- [ ] My Bondage and My Freedom, Frederick Douglass
+- [ ] Ulysses S. Grant: Memoirs and Selected Letters, Ulysses S. Grant
+- [ ] Knight's Cross: A Life of Field Marshal Erwin Rommel, David Fraser
+- [ ] Hurricane: The Life of Rubin Carter, Fighter, James S. Hirsch
+- [ ] Titan: The Life of John D. Rockefeller, Sr., Ron Chernow
+- [ ] The Autobiography of Malcolm X, Malcolm X with Alex Haley
+- [ ] The Rise of Theodore Roosevelt, Edmund Morris
+- [ ] Colonel Roosevelt, Edmund Morris
+- [ ] Washington: A Life, Ron Chernow
+- [ ] Steve Jobs, Walter Isaacson
+
+### Bonus: fictional biographies
+- [ ] Memoirs of Hadrian, Marguerite Yourcenar
+- [ ] What Makes Sammy Run?, Budd Schulberg
+- [ ] Invisible Man, Ralph Ellison
+- [ ] All the King's Men, Robert Penn Warren
