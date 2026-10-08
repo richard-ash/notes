@@ -25,7 +25,7 @@ author: "Maureen Abood"
 
 ## Maza and Salads
 
-- [ ] Whipped Hummus with Minced Lamb and Sumac
+- [x] Whipped Hummus with Minced Lamb and Sumac
 - [ ] Labneh Dip with Crushed Red Pepper and Mint
 - [x] Za'atar Roasted Tomato Crostini with Labneh
 - [ ] Labneh Cheese Preserved in Olive Oil
