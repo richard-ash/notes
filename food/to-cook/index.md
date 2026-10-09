@@ -12,6 +12,7 @@
 
 ### Home-style
 - [Cong Chao Lajiao · Scallion Pepper Stir-Fry](https://thewoksoflife.com/scallion-pepper-stir-fry/) #protein/vegan #course/side
+- [Plum Sauce Pork](https://www.chinasichuanfood.com/plum-sauce-pork/) #protein/pork #course/main
 
 ### Hunan
 - [Stir-fried Pressed Tofu with Peppers and Black Beans](https://thewoksoflife.com/stir-fried-pressed-tofu-peppers-black-beans/) #protein/vegan #course/main
