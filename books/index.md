@@ -21,6 +21,7 @@
 - [[books/catalog/the-four-heavens/index|The Four Heavens: A New History of the Ancient Maya]]
 - [[books/catalog/the-invisible-bridge/index|The Invisible Bridge: The Fall of Nixon and the Rise of Reagan]]
 - [[books/catalog/only-yesterday/index|Only Yesterday: An Informal History of the 1920s]]
+- [[books/catalog/making-the-presidency/index|Making the Presidency: John Adams and the Precedents That Forged the Republic]]
 ## Memoir & Biography
 - [[books/catalog/papillon/index|Papillon]]
 ## Science Fiction
