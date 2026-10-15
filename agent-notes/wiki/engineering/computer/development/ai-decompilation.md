@@ -1,0 +1,67 @@
+---
+source: agent
+compiled_from:
+  - agent-notes/raw/engineering/computer/development/2026-10-14-popcar-ai-mass-decompiling-games.md
+compiled_at: 2026-10-14
+model: claude-fable-5-1
+confidence: medium
+---
+
+# AI-Assisted Game Decompilation and Recompilation
+
+**AI-assisted decompilation** is the use of coding agents to turn a shipped game or program back into something buildable, then rebuild it for platforms, resolutions and framerates the original never supported. The hand-made version of this has existed for a decade in the game-preservation scene; what changed in 2025 and 2026 is the time cost, from years of volunteer labour per title to, in the claims of the projects themselves, days. This article compiles popcar's 14 October 2026 post on the resulting wave, checks the two flagship projects it cites against their own repositories, and situates the phenomenon against the [[clean-room-cloning]] pattern Huntley introduced in March 2025, which is its intellectual-property-side twin.
+
+popcar is a pseudonymous Bear Blog author who opens by saying they "generally don't like AI" and closes by asking readers to "accept the win" anyway. The post is a survey and an opinion piece, not a technical account, and its two headline exhibits turn out to be less "AI decompiled a game" than the framing suggests, so the article treats the post as evidence of the *mood* and verifies the mechanism separately. Confidence is `medium`: one opinionated source, with repository claims checked on the day of ingest.
+
+## Three different things called "decompilation"
+
+popcar's post, like most coverage, runs together three techniques with different costs, different outputs and different legal exposure.
+
+| Technique | Input | Output | Needs the original at run time? | Hand-made exemplars |
+|---|---|---|---|---|
+| **Matching decompilation** | Binary or ROM | Readable source that recompiles to a byte-identical binary | Yes, for assets | Super Mario 64 decomp (public 2019), Ocarina of Time decomp (complete 2021) and its Ship of Harkinian port (2022), OpenGOAL (Jak and Daxter, with a reimplemented GOAL compiler) |
+| **Static recompilation** | Binary, bytecode or ROM | Machine-translated C/C++ mirroring the instruction stream, with hand-written hooks for widescreen, framerate, resolution | Yes, as input and for assets | N64: Recompiled and Zelda 64: Recompiled (2024), XenonRecomp and Sonic Unleashed Recompiled (Xbox 360, 2025) |
+| **Relinking / compatibility layer** | Native executable for another OS or console | The same binary, relinked against reimplemented system libraries | Yes, it *is* the original | Wine and Proton; AnyPS5 |
+
+The distinction matters for both halves of popcar's title. The *awesome* half, native ports with uncapped framerate, true widescreen, native-resolution rendering and mod hooks, is delivered by all three techniques, and popcar is right that most of it is impossible in an emulator, which has to reproduce the original's fixed timestep and framebuffer. The *scary* half, "your paid game or app can be open-sourced against your will," requires the first technique, readable source, which is the slowest and least automated of the three. Static recompilation and relinking never produce source anyone would want to read and never free the user from owning the original.
+
+**What the flagship examples actually are.** IsaacRecomp, popcar's lead exhibit ("made automatically. In a few days. By an AI. That's insane."), describes itself on GitHub as a static recompilation: tooling built on the long-standing JPEXS FFDec Flash decompiler translates the 2011 game's ActionScript 2 bytecode into C++ functions, running on a from-scratch SDL2/OpenGL engine; it reads graphics, sound and music out of the user's own Steam copy at start-up; and its author's own phrasing is that it was made "with the help of Artificial Intelligence," with Claude credited for development assistance. So the headline case is AI-assisted static recompilation of Flash bytecode, which is about the easiest target that exists (SWF bytecode keeps names and structure, and decompilers for it have been mature for a decade), not binary-to-source decompilation of native code. AnyPS5, the post's biggest claim ("automatically port any PS5 game to your PC"), is a relinker plus reimplemented PS5 system libraries plus a shader recompiler to SPIR-V, explicitly "no emulation"; it is GPL-2.0, had 37,400 stars and 8,359 commits on 14 October 2026, and its README names no AI tooling at all. Its disclaimer that it ships no firmware, keys or proprietary libraries and that "users are responsible for the binaries they use" is where the legal weight sits (below), because a PS5 executable is encrypted at rest and only a jailbroken console yields one that a relinker can read.
+
+The remaining examples (Colin McRae Rally 2.0, Final Fantasy Tactics Advance, Metroid Prime, Ratchet and Clank, Skate 3 and Black Ops Zombies in a browser) were not checked; the Recomp suffix on several suggests the same static-recompilation lineage.
+
+## Where the models actually enter
+
+Decompilation is an iterative search: disassemble, guess function boundaries and types, write C, compile, compare against the original, repeat. The matching-decomp community had already automated parts of it before LLMs (Ghidra, decomp.me, permuters that mutate C until the compiler output matches), and the academic line of LLM decompilers (LLM4Decompile, 2024, trained to emit re-executable C from assembly) predates the current wave. What coding agents add is that every step of the loop is now cheap, and the loop has unusually good oracles: for a matching decomp, a byte-identical object file, and for a port, differential behaviour against the original running in an emulator. That is the condition under which autonomous loops work at all ([[loop-engineering]]) and the reason the output can be trusted without reading it ([[correctness-oracles]]), and it is why game decompilation, of all software tasks, is where "AI did the whole thing" claims have arrived first. Huntley's Z80 post (March 2025, see [[clean-room-cloning]]) was the single-developer proof of concept: C to assembly to specification to a working ZX Spectrum tape in one afternoon. popcar's post is the report that the same capability is now being applied by hundreds of hobbyists who did not read Huntley.
+
+Note the gap between popcar's phrasing and the authors' own. IsaacRecomp's author says "with the help of"; popcar says "automatically, by an AI." Both the preservationists' excitement and the critics' alarm tend to adopt popcar's version. The honest reading, consistent with Elhage's [[computers-can-be-understood]], is that the stack was always comprehensible by determined humans and the determination is now cheap to buy.
+
+## The preservation case
+
+popcar's strongest ground is preservation, and the surrounding facts support it. The Video Game History Foundation's 2023 study found 87% of classic games released in the United States before 2010 commercially unavailable; the Stop Killing Games citizens' initiative, triggered by Ubisoft shutting down *The Crew* in 2024, passed a million EU signatures in July 2025; and console makers' move to digital-only distribution means a delisting is a deletion. Native ports solve this more durably than emulators because they survive the original platform entirely.
+
+The legal pattern that has let hand-made decomps survive is visible in all the verified projects: **ship no assets, require the user's own copy.** IsaacRecomp reads from the Steam executable; N64 recomps require the user's ROM; Ship of Harkinian extracts from the user's Ocarina ROM. Nintendo's 2020 takedown hit the Super Mario 64 PC port *builds* that embedded assets, not the decompilation repository, and that line has held for six years. The AI wave inherits the norm, so far.
+
+## The scary part, claim by claim
+
+popcar's "scary" section makes five claims. They hold up unevenly.
+
+**"Anybody can decompile other software and use it any way they'd like."** For unprotected PC binaries and for bytecode (Flash, .NET and Unity IL, Java, JavaScript bundles) this was already true and cheap; the marginal change is native binaries whose decompilation was *legal but expensive*, which are now legal and cheap. Console titles sit behind encryption, and that moves the question to anti-circumvention law rather than copyright.
+
+**"Decompiling software is completely legal."** In the US, *Sega v. Accolade* (1992) and *Sony v. Connectix* (2000) treated intermediate copying for reverse engineering as fair use, and the EU Software Directive's Article 6 permits decompilation for interoperability only. Neither covers circumventing DRM to get at the binary. That is the theory Nintendo used against the Yuzu Switch emulator (settled March 2024 for $2.4 million on a DMCA section 1201 claim about decryption keys) and that led Ryujinx to shut down in October 2024, and it is the exposure AnyPS5's disclaimer is written around. So the legality of a given project depends on which of the three techniques it uses, which jurisdiction, and whether anything was decrypted on the way in. Enhancement-for-its-own-sake is not obviously "interoperability" under Article 6 either.
+
+**"You can't prove it's stolen code."** This is backwards. Copyright infringement is shown by access plus substantial similarity, including similarity of structure, sequence and organization, and a decompiled-and-recompiled program is maximally similar in structure to its original. The clean-room doctrine protects a reimplementation *because* the process is documented and the second team provably never saw the original; a port whose only process record is a chat log is in a worse position than Phoenix Technologies was in 1984, not a better one. The joke site popcar links, malus.sh, is a parody of exactly this confusion: "Clean Room as a Service," "Liberate Open Source," proprietary robots that "have never seen the original source code," a MalusCorp-0 licence with "No attribution. No copyleft. No problems," indemnification "through our offshore subsidiary in a jurisdiction that doesn't recognize software copyright," and a banner reading "temporarily unavailable." It is Huntley's own "Bitcoin mixer for intellectual property" line rendered as satire, and the process-separation versus knowledge-separation distinction in [[clean-room-cloning]] is the serious version of the same point.
+
+**"Maybe open source licences are completely unenforceable now."** An overshoot with a real core. Copyleft enforcement was already rare and slow (the Software Freedom Conservancy's suit against Vizio was filed in 2021 and was still unresolved years later). What changes is that the practical enforcement tool, similarity detection by licence scanners and code-clone detectors, stops working once producing a structurally dissimilar derivative costs nothing. This is the precise worry of Hanmongkolchai's Chinese Wall paper, and the implication is that enforcement must move from detecting similarity to demanding provenance, which no current tooling provides.
+
+**"Maybe everything will have more invasive DRM on it soon."** Plausible, with the observation that the DRM that works (platform encryption backed by section 1201) already exists on consoles, and what is newly exposed is the class of software that never had it. Games are also an unusual case for the business-side version of the threat. popcar's "companies can steal from competitors" is the consumer-blog phrasing of Huntley's infinite-software thesis, and of Vernal's [[software-industry-barbell]] and Leach's [[minimum-viable-saleable-software]] from the defender's side: a game binary has no infrastructure lock-in, so it is the purest test of "software without lock-in is hosed." But a game's value is mostly in assets, art, audio, levels and writing, which decompilation reproduces nothing of and which stay under copyright; the code is the cheap part, which is why the user-supplies-the-original model works at all. The clone threat is therefore *smaller* for games than popcar fears and *larger* for business software, where the behaviour is the product.
+
+## Open questions and things to watch
+
+- popcar predicts "in the next few months" a major application decompiled and shared, provoking a corporate response. Dated 14 October 2026; worth checking against events.
+- No court has ruled on whether a fresh model context is a clean-room wall, or on whether an AI-generated port of a copyrighted game is a derivative work when it ships no assets. The first such case will set the norm for the whole wave.
+- Whether the recomp scene keeps its ship-no-assets discipline as the authors become people who, in popcar's words, "have no idea what they're doing."
+- Whether publishers follow Nintendo's section 1201 playbook or the older Sega-era tolerance, and whether any of them adopt the preservation argument and ship their own recompilations, which the technology now makes nearly free for them too.
+
+## Sources
+
+- popcar (2026-10-14). "AI is mass decompiling games. That's both awesome and scary." <https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/> — [[2026-10-14-popcar-ai-mass-decompiling-games|local copy]]. Repository facts for IsaacRecomp and AnyPS5 and the malus.sh description were checked against the live pages on the ingest date and are not in the raw file.

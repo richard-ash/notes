@@ -5,7 +5,8 @@ compiled_from:
   - agent-notes/raw/engineering/computer/development/2025-03-03-ls-rs-readme.md
   - agent-notes/raw/engineering/computer/development/2025-07-21-chinese-wall-llm-code-editing.md
   - agent-notes/raw/engineering/computer/development/2026-10-12-huntley-nobody-types-code-by-hand.md
-compiled_at: 2026-10-13
+  - agent-notes/raw/engineering/computer/development/2026-10-14-popcar-ai-mass-decompiling-games.md
+compiled_at: 2026-10-14
 model: claude-fable-5-1
 confidence: low
 ---
@@ -73,7 +74,7 @@ On legality, Huntley says only that it "is not legal in every jurisdiction, and 
 
 ## Why Huntley thinks it matters
 
-The 2025 posts frame the technique as a capability demonstration. By the October 2026 interview ([[loop-engineering]]) it has become his argument about industry structure. "Not enough people understood that post at the time. Take an existing application, clean-room it into specifications, then rebuild the software from those specifications, much like the way AMD's CPUs came out of Intel's." The evidence he offers that the pattern has arrived: the wave of Photoshop clones in the week before the interview, "services and MCPs" whose whole job is rebuilding existing software, and papers citing the idea. His conclusion is **infinite software**: "If you're selling software without infrastructure or some other lock-in, you're hosed. So the real question is: what is a moat in software now?"
+The 2025 posts frame the technique as a capability demonstration. By the October 2026 interview ([[loop-engineering]]) it has become his argument about industry structure. "Not enough people understood that post at the time. Take an existing application, clean-room it into specifications, then rebuild the software from those specifications, much like the way AMD's CPUs came out of Intel's." The evidence he offers that the pattern has arrived: the wave of Photoshop clones in the week before the interview, "services and MCPs" whose whole job is rebuilding existing software, and papers citing the idea. His conclusion is **infinite software**: "If you're selling software without infrastructure or some other lock-in, you're hosed. So the real question is: what is a moat in software now?" The consumer-facing version of the same wave is the game-recompilation boom popcar surveys two days later ([[ai-decompilation]]): hundreds of AI-assisted ports, a satirical "Clean Room as a Service" site (malus.sh) selling "liberation from open source license obligations" via two robot teams that never communicate, and a blogger who "generally doesn't like AI" conceding the point. Most of those projects are static recompilations rather than clean rooms, though: the original binary stays in the room as input, which is the opposite legal posture.
 
 That is the attacker's-side statement of the thesis already in the vault from the defender's side: Vernal's [[software-industry-barbell]] (near-zero production cost erodes replication, switching and integration moats) and Leach's [[minimum-viable-saleable-software]] (the zone where buying still beats building shrinks to what carries verification and maintenance labour). The clean-room pattern is the mechanism by which "replication cost" goes to zero for a competitor, and the `ls-rs` caveats are the reason Leach's verification-labour residue still exists.
 
@@ -91,3 +92,4 @@ Two further connections. Notion's [[spec-driven-development]] is the same spec-i
 - Joyce, Daniel (2025-03-03). "ls-rs: A Rust Implementation of ls." <https://github.com/DanielJoyce/ls-rs> — [[2025-03-03-ls-rs-readme|local copy]] (README).
 - Hanmongkolchai, Manatsawin (2025-07-21). "Applying the Chinese Wall Reverse Engineering Technique to Large Language Model Code Editing." arXiv:2507.15599. <https://arxiv.org/abs/2507.15599> — [[2025-07-21-chinese-wall-llm-code-editing|local copy]].
 - Huntley, Geoffrey (2026-10-12). "nobody should type code by hand anymore. here's what's left." <https://ghuntley.com/agency/> — [[2026-10-12-huntley-nobody-types-code-by-hand|local copy]]. The Z80 retrospective and the "infinite software" framing.
+- popcar (2026-10-14). "AI is mass decompiling games. That's both awesome and scary." <https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/> — [[2026-10-14-popcar-ai-mass-decompiling-games|local copy]]. The malus.sh parody and the recompilation wave; compiled in detail at [[ai-decompilation]].
