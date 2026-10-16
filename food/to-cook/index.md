@@ -12,6 +12,7 @@
 
 ### Home-style
 - [Cong Chao Lajiao · Scallion Pepper Stir-Fry](https://thewoksoflife.com/scallion-pepper-stir-fry/) #protein/vegan #course/side
+- [Hot and Sour Cabbage Salad](https://www.chinasichuanfood.com/hot-and-sour-cabbage-salad/) #protein/vegan #course/salad
 - [Plum Sauce Pork](https://www.chinasichuanfood.com/plum-sauce-pork/) #protein/pork #course/main
 
 ### Hunan
@@ -27,6 +28,8 @@
 
 ## French
 - [Beurre Blanc · White Butter Sauce](https://www.recipetineats.com/beurre-blanc-sauce-recipe/) #course/sauce
+- [Coquillettes au Jambon · French Macaroni and Cheese with Ham](https://www.recipetineats.com/coquillettes-au-jambon-french-macaroni-and-cheese-with-ham/) #protein/pork #course/main
+- [Navarin d'Agneau · Lamb Navarin (French Lamb Stew)](https://www.recipetineats.com/lamb-navarin-recipe/) #protein/lamb #course/main
 
 ## Italy
 - [Polpette e Sugo · Meatballs & Weekday Sauce](https://www.youtube.com/watch?v=vz2YCDnRXjY) #protein/beef #course/main
