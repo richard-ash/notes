@@ -4,14 +4,15 @@ compiled_from:
   - agent-notes/raw/business/entrepreneurship/2026-09-23-how-venture-rounds-happen.md
   - agent-notes/raw/business/entrepreneurship/2026-09-28-only-reason-to-raise-venture-capital.md
   - agent-notes/raw/business/entrepreneurship/2026-10-05-when-to-raise-venture-capital.md
-compiled_at: 2026-10-05
+  - agent-notes/raw/business/entrepreneurship/2026-10-20-how-to-use-metrics-in-a-fundraise.md
+compiled_at: 2026-10-20
 model: claude-fable-5-1
 confidence: medium
 ---
 
 # Startup Fundraising
 
-Whether to raise venture capital, when to raise it, and how rounds actually get closed, as distinct from how they are announced. The anchor source is a serialized guide, *How to Raise Venture Capital*, posted on X in September and October 2026 by Harris (@harris), a former YC partner now at Magid. Chapter 2 ("How Rounds Happen") is taxonomy: it sorts every closed round into one of three paths and argues that the one founders should aim for, the pre-empt, is manufactured rather than spontaneous. Chapter 3 ("The Only Reason to Raise Venture Capital") is the gate in front of all of that: a single test for whether to raise at all, and a catalogue of the reasons that fail it. Chapter 4 ("When to Raise") takes up timing. It rejects both standard answers, a metrics threshold and "raise when you can," and offers a framework Harris calls the Decisive Moment. Chapter 4 defers how to measure and act on that framework to a later installment. The chapters on navigating hyperbolic-growth rounds and on the take-it-or-run-a-process decision once a term sheet lands are also still unpublished; all of these should integrate into this article as they appear.
+Whether to raise venture capital, when to raise it, and how rounds actually get closed, as distinct from how they are announced. The anchor source is a serialized guide, *How to Raise Venture Capital*, posted on X in September and October 2026 by Harris (@harris), a former YC partner now at Magid. Chapter 2 ("How Rounds Happen") is taxonomy: it sorts every closed round into one of three paths and argues that the one founders should aim for, the pre-empt, is manufactured rather than spontaneous. Chapter 3 ("The Only Reason to Raise Venture Capital") is the gate in front of all of that: a single test for whether to raise at all, and a catalogue of the reasons that fail it. Chapter 4 ("When to Raise") takes up timing. It rejects both standard answers, a metrics threshold and "raise when you can," and offers a framework Harris calls the Decisive Moment. A later installment, "How to Use Metrics in a Fundraise" (unnumbered in the post), supplies part of what Chapter 4 deferred. It treats metrics as the evidence that makes the narrative credible rather than as a trigger, reduces "knowing your numbers" to consistency and detail, declares benchmarks a mirage, and tells founders to lead with the metric nearest the investor's biggest blocker. It defers gathering market data from investors to "the next chapter." The chapters on navigating hyperbolic-growth rounds and on the take-it-or-run-a-process decision once a term sheet lands are also still unpublished; all of these should integrate into this article as they appear.
 
 ## Whether to raise: the one good reason
 
@@ -94,9 +95,65 @@ Several points connect to existing articles:
 
 Three caveats, none of them raised in the source except the first:
 
-- **It is not yet operational.** "Ready just after the money hits" and three elements "in balance" can't be checked in advance. Harris concedes this and defers measurement to a later chapter.
+- **It is not yet operational.** "Ready just after the money hits" and three elements "in balance" can't be checked in advance. Harris concedes this and defers measurement to a later chapter. The metrics installment below supplies part of it, namely what evidence to have ready and what disqualifies a founder regardless of timing. The market-reading half is deferred again.
 - **Survivorship.** Scale is the right call in hindsight, and the promise-end Series As that failed don't appear. Harris's own example cuts the other way too: the prepared-mind method got Sequoia interested in a market he now says wasn't worth it. The method works on investors whether or not the thesis is true, which is why it belongs behind Chapter 3's gate and can't replace it.
 - **Regime dependence.** The slide toward promise is described as a product of the AI boom. The chapter doesn't say whether it survives a contraction, and in 2022–23 efficiency metrics came back as gates quickly. The chapter also opens the question of "how much" and leaves it. Its description of fewer, larger rounds is the market's behavior, while Chapter 3's advice is still to size the round to the constraint, so a founder who times the moment well should expect to be offered more than the constraint needs.
+
+## Metrics in a raise: signal, not gate
+
+The metrics installment (posted 20 October 2026) opens by restating Chapter 4's conclusion and then taking the other half of it seriously. No metric produces a round. Rounds close when investors believe the company is on the path to something massive, and Harris says that belief is "primarily emotional." But metrics are what ground the narrative and make it credible, and not knowing them is disqualifying "in a way few other mistakes are," because it tells the investor the founder can't judge whether the business has product-market fit.
+
+### Knowing your numbers
+
+Harris reduces "knowing your metrics" to two properties.
+
+**Consistency** is what lets an investor read a pattern as a trend. Six months at 40% monthly growth is a trend, if an early one. Months that alternate between shrinking and growing are hard to read even when they average to the same figure. If the numbers are inconsistent, his advice is to volunteer a genuine structural explanation rather than wait to be asked.
+
+**Detail** is what lets an investor trust that the numbers mean what the founder says they mean:
+
+- Honest representation. Concealed or massaged numbers "will get discovered," and the discovery destroys trust. His three classic offenders are cumulative charts that only go up, gross merchandise value reported as revenue, and margin figures that quietly leave out compute.
+- Absolutes and growth rates across monthly, quarterly, and annual windows.
+- For every number, how it is calculated, what data supports it, and what assumptions are baked in, ideally with the sensitivity. If a user is someone who logs in monthly, know the number under a daily definition.
+- Most of it by heart. For the rest, "I'm not sure about that one, I'll get back to you today" builds credibility. A made-up answer, discovered later, "ends processes."
+
+### What good looks like now
+
+Harris wrote YC's Series A guide, and says that at the time he and colleagues built a benchmark table from data on successful raises: ranges for revenue, growth, and retention, correlated with round sizes. He calls that exercise quixotic then and useless now. "Benchmarks are a mirage." Ask any VC for the revenue and growth rates of their firm's last five deals and the result is a near-random scatter plot. Investors nonetheless know good when they see it, and he offers three properties of what they see.
+
+| | Harris's claim | Consequence |
+|---|---|---|
+| **Good is explosive** | Investors pattern-match on explosive trajectories. The old "triple-triple-double" cadence isn't enough, and neither is a large revenue figure with middling growth. AI companies have reset what fast looks like, so investors care more about growth narratives than levels. | The slope matters more than the intercept. |
+| **Good is relative to the queue** | Numbers are judged against the other companies in that investor's pipeline right now. | Timing is partly about who else is pitching that month. Learn what each investor passed on, what they missed, and how you compare. The real benchmark source is investors themselves, gathered in casual meetings, not a Carta blog post. |
+| **Good is consistent with your story** | There is no magic threshold for CAC, LTV, AUM, or DAU. The number that matters most is the one that proves *your* specific story is coming true. | Pick the metric that bears on the thesis, not the one a stage template asks for. |
+
+### Why trends beat snapshots
+
+Harris's model of what metrics do is that they are inputs into the investor's mental picture of whether the business becomes gigantic. At the earliest stage there are few data points, so the decision runs on promise and vision. Later there is deep data to anchor on. Wherever a round sits, it is priced on how convincingly the data the founder has now validates the vision already sold. Three failure cases follow:
+
+- **Insufficient data.** A product launched two months ago with great early numbers supports a promise-based raise (a seed, a bridge, or support for a later round), but two months is not a trend and won't be priced as one. The exception is growth so explosive it has captured all the attention in the world. His example is Instinct, which the post doesn't elaborate on.
+- **Inconsistent data.** High average growth over months that alternate negative, flat, and positive reads as a founder who doesn't understand the levers of the business well enough to pull them predictably.
+- **Too much unflattering history.** Years of flat growth, or a lot of capital raised, before a recent take-off. Founders underestimate how hard it is to get investors to trust the last four months over the previous four years, and claiming a pivot doesn't erase the history. "The burden of proof rises with every month of history."
+
+### Investor psychology: the blocker metric
+
+Harris's preferred way to choose metrics is to look at the business through the eyes of a great investor. He characterizes the best as optimists who have learned skepticism. Pessimists wash out because they never find a future worth betting on. Such an investor first builds a picture of the company's future state and the world it creates, since that is the only kind of company worth investing in, and then enumerates the blockers between here and there. The founder's job is to show how each blocker gets cleared, and **the first metric to focus on is the one closest to the biggest blocker.** For a deeply technical product that may be solving the problem or hiring the team, which isn't a metric at all. For a company that has never sold to enterprises and must, it is enterprise sales. The externally visible evidence has to make someone "sit back and say wow." His closing line: "Make wow. Raise money."
+
+### Reading the chapter
+
+The chapter is the operational half of Chapter 4's "signal, not gate." Several points connect to earlier chapters and to other articles:
+
+- **The blocker metric is Chapter 3's test seen from the other side.** Chapter 3 asks the founder to name the input capital buys and the growth it unlocks. The blocker metric asks what the investor thinks stands between the company and its future state, and demands evidence it can be cleared. The two coincide when the biggest blocker is the capital constraint itself. When they diverge (the blocker is "can this team sell to enterprises," say), the raise has a prerequisite the money won't fix, and the founder should expect to be asked for proof before the round rather than after.
+- **"Relative to the queue" is a mechanism behind Chapter 4's timing.** It makes the decisive moment partly a matter of who else is competing for attention, not only of the company and the investor. It also explains why Chapter 2's cold start is punished: a cold pitch lands in a queue the founder hasn't seen, against companies the founder knows nothing about, while the warm process lets the founder learn the queue first. The deferral of "gathering market data from investors" to the next installment suggests that is where the measurement Chapter 4 promised will land.
+- **Sensitivity analysis is the credibility move.** Chen's advice in [[startup-growth-metrics]] is to decompose growth into new, reactivated, and churned before investors do it for you. Harris's "know the number under the daily definition" is the same move applied to definitions rather than components. In both cases the founder pre-empts the analyst's first question, and having done so is evidence about the founder, which is what Chapter 4 says investors are mostly buying.
+- **The three offenders are each a known accounting or unit-economics trap.** GMV reported as revenue is the gross-versus-net question in [[revenue-recognition]] and the take-rate question in [[marketplace-rake]]. Compute left out of margin is the 2026 form of Gurley's gross-margin factor in [[revenue-quality]], with the cost structure described in [[token-pricing]]. Cumulative charts are the oldest trick, and the reason Chen's growth accounting exists. Harris's point is not that these are wrong to show. It is that undisclosed versions end the relationship, since every one of them is checked in diligence.
+- **"I'll get back to you today"** works by the same mechanism as the discipline in [[credibility-based-selling]]. A visible admission of ignorance buys trust for everything else the founder says, while a fabricated answer puts every other number under suspicion. It is also a test the investor is partly running on purpose.
+- **Optimists who learn skepticism** is Harris's sketch of investor calibration. [[probability-neglect]] describes the base-rate neglect that makes founders attempt things that look irrational. Venture requires an investor willing to share that neglect on a few bets while holding the base rate for the rest, and "pessimists wash out" is the selection effect that produces such people.
+
+Three caveats, the last two not in the source:
+
+- **Harris concedes the regime.** "Good is explosive" is explicitly a product of AI-era revenue curves, and the chapter doesn't say what good looks like when those curves stop. The regime dependence noted under Chapter 4 applies here too.
+- **"Benchmarks are a mirage" and "good is relative to the queue" are in tension.** If the queue sets the bar, there is a benchmark. It is just local, moving, and unpublished. Harris's practical advice, to get the comparison set from investors directly, fits that reading, and it makes "no benchmarks" mean "no public benchmarks you can plan against."
+- **The unflattering-history rule strengthens Chapter 3's gate.** Every round taken before a real constraint lengthens the history the next round has to explain, and a flat stretch after a raise is the worst version of that. The chapter also leaves open how a long-lived company should present itself, beyond the warning that the pivot story alone won't carry it.
 
 ## Two mechanisms, three paths
 
@@ -143,6 +200,10 @@ The guide leaves unexplained why the cold-start penalty is sharper in the AI era
 - Don't try to starve competitors by locking up every good investor; the leftover investors will fund your rival.
 - Weigh insider and new-investor enthusiasm for a raise against their own incentives (markups, allocation).
 - Don't wait on a metrics threshold. No number triggers a round; show the metrics that support the thesis, as evidence for it.
+- Know your absolutes and growth rates by month, quarter, and year, how each is computed, and how it moves if the definition changes. If you can't answer, say you'll get back to them that day, and do.
+- Never show cumulative-only charts, GMV as revenue, or margins that exclude compute without saying so.
+- Lead with the metric closest to the investor's biggest blocker, and make it one that proves your thesis rather than one from a stage template.
+- Learn what is in each investor's queue, what they passed on, and what they missed. That is the only benchmark that exists.
 - Keep a running read of what investors currently believe about your market, and pick the moment yourself.
 - Build investor relationships before capital is needed, and send them information on a cadence you control.
 - Find the likely skeptics early and argue the thesis with them in casual settings, months before any pitch.
@@ -155,3 +216,4 @@ The guide leaves unexplained why the cold-start penalty is sharper in the AI era
 - Harris (2026). "How to Raise Venture Capital Chapter 2: How Rounds Happen." <https://x.com/harris/status/2102736808983277578> — [[2026-09-23-how-venture-rounds-happen|local copy]]
 - Harris (2026). "The Only Reason to Raise Venture Capital" (*How to Raise Venture Capital*, Chapter 3). <https://x.com/harris/status/2104563809977290917> — [[2026-09-28-only-reason-to-raise-venture-capital|local copy]]
 - Harris (2026). "How to raise venture capital, chapter 4: When to Raise." <https://x.com/harris/status/2107132880333742484> — [[2026-10-05-when-to-raise-venture-capital|local copy]]
+- Harris (2026). "How to use metrics in a fundraise" (*How to Raise Venture Capital*). <https://x.com/harris/status/2112554470852964710> — [[2026-10-20-how-to-use-metrics-in-a-fundraise|local copy]]
