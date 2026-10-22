@@ -17,6 +17,7 @@
 - [[books/catalog/building-from-the-ground-up/index|Building from the Ground Up: Reclaiming the American Housing Boom]]
 - [[books/catalog/the-great-debate/index|The Great Debate: Edmund Burke, Thomas Paine, and the Birth of Right and Left]]
 - [[books/catalog/the-wolves-of-k-street/index|The Wolves of K Street: The Secret History of How Big Money Took Over Big Government]]
+- [[books/catalog/the-second-estate/index|The Second Estate: How the Tax Code Made an American Aristocracy]]
 ## History
 - [[books/catalog/the-four-heavens/index|The Four Heavens: A New History of the Ancient Maya]]
 - [[books/catalog/the-invisible-bridge/index|The Invisible Bridge: The Fall of Nixon and the Rise of Reagan]]
