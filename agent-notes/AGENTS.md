@@ -153,4 +153,4 @@ Top-level list of all domains with article counts and a one-line scope each. Ref
 - Create wiki articles without at least one entry in `compiled_from`.
 - Write links from wiki articles into personal-note paths.
 - Edit files outside `agent-notes/`.
-- Add `Co-Authored-By` trailers to commits (see repo-root `CLAUDE.md`).
+- Add `Co-Authored-By` trailers to commits (see repo-root `AGENTS.md`).

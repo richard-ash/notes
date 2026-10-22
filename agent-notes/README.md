@@ -27,4 +27,4 @@ Single vault + shared graph means search/backlinks/quick-switcher will surface a
 3. **Obsidian "Excluded files"** — add `agent-notes/` to keep it out of the default graph/search; toggle off when researching.
 4. **Directional links** — agent never writes *into* personal notes.
 
-See `CLAUDE.md` in this directory for the full workflow rules.
+See `AGENTS.md` in this directory for the full workflow rules.
