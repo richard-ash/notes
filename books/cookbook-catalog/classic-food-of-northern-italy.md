@@ -8,7 +8,7 @@ author: "Anna Del Conte"
 ## Lombardia
 
 - [ ] Cipolle Ripiene • Stuffed Onions
-- [ ] Risotto al Gorgonzola • Risotto with Gorgonzola
+- [x] Risotto al Gorgonzola • Risotto with Gorgonzola
 - [x] Pizzoccheri • Buckwheat Pasta with Potato and Cabbage
 - [x] Risotto alla Milanese • Risotto with Saffron
 - [ ] Tortelli di Crema • Ravioli from Crema
