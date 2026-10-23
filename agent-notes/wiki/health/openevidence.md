@@ -2,8 +2,9 @@
 source: agent
 compiled_from:
   - agent-notes/raw/health/2026-04-10-openevidence-morgan-stanley-deep-dive.md
-compiled_at: 2026-04-10
-model: claude-opus-4-6
+  - agent-notes/raw/health/2026-10-23-general-purpose-llms-outperform-clinical-ai-tools.md
+compiled_at: 2026-10-23
+model: claude-fable-5-1
 confidence: medium
 ---
 
@@ -38,7 +39,7 @@ Morgan Stanley frames a three-way convergence between products that started from
 
 MS argues these three "will converge" toward a common platform layer that combines **high-trust content + AI-native synthesis + in-workflow activation**. OpenEvidence's 2025 push into ambient scribe + dialer is the clearest signal of that convergence — moving from a standalone answer engine toward owning more of the end-to-end clinician workflow.
 
-Related: horizontal LLMs like [[agi-timelines|general-purpose frontier models]] (e.g., ChatGPT) could in principle answer clinical questions competitively with verticalized models, which MS flags as a key "market value" question for the CDS space.
+Related: horizontal LLMs like [[agi-timelines|general-purpose frontier models]] (e.g., ChatGPT) could in principle answer clinical questions competitively with verticalized models, which MS flags as a key "market value" question for the CDS space. An independent NYU Langone benchmark published in *Nature Medicine* in 2026 tested exactly this and found the frontier models ahead — see the independent-evaluation section below and [[clinical-ai-vs-frontier-llms]].
 
 ## AlphaWise usage data: what the numbers say
 
@@ -74,9 +75,15 @@ In 2025, OpenEvidence sued both Doximity and Pathway Medical under the Defend Tr
 ## MS's four key open questions
 
 1. **Will AI-CDS competition intensify?** Yes — OE's early growth occurred in a near-vacuum. UpToDate Expert AI only launched Oct 2025; DoxGPT got its Pathway-powered upgrade in Q3 2025. The uncontested period is over.
-2. **Is there a durable moat around AI-synthesis in CDS?** Three sub-questions: (a) curated corpora (UpToDate's approach) vs. broad-scrape AI synthesis — which wins on answer quality? (b) will AI synthesis "stick" in CDS or will accuracy issues drive a rollback? (c) can horizontal LLMs compete with verticalized ones?
+2. **Is there a durable moat around AI-synthesis in CDS?** Three sub-questions: (a) curated corpora (UpToDate's approach) vs. broad-scrape AI synthesis — which wins on answer quality? (b) will AI synthesis "stick" in CDS or will accuracy issues drive a rollback? (c) can horizontal LLMs compete with verticalized ones? — the 2026 NYU Langone benchmark (below) says yes, and that they currently win.
 3. **Will OE need to formalize institutional routes to market?** Today OE bypasses healthcare institutions — clinicians self-onboard via NPI verification. Ambient scribe ambitions may force contractual relationships with hospitals, where Doximity has a structural head start. International expansion tightens this further.
 4. **Will monetization change?** Viral free-for-use has great unit economics (no sales/marketing spend). But if OE has to build institutional workflows and formal contracts, operating margin compresses and subscription/enterprise models may enter the mix.
+
+## Independent evaluation: frontier LLMs beat OpenEvidence on blinded clinician review
+
+The first independent head-to-head test of OpenEvidence's answer quality came from NYU Langone (Vishwanath, Oermann et al., *Nature Medicine*, 2026; full treatment in [[clinical-ai-vs-frontier-llms]]). OpenEvidence and UpToDate Expert AI were run against GPT-5.2, Gemini 3.1 Pro and Claude Opus 4.6 on 500 MedQA questions, 500 HealthBench items and 100 real physician queries rated blind by 12 clinicians. The frontier models won every stage. On the real queries, OpenEvidence scored 3.24 on a 1–4 scale against 3.52–3.62 for the frontier tier, and was statistically indistinguishable from UpToDate Expert AI (3.17) and from Google Search's free AI Overview (3.27). Its weakest dimension was clarity for clinicians (2.84, lowest of six systems), and raters' notes on its low-scoring answers clustered on incomplete content, safety-critical omissions and disorganized responses — a communication failure the authors attribute to retrieved material poorly integrated by the base model rather than to missing knowledge. Harm and hallucination rates did not differ from the frontier models.
+
+Read against the analysis above, this removes "superior clinical performance" from OpenEvidence's pitch while leaving its actual moat — free NPI-gated distribution, checkable citations, pharma-ad economics and the Visits/Dialer workflow footprint — untouched. It also hands MS's open question 2(c) a provisional answer: horizontal models can compete, and currently win. The caveats are the paper's own (browser-only access to the clinical tools, February 2026 model vintage, frontier models run with web search enabled) plus a disclosed Google consulting relationship for the senior author.
 
 ## The knowledge-half-life argument
 
@@ -107,3 +114,4 @@ The implication for OE: medical-journal deals will likely blend training-data ri
 ## Sources
 
 - Morgan Stanley Research (2026-01-12). "Private Company Research Series: A Deeper Dive into OpenEvidence." Transforming Healthcare | North America. — [[2026-04-10-openevidence-morgan-stanley-deep-dive|local copy]]
+- Vishwanath, K., Alyakin, A., Ghosh, M., … Oermann, E. K. (2026). "General-purpose large language models outperform specialized clinical AI tools on medical benchmarks." *Nature Medicine*. <https://doi.org/10.1038/s41591-026-04431-5> — [[2026-10-23-general-purpose-llms-outperform-clinical-ai-tools|local copy]]
