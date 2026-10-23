@@ -9,7 +9,7 @@ Ingest a source into the agent-notes knowledge base.
 
 **Input:** $ARGUMENTS
 
-Read `agent-notes/CLAUDE.md` first — it defines frontmatter templates, naming conventions, the four disciplines, and compilation guidelines. Follow it exactly.
+Read `agent-notes/AGENTS.md` first — it defines frontmatter templates, naming conventions, the four disciplines, and compilation guidelines. Follow it exactly.
 
 ## Determine input type
 
@@ -20,7 +20,7 @@ Read `agent-notes/CLAUDE.md` first — it defines frontmatter templates, naming 
 
 ## Workflow
 
-1. Save or read the raw file per the templates in `agent-notes/CLAUDE.md`.
+1. Save or read the raw file per the templates in `agent-notes/AGENTS.md`.
 2. Determine primary concept(s) and select the wiki slug — name after the **durable concept**, not the source article.
 3. Read `agent-notes/index.md` to see existing domains. Check `agent-notes/wiki/<domain>/` for existing articles on the same concept.
    - If an existing article covers this concept: **integrate** (append to `compiled_from`, update `compiled_at`, add to `## Sources`, weave new info into the body).
@@ -28,7 +28,7 @@ Read `agent-notes/CLAUDE.md` first — it defines frontmatter templates, naming 
 4. Cross-link to other wiki articles via `[[wikilinks]]` where concepts overlap.
 5. Update `agent-notes/wiki/<domain>/index.md` — create if this is a new domain.
 6. Update `agent-notes/index.md` if a new domain was added or article count changed.
-7. Commit. `git add agent-notes/ && git commit -m "Ingest <source title>"` — always, without asking. Subject only, no body, no `Co-Authored-By` trailer. Commit directly to the current branch; do not create one.
+7. Commit via the `commit` skill (Skill tool, skill: `commit`) — always, without asking. A hook blocks bare `git commit`. Stage `agent-notes/` only; subject `Ingest <source title>`, no body, no `Co-Authored-By` trailer. Commit directly to the current branch; do not create one.
 
 ## Key rules
 
