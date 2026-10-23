@@ -52,6 +52,10 @@
 ## Thailand
 - [Gai Yang · Thai Grilled Chicken](https://www.recipetineats.com/thai-grilled-chicken-gai-yang/) #protein/chicken #course/main
 
+## Vietnam
+- [Bún Thịt Nướng · Vietnamese Lemongrass Pork Noodle Bowls](https://www.recipetineats.com/vietnamese-pork-noodle-bowls/) #protein/pork #course/main
+- [Thịt Nướng Sả · Vietnamese Lemongrass Pork Steaks](https://www.recipetineats.com/vietnamese-lemongrass-pork-steaks/) #protein/pork #course/main
+
 ## Western
 - [Chocolate Pudding Pots](https://www.recipetineats.com/chocolate-pudding-pots/) #protein/vegetarian #course/dessert
 - [Lemony Miso Cabbage](https://cooking.nytimes.com/recipes/776271001-lemony-miso-cabbage) #protein/vegetarian #course/side
