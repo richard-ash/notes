@@ -60,7 +60,7 @@ Breunig's observation is that persistence is exactly what the labs train for, be
 
 ## 2027: the memory problem
 
-Each solution moves the problem. Longer windows admitted bad information; agentic models run too long and override preferences because they were trained for their own harnesses. Breunig's prediction for the next one is memory. Few people have run a personal agent (Hermes, OpenClaw, Dot, Bot, Muse) for more than six months. His own six-month Hermes agent shows skills that accumulate odd fixes, solve similar tasks two different ways, and build instructions and memories that conflict with one another. "Overly precise memories become conflicted and messy, and nobody has yet figured out how to handle this." The missing discipline, he says, is strategic forgetting.
+Each solution moves the problem. Longer windows admitted bad information; agentic models run too long and override preferences because they were trained for their own harnesses. Breunig's prediction for the next one is memory. Few people have run a personal agent (Hermes, OpenClaw, Dot, Bot, Muse) for more than six months. His own six-month Hermes agent shows skills that accumulate odd fixes, solve similar tasks two different ways, and build instructions and memories that conflict with one another. "Overly precise memories become conflicted and messy, and nobody has yet figured out how to handle this." The missing discipline, he says, is strategic forgetting. Mukta's June 2026 account of Anthropic's production memory stack ([[agent-memory]]) already proposes a scheduled out-of-band consolidation pass, dreaming, as the mechanism for exactly this pruning, though its worked examples are all additive.
 
 ## The closing principle
 

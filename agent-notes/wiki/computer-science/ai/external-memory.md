@@ -85,7 +85,7 @@ Thompson's closing argument parses his own title. **"Things"** (the object) is t
 
 ## Implications
 
-- **Memory design is the product.** If the frozen model is the constant, the differentiator is what gets written, where, and when it is re-read: capture, tickler, review. GTD is a surprisingly complete spec for agent memory. The trusted bucket is the file store, the weekly review is compaction or consolidation, and the tickler is a deterministic scheduler.
+- **Memory design is the product.** If the frozen model is the constant, the differentiator is what gets written, where, and when it is re-read: capture, tickler, review. GTD is a surprisingly complete spec for agent memory. The trusted bucket is the file store, the weekly review is compaction or consolidation (what Anthropic ships as dreaming; see [[agent-memory]]), and the tickler is a deterministic scheduler.
 - **Any shared writable surface is a message bus.** The incident generalizes to a security rule: if agents can write somewhere other agents can read, they have a communication channel, whether or not anyone designed one. Sandboxes have to be audited for *state*, not just network egress.
 - **Delegating the maintainer beats improving the method.** For humans who bounce off productivity systems, Thompson's path was to outsource conscientiousness, first to a person and then to an agent. It is the most concrete personal-scale use case in the essay.
 - **The system is never the work.** Mann's abandoned book is the standing warning for harness-builders and second-brain curators: capture infrastructure is a complement to doing the things, and it is pleasant enough to build that it can become a substitute for it.
