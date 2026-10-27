@@ -23,7 +23,7 @@ author: "Joshua McFadden"
 - [ ] Watercress Butter
 - [ ] Brown Butter
 - [ ] Pistachio Butter
-- [ ] Whipped Ricotta
+- [x] Whipped Ricotta
 
 ## Sauces, Drips and Dressings
 
@@ -37,7 +37,7 @@ author: "Joshua McFadden"
 - [ ] Pickled Vegetable Mayonnaise
 - [ ] Spicy Fish-Sauce Sauce
 - [ ] Classic Salsa Verde
-- [ ] Spiced Green Sauce
+- [x] Spiced Green Sauce
 - [ ] Tonnato
 
 ## Bread, Pastries and Grains
@@ -179,13 +179,13 @@ author: "Joshua McFadden"
 ## Fall
 
 - [ ] Roasted Beet, Citrus, and Olive Salad with Horseradish
-- [ ] Roasted and Smashed Beets with Spiced Green Sauce
+- [x] Roasted and Smashed Beets with Spiced Green Sauce
 - [ ] Roasted Beets and Carrots with Couscous, Sunflower Seeds, Citrus, and Feta
 - [ ] Raw Brussels Sprouts with Lemon, Anchovy, Walnuts, and Pecorino
 - [ ] Brussels Sprouts with Pickled Carrots, Walnuts, Cilantro, and Citrus Vinaigrette
 - [ ] Gratin of Brussels Sprouts, Gruyère, and Prosciutto
 - [x] Roasted Brussels Sprouts with Pancetta Vinaigrette
-- [ ] Farro and Roasted Carrot Salad with Apricots, Pistachios, and Whipped Ricotta
+- [x] Farro and Roasted Carrot Salad with Apricots, Pistachios, and Whipped Ricotta
 - [ ] Grated Carrot Salad with Grilled Scallions, Walnuts, and Burrata
 - [ ] Burnt Carrots with Honey, Black Pepper, Butter, and Almonds
 - [ ] Carrot Pie in a Pecan Crust
