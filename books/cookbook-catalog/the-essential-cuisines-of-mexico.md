@@ -207,7 +207,7 @@ author: "Diana Kennedy"
 - [ ] Rajas de Chile Poblano • Chile Poblano Strips
 - [ ] Chile con Queso • Chiles with Cheese
 - [ ] Chiles en Nogada • Stuffed (Poblano) Chiles in Walnut Sauce
-- [ ] Esquites • Corn Cooked with Epazote
+- [x] Esquites • Corn Cooked with Epazote
 - [ ] Elote con Crema • Corn with Cream, Chiles, and Cheese
 - [ ] Torta de Elote • Fresh Corn Torte
 - [ ] Cuitlacoche con Calabacitas Estilo Querétaro • Corn Fungus with Zucchini
