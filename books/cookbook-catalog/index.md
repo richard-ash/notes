@@ -6,6 +6,7 @@
 - [[books/cookbook-catalog/french-regional-cooking|French Regional Cooking]]
 - [[books/cookbook-catalog/good-things|Good Things: Recipes and Rituals to Share with People You Love]]
 - [[books/cookbook-catalog/grains-for-every-season|Grains for Every Season: Rethinking Our Way with Grains]]
+- [[books/cookbook-catalog/how-i-cook|How I Cook: A Chef's Guide to Really Good Home Cooking]]
 - [[books/cookbook-catalog/mastering-the-art-of-french-cooking/volume-1|Mastering the Art of French Cooking: Volume 1, A Cookbook]]
 - [[books/cookbook-catalog/mother-grains|Mother Grains: Recipes for the Grain Revolution]]
 - [[books/cookbook-catalog/plenty|Plenty: Vibrant Vegetable Recipes from London's Ottolenghi]]
