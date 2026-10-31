@@ -95,7 +95,7 @@ author: "Ben Lippett"
 - [ ] Baked Cod with Chorizo & Peas
 - [ ] Crispy Roast Potato & Artichoke Bravas
 - [ ] Smoked Aubergine & 'Nduja Lasagne
-- [ ] Dry-brined Chicken Legs with Sweet & Sour Peppers
+- [x] Dry-brined Chicken Legs with Sweet & Sour Peppers
 - [ ] Smoky Roasted Pumpkin & Fish Curry
 - [ ] Lamb Meatballs with Tomato, Yoghurt & Spiced Butter
 - [ ] Potatoes & Squash Baked in Cream
