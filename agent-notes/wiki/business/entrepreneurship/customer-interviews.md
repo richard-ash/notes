@@ -2,6 +2,7 @@
 source: agent
 compiled_from:
   - agent-notes/raw/business/entrepreneurship/2026-11-04-how-to-talk-to-users.md
+  - agent-notes/raw/business/entrepreneurship/2026-11-04-collect-stories-not-generalizations.md
 compiled_at: 2026-11-04
 model: claude-fable-5-1
 confidence: medium
@@ -9,7 +10,7 @@ confidence: medium
 
 # Customer Interviews
 
-**Customer interviews** — YC's phrase is "talking to users" — are the founder-run conversations that turn a hunch about a problem into hard facts about how specific people actually experience it. Eric Migicovsky (Pebble founder, YC partner) gave the canonical Startup School treatment in 2019, and is explicit that most of it is a synthesis of Rob Fitzpatrick's *The Mom Test* (2013). His framing: YC's teaching reduces to two activities, write code and talk to users, and the second is the one founders systematically outsource or do badly. The lecture supplies three things: the errors to avoid, five questions that work at any stage, and a different *purpose* for interviewing at each of the three pre-product-market-fit stages (idea, prototype, launched).
+**Customer interviews** — YC's phrase is "talking to users" — are the founder-run conversations that turn a hunch about a problem into hard facts about how specific people actually experience it. Eric Migicovsky (Pebble founder, YC partner) gave the canonical Startup School treatment in 2019, and is explicit that most of it is a synthesis of Rob Fitzpatrick's *The Mom Test* (2013). His framing: YC's teaching reduces to two activities, write code and talk to users, and the second is the one founders systematically outsource or do badly. The lecture supplies three things: the errors to avoid, five questions that work at any stage, and a different *purpose* for interviewing at each of the three pre-product-market-fit stages (idea, prototype, launched). Allen Pike's 2023 essay on **story orientation** tightens the second error: a problem-side question that asks people to generalize about themselves fails almost as badly as a hypothetical, and the repair is to ask for one recent episode.
 
 ## Founders do this themselves
 
@@ -36,6 +37,37 @@ Migicovsky ties each question to what it extracts, illustrated throughout with a
 | **What don't you love about the solutions you've tried?** | The beginning of your feature set, derived from specific complaints about existing tools. Explicitly *not* "what features would you want" — users are poor at naming the next feature (Ford's faster horse) and excellent at describing what annoys them today. |
 
 The sequence has a shape: question 1 validates the pain, 2 and 3 pin it to real episodes and real language, 4 tests intensity and maps competitors, 5 turns complaints into a roadmap. Question 3's output is what [[early-stage-startup-execution]] calls "the language prospects use becomes your landing page copy," and what [[consultative-selling]] and [[cold-outbound]] describe as quoting the buyer's words back to them.
+
+## Stories, not generalizations
+
+Allen Pike (2023) argues that moving from solution questions to problem-space questions is necessary but not sufficient. "How often do you struggle with X?", "What do you take into account when choosing Y?" and "Why don't you use approach Z?" pitch nothing and imagine no future, and by his account they still tend to produce untrue answers. Each one asks the interviewee to summarize their own behavior. His fix, taken from Teresa Torres's *Continuous Discovery Habits* (2021), is **story orientation**: ask for one recent, specific episode instead.
+
+Torres's example, which Pike quotes in full, is a workshop attendee asked what she considers when buying jeans. "Fit is my number-one factor." Asked about the last pair she bought: on Amazon, with no way of knowing whether they would fit, because "they were a brand I liked, and they were on sale." The first answer is how she thinks she buys jeans. The second is how she bought them, and it names brand, convenience and price.
+
+Pike gives the mechanism in two parts:
+
+- **Compounding.** A story still carries memory errors. A generalization compounds them, because the person has to take every error-prone memory of X and compress the lot into one lossy summary.
+- **Self-image.** The summary passes through the question *am I the kind of person who should struggle with X?* People "feel much more self-aware than they are." Nobody is lying, and neither side notices, which is why a friendly and cooperative interview offers no protection.
+
+His own case was a round of interviews with leaders about time and attention. "How often do you spend time on things that are urgent but not important?" returned accounts of disciplined focus and almost no pain points, since competent leaders see themselves as people who work on what matters. He rewrote the questions, and the three rewrites show three distinct patterns (the labels are this article's reading, not Pike's):
+
+| Reworked question | Pattern |
+|---|---|
+| "Can you tell me about a time recently when you dropped a ball?" | Ask for the episode directly, and name the failure so the interviewee does not have to volunteer it. |
+| "You described planning every week the Friday before. Tell me about how you planned out this week, and how that went." | Take a habit they have just claimed and ask for this week's instance of it. |
+| "About how many Slack notifications did you defer from yesterday to today?" | Replace "how often" with a count over a short, fixed, recent window. |
+
+Interviewees who had just explained how rigorously they manage their time would "backpedal and rethink their answers" once asked for specifics.
+
+Pike points out that hiring made the same move when "How do you approach conflict in the workplace?" gave way to "Tell me about a time you had conflict in the workplace," and that journalism and social science rely on it for the same reason. Within this wiki, the two questions in [[hiring-for-curiosity]] test "behavior, not stated values," and [[founder-evaluation]] records Rabois's view that grit shows up in anecdotes the founder does not know are revealing. The self-image filter is what [[psychology-of-human-misjudgment]] lists as Excessive Self-Regard. Pike cites no research beyond Wikipedia's entries on false memory and confabulation; the standard reference is Nisbett and Wilson's "Telling More Than We Can Know" (1977), which found that people explaining their own behavior often report a plausible theory rather than anything they observed in themselves.
+
+What this changes in the rest of this article:
+
+- **The five questions are not equally trustworthy.** Question 1 ("what is the hardest part?") is a generalization by Pike's standard; question 2 ("tell me about the last time") is the story. Treat the first answer as the interviewee's theory of their own problem and the second as the evidence. When they disagree, as with the jeans, the episode wins.
+- **The prototype-stage numbers need the same repair.** "How frequently do you hit this?" and "what does it cost you?" invite summaries. Pike's Slack question is the template: how many times last week, and what did the most recent one cost.
+- **Fitzpatrick already had the category.** *The Mom Test* files generic claims ("I usually," "I always," "I never") under fluff, next to future-tense promises and hypothetical maybes. Migicovsky's lecture compresses that into one line about discarding fluff at the launched stage. Pike's contribution is to make it the organizing rule for every stage and to say why it happens.
+- **The gap between the two answers is data.** Pike's caveat is that the self-deception still matters for marketing: a problem people do not know they have is harder to sell a fix for. The generalization is the self-image the copy has to speak to; the story is the behavior the product has to serve. A jeans retailer would advertise fit and compete on brand and price.
+- **One story is one data point.** A recent episode can be unrepresentative, and Pike concedes stories carry their own memory errors. Story orientation does not remove the need to generalize; it moves the generalizing from the interviewee, who does it badly about themselves, to the interviewer, who does it across many episodes and many people. Pike's closing test is the practical check: reread the notes and count how many lines are stories.
 
 ## Idea stage: find the first people with the problem
 
@@ -82,3 +114,4 @@ The lecture is a compression of *The Mom Test* with YC war stories layered on, a
 
 ## Sources
 - Migicovsky, Eric (2019). "How to Talk to Users." Y Combinator Startup School. <https://www.youtube.com/watch?v=MT4Ig2uqjTc> — [[2026-11-04-how-to-talk-to-users|local copy]]
+- Pike, Allen (2023). "Collect Stories, Not Generalizations." <https://allenpike.com/2023/stories-generalizations-product-interviewing/> — [[2026-11-04-collect-stories-not-generalizations|local copy]]
