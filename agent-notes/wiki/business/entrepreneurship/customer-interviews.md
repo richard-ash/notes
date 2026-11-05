@@ -4,14 +4,15 @@ compiled_from:
   - agent-notes/raw/business/entrepreneurship/2026-11-04-how-to-talk-to-users.md
   - agent-notes/raw/business/entrepreneurship/2026-11-04-collect-stories-not-generalizations.md
   - agent-notes/raw/business/entrepreneurship/2026-11-04-how-to-talk-to-users-alstromer.md
-compiled_at: 2026-11-04
+  - agent-notes/raw/business/entrepreneurship/2026-11-05-best-customer-interview-questions.md
+compiled_at: 2026-11-05
 model: claude-fable-5-1
 confidence: medium
 ---
 
 # Customer Interviews
 
-**Customer interviews** — YC's phrase is "talking to users" — are the founder-run conversations that turn a hunch about a problem into hard facts about how specific people actually experience it. Eric Migicovsky (Pebble founder, YC partner) gave the canonical Startup School treatment in 2019, and is explicit that most of it is a synthesis of Rob Fitzpatrick's *The Mom Test* (2013). His framing: YC's teaching reduces to two activities, write code and talk to users, and the second is the one founders systematically outsource or do badly. The lecture supplies three things: the errors to avoid, five questions that work at any stage, and a different *purpose* for interviewing at each of the three pre-product-market-fit stages (idea, prototype, launched). Allen Pike's 2023 essay on **story orientation** tightens the second error: a problem-side question that asks people to generalize about themselves fails almost as badly as a hypothetical, and the repair is to ask for one recent episode. Gustaf Alströmer (YC group partner, earlier a product lead at Airbnb) re-recorded the Startup School talk under the same title in 2022. It has less of the theory and more of the two ends Migicovsky leaves thin: how to get the conversation in the first place, and what to do with the notes once there are five or ten sets of them.
+**Customer interviews** — YC's phrase is "talking to users" — are the founder-run conversations that turn a hunch about a problem into hard facts about how specific people actually experience it. Eric Migicovsky (Pebble founder, YC partner) gave the canonical Startup School treatment in 2019, and is explicit that most of it is a synthesis of Rob Fitzpatrick's *The Mom Test* (2013). His framing: YC's teaching reduces to two activities, write code and talk to users, and the second is the one founders systematically outsource or do badly. The lecture supplies three things: the errors to avoid, five questions that work at any stage, and a different *purpose* for interviewing at each of the three pre-product-market-fit stages (idea, prototype, launched). Allen Pike's 2023 essay on **story orientation** tightens the second error: a problem-side question that asks people to generalize about themselves fails almost as badly as a hypothetical, and the repair is to ask for one recent episode. Gustaf Alströmer (YC group partner, earlier a product lead at Airbnb) re-recorded the Startup School talk under the same title in 2022. It has less of the theory and more of the two ends Migicovsky leaves thin: how to get the conversation in the first place, and what to do with the notes once there are five or ten sets of them. Teresa Torres, whose book Pike draws on, adds the planning step in a 2022 Product Talk post: keep the list of things you want to learn to yourself, and ask for the one story that answers them.
 
 ## Founders do this themselves
 
@@ -89,7 +90,7 @@ Migicovsky's question 5 and the faster horse say not to *ask* for features. Alst
 
 ## Stories, not generalizations
 
-Allen Pike (2023) argues that moving from solution questions to problem-space questions is necessary but not sufficient. "How often do you struggle with X?", "What do you take into account when choosing Y?" and "Why don't you use approach Z?" pitch nothing and imagine no future, and by his account they still tend to produce untrue answers. Each one asks the interviewee to summarize their own behavior. His fix, taken from Teresa Torres's *Continuous Discovery Habits* (2021), is **story orientation**: ask for one recent, specific episode instead.
+Allen Pike (2023) argues that moving from solution questions to problem-space questions is necessary but not sufficient. "How often do you struggle with X?", "What do you take into account when choosing Y?" and "Why don't you use approach Z?" pitch nothing and imagine no future, and by his account they still tend to produce untrue answers. Each one asks the interviewee to summarize their own behavior. His fix, taken from Teresa Torres's *Continuous Discovery Habits* (2021), is **story orientation**: ask for one recent, specific episode instead. Torres's own account of how to choose that episode is the next section.
 
 Torres's example, which Pike quotes in full, is a workshop attendee asked what she considers when buying jeans. "Fit is my number-one factor." Asked about the last pair she bought: on Amazon, with no way of knowing whether they would fit, because "they were a brand I liked, and they were on sale." The first answer is how she thinks she buys jeans. The second is how she bought them, and it names brand, convenience and price.
 
@@ -120,6 +121,39 @@ What this changes in the rest of this article:
 - **The gap between the two answers is data.** Pike's caveat is that the self-deception still matters for marketing: a problem people do not know they have is harder to sell a fix for. The generalization is the self-image the copy has to speak to; the story is the behavior the product has to serve. A jeans retailer would advertise fit and compete on brand and price.
 - **One story is one data point.** A recent episode can be unrepresentative, and Pike concedes stories carry their own memory errors. Story orientation does not remove the need to generalize; it moves the generalizing from the interviewee, who does it badly about themselves, to the interviewer, who does it across many episodes and many people. Pike's closing test is the practical check: reread the notes and count how many lines are stories.
 
+## Research questions are not interview questions
+
+Torres's "Ask Teresa" post (Product Talk, 2022) is her own short version of the method Pike borrowed, and it supplies the step his essay assumes: how to get from what you want to know to what you say. She says teams conflate two lists.
+
+- **Research questions** are what you are trying to learn. Her Netflix example: what do you like to watch, where, with whom, on what device.
+- **Interview questions** are what you ask in the room to learn it.
+
+Put a research question to a customer and they will answer it. Her objection is that a direct question out of context draws a fast response that "feels true, but often it's not," and that nobody is trying to deceive. Pike's two mechanisms in the previous section are a fuller account of the same failure. Torres leaves the science to a separate post ("Why You Are Asking the Wrong Customer Interview Questions"), which is not ingested here.
+
+Her method is to look across the research questions and ask, "What's a specific story I can collect that will get me answers to those questions?" The interview is then spent collecting that story, and the interviewer listens for the answers inside it. For Netflix the prompt is "Tell me about the last time you watched Netflix." One story covers what, where, with whom and on which device, and none of the four is asked.
+
+**The outcome sets the scope.** The prompt widens or narrows with what the team is responsible for:
+
+| The team's outcome | Opening prompt |
+|---|---|
+| Find new market opportunities | "Tell me about the last time you did something fun." |
+| Netflix viewing in general (her default) | "Tell me about the last time you watched Netflix." |
+| Mobile | "Tell me about the last time you watched Netflix on the go." |
+
+Her two cautions: the Netflix prompt is too narrow for a team looking for brand-new products, and too wide for the mobile team, who would hear "a whole bunch of stories about watching Netflix on a TV."
+
+**The target opportunity sets the depth.** Once the team picks an opportunity to work on, the prompt stays the same and the attention moves. For "I can't tell if this show is any good," she would spend longer on the part of the story where the person chose what to watch and less on the watching. She still asks for the whole story, so that the team keeps learning about the rest of the opportunity space.
+
+**The golden rule.** "Let the participant talk about what they care about most." Some participants have no relevant story, want to tell a different part of it, answer in one sentence, or want to list feature requests and gripes about the product. Her instruction is to capture what they are willing to share and not force the rest. Her reason is cadence: a team that interviews every week will talk to another customer soon, so "a disappointing interview is easily forgotten."
+
+How this fits the rest of the article (this article's reading, not Torres's):
+
+- **Alströmer's learning goals are research questions, and his demo asks one.** He writes down "does the company care about its emissions" before the call, then opens it with "Do you care about your carbon emissions?" That is the conflation Torres describes, and it explains why the opening only worked because Amy volunteered more than a yes. Torres's version would open on an episode, something like "tell me about the last time emissions came up at your company," and listen for the three goals (do they care, why, who cares most) in what follows.
+- **Migicovsky's five reorder around question 2.** "Tell me about the last time" opens the interview. The other four become things to listen for in the episode, or follow-ups on it ("why was that hard?", "what did you do about it?"), and stop being questions asked cold.
+- **The scope dial is how a product-team method reaches a founder.** Torres writes for teams that have a product and a pool of customers to recruit from every week. A founder at the idea stage has neither, which puts them in her widest case, the team looking for new markets. The prompt should be set wider than the idea: about the job the person does, not the product that might help with it. Alströmer's "idea space" is the same width. The narrower prompts belong to the prototype and launched stages, when there is a product whose use can be asked about.
+- **The golden rule sits against "discard bad data."** Migicovsky says to steer fluff back to specific episodes. Torres says to try, then let go. Feature requests are where the two meet: Alströmer's "why do you need that?" is the steering attempt, and Torres's rule covers the interviewee who will not be steered.
+- **Her reason for letting go depends on volume.** At one interview a week for a year, a wasted one is 2% of the evidence. At the five or ten interviews Alströmer buckets into a hypothesis, it is 10–20%. Her argument still points the same way for the founder: book the next interview, do not push harder in this one.
+
 ## Idea stage: find the first people with the problem
 
 Before any product exists the aim is simply to find people who have the problem and will describe it.
@@ -133,7 +167,7 @@ Tips for the stage: take detailed notes (you will not know until later which fac
 
 Alströmer adds the steps that come before the first question:
 
-- **Write down what you want to learn.** For the carbon startup: does the company care about its emissions; why, or why not; and who inside it cares most, and why. The third locates the buyer. It is the idea-stage form of the authority question in the prototype stage below.
+- **Write down what you want to learn.** For the carbon startup: does the company care about its emissions; why, or why not; and who inside it cares most, and why. The third locates the buyer. It is the idea-stage form of the authority question in the prototype stage below. In Torres's terms all three are research questions: kept on the page, and listened for instead of asked.
 - **Who to ask, easiest first.** People you know are the most likely to reply and the most likely to soften their answers. Coworkers and former coworkers often know the domain. Past both circles, the channels YC founders named to him most often were LinkedIn, Reddit, Slack and Discord communities, and in-person events. For the mock startup he looks on LinkedIn for founders, CEOs and CFOs, and for titles containing carbon, climate or sustainability.
 - **The message.** To a CFO he once worked with: who I am, what we share, that I am starting something new, described briefly "but not too much in detail," and one ask, a 20-minute phone or video call. The cold version has the same parts in a different tone. The small, specific ask is the call to action [[cold-outbound]] recommends for sales email. The message names the area and holds back the solution, which keeps it consistent with error 1. In the demo he says only that he has "a couple questions" about an area he is interested in.
 - **Talk live, and build rapport.** Video, phone or in person: "you can learn a lot more from a five minute video interview" than from 500 or 5,000 survey responses. The interviewee is about to answer questions "maybe no one" has asked them before, so they need to trust the person asking.
@@ -212,6 +246,7 @@ Migicovsky's lecture is a compression of *The Mom Test* with YC war stories laye
 - **Strength: it is entirely problem-side.** Every question asks about the past and about pain; none pitches. That discipline is what makes the output usable as evidence rather than encouragement, and it is why the five questions survive contact with any industry.
 - **Gap: commitment.** Fitzpatrick's book spends a chapter on asking for *commitment and advancement* (time, reputation, money) as the antidote to compliments. The talk reaches for this only at the launched stage with the credit-card test; at the idea and prototype stages it leaves "would they pay?" implicit in the cost and budget numbers. [[startup-ideation-framework]] fills the hole bluntly with its ten-paying-customers test, and [[design-partners]] deliberately excludes willingness-to-pay from selection and reintroduces it at conversion — a sequencing Migicovsky's three-stage model would agree with but does not state. Alströmer never asks for money either. He offers two substitutes: look at what the interviewee already pays someone else, and keep them in a group where staying is a small, repeated commitment of time.
 - **The two YC talks cover different halves.** Migicovsky is stronger on what to ask and on what each stage is for. Alströmer is stronger on what happens before the call (learning goals, who, the message) and after it (buckets, the value check, prototype sessions, the group). Taken alone, his question list is the weaker of the two: it leaves out "tell me about the last time" and includes "how often," whose cost the story-orientation section explains.
+- **Torres's post is the shortest statement of the method, and the narrowest.** One story prompt, scoped to what the team is responsible for, with the question lists kept as a checklist for listening. It assumes customers already exist and can be reached weekly. Recruiting and synthesis are left to other posts its intro links to, and commitment is not mentioned. For those, the two YC talks here are the fuller sources.
 - **Caveat on question 4.** "Nobody is already trying to solve it" is a strong filter against problems people do not feel, and usually correct. It can also screen out categories users have resigned themselves to; the honest reading of the Dropbox example is that the people hacking rsync were the signal of latent demand, not the market. Treat an empty answer as a flag to probe harder on frequency and cost, not as an automatic kill.
 - **The frequency point does double duty.** Migicovsky's second reason to prefer frequent problems — more learning cycles — is underappreciated relative to the first. It is an argument about the founder's *information* rate, not the customer's pain, and it connects to the search-not-execution framing in [[minimum-viable-product]] and [[commit-and-go-deep]]: a daily-use product tells you every day whether you are wrong.
 - **Pebble is the cautionary footnote to its own example.** It passed the frequency test (worn daily), shipped roughly two million watches, and still ran out of cash in 2016 and sold its assets to Fitbit. Interviewing well tells you the problem is real and who to build for first; it does not protect the business model.
@@ -220,3 +255,4 @@ Migicovsky's lecture is a compression of *The Mom Test* with YC war stories laye
 - Migicovsky, Eric (2019). "How to Talk to Users." Y Combinator Startup School. <https://www.youtube.com/watch?v=MT4Ig2uqjTc> — [[2026-11-04-how-to-talk-to-users|local copy]]
 - Pike, Allen (2023). "Collect Stories, Not Generalizations." <https://allenpike.com/2023/stories-generalizations-product-interviewing/> — [[2026-11-04-collect-stories-not-generalizations|local copy]]
 - Alströmer, Gustaf (2022). "How To Talk To Users." Y Combinator Startup School. <https://www.youtube.com/watch?v=z1iF1c8w5Lg> — [[2026-11-04-how-to-talk-to-users-alstromer|local copy]]
+- Torres, Teresa (2022). "Ask Teresa: What Are the Best Customer Interview Questions?" Product Talk. <https://www.producttalk.org/best-customer-interview-questions/> — [[2026-11-05-best-customer-interview-questions|local copy]]
