@@ -20,7 +20,9 @@ practitioner heuristics drawn from that experience; she cites no data.
 
 The unifying idea is that early outbound is a **learning instrument before it
 is a revenue channel**. Every tip either makes the experiment interpretable or
-feeds what it teaches back into the next message.
+feeds what it teaches back into the next message. [[founder-led-sales]] covers
+the rest of the founder's funnel (demo, pricing, close, onboarding) and how
+much volume it takes to judge the channel.
 
 ## Manual before automated
 
