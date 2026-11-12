@@ -22,6 +22,7 @@
 - [Bai Qie Rou · Boiled Pork (White Cut Pork)](https://www.chinasichuanfood.com/boiled-pork-white-cut-pork/) #protein/pork #course/main
 - [Mala Wuhuarou · Mala Pork Belly](https://www.chinasichuanfood.com/spicy-pork-belly-stir-fry-mala-pork-belly/) #protein/pork #course/main
 - [Mapo Doufu · Mapo Tofu](https://www.chinasichuanfood.com/mapo-tofu-recipe/) #protein/beef #course/main
+- [Simmered Mushroom with Pork Belly](https://www.chinasichuanfood.com/simmered-mushroom-with-pork-belly/) #protein/pork #course/side
 
 ### Taiwanese
 - [Si Shen Tang · Four Herbs Soup](https://thewoksoflife.com/four-herbs-soup-si-shen-tang/) #protein/pork #course/soup
