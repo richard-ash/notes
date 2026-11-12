@@ -120,7 +120,7 @@ author: "Joshua McFadden"
 - [ ] Pasta Fagiole Number Two: The Creamy Bean Version
 - [ ] Pasta Fagiole Number Three: The New Classic
 - [ ] Brussels Sprouts with Sun-Dried Tomato and Almond Pesto
-- [ ] Chard with Sausage and Whipped Ricotta
+- [x] Chard with Sausage and Whipped Ricotta
 - [ ] Chard with Anchovies, Olives, and Tomato
 - [ ] Kale and Chicken "Piccata"
 - [ ] Kale with Spicy Sausage, Cream, and Lemon
