@@ -57,6 +57,7 @@
 - ### [Salatet Malfouf](https://en.wikipedia.org/wiki/Malfouf_salad)
 	- ###### Recipes
 		- [Sunday Kitchen | Salatet Malfouf](https://www.instagram.com/reel/DHnP1LtzgSQ/?epik=dj0yJnU9SENyeC1EUk1UVER3R2kzQTBCRllKeHQtNnMzNWtiWC0mcD0wJm49MXVtazVuaGtYQnVTMm8wbldaRl9SZyZ0PUFBQUFBR2hMYVlR)
+		- [[salatet-malfouf|Sunday Kitchen · Salatet Malfouf]]
 - ### Samke Harra
 	- ###### Recipes
 		- [Maureen Abood | Lebanese Spicy Fish with Tahini and Pine Nuts](https://maureenabood.com/lebanese-spicy-fish-with-tahini-and-pine-nuts/)
