@@ -28,9 +28,12 @@
 - [Si Shen Tang · Four Herbs Soup](https://thewoksoflife.com/four-herbs-soup-si-shen-tang/) #protein/pork #course/soup
 
 ## French
+- [Beer-Braised Spiced Pork Shanks](https://www.pardonyourfrench.com/beer-braised-spiced-pork-shanks/) #protein/pork #course/main
 - [Beurre Blanc · White Butter Sauce](https://www.recipetineats.com/beurre-blanc-sauce-recipe/) #course/sauce
 - [Coquillettes au Jambon · French Macaroni and Cheese with Ham](https://www.recipetineats.com/coquillettes-au-jambon-french-macaroni-and-cheese-with-ham/) #protein/pork #course/main
 - [Navarin d'Agneau · Lamb Navarin (French Lamb Stew)](https://www.recipetineats.com/lamb-navarin-recipe/) #protein/lamb #course/main
+- [Petits Pois à la Française · French Peas with Ham and Lettuce](https://www.pardonyourfrench.com/classic-french-peas/) #protein/pork #course/side
+- [Potage Saint-Germain · Split Pea Bacon Soup](https://www.pardonyourfrench.com/split-pea-bacon-soup-potage-saint-germain/) #protein/pork #course/soup
 
 ## Italy
 - [Polpette e Sugo · Meatballs & Weekday Sauce](https://www.youtube.com/watch?v=vz2YCDnRXjY) #protein/beef #course/main
