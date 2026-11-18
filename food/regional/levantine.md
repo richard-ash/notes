@@ -3,6 +3,9 @@
 	- ###### Recipes
 		- [sundaykitchen | Baba Ghanouj (Eggplant Dip)](https://clove.kitchen/recipes/baba-ghanouj-eggplant-dip-RCA_22jpC0Q)
 		- [Maureen Abood | Baba Ganoush](https://maureenabood.com/baba-gannouj-recipe/)
+- ### Djej bi Dibs Rumman
+	- ###### Recipes
+		- [[djej-bi-dibs-rumman|Sunday Kitchen · Pomegranate Molasses Chicken]]
 - ### [Fatayer](https://en.wikipedia.org/wiki/Fatayer)
 	- ###### Recipes
 		- [Simply Lebanese | Spinach Fatayer](https://www.simplyleb.com/recipe/spinach-fatayer/)
